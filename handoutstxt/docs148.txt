@@ -1,0 +1,186 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+
+INSTRUCTION DIVISION
+
+FIRST SEMESTER 2016-2017
+
+Course Handout Part II
+
+Date:01/08/2016
+
+In addition to part -I (General Handout for all courses appended to the time table) this portion gives
+
+further specific details regarding the course.
+
+Course No. : ME F312
+
+Course Title : Advanced Mechanics of Solids
+
+Instructor-in-charge : Dr.G.R.Sabareesh
+
+Instructor
+
+: Dr.G.R.Sabareesh, Mr.KarthikTeja
+
+Bulletin wise contents: Generalized Hooke's law; Energy methods; Torsionof non-circular
+
+members; Shear center and Asymmetrical bending; Curved beams; Thick cylinders; Plates and
+
+shells; Contact stress.
+
+1. Scope and Objective of the Course:
+
+The course deals with analysis of some advanced topics in Mechanics of Solids, beyond what
+
+is covered in the basic course of Mechanics of SolidsME F 211.
+
+2. Course Description:
+
+The course work starts with Generalized Hooke's law and Three Dimensional Stress Strain
+
+Relations. Then a detailed discussion of energy methods for solving indeterminate problems is
+
+included. Theory related to non-circular members subjected to torsion is treated. Theories of
+
+Asymmetrical Bending, Shear Centre, Curved Beams and Thick Cylinders are dealt with in
+
+later chapters. A chapter with a brief study on Contact Stressis also included.
+
+3. Text books:
+
+T1: "Advanced Mechanics of Materials" - Arthur P., Boresi and R.J. Schmidt, John Wiley, 6th Edition, 2003.
+
+Reference books: R1: "Advanced Mechanics& Solids" - L.S. Srinath, Tata McGraw-Hill Publishing Co. 2nd Edition, 2003
+
+R2: "Advanced Mechanics of Solids" - Otto T. Bruhns, Springer Verlag, 2003 R3: "Advanced Mechanics of Materials" - R. Davis Cook and Warren C. Young, Prentice Hall 2nd
+
+Edition, 1998.
+
+4. Course Plan
+
+Lect. No. 1&2
+3 to 6 7 to 10
+
+Learning Objectives
+Review of elementary Mechanics of Materials and methods of analysis, failure analysis & properties of material
+Three dimensional stress strain relations and tensor representation. Generalized Hooke's law. Hook's law for Anisotropic elasticity, Isotropic elasticity and Orthotropic materials Principle of potential energy, Castigliano's theorem, Deflections in statically determinate structures and statically indeterminate structures, applications to curved
+
+Topics to be Coursed
+Introduction & review of elementary mechanics of solids Theories of stress strain & Generalized Hooke's Law Energy methods and applications
+
+Chap/Sec CH1(TB)
+CH2 (TB) & CH3 (TB) CH5 (TB)
+
+Lect. No. Learning Objectives
+
+Topics to be Chap/Sec
+
+Coursed
+
+beam treated as straight beams.
+
+11 to 16 Torsion of Prismatic bar of circular cross section, Non-circular CH6 (TB)
+
+Example problems, Saint-Venant's Seminiverse method, members
+
+Linear Elastic solutions, Torsion of Rectangular cross subjected to
+
+section members, hollow thin wall torsion members, torsion
+
+Numerical solution of torsion problems
+
+17 to 20 Non-symmetrical loading bending and deflection of Asymmetrical CH7 (TB)
+
+straight beams. Deflections in standard channel sections bending
+
+21 to 25 Shear in Thin walled beams, Shear flow in thin-walled Shear Centre CH8 (TB)
+
+beam cross sections,Shear center for channel sections and
+
+Shear center for composite beams.
+
+26 to 32 Location of neutral axis, radial stress, correction of Curved beams CH9 (TB)
+
+circumferential stress and deflections of curved beams.
+
+Curved beams of standard sections: I & T. Analysis of
+
+statically indeterminate curved beams (closed ring).
+
+33 to 38 Stress - Stain - Temperature relation for thick walled Thick walled CH11(TB)
+
+cylinders and composite cylinders. Analysis of open and cylinders
+
+closed cylinders
+
+39 to 42 Geometry of contact surface, methods of computing Contact stress CH17(TB)
+
+contact stress, deflection of bodies in point contact and
+
+line contact with normal load.
+
+5. Evaluation Scheme:
+
+EC Evaluation Component Duratio Weightage Date & time
+
+Nature of
+
+No n (min.) (%)
+
+component
+
+1 Test - 1
+
+60 15
+
+8/9, 8.30-9.30 AM
+
+CB
+
+2 Test - 2
+
+60 15
+
+25/10, 8.30-9.30 AM
+
+CB
+
+3 *Tutorial tests
+
+10 15
+
+Tutorial hour as announced in Timetable(CB)
+
+4 Home Assignments/Term paper
+
+20
+
+OB
+
+5 Comprehensive Exam
+
+180 35
+
+12/12 AN
+
+CB
+
+* Surprise tutorial tests of 10 minutes duration each will be conducted during the tutorials or
+
+regular classes and these will be evaluated for ten marks each.
+
+6. Chamber Consultation Hour: To be announced in the class.
+
+7. Notices:All the notices will be displayed in CMS or Mechanical Engineering notice board only.
+
+Besides this, students are advised to visit regularly CMS (institute's web based course
+
+management system) for latest updates.
+
+8. Make-up policy:Make-up shall be given only to the genuine cases with prior intimation. No makeup is allowed for tutorial surprise tests.
+
+ME F312
+
+Dr.G.R.Sabareesh
+
+

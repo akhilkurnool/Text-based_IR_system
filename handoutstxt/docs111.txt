@@ -1,0 +1,110 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+HYDERABAD CAMPUS
+INSTRUCTION DIVISION, FIRST SEMESTER 2016-2017
+Course Handout (Part II)
+                                       Date: 12/5/2016    
+In addition to partI (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.                  	:   CHE F311
+Course Title                 	:    Kinetics and Reactor Design
+Instructorincharge    	:    Balaji Krishnamurthy
+
+Course Description: 
+Kinetics of homogeneous, heterogeneous reactions; ideal reactors, non-ideal flow; selectivity; analysis and design of chemical reactors.
+
+Scope and Objective of the course:
+This course is an introduction to the chemical reaction kinetics, design and performance of various types of chemical reactors for chemically reacting systems which yield industrially important products. The emphasis in this course will be to understand the fundamentals of kinetics of homogeneous reactions, design and analysis of ideal reactors; and non-ideal flow. 
+Text Book:  
+		 Scott Fogler, H. Scott Elements of Chemical Reaction Engineering, Pearson Edu, 4th Ed, 2006.
+		 Octave Levenspiel, Chemical Reaction Engineering. 3rd Ed
+
+Reference Books:
+		Schmidt Lanny D., The Engineering of Chemical Reactions, Oxford University Press, 2nd Ed., 2005.
+
+Course Plan:
+
+Lec.
+Learning Objectives
+Topics to be covered
+
+L1-L3
+Introduction
+Scope and objectives of the course, methodology, concept of mole balances
+TB -1&2
+L4-L7
+Kinetics of reactions
+Different types of reactors, mole balances
+TB -1&2
+L8-L12
+Batch reactors
+Conversion and reactor sizing
+TB -1&2
+L13-L18
+CSTR and PFR reactors
+Equations governing conversions
+TB -1&2
+L-19-L23
+Multiple reactor systems
+Reactors in series and parallel
+TB -1&2
+L-24-L28
+Multiple reactions
+Reactions of various orders
+TB -1&2
+L29-L35
+Solid catalyzed reactions
+Pore diffusion factors fitting first and second order Catalyst deactivation
+TB -1&2
+L36-L42
+Basics of non-ideal reactor
+
+Non ideal behavior
+
+TB -1&2
+
+
+
+
+Evaluation Schedule:
+Component
+Duration (Minutes)
+Weightage 
+Date & Time
+Remarks
+Test-1
+1hr 
+25%
+
+CB
+Test-2
+1hr
+25%
+
+OB
+Surprise/quiz tests*
+-
+10%
+
+CB
+Comprehensive Exam.
+3hr
+40%
+
+CB/OB
+
+Closed Book Test: No reference material of any kind will be permitted inside the exam hall.
+
+Open Book Exam: Use of any printed / written reference material (books and notebooks) will be permitted inside the exam hall. Loose sheets of paper will not be permitted. Computers/mobile of any kind will not be allowed inside the exam hall. Use of calculators will be allowed in all exams. No exchange of any material will be allowed.
+
+Number and Sequence of lecture may be changed depending on the situation/requirements.
+Quiz/ surprise test will be conduct for 2 times and average of the marks will be taken as final.
+
+Chamber Consultation Hour: To be announced in the class.
+
+Notices: All notices concerning this course will be displayed on the Notice Board of Chemical Engineering or CMS 
+
+Make-up Policy: Make-up for the test (test-1 and test-2) may be granted only with prior permission and valid justification from the Instructor-in-charge. No makeup for the quiz/surprise tests will be granted.
+	
+                                     							 		
+Instructorincharge
+						             				Kinetics and Reactor Design

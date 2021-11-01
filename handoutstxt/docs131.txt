@@ -1,0 +1,110 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANIPRIVATE 
+HYDERABAD CAMPUS
+FIRST SEMESTER 2016-2017
+Course Handout (Part  II)
+                                           Date: 30/04/2016
+In addition to partI (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+Course No.		:  CHEM F326
+Course Title		:  Solid State Chemistry
+Instructor in Charge    :  Sounak Roy
+                                  
+1. Scope and Objective of the Course: This course emphasis the concepts in solid state chemistry through the comprehensive survey of different synthetic techniques, their characterization, and their properties. Focus will be given on the structure-property relationship of materials. Introduction to nanomaterials with recent advances in material science and technology is also provided.  
+
+2. Text Book: 
+(A) Solid State Chemistry and its Applications, Anthony R. West, Wiley-India Edition 2007. 
+
+3. Reference Books:
+(A) Nanomaterials Chemistry  Recent Developments and New Directions, Edited by C.N.R.Rao, A. Mueller, A.K.Cheetham, Wiley-Vch Edition 2007.
+(B) Materials Science and Engineering-an Introduction by William d.callister, jr. Seventh Edition, John Wiley (2007)
+(C) Material Science and Engineering by V. Raghavan, Fifth Edition, Prentice-Hall of India private Limited (2004)
+
+4. Course Plan:
+
+Lecture Number
+Topics to be covered 
+Text
+1 
+ What is Solid State Chemistry?
+
+TB-A Ch 1
+2-5
+ Preparative Methods
+TB-A Ch 2
+6 8
+Characterization of Inorganic Solids  application of physical techniques, Thermal Analysis, X-Ray Diffraction
+
+TB-A Ch 3, 4 & 5
+9-11
+Crystal Structures  Descriptive Crystal Chemistry, Factors influencing the crystal structures
+TB-A Ch 7 & 8
+12-13
+Crystal Defects and Non-Stoichiometry
+TB-A Ch 9
+14-16
+
+
+Solid Solutions
+TB-A Ch 10
+17-18
+
+Ionic Conductivity and Solid Electrolytes
+
+TB-A Ch 13
+20-22
+
+Electronic properties and band Theory: Metals, Semiconductors, Inorganic Solids, Color
+
+TB-A Ch 14
+23-26
+
+Electrical Properties
+TB-A Ch 15
+27-31
+
+
+Magnetic Properties
+
+TB-A Ch 16 
+32-34
+Optical Properties: Luminescence, Lasers
+TB-A Ch 17
+36-42
+Nanomaterials Chemistry: Synthesis, properties and new developments
+RB-A Ch 1-5
+
+5.    Evaluation Scheme:
+
+Component 
+Duration
+Weightage
+Date  Time 
+Remarks
+Test-I 
+1 hour
+20%
+
+Closed book
+Test-II
+1 hour
+20%
+
+Closed book
+Assignment + Presentation 
+-
+20%
+-
+Open Book/Take Home
+Comprehensive Examination
+3 hours
+40%
+
+Closed book
+
+
+6. Chamber Consultation Hours: Will be announced in class and notified in Notice board.
+
+7. Make-up-policy: Make up would be considered only for genuine reasons.
+
+
+							Instructor-in-charge
+                                                                                                      CHEM F326

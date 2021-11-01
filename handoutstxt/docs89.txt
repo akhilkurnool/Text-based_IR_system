@@ -1,0 +1,191 @@
+BITS-Pilani, Hyderabad Campus First Semester 2016-2017
+Course Handout
+Date: 19/07/2016 In addition to Part I (General Handout for all courses appended to the Timetable) this portion gives further specific details regarding the course.
+
+Course Number Course Title Course Coordinator
+
+: EEE G612 : Coding Theory & Practice : Dr. RUNA KUMARI.
+
+325
+
+1. Course Description
+
+Codes for data-compression: instantaneous codes; Kraft inequality; Mcmillan theorem; Huffman codes; codes for error-detection and correction; binary symmetric channel; channel capacity, Shannon's fundamental theorem; linear codes; Macwilliam's identity; Reed-muller codes; cyclic codes; BCH codes; codes for secrecy and security; private-key cryptosystems; affine codes; twisted codes; one-time-pads; public-key cryptosystems based on large primes and discrete logarithms.
+
+2. Scope and Objective of the Course: The course covers source coding, channel coding & encryption. The former deals with error correction in noisy channel, and the latter deals with secrecy of communication. Channel coding, which constitutes the major portion of the course, will introduce a number of important classes of error-detecting and error-correcting codes and their decoding. Finally the course will give an introduction to encryption & decryption of data for secret communications.
+
+3. Text Books: Information theory, Coding and Cryptography, Ranjan Bose, Tata McGraw Hill, 2nd ed, 2003.
+
+4. Reference Books: 1. Element of Information Theory, Thomas M Cover, John Wiley & Sons, 2004
+
+5. Course Plan / Schedule:
+
+Sl. Learning objectives #
+1. Introduction
+2. To introduce the concept of Uncertainty, Entropy
+3. To introduce the concepts of coding and decoding
+4. To introduce Universal Source coding
+
+Topics to be covered
+Introduction to the course & Coding Data compression, Entropy
+
+Chapter No.
+
+No. of lectur
+es 1
+
+TB:Ch. 1 Ref:Ch.2
+
+3
+
+Unique and instantaneous codes, Kraft's inequality Huffman, Shannon-Fano-Elias, Arithmetic, L-z, Run Length Coding
+
+TB:Ch. 1 Ref:Ch.5 TB:Ch.1
+
+3 4
+
+5. To introduce optimal codes
+
+Rate distortion theorem, Optimal code length
+
+6. To introduce the concept of Channel models, channel
+
+channel capacity and coding capacity, Shannon limit
+
+7. To introduce the concept of Linear block codes, generator &
+
+error correcting codes
+
+parity check matrix
+
+8. To introduce the concept of Syndrome decoding of linear
+
+syndrome and decoding
+
+codes
+
+through syndrome
+
+9. To study cyclic codes, their
+
+Cyclic codes
+
+encoding & decoding
+
+10 To study certain well known Well-known block codes ;
+
+. linear codes
+
+Golay code, CRC codes
+
+11 To introduce the important
+
+BCH codes, Reed-Solomon
+
+. class of BCH codes
+
+codes
+
+12 To introduce the important
+
+Convolutional codes, Viterbee
+
+class of Convolutional
+
+decoding, turbo codes
+
+coder & decoder
+
+13 To introduce the concept of Models, goals and early
+
+. data encryption and decryption cipher systems
+
+14 To introduce Public Key
+
+Public Key Crypto systems
+
+Cryptosystems
+
+and some examples
+
+Total no. of classes planned
+
+TB:Ch. 1 Ref:Ch. 13 TB:Ch. 2
+TB:Ch. 3
+TB:Ch. 3
+
+2
+2 4 2
+
+TB:Ch. 4 TB:Ch. 4 TB:Ch.5 TB:Ch. 6
+
+3 3 3 6
+
+TB:Ch.8 TB:Ch. 8
+
+3 3 42
+
+6. Evaluation Scheme:
+
+Component
+Test I Test II Laboratory Component
+Term Project
+
+Duration
+60 mts. 60 mts.
+
+Comprehensive Totals
+
+3 Hrs
+
+Weightage 15% 15% 20%
+20%
+30% 100%
+
+Marks
+
+Date & Time
+
+Remarks
+
+45
+
+10/09 & 8:30-9:30 AM
+
+Closed Book
+
+45
+
+22/10 & 8:30-9:30 AM
+
+Closed Book
+
+60 2 Hr Lab Session per week Open Book
+
++ 2Hr End semester
+
+Practical Exam
+
+60 Weekly interaction + End Open Book
+
+semester Project
+
+presentation
+
+90
+
+08/12 FN
+
+Closed Book
+
+300
+
+7. Chamber Consultation Hour: To be announced in Class
+
+8. Make-up Policy: Make-up will be given on extremely genuine grounds only. Prior application should be made for seeking the make-up examination.
+
+9. Notices: Notices, if any, concerning the course will be put up on CMS only
+
+Instructor-in-Charge EEE G612
+
+

@@ -1,0 +1,122 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI, HYDERABAD CAMPUS INSTRUCTION DIVISION, FIRST SEMESTER 2016-2017
+Course Handout (Part II)
+
+Date: 01.08.2016
+
+In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No. Course Title Instructor
+
+: BIO F311 : Recombinant DNA Technology : S. Swaminathan
+
+1. Course Description: Recombinant DNA technology is an interdisciplinary field encompassing biochemistry, microbiology, immunology, molecular biology, genetic engineering, cell biology and chemical engineering. This course will deal with theoretical aspects underlying the practice of recombinant DNA technology. It will focus mainly on the tools and techniques available to create and manipulate chimeric DNA molecules.
+
+2. Scope and Objective: This course intends to provide interested students an opportunity to gain basic theoretical understanding of recombinant technology through lectures, interactive tutorials, and quizzes. It aims to introduce the students to the versatile tools and techniques of genetic engineering and recombinant DNA technology that can be applied to virtually any research question that involves a molecular approach. The specific learning objectives are listed in the table below.
+
+3. Text Book (T1): Gene Cloning & Manipulation, by Christopher Howe, 2nd Edition (First South Asia Edition, 2016), Cambridge University Press 4. Reference Book (R1): S B Primrose and R.M. Twyman Principles of Gene Manipulation and Genomics. 7th Edition,
+2006; Blackwell Publishing; Reference Book (R2: Sambrook and Russell. Molecular Cloning: A laboratory Manual. Vols 1-3, 2001; CSH Press.
+
+Course Plan
+Lect. Learning objective 1-2 Introductory concepts 3 Chemical synthesis of
+DNA 4-5 Basic tools &
+techniques
+
+6-8 Polymerase Chain Reaction
+9-11 DNA sequencing
+
+12-17 Plasmid vectors
+
+18-21 22-26
+
+Cloning: making recombinant DNA molecules
+Making libraries
+
+27-29 Library screening
+
+30-32
+
+Modification & mutagenesis; protein engineering
+
+Topics to be covered
+Over view of rDNA technology
+Review of nucleic acid chemistry; Phosphodiester chemistry-based synthesis
+Cutting DNA; restriction endonucleases; other DNA modifying enzymes; joining DNA; ligases; Plasmid transformation, purification and electrophoresis; blotting techniques.
+Principle of PCR; primer design; melting temperature; applications of PCR; modifications of PCR: inverse PCR; RNA-PCR; real-time PCR.
+Principle of sequencing; Sanger sequencing; cycle sequencing; pyrosequencing; analysing DNA sequence data
+Plasmid biology; plasmid replicons & copy number; examples of common plasmids; selection markers; cloning and expression vectors; expression modules;
+Basic cloning; sticky and blunt ends; ligation; linkers & adaptors; homopolymer tailing; TA cloning; cloning PCR products
+Construction of genomic & cDNA libraries; cloning fulllength cDNA; directional cloning; 5' and 3' RACE;
+Library screening; screening by hybridization; PCR screening; expression screening; functional screening; Southwestern and Northwestern screening; screening for other functions
+Restriction enzyme-based and oligonucleotide-directed mutagenesis; The single primer method; PCR-based mutagenesis; gene inactivation techniques; creating chimeric proteins: gene shuffling; ITCHY and ThioITCHY methods;
+
+Ref. R1, Chapter 1; Lecture notes
+T1, Chapter 1 R1, Chapter 2
+T1, Chapter 2 R1, Chapter 2
+Lecture notes R1, Chapter 7
+T1, Chapter 3 R1, Chapter 4
+T1, Chapter 3 R1, Chapter 3;
+T1, Chapter 5 R1, Chapter 6 T1, Chapter 6 R1, Chapter 6
+T1, Chapter 7 R1, Chapter 8
+
+33-34 35-36 37-38
+39-42
+
+Expression of cloned DNA
+Alternate vectors for E. coli
+Cloning in bacteria other than E. coli
+Gene transfer into animal cells
+
+Expression of RNA and protein using cloned DNA; Expression strategies; purification of recombinant proteins; reporter genes and tags
+Bacteriophage and cosmid vectors; molecular aspects of lambda and M13 life cycle relevant to vector design; BACs and PACs
+Gram stain; self-transmissible gene transfer; bacterial transposons; IncP, IncQ and IncW plasmids for cloning in Gram negative (other than E. coli); cloning in Gram positive bacteria; mutigene assembly using B. subtilis
+Different methods of DNA transfection (physical and chemical); transient and stable transfection; selection markers (endogenous; dominant, amplifiable markers); viral vectors and introduction to their design
+
+BIO F 311, page 3
+T1, Chapter 8 R1, Chapter 6
+T1, Chapter 4 R1, Chapters 4, 5
+Lecture notes R1, Chapter 10
+T1, Chapter 9 R1, Chapter 12
+
+5. Evaluation Scheme:
+Evaluation Component Duration
+
+Test 1
+
+1 hour
+
+Test 2
+
+1 hour
+
+Surprise quizzes*
+
+Comprehensive
+
+3 hours
+
+Weightage (%) 20 20 20
+
+Date & Time
+10.9.16 (10-11 am)
+22.10.16 (10-11 am)
+Various
+
+Remarks Closed Book Closed Book During lecture and/or tutorial classes
+
+40
+
+9.12.16
+
+Open Book (20%)**+Closed Book (20%)
+
+(AN)
+
+*Average of n-1 quizzes conducted will be taken (please see make-up policy below) **Compre Open Book: This will be concept and understanding-based drawing mostly on actual topics discussed during both lecture and tutorial classes.
+6. Chamber Consultation Hour: Will be announced in the Class.
+7. Notices: All notices, concerning the course will be displayed on CMS and/or the Biological Sciences Department Notice Board.
+8. Grading policy: Students missing one or more component of evaluation completely will be considered as having not cleared the course (NC grade).
+9. Make-up policy: For T-1, T-2 and Compre, make-up will be granted only if candidate is sick and hospitalized. No make-up will be granted for surprise quizzes under any circumstances.
+
+INSTRUCTOR-IN-CHARGE BIO F311
+
+

@@ -1,0 +1,171 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE-PILANI - HYDERABAD CAMPUS
+
+INSTRUCTION DIVISION, FIRST SEMESTER 2016 - 2017
+
+(COURSE HANDOUT PART II)
+
+Date: 02/08/2016
+
+In addition to part-I (general handout for all courses in the time-table), this handout provides the specific details regarding the course.
+
+Course No.:
+
+ME G515
+
+Course Title:
+
+COMPUTATIONAL FLUID DYNAMICS
+
+Instructors:
+
+N. Jalaiah, KRC Murthy
+
+Instructor-in-charge: N. JALAIAH
+
+1. Course Description: Computational fluid dynamics (CFD) has become an essential tool in analysis and design of thermal and fluid flow systems in wide range of applications. Few prominent areas of them include meteorology (wind, hurricanes, floods, fires), environmental hazards (air pollution, transport of contaminants), heating, ventilation and air conditioning of buildings, energy systems, electronics, processes in human body (blood flow, breathing) etc. It gives an insight into flow patterns that are difficult, expensive or impossible to study using traditional (experimental) techniques.
+
+2. Scope and Objective: The primary objective of this course is to highlight the physics of the considered problem and then select the set of governing equations and boundary conditions. The course aims to provide student a working knowledge of a variety of computational techniques that can be used for solving engineering problems.
+
+3. Text Books:
+T1. John D Anderson, "Computational Fluid Dynamics", Tata-McGraw Hill Publisher, 1st Edition, 1995. T2. K Muralidhar & T Sundararajan, "Computational Fluid Flow and Heat Transfer", Narosa Book Distributors
+Pvt Ltd, 2nd Edition, 2009. T3. H K Versteeg & W Malalasekara, "Introduction to Computational Fluid Dynamics: The Finite Volume
+Method", Pearson Education (Indian Reprint), 2nd Edition, 2007.
+Reference Books:
+R1. S V Patankar, "Numerical Heat Transfer and Fluid Flow", Taylor & Francis, 1st Edition, 1980. R2. R H Pletcher, J C Tannehill & D A Anderson, "Computational Fluid Mechanics and Heat Transfer", CRC
+Press, 3rd Edition, 2012.
+
+4. Course Plan:
+
+Lecture Nos.
+
+Learning Objectives
+
+Topics to be covered
+
+Book
+
+01-03 Introduction to CFD; Solution to linear algebraic equations
+
+Direct solvers (Gauss elimination, LU decomposition, tri- T2 diagonal algorithm); Iterative solution methods (under and over relaxation); Well-conditioned and ill-conditioned
+
+04-05 Solution to non-linear algebraic equations
+
+Bi-section, Secant and Newton-Raphsons methods
+
+T2
+
+06-08 Numerical solutions of Euler explicit/implicit methods; Runge-Kutta (R-K) methods;
+
+ordinary differential
+
+Predictor corrector methods; Examples of initial value and
+
+equations
+
+boundary value problems
+
+09-11 Introduction to governing Models of flow; Governing equations: Continuity equation,
+
+equations
+
+Momentum equation, Energy equation
+
+12-16 Classification of partial differential equations
+
+Parabolic, elliptic and hyperbolic equations; Well posed and ill posed problems; Initial and boundary conditions
+
+T2
+T1 T1
+
+Page | 1/2
+
+Lecture Nos.
+
+Learning Objectives
+
+Topics to be covered
+
+Book
+
+17-18 Finite difference methods Taylor's series: Finite difference formulation, 1D & 2D steady T2 state heat transfer problems; Boundary conditions; Unsteady
+
+state heat conduction
+
+19-21 Finite difference methods Errors associated with FDM; Explicit method; Stability criteria; T2 Implicit method; Crank Nicolson method; ADI
+
+22-24 Finite volume method
+
+Basic rules for control volume approach; Steady and unsteady T3 heat conduction: 1-D, Extension to 2D & 3D problems
+
+25-27 FVM based discretization of convection and diffusion equations
+28-32 Discretization of NavierStokes equations
+33-34 Turbulent flows 35-36 Compressible flows
+
+1D convection diffusion, Discretization schemes and their assessment, Treatment of boundary conditions
+Discretization of the momentum equation: Stream functionVorticity approach and Primitive variable approach; Staggered grid and Collocated grid, SIMPLE algorithm, SIMPLER algorithm Basics; DNS, LES and RANS models
+Introduction: Pressure, velocity and density coupling
+
+T3 T3
+T3 T1
+
+37-40 Special topics & Seminars Will be announced in the class
+
+---
+
+5. Evaluation Scheme: Evaluation Component Test-1 Test-2
+
+Duration Weightage (%)
+
+60 min
+
+15
+
+60 min
+
+15
+
+Date & Time
+10.09.2016 1.00 - 2.00 PM
+22.10.2016 1.00 - 2.00 PM
+
+Nature of Component
+CB
+CB
+
+Lab
+
+--- 15
+
+Continuous
+
+OB
+
+Project + Seminar
+
+---
+
+25
+
+To be announced in the class
+
+OB
+
+Comprehensive Exam
+
+3 hours
+
+30
+
+01.12.2016 FN
+
+CB
+
+6. Chamber Consultation Hour: To be announced in the class room.
+7. Notices: All notices concerning this course shall be posted at CMS, the institute's web based course management system.
+8. Make-up Policy: Make-up for tests needs prior permission and strictly meant only for serious hospitalization cases with proper documents.
+
+Instructor-in-charge ME G515
+
+Page | 2/2
+
+

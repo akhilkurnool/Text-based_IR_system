@@ -1,0 +1,231 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI HYDERABAD CAMPUS FIRT SEMESTER 2016 - 2017 Course Handout (Part II) 01-08-2016
+In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No:
+
+CS F469
+
+Course Title:
+
+Information Reterival
+
+Instructor-in-charge: Dr. Aruna Malapati (arunam@hyderabad.bits-pilani.ac.in)
+
+1. Scope and Objectives This course studies the theory, design, and implementation of text-based information systems. The Information Retrieval core components of the course include statistical characteristics of text, representation of information needs and documents, several important retrieval models (Boolean, vector space, probabilistic, inference net, language modeling), collaborative filtering, Language translation and Multimedia information retrieval.
+
+2. Pre requisites: Programming in Java or C, and knowledge of core data structures and algorithms.
+
+3.a. Text Book  T1. C. D. Manning, P. Raghavan and H. Schutze. Introduction to Information Retrieval, Cambridge University Press, 2008. The entire book is available at http://nlp.stanford.edu/IR-book/ for free.
+3.b. Reference Books  R1: Modern Information Retrieval, Ricardo Baeza-Yates and Berthier Ribeiro-Neto, Addison-Wesley, 2000. http://people.ischool.berkeley.edu/~hearst/irbook/  R2: Search Engines: Information Retrieval in Practice by Bruce Croft, Donald Metzler, and Trevor Strohman, Addison-Wesley, 2009.  R3: Cross-Language Information Retrieval by By Jian-Yun Nie Morgan & Claypool Publisher series 2010.  R4: Multimedia Information Retrieval by Stefan M. Ruger Morgan & Claypool Publisher series 2010.  R5 Information Retrieval: Implementing and Evaluating Search Engines by S. Buttcher, C. Clarke and G. Cormack, MIT Press, 2010.  R6: Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data by B. Liu, Springer, Second Edition, 2011.  R7: Ricci, F.; Rokach, L.; Shapira, B.; Kantor, P.B. (Eds.), Recommender Systems Handbook. 1st Edition., 2011, 845 p. 20 illus., Hardcover, ISBN: 978-0-387-85819-7
+
+4. Course Plan 4a. Modules and Learning Objectives
+
+Module
+
+Title
+
+Learning Objective(s)
+
+M1
+
+Basic information retrieval concepts
+
+To understand what Information retrieval is and how to represent data in Boolean form and index the data.
+
+M2
+
+Text and vector space classification
+
+To understand Scoring, Term Weighting, the Vector Space Model and scoring in the complete search system.
+
+M3 Recommender
+
+To understand components of a recommender
+
+systems
+
+system, types of recommender systems and evaluation measures in recommender systems.
+
+M4
+
+Web search and link To understand architecture of search engines,
+
+analysis
+
+crawlers and the web graph.
+
+4.b. Lecture Schedule
+
+Sl No
+
+Topic
+
+1. Course overview
+
+2. Boolean retrieval
+
+3.
+
+Dictionaries and tolerant retrieval
+
+4.
+
+Index construction and Compression
+
+5.
+
+Scoring, term weighting
+
+6.
+
+The vector space model for scoring
+
+7.
+
+Language Problems in IR
+
+Cross Language 8. Information
+Retrieval(CLIR)
+
+Multimedia 9. Information
+retrieval(MIR)
+
+Learning Objective
+
+Introduction to the course
+
+The term vocabulary
+
+postings lists
+
+Introduction to ad-hoc
+
+search
+
+Wildcard queries
+
+Spelling correction
+
+Edit distances
+
+Phonetic correction
+
+Blocked
+
+sort-based
+
+indexing
+
+Single-pass in-memory
+
+indexing
+
+Distributed indexing Dynamic indexing
+
+Parametric and zone indexes Weighted zone scoring Learning weights Term frequency and weighting Tf-idf weighting
+Dot products, Queries as vectors, Variant tf-idf functions,
+Document and query weighting schemes European Languages East Asian Languages Other Languages Translation Approaches for CLIR Handling many Languages Using manually constructed Translation systems and resources for CLIR Basic Multimedia search technologies Content based retrieval Image and Audio data challenges Multimedia IR Research
+
+Lecture No
+1 2,3 4 5 6 7 8 9
+10
+11
+12
+13 14
+15 16 17
+18 19,20 21,22
+23
+
+Module Reading M1 T1 Ch1 M1 T1 Ch 1 & 2,R1 Ch2 section 5 M1 T1 Ch 3 M1 T1 Ch 3
+M2 T1 Ch 6
+M2 T1 Ch 6 M2 R3 Ch 1
+M2 R3 Ch2
+M2 R4 Ch2,3
+
+Recommender systems 10.
+Web search basics
+
+Introduction to recommendation system Collaborative , Content based recommendation Hybrid recommendation systems
+Search Engine Architecture
+
+Web characteristics
+
+Advertising as the 11. economic model
+
+Index size and estimation
+
+Crawler architecture
+
+Distributing indexes
+
+Link Analysis 12.
+
+The Web as a graph, Google's Pagerank
+Hub and authorities
+
+(HITS), Web spam, SEO
+
+Total number of classes Planned
+
+24
+25
+26 27,28
+29 30 31 33,34 35,36 37,38
+38,40 40
+
+M3 M4 M4
+
+R7 Ch1,2,3,4,5
+T1 Ch 19 R1 Ch13, R2 Ch2
+T1 Ch 21
+
+5. Evaluation Scheme
+
+6.a. Major Components
+
+Component
+
+Nature of
+
+Component
+
+Project
+
+Open Book /
+
+Take Home
+
+Test 1
+
+Closed Book
+
+Test 2
+
+Closed Book
+
+Comprehensive Closed Book
+
+Duration
+
+Date
+
+60 mins 60 mins 3 hours
+
+To be announced in class
+9/9, 1.00--2.00 PM 24/10, 1.00--2.00 PM 05/12 AN
+
+Weightage
+25%
+20% 20% 35%
+
+5.b. Timeliness  Assignments are to be completed in time with no postponements.  Submissions 24 hours from deadline will have a penalty of 2 Marks per day.
+
+6. Chamber Consultation: To be announced.
+
+7. Notices: All notices related to the course will be displayed on the CSIS Notice Board, and / or course website.
+
+8. Make-up Policy: Make ups shall be granted on prior permission and only to genuine cases on submission of proofs from respective wardens.
+
+Instructor-in-charge CS F469
+
+

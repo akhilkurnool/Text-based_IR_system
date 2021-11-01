@@ -1,6 +1,5 @@
 
-input[type=text] 
-{
+.a-search {
 	position : absolute;
 	border: 1px solid #aaaaaa;
 	padding-left : 6px;
@@ -14,13 +13,13 @@ input[type=text]
 	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
 }
 
-input[type=text]:focus
+.a-search:focus
 {
 	outline:none;
 	border: 1px;
 }
 
-input[type="submit"] 
+.a-submit
 {
 	position: absolute;
     display: block;
@@ -55,7 +54,7 @@ input[type="submit"]
     font-family: 'roboto light','Century Gothic', CenturyGothic, AppleGothic, sans-serif;
 }
 
-input[type=submit]:hover 
+.a-submit:hover 
 {
 	box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   	transition: .3s;

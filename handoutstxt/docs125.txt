@@ -1,0 +1,141 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI - HYDERABAD CAMPUS
+First Semester 2016-17
+INSTRUCTION DIVISION 
+Course Handout 
+                                               Date: 01st Aug., 2016
+
+Course No: 			CHEM F212
+Course Title: 			ORGANIC CHEMISTRY - I
+Instructor-in-charge:		K V G CHANDRA SEKHAR	
+
+1. Scope and objective of the course: To familiarize the students with basic mechanistic aspects of organic reactions including mechanistic types, thermodynamics and kinetics, the important intermediates involved in organic reactions, functional group chemistry.
+
+2. Text Book: T1 - R. T. Morrison, R. Boyd and S. K. Bhattacharjee, Organic Chemistry, 7th edition. 
+     Reference Books: R1 -  J. Clayden, N. Greeves, S. Warren, P. Wothers, Organic Chemistry, OUP, 1st ed., 2000. 
+                                              R2  - Jerry March, Advanced Organic Chemistry, John Wiley & Sons, 4th ed., 1992.                        
+                                              R3  - G Marc Loudon, Organic Chemistry, Oxford, 4th Edition, 2002.
+                                              R4  - Francis A Carey, Organic Chemistry, Tata McGrawHill, 7th edition, 2008.
+3.  Course Plan:
+
+Lec. No.
+Learning objectives
+Topics to be covered
+Text book , Chapter, Page no. 
+1-2
+Basic terminology and representation of organic reactions
+Homolytic, heterolytic fission of bonds, concept of electrophiles and nucleophiles; how to write organic reaction mechanisms; movement of arrows; curved and fish-hook arrows; examples  
+T1: Ch. 4, pg. 55-59.
+R1: Ch. 5, pg. 116-131.
+3-4
+Reactive intermediates: carbocations
+Carbocations: Structure & stability, generation and reactions 
+T1: Ch. 4, pg. 64-69.
+5
+Reactive intermediates: carbanions
+Carbanions: Structure & stability, generation and reactions
+T1: Ch. 4, pg. 69-72.
+6
+Reactive intermediates: free radicals
+Free radicals: Structure & stability, generation and reactions
+T1: Ch. 4, pg. 81-86.
+7-8
+Reactive intermediates: others
+Carbenes; nitrenes: generation, stability, and fate 
+T1: Ch. 4, pg. 72-78.
+
+9-14
+Aromatic chemistry
+Aromatic nucleophilic substitutions; Aromatic electrophilic substitutions; SNAr mechanism; benzyne mechanism; 
+T1:  Ch. 5C, pg. 262-283; 
+         Ch. 9, pg. 488-502.
+R1:  Ch. 23, pg. 589-604.   
+
+15-18
+Alkyl and aryl halides
+Synthesis and reactions of alkyl and aryl halides
+T1: Ch. 8, pg. 426-462.
+        Ch. 9, pg. 482-485.
+19-23
+Alcohols, phenol and ethers
+Synthesis, reactivity; applications of Grignard reagents for synthesis; diols, acid/base catalysed ring opening
+T1: Ch. 10, pg. 507-537. 
+        Ch. 11, pg. 545-562.
+Lecture notes (epoxides)
+24-26
+Amines and nitro compounds
+Synthesis, basicity and reactions 
+T1: Ch. 15, pg. 696-736.
+        and Lecture Notes    
+        (Nitro compounds)
+27-33
+Carbonyl compounds
+Synthesis, reactivity, enolates, malonate and ethyl acetoacetate synthesis
+Aldol, Crossed Aldol and Claisen
+condensation; Conjugate addition reactions of , -unsaturated carbonyl compounds with special reference to Michael addition, Mannich reaction, Wittig reaction
+T1: Ch. 12, pg. 571-611.
+R1: Ch. 21, pg.  524-541.
+        Lecture notes    
+        (malonate & ethyl   
+        acetoacetate)           
+34-36
+Carboxylic acid & derivatives
+Synthesis, reactions, conversion for acid to other derivatives 
+T1: Ch. 13, pg. 624-648;
+        Ch. 14, Pg. 657-685
+37-38
+Carbohydrates
+Introduction and their reactions
+T1: Ch. 26, pg. 1228-1236,    
+        1244-1253.
+39-42
+Thermodynamics and kinetics aspects of organic reactions
+Thermodynamic and kinetic control; Hammond postulate; methods to determine mechanisms (Hammett equation, kinetic isotopic effect); examples
+T1: Ch. 4, pg. 97-102.
+R1: Ch. 13, pg.319-330.
+        Ch. 22, pg. 554-556.                                      
+        Ch. 41, pg.1090-1101.
+R2: Ch. 6, pg. 208-215, 217- 
+        219, 226.
+
+
+4. Evaluation:
+Component
+Duration
+Weightage (%)
+Date and Time
+Remarks
+Test 1
+60 min.
+20
+9/9, 1.00--2.00 PM
+Closed Book
+Test 2
+60 min.
+20
+24/10, 1.00--2.00 PM
+Closed Book 
+Surprise tests*
+10 min.
+20
+Continuous
+Closed Book
+Comprehensive Examination
+3 hr
+20(CB)+20(OB)
+05/12 AN
+Partially Open Book
+* 12 surprise tests will be conducted and best 10 will be considered.
+
+5. Make-up(s) will be granted only for genuine reasons.
+
+6. Chamber consultation hours: To be announced
+
+7. Notices: All the notices pertaining to this course will be displayed on Department of Chemistry     
+Notice Board and CMS only.
+
+
+
+
+                              Instructor-in-Charge
+                               Organic Chemistry - I
+

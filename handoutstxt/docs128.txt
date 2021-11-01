@@ -1,0 +1,83 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI HYDERABAD CAMPUS INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017 Course Handout (Part II)
+
+Date: 01-08-2016
+
+In addition to part I (general handout for all courses appended to the timetable) this portion gives specific details regarding the course.
+
+Course No.
+
+: CHEM F311
+
+Course Title
+
+: Organic Chemistry III
+
+Instructor-in-charge : Anupam Bhattacharya
+
+1. Course Description:
+This course emphasizes on applications of important reagents and reactions in organic synthesis and disconnection or synthon approach. In disconnection or synthon approach the target molecule is broken down by a series of disconnections into possible starting materials followed by synthesis.
+
+2. Scope and Objective of the Course: The aim of this course is to familiarize the students with retrosynthetic analysis and enable the student to design the synthesis using organic compounds using appropriate reagents.
+
+3. Text Book: TB1: Michael B. Smith & Jerry March, Advanced Organic Chemistry, John Wiley & Sons, 6th ed., 2012. TB2: Stuart Warren: Organic Synthesis: The Disconnection Approach: John Wiley & Sons, 2004. Reference Books: R1: Carruthers and Coldham, Modern Methods of Organic Synthesis, Cambridge, 4th edition, 2004. R2: Fuhrhop and Li, Organic Synthesis: Concepts and Methods; Wiley, 3rd edition, 2014.
+
+4. Course Plan:
+
+Lec. No. 1 2-5
+6-9
+10-12
+13-14 15-18
+
+Learning Objectives Introduction Common organic reagents
+Organometallic reagents
+Transition metal catalyzed organic reactions Introduction of disconnection approach Synthesis of aromatic Compounds
+
+Topic(s) to be Covered
+Organic synthesis and its applications NaBH4(SS), LAH(SS), DIBAL, BH3, Birch reduction, Swern oxidation, OsO4, O3(SS), DMP, m-CPBA(SS), Ti(Oi-Pr)4, Lindlar catalyst, NBS (SS), NaIO4(SS) Grignard reagent(SS), organolithium reagents (SS), organocuprates (SS), organozinc reagents, organoboranes, organosilicon reagents, organotin compound. C-C bond forming reactions (Suzuki, Heck, Negishi, Sonogashira, Stille reaction), C-N bond forming reactions (BuchwaldHartwig reaction) Basic principles of disconnection approach in organic synthesis Basic Principles: Synthesis of Aromatic Compounds, The Order of Events
+
+Chap(s). No(s).
+Class notes TB1: 15-13; class notes, SS: self-study Class notes, SS: self-study
+TB1: 13-12, 13-10, class notes TB2: 1 TB2: 2, 3
+
+19-26 One group C-X and C-C disconnections
+27-33 Two group C-X and C-C disconnections
+34-37 Ring synthesis (saturated heterocycles)
+38-42 Synthesis of heterocyclic compounds
+
+One Group C-X Disconnections, Chemoselectivity Synthesis of Alcohols, General Strategy of Choosing Disconnection, Stereoselectivity, Synthesis of Carbonyl Compounds, Regioselectivity, Alkene Synthesis, Use of acetylenes for synthesis.
+Two Group C-X Disconnections, Reversal of Polarity, Cyclisation Reactions, Summary of Strategy, Amine Synthesis, Diels-Alder Reactions, 1,3-Difuntionalised Compounds
+and ,-Unsaturated Carbonyl Compounds, Control in Carbonyl Condensations, 1,5Difuntionalised Compounds, Michael addition and Robinson annelation, Use of Aliphatic Nitro Compounds in Synthesis, 1,2-Difuntionalised compounds, FGA and its Reverse, 1,4-Difuntionalised Compounds, Reconnections, 1,6Difuntionalised Compounds, Strategy of Carbonyl Disconnections.
+Introduction to Ring synthesis, Synthesis of three, four, five and six membered Rings and general strategy of Ring Synthesis
+Aromatic Heterocycles and advanced strategy
+
+TB2: 4, 5, 1016 TB2: 6-9, 1728
+TB2: 29, 30, 32, 34, 36, 37 TB2: 39, 40
+
+5. Evaluation scheme.
+Component
+Test 1 Test 2 Class tests Comprehensive Examination
+
+Duration
+1 hr 1 hr 15 min
+3 hrs
+
+Weightage (%) 20
+20 20 40 (20% open book)
+
+Date and Time
+13/9, 10.00--11.00 AM 21/10, 10.00--11.00 AM
+Continuous
+14/12 AN
+
+Remarks
+Closed Book Closed Book Closed Book
+Closed/Open Book
+
+6. Chamber Consultation Hour: To be announced in the class.
+
+7. Notices: Notices concerning the course will be displayed on Chemistry department notice board only.
+
+Instructor-in-charge CHEM F311
+
+

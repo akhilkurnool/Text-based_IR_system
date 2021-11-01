@@ -1,0 +1,157 @@
+
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+Course Handout (Part II)    	
+   	    Dated: 01.08.2016
+
+In addition to part I (general handout for all courses appended to the timetable) this portion gives further specific details regarding the course.
+
+Course No			: BIO F312
+Course Title			: PLANT PHYSIOLOGY
+Instructor-In-Charge	: SRIDEV MOHAPTRA
+Instructor			: 
+
+1. Course Description:
+Basic functional processes in plants; Plant tissue system, Plant-water relations, Gaseous exchange, Stomatal regulations, Mineral nutrition and absorption, Transport of material, Growth and development, Hormones and PGRs, Photoperiodism, Vernalization, Plant defense mechanisms, Stress Physiology and related lab components. 
+
+2. Scope & Objective: 
+This course attempts to bring the awareness to the students of major features of physiology of plants. Emphasis will be given to function and adaptations as related to the survival of plants in their natural environment.
+
+3. Text Book and Reference Book: 
+Text book (T1):  Taiz, L. and Zeiger, E., Plant Physiology, 3rd Ed., Panima Publishing Corporation, Indian Reprint, 2003
+Reference book (R1): 
+Taiz, L. and Zeiger, E., Plant Physiology, 6th Ed., 2010, Sinauer Associate Inc., Sunderland, USA 
+Web Topics: http://6e.plantphys.net/
+
+4. Course plan: 
+Lect. No.
+Learning objective 
+Topics to be covered
+Ref. to Chapter
+Part A
+Plant Physiology
+1
+Getting introduced to the subject and course
+Orientation to the course,  Introduction to Plant Physiology
+Class Notes
+2-4
+Overview of Plant Structure
+Plant Tissue System
+
+Class Notes
+5-7
+Learning water and its interaction with plant body
+Structure and properties of water, Diffusion, Osmosis and Water potential
+TB-3, RB-3
+8-10
+How do plants obtain water from the soil?
+Water balance in plants: root absorption and transport through xylem 
+TB-4, RB-4
+11-13
+The transpiration / photosynthesis paradox
+Transpiration and its compromise with photosynthesis, Stomatal regulations
+TB-4, RB-4
+14-15
+Mineral requirement for plant growth 
+Mineral Nutrition: Essential elements and their function
+TB-5, RB-5
+16-17
+How nutrients are absorbed and distributed in tissues
+Mineral Nutrition: Absorption of minerals, Mycorrhizal fungi 
+TB-5, RB-5
+18-19
+How nutrients are absorbed and distributed in tissues
+Transport of solutes and ions, Membrane transport processes
+TB-6, RB-6
+20-22
+How do metabolic end products distributed in plants?
+Transport of material in phloem
+TB-10, RB-10
+23-25
+How plants grow?
+Growth and development
+TB-16, RB-16
+26-29
+What control growth?
+Hormones and Growth regulators: Auxins and Gibberellins
+TB-19, 20
+RB-19, 20
+30-32
+What control growth?
+Cytokinins, Abscisic acid
+TB-21, 23
+RB-21, 23
+33-36
+How do plants control the timing of flowering?
+Phytochrome, Photoperiodism and Vernalization
+TB-17, 24
+RB-17, 25
+37-39
+How do plants defend themselves against adverse biotic factors?
+Secondary metabolites and Plant Defense Mechanisms
+TB-13, RB-13
+40-42
+How do plants defend themselves against adverse abiotic factors?
+Stress physiology: Water, Heat, Chilling & Salinity stress
+TB-25, RB-25
+
+5. Evaluation scheme:
+Component
+Duration
+Weightage %
+Date & Time
+Venue
+Remarks
+Test 1
+60 Min.
+15
+9/9, 10.00--11 AM
+
+CB
+Test 2
+60 Min.
+15
+24/10, 10.00--11 AM
+
+CB
+Tutorial tests
+Variable
+10
+
+
+CB
+Presentations/assignments
+Variable
+20
+
+
+OB
+Comprehensive
+180 Min.
+40
+ 03/12 AN
+
+CB (15%) +OB (25%)
+
+
+
+
+
+
+6. Grading Policy:
+Award of grades would be guided by the histogram of marks. Decision for cases on borderline of two grades will be based on the students promptness and participation in classroom activities as well as satisfactory attendance in lecture and tutorial classes. If a student misses even a single component entirely or does not give sufficient opportunity for being assessed, he/she may be awarded NC report regardless of his/her final total score in the course (see Clause 4.19 of BITS Academic Regulations). 
+
+7. Office Consultation:
+By prior appointment obtained in person or by email (sridev.mohapatra@hyderabad.bits-pilani.ac.in).
+
+8. Make-up Policy:
+Only medical emergencies with evidence will be considered for make-up for Test-1, Test-2 and Comprehensive examination. For regulations about the make-up flexibility, students are advised to refer to Clause 4.07 of BITS Academic Regulations 
+
+9. Course Announcements and Notices:  
+Announcements pertaining to the course will be made in the lecture/tutorial class and/or on CMS. In some cases, printed notices shall be displayed in the notice board of only the Department of Biological Sciences.
+
+
+
+
+INSTRUCTOR-IN-CHARGE
+BIO F312

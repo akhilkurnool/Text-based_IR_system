@@ -1,0 +1,169 @@
+
+INSTRUCTION DIVISION, 
+FIRST SEMESTER 20162017
+COURSE HANDOUT (PARTII)
+Dated: 01/08/2016
+
+In addition to part I (general handout for all courses appended to the timetable) this portion gives further specific details regarding the course.
+
+Course No			: BIO G524
+Course Title			: Animal cell Culture Technology
+Instructor-In charge		: KUMAR PRANAV NARAYAN
+Instructors			: Kumar Pranav Narayan, Poonam Naik
+
+
+Course Description: Animal cell and tissue culture from various organisms, types of cell lines, development and maintenance of cell lines, manipulation and applications of cell culture technology for Biotechnological research and therapeutics implication. 
+
+Scope and objective of the course: This course will enable students to increase their knowledge in recent advances in animal cell and tissue culture technology both theoretically and practically. The knowledge of this area is important to understand the modern in vitro research related to the biology of the cell. In addition, cell genetic manipulations and their implications in human life. The major biotechnological advances include in vitro maintenance of cell microenvironment, proliferation and large scale propagation, cryopreservation, cell transformation, 3D culture, cytotoxicity, stable transfection and production of therapeutic agents and Bioengineering etc.
+
+Text Books: 
+Freshney, R.I. Culture of Animal Cells: A Manual of Basic Technique and Specialized Applications, Willey-Blackwell Press (6th Ed), 2010 (BITS library catalog number 591.87 F885 2010).
+
+Reference books: 
+Asok Mukhopadhyay. Animal Cell Technology. I. K. International Publishing House Pvt. Ltd. 2009 (BITS library catalog number 591.87 M953 2009).
+Davis. J. M Basic Cell Culture, 2nd Ed. Oxford University Press, 2007.
+
+Course plan: 
+
+Lec. No.
+Learning objectives 
+Contents
+References (Chapters)
+1-2
+Introduction
+Types of culture, advantages and limitations of tissue culture.  
+1 (TB), Class notes
+3-6
+Biology of cultured cells
+General characteristics of cells in culture microenvironment.
+2 (TB)
+7-9
+Bio safety and lab ethics
+Basic lab exercises, laboratory safety and ethics.
+6 (TB) 6 (RB)
+9-11
+Laboratory design and equipments
+Designing of animal tissue culture laboratory, common and specialized equipments, consumable items.
+3, 4, 7 (TB) 6 (RB)
+ 
+12-13
+Sterilization
+Aseptic techniques, sterilization.
+5, 10 (TB) 6 (RB)
+14-16
+Culture media
+Defined media and supplements, serum-free medium. 
+8, 9 (TB) 5 (RB)
+17-18
+Primary culture
+Types of primary cell cultures, isolation of tissue, primary culture. Environmental factors and cell culture process.
+11 (TB) 3, 7 (RB)
+19-21
+Subculture and cloning 
+Subculture, cloning, isolation of clones.
+12, 13 (TB)
+22-25
+Cell characterization and transformation 
+Characterizing cells in the culture, transformation, immortalization, tumorigenicity.
+15, 17 (TB)
+26-27
+Contamination
+Source of contamination, monitoring and eradication of contamination.
+18 (TB)
+28-29
+Cytotoxicity
+Markers for cell viability and apoptosis. Viability and cytotoxicity assays.
+21 (TB)
+2, 9 (RB)
+30-33
+Cell culture of specialized cells and 3D culture
+Culture conditions for specific (Differentiated, non differentiated and tumor) cells. Organ, histotypic and organotypic cultures.
+22, 23, 24, 25 (TB) 13 (RB)
+34-35
+Cryopreservation
+Rational and principles for cell cryopreservation, Thawing and recovery of frozen cells.
+19 (TB) 4 (RB)
+36-39
+Specialized techniques and implications of cell culture
+Viable cell separation and quantitation, differentiation, Confocal microscopy, in situ hybridization, somatic cell fusion, monoclonals, microcarriers, scale up and automation. 
+14, 16, 20, 26, 27 (TB)
+2, 7, 8, 9 12, 14 (RB) Class notes
+40-42
+Therapeutics implications of cell culture and Bioengineering
+Stable gene expression in mammalian cells and methods of DNA transfer. Bioreactors, Tissue engineering
+10, 11, 14, 15 (RB)
+Class notes
+
+
+6. Evaluation scheme:
+
+Component
+Duration
+Weightage %
+Date and time
+Venue
+Remarks
+Test 1
+60 mins
+15 (45)
+9/9, 8.30-9.30 AM
+-
+CB
+Test 2
+60 mins
+15 (45)
+24/10, 8.30-9.30 AM
+-
+CB
+Practical 
+Observation, record, punctuality
+15 (45)
+Mid Sem Evaluation
+Lab
+OB
+15 (45)
+End Sem Evaluation
+Lab
+OB
+Presentation/
+Assignment
+15 min
+10 (30)
+During lecture hr
+A102/class room
+OB
+Comprehensive
+3 hrs
+30 (90)
+03/12 FN
+-
+CB
+
+Chamber consultation hour: To be announced in the class.	
+
+Notices: All notices will be displayed on the CMS and Biological Sciences Group notice board.
+
+Make-up policy: Only in case of hospitalization and genuine medical emergency make up can be granted.
+
+
+
+
+
+Instructor-in-charge
+        BIO G524
+
+
+
+
+
+
+
+
+PAGE  
+
+
+PAGE  1
+
+
+
+

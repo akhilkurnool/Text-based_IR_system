@@ -1,0 +1,119 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE-PILANI, HYDERABAD
+INSTRUCTION DIVISION
+FIRST SEMESTER: 201617
+Course Handout Part II
+                                                  						     Date: 01/08/2016
+In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+Course No.                         		 : ECON F213
+Course Title                      		 : Mathematical and Statistical Methods
+Instructor-in-Charge        		 : Rishi Kumar
+Instructor				 : Rishi Kumar
+
+1. Scope and Objective:
+This course concentrates on review of the mathematical fundamentals, statistical methods and techniques necessary for quantitative economics and finance. The course is designed to give emphasis on the application of real life examples on various fundamental issues of economics and finance. 
+2. Text Book:
+1. Lind A Douglas, Marchal G William & Wathen A Samuel, "Statistical Techniques in Business and Economics" 13th Edition, 2008
+3. Reference Books:
+R1. Stine E. Robert and  Foster Dean, "Statistics for Business", Pearson Education, 1st Edition, 2011
+R2.  Yamane Taro, Mathematics for Economists, Eastern Economy Edition, 2nd Edition 1985
+R3.  Alpha Chiang and Kelvin Wainwright, Fundamental methods of Mathematical Economics, TMH, 4th Ed., 2005
+
+4. Course Plan: 
+Lec.
+No.
+Learning Objective
+Topics to be covered
+References (TB) 
+1
+Exposure to Basics of Statistics
+What is Statistics?
+ Chapter 1 (TB)
+2 - 5
+Data Classifications, Tabulation and Presentation
+Describing Data: Frequency tables, frequency distributions and Graphic Presentations, numerical measures. 
+ Chapter 2, 3 and 4(TB)
+
+6-8
+Description of Data & Exploring Data
+Concept of Skewness,  Moments and Kurtosis
+Chapter  4 (TB)
+
+9 -12
+Exposure to Probability Distributions
+Binomial, Poisson & Normal Distributions
+ Chapter  6 and 7 (TB)
+13 - 15
+Sampling Techniques
+Sampling Methods and the Central limit theorem
+ Chapter 8(TB)
+16 - 18
+Statistical Inference: Estimation
+Estimation and Confidence intervals
+ Chapter 9(TB)
+19-24
+Statistical Inference :Hypothesis testing
+One and two sample test of Hypothesis 
+ Chapter 10 and 11 (TB)
+25
+Concept of variance
+Analysis of variance
+Chapter 12 (TB)
+26 - 28
+Correlation and regression analysis
+Linear regression and correlation
+Chapter 13 (TB)
+29- 32
+Some non-parametric tests: chi-square, Z, student's - t, and F-distributions
+Non parametric methods
+Chapter 10(TB) and Class notes
+33-36
+Theory of index numbers, weighted and unweighted indexes
+Index Numbers
+Chapter 15 (TB)
+37-40
+Time series Analysis
+Time series and Forecasting
+Chapter 16 (TB)
+41 -45
+Application of Mathematical concepts in Economics and Finance
+Functions, Derivatives and Differentiations, Logarithms and exponents, Differentiation and integration, Dynamic and static analysis.
+Class Notes.
+
+5. Evaluation Scheme:
+EC No.
+Components
+Duration
+Weight age       (%)
+Date, Time & Venue
+Nature of Component
+1.
+Test-I
+1 Hour
+20
+13/9, 4.00--5.00 PM
+CB
+2.
+Test-II
+1 Hour
+20
+21/10, 4.00--5.00 PM
+OB
+3.
+Home Assignments
+
+20
+
+Presentation/Written Assignment
+4.
+Comprehensive Exam
+3 hrs
+40
+13/12 FN
+CB
+6. Chamber Consultation Hour: Wednesday (3 pm  4 pm).
+7. Notice: All notices pertaining to this course shall be displayed on the Economics and Finance   (or) LTC Notice Board.
+8. Make-up policy: Make-up will be granted on genuine reason with prior permission. No Make-up will be granted through SMS.
+
+                                   			         InstructorInCharge
+                                                                                      			     ECON F213
+

@@ -1,0 +1,147 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI  HYDERABAD CAMPUS
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+Course Handout (Part II)
+														Date: 01/08/2016
+In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.		: CHE F214
+Course Title		: Engineering Chemistry
+Instructor-in-charge	: Srikanta Dinda
+Tutorial Instructor  	: Srikanta Dinda
+
+1. Course Description: It deals with basic principles of various branches of chemistry like physical, inorganic, organic , analytical and material chemistry.
+
+2. Scope & Objective:It aims to impart students an in-depth knowledge of various aspects of chemistry as applied to engineering. The course also aims to bridge the theoretical concepts and their practical engineering applications, thus highlighting the role of chemistry in the field of Chemical engineering.
+
+
+3. Text Books:
+TB: Dr Suba Ramesh and others, Engineering Chemistry, Wiley India, 2011,1st Ed.	
+
+4. Reference Books:
+R1: P. W. Atkins, Elements of physical chemistry, 8th edition, Oxford University Press
+R2: T. W. Graham Solomons and Craig B. Fryhle, Organic Chemistry, 9th edition, John Wiley and sons
+R3: Perry and Green, Perrys Chemical Engineers Handbook, 9th Edition, Section 2, McGraw Hill
+R4: Dr S. S. Dara and Dr S. S. Umare, A Text book of Engineering Chemistry,  S. Chand& Company Ltd,2000 1st Ed.	
+
+
+5. Course Plan:
+L N
+Topic
+Learning objectives
+Test book chapter
+1-2
+Introduction
+Atom and its constituents, electronic configuration, electronegativity, dipoles, hydrogen bonding, 
+TB-1
+
+3-5
+
+Important Functional groups and their reactions
+Alcohols, carboxylic acids, amines, aldehydes and ketones, ethers.
+TB-9
+6-9
+Some Name reactions
+Epoxy-catalysis crosslink reaction, Fridel-Craft acylation, Aldol condensation, Cannizzaro reaction, Hofmann rearrangement, Diels-Alder reaction, Beckmann rearrangement
+TB-9
+
+
+10-14
+
+
+Thermo-physical and thermo dynamic properties determination
+Prediction and correlation of physical properties: Heat capacity, Enthalpy of vaporization and fusion, thermal conductivity, diffusivity, Flammability, density, viscosity and surface tension properties 
+TB-4
+15-16
+Phase Rule
+Phase rule, Phase diagram, one-component and two component systems
+TB-6
+17-19
+
+
+Adsorption 
+Introduction to adsorption process, Adsorption isotherms, Equilibrium relation for adsorbents, Breakthrough concentration curves, Applications of Adsorption. 
+TB-8
+20-22
+Electrochemistry
+Types of electrolytes, Electrochemical cells, Electrode potential, Galvanic cells, Nerst equation, Measurement of EMF, types of electrodes, Batteries
+TB-7
+
+23-24
+
+Chemical Methods of analysis
+Volumetric analysis, Redox titrations, Complexometric titrations
+
+25-28
+Instrumental Methods of analysis
+Infrared spectroscopy, NMR spectroscopy, UV-Visible spectroscopy, Chromatography, particle size analyzer
+TB-11
+
+29-33
+
+Engineering Materials
+Cementing materials-Lime, Cement, Gypsum, Refractories, Insulators, Lubricants
+TB-14
+34-35
+
+Metal and Alloys
+Physical properties of metals, Chemical characteristics, Iron, Steel, Alloys, Alloys of steel.
+TB-15
+36-37
+Polymers
+Classification of Polymers, Types of polymerization, Molecular weight of polymers, plastics,  some important commercial thermoplastics ad thermosetting resins, Elastomers, Synthetic rubbers, Fibres.
+TB-13
+38-39
+Fuel and fuel analysis
+Solid, liquid and gaseous Fuel, caloric value, fuel analysis
+TB-16
+40-41
+Corrosion
+
+Types of corrosion, Factors influencing rate of corrosion, Corrosion control methods, Protective coatings, 
+TB-18
+
+
+6. Evaluation Scheme:
+
+Component   
+Duration  
+Weightage (%)       
+Date, Time
+Remarks
+Test I                    
+60 mins
+25
+13/9, 4.00--5.00 PM
+CB
+Test II                   
+60 mins
+25
+21/10, 4.00--5.00 PM
+CB
+Compre Exam       
+3 hrs
+40
+13/12 FN
+20%CB +20%OB
+Assignments/quiz 
+-
+10
+
+
+
+Closed Book Test: No reference material of any kind will be permitted inside the exam hall.
+
+Open Book Exam: Any printed material will be permitted. Loose papers will not be permitted. No exchange of any material will be allowed.
+
+Chamber Consultation Hour: To be announced in the class.
+
+Notices: All notices related to the courses will be displayed on Chem. Engg Notice Board or CMS 
+
+Make-up Policy: Make-up for the test (test-1 and test-2) may be granted with prior permission from the Instructor-in-charge. 
+
+Srikanta Dinda
+Instructor-in-charge
+CHE F214
+
+

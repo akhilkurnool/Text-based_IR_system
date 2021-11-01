@@ -1,0 +1,635 @@
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI, HYDERABAD CAMPUS
+
+INSTRUCTION DIVISION
+FIRST SEMESTER 2015-2016
+
+Course Handout for Advanced Chemical Engineering Thermodynamics
+
+
+
+
+Date: 
+Course No.
+:
+CHE G622
+Course Title
+:
+Advanced Chemical Engineering Thermodynamics
+Instructor-in-Charge
+:
+I SREEDHAR
+
+		Course  Description:  Review  of  basic  undergraduate  concepts  in  thermodynamics  including
+
+Legendre transformations and Maxwells relations, Phase equilibria in multi-component and multi-phase systems, Chemical Equilibrium, Statistical Thermodynamics
+
+		Scope & Objective:
+
+The objective of this course is to learn how to apply thermodynamics to phenomena and processes of interest to chemical engineers. The content is advanced and based on prior knowledge of courses taken at the undergraduate level. This course aims to provide further depth with major focus on phase equilibrium thermodynamics. Solving phase equilibria problems involves general computational techniques that have widespread application in other areas of engineering. Another objective of this course is to provide experience in fitting mathematical models to experimental data, using phase equilibria calculations. A small part of the course is devoted to statistical mechanics and its relation to thermodynamics.
+
+		Text Book (TB):
+
+Stanley I. Sandler, Chemical, Biochemical and Engineering Thermodynamics, Wiley, 2006, 4th
+Edition
+
+J. M. Smith, H. C. Van Ness and M. M. Abbott, Introduction to Chemical Engineering Thermodynamics, MGHFSE, 7th Edition
+
+4. Reference Books: (RB)
+
+RB1: Y. V. C. Rao, Chemical Engineering Thermodynamics, Universities Press, 1997
+
+RB2: R. P. Rastogi & R. R. Mishra, An Introduction to Chemical Thermodynamics, Vikas
+
+Publishing House Pvt. Ltd., 6th Revised Edition (1995)
+
+RB2:  John  M.  Prausnitz;  Rdiger  N.  Lichtenthaler;  Edmundo  Gomes  de  Azevedo,
+
+Molecular Thermodynamics of Fluid Phase Equilibria, Prentice Hall, 3rd Edition
+
+4. Course Plan:
+
+Lecture
+Learning Objectives
+Topics to be covered
+Reference
+
+No.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Review of Basics, First Law of Thermodynamics,
+Chap. 1,2,3,4
+
+1  2
+Introduction
+Second Law of Thermodynamics Entropy, Entropy
+TB/Lecture
+
+
+
+balance and Reversibility,  Third Law of
+notes / Chap
+
+
+
+
+
+
+
+
+Thermodynamics
+1,2, 5 T2
+
+
+Equations of state
+PVT behaviour, Review of Virial Equation, Cubic
+Chap. 6.6, 6.7
+
+
+(EOS),, Generalized
+
+
+
+3
+
+Equations of State, Generalized correlations for
+TB / Chap 3
+
+
+Correlations for
+
+
+
+
+
+gases and liquids (Review only)
+T2
+
+
+PVT behaviour
+
+
+
+
+
+
+
+
+4  5
+Thermodynamic
+Fundamental Property relations, Equilibrium, Review of
+Chap. 6 T2
+
+
+Properties of Fluids
+Maxwell equations
+
+
+
+
+
+
+
+
+Thermodynamic
+Legendre Transformations, Thermodynamic potentials,
+Chap. 6 RB1/
+
+6  8
+
+Criteria for equilbrium, Energy minimum and maximum
+
+
+
+Potentials
+
+Chap 7. TB
+
+
+
+principle
+
+
+
+
+
+
+
+
+Stability of
+Stability criteria, Application of equilibrium and
+Chap. 7 TB /
+
+9  10
+Thermodynamic
+
+
+
+
+
+stability criteria to equation of state
+Chap. 10 RB1
+
+
+systems
+
+
+
+
+
+
+
+
+
+Multi-component
+Thermodynamic description of mixtures, review of
+Chap. 8 TB /
+
+11  12
+
+partial molar property, Chemical potential, Generalized
+
+
+
+mixtures
+
+Chap. 9 RB1
+
+
+
+Gibbs-Duhem Equations
+
+
+
+
+
+
+
+
+Multi-component
+Criteria for phase equilibrium in multi-component
+
+
+13  15
+
+systems, Criteria for chemical equilibrium and combined
+Chap. 8 / TB
+
+
+mixtures
+
+
+
+
+
+chemical and phase equilibrium
+
+
+
+
+
+
+
+
+Gibbs energy
+Review of fugacity and estimation of fugacity and
+Chap. 7/9 TB /
+
+16 - 17
+
+fugacity coefficient for pure gas, Fugacity co-efficient of
+
+
+
+calculations
+
+Chap 9 RB1
+
+
+
+species in mixture
+
+
+
+
+
+
+
+
+Gibbs energy
+Mixing rules, Estimation of pure component fugacity for
+Chap. 9 TB /
+
+18  19
+calculations for real
+
+
+
+
+
+real gas mixtures
+Chap 9 RB1
+
+
+gas mixtures
+
+
+
+
+
+
+
+
+
+Gibbs energy
+Lewis Randall rule, Excess properties, concept of
+Chap. 9 TB /
+
+20  21
+calculations for
+
+
+
+
+
+activity coefficient, Gibbs Duhem relation
+Chap 11 RB1
+
+
+solutions
+
+
+
+
+
+
+
+
+
+Gibbs energy
+
+Chap. 9 TB /
+
+22  24
+calculations for
+Correlative activity coefficient models
+
+
+
+
+
+Chap 11 RB1
+
+
+solutions
+
+
+
+
+
+
+
+
+25  26
+Vapor-Liquid
+Fundamental VLE equation, VLE at low and moderate
+Chap. 10 TB /
+
+
+Equilibrium
+pressures (review only), Azeotropic system
+Chap 12 RB1
+
+
+
+
+
+
+27  28
+Vapor-Liquid
+Multi-component VLE, Thermodynamic consistency
+Chap. 10 TB /
+
+
+Equilibrium
+test of VLE data, Descriptive VLE
+Chap 12 RB1
+
+
+
+
+
+
+
+Other Fluid  Fluid
+The solubility of gas in a liquid, Vapour liquid-liquid
+Chap. 11 TB/
+
+29 - 30
+
+equilibrium & Liquid-Liquid equilibrium, solid liquid
+
+
+
+equilibria
+
+Chap 14 T2
+
+
+
+equilibrium
+
+
+
+
+
+
+
+
+
+Review of multi-reaction Stoichiometry, standard Gibbs
+
+
+31
+Chemical Reaction
+free energy change and Equilibrium constant, vant Hoff
+Chap. 13 TB /
+
+
+Equilibria (review)
+equation, Relation between equilibrium constants and
+Chap 14 RB1
+
+
+
+
+
+
+
+
+species activities at equilibrium
+
+
+
+Chemical Reaction
+Homogeneous gas and liquid phase reactions
+Chap. 13 TB /
+
+32  34
+
+Equilibrium with simultaneous reactions, Heterogeneous
+
+
+
+Equilibria
+
+Chap 14 RB1
+
+
+
+reactions
+
+
+
+
+
+
+
+
+Statistical
+Introduction, Quantum mechanical aspects, Role of
+Chap. 6 RB2 /
+
+35  36
+
+statistical mechanics, Thermodynamic probability,
+
+
+
+Thermodynamics
+
+Lecture notes
+
+
+
+Probability and entropy
+
+
+
+
+
+
+
+37-39
+
+
+ Statistical Thermodynamics
+
+Molecular basis of residual entropy, Boltzmanns Distribution Law, Partition function and expressions for
+Chap. 6 RB2 /Lecture notes
+
+
+
+
+
+
+
+the same
+
+
+
+
+40  42
+
+Statistical
+
+Thermodynamic properties in terms of partition
+
+Chap. 6 RB2 /
+
+
+
+Thermodynamics
+
+functions, Partition functions of polyatomic molecules
+
+Lecture notes
+
+
+
+
+
+
+
+
+
+
+
+4. Evaluation Scheme:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Component
+Duration
+Weightage
+Date  & Time
+
+Remarks
+
+
+
+
+
+Test I
+
+60 min
+15%
+
+
+
+CB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Test II
+
+60 min
+15%
+
+
+
+OB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Seminars /Projects/Assignments
+
+
+40%
+To be announced
+
+
+OB
+
+
+
+Comprehensive Exam
+
+3 hours
+30 %
+
+
+
+CB/OB
+
+
+
+		Chamber Consultation Hours: To be announced in the class.
+		Notice: Notices will be put on CMS 
+		Make-up will be granted for genuine cases only. Prior permission of IC is compulsory.
+                      Instructor-in-charge CHE G622

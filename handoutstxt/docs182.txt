@@ -1,0 +1,110 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE-Pilani, 
+Hyderabad Campus
+INSTRUCTION DIVISION
+FIRST SEMESTER 2015-2016
+
+                                                   Course Handout (Part II)             Date: 1-8-2016
+
+Course No.: PHY F 313
+Course Title: Computational Physics
+Instructor-in-charge: P.K.Thiruvikraman
+
+Course Description: The use of computers for computation and simulation has become an integral part of physics. This course gives an introduction to the basic computational methods, which are used to solve problems in Physics. Some of the topics, which will be covered, are numerical methods for finding roots (with special emphasis on transcendental equations), solution of differential equations, integration (including Monte Carlo techniques for evaluating integrals). Applications of these techniques will also be discussed in class. Application oriented take home assignments will be given during the course. 
+Scope and objective of the course: The objective of the course is to give an introduction to basic techniques for solving Physical problems by using computational methods. Most of the real-world problems are not solvable analytically. An advantage of computational physics is that one can start with an idealized (simplified) version of a real problem for which analytical solution exists. Once a program has been written which can handle the idealized case, we can add more and more complex real-world factors. Illustrative examples will be taken from various areas of Physics like Mechanics, Condensed Matter Physics, Electricity and Magnetism, Quantum Mechanics, Statistical Physics etc. Some of the modern topics like Chaos, Percolation and random walk, will also be covered in the course.
+Text Book:
+ First course in Computational Physics by Paul DeVries, Javier E. Hasbun, Jones and Bartlett Publishers, Indian edition, 2011 
+Reference Book:
+Numerical Recipes in C, 2nd Edition, W. H. Press, S. A. Teukolsky, W. T. Vetterling and B. P. Flannery, Cambridge University Press, 1992.
+An Introduction to computer simulation methods, 2nd Edition, Harvey Gould and Tobochnik, Addison Wesley,1996.
+Applied Numerical Analysis, 7th Edition, Gerald and Wheatley, 2003
+
+
+Course Plan
+Lecture 
+No.
+Learning Objectives
+Topics to be covered
+Reference Chap./
+Sec. No.  (Book)
+1.
+Introduction
+Introduction
+-
+2-6
+Finding the Roots of a function
+The Newton Raphson Method and its application
+Chap 2 (TB)
+7-10
+Interpolation and approximation
+Lagrange interpolation, Newton-Gregory interpolation polynomial, error in interpolation
+3.1, 3.8
+11-16
+Numerical Integration
+Gaussian Quadrature and application, Romberg integration
+Chap 4 (TB)
+17-22
+Numerical Integration
+
+Random Number generators, Metropolis Algorithm,
+Monte Carlo Integration and its application
+12.6 (R2)
+& class notes,
+11.8 (R2),
+Chap 4 (TB) & Chap 11 (R2)
+23-28
+
+Ordinary Differential Equations
+
+Euler Methods, higher order Runge-Kutta Methods and application
+Chap 5 (TB),  Chap 16.1-16.3 (R1)
+29-32
+Partial Differential Equations 
+Solution of boundary value problems by finite difference methods and application
+Chap 7 (T1)
+Chap 10.2-10.4 (R2)
+
+33-37
+Monte Carlo Simulations
+Random walk;
+ Ising model
+Chap 4 (T1);
+Chap 5 (T1), Chap 17 (R2)
+38-42
+Solution of Non-linear differential equations
+Chaos 
+Chap 6 (T1)
+Evaluation scheme:
+Component
+Duration
+Weightage(%)
+Date & Time
+Remarks
+Test I
+50 min
+20 %
+10/9/2016 10-11 AM
+Open Book
+Test II
+50 min
+20 %
+22/10/2016
+10-11 AM
+Closed Book
+Assignments
+
+20 %
+
+Open Book
+Compre. Exam
+3 hrs
+40%
+9/12/2016 
+2 PM  5 PM
+Closed Book
+
+Chamber Consultation hour will be announced in class.. 
+Notices for this course will be displayed on the Physics Notice board and on the Course Management System (CMS) website only.
+Make-up will be granted only if the make-up letter is forwarded by the Chief Warden. 
+                                                                                      
+                                                                                      Instructor-in-charge, 
+                                                                                             PHY F313

@@ -1,0 +1,120 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI - HYDERABAD CAMPUS INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+Course Handout (Part-II)
+Date: 23 /07 /2016
+ 
+In addition to part I (General handout for all courses appended to the timetable) this portion gives further details regarding the course. 
+Course Number : PHY F111 
+Course Title : MECHANICS, OSCILLATIONS & WAVES 
+Instructor-in-Charge : SarmisthA BANik* 
+Instructors :Souri Banerjee*, Asrarul Haque*, VSN Murthy*, Harihara Venkatraman,  KVS Shiv Chaitanya, Adonis Lupulescu, VSN Murthy, P.K. Thiruvikraman
+Course Description: Mechanics, Waves and Oscillations is a basic physics course, which will cover the following topics in Mechanics, Vibrations and Waves: Polar Coordinates, Angular Momentum, Rigid body motion, Central force motion, Harmonic Oscillator, Coupled Oscillations.
+
+Scope & Objective: Physics is an exact science which provides the basic logic and structure to build an understanding of other branches of science and engineering. In this course, the subjects of Mechanics, Oscillations, and Waves are covered with the aim to prepare the students for advanced level courses. The objective of this course is to develop problem solving skills.
+
+ Text books: 
+1. An Introduction to Mechanics, by D. Kleppner and R. Kolenkow, Tata McGraw-Hill Edition, 2007. 
+2. French, Anthony P, Vibrations and Waves, CBS, 1987. 
+
+Suggested  books for further readiung: 
+1. Physics Vol I & II, Halliday/Resnick/Krane 5th   Edition, John Wiley, 2003. 
+2. Berkeley Physics Course Volume I, Tata-McGraw Hill. 
+
+Lecture Number
+Learning Objectives
+Topics to be covered
+Chapter/
+Section
+
+Topics from Text Book 1 (Kleppner and Kolenkow)
+1-2
+Vectors and Kinematics
+Velocity and Acceleration, Motion in Plane Polar Co-ordinates
+1.6-1.9
+3-7
+To understand the concept of Angular Momentum and to study rotation of a rigid body about a fixed axis
+Angular Momentum, Torque, Fixed axis rotation, Physical Pendulum
+6.1-6.7
+8-14
+To study rigid body motion
+Conservation of angular momentum, vector nature of angular momentum, The Gyroscope, Angular momentum and the tensor of Inertia 
+7.1-7.7
+15-21
+Understand Central Force Motion
+Central force motion, Energy diagrams, planetary motion, Keplers laws
+9.1-9.7
+22-26
+Simple harmonic motion (SHM)
+Displacement, velocity and acceleration in SHM, energy of a simple harmonic oscillator, Damped and forces harmonic oscillators
+10.1-10.4
+Topics from Text Book 2 (A.P.French)
+27-28
+Superposition of periodic motions
+Superposed vibrations in 1 dim, Two superposed vibrations of equal frequency, superposed vibrations of different  frequency, beats, Lissajous figures
+Ch 2
+
+29-31 
+Coupled Oscillations
+Stiffness coupled oscillators, normal modes, degrees of freedom etc, double pendulum
+Ch.5
+pp: 119-132
+32-33
+Coupled Oscillations (contd.)
+Matrix method for finding normal mode frequencies, matrices, eigenvalues and eigenvectors, coupled oscillations of loaded string and wave equation
+Class notes
+34-36
+Transverse wave motion
+Waves, solution of wave equation, reflection and transmission, standing waves, energy of vibrating string, standing wave ratio, wave group and group velocity
+Ch.7
+pp: 201-213,230
+37-39 
+Interference and Diffraction
+Interference, Newtons ring, interference from two and more sources
+Ch.8
+pp: 267-280
+
+40-42 
+Interference and Diffraction (contd.)
+Diffraction, intensity distribution, Fraunhoffer diffraction, transmission diffraction grating, resolving power
+Ch.8 (contd.)
+pp: 281-293
+
+S.No. 
+Evaluation Component 
+Duration 
+Weightage 
+(%) 
+Date & Time 
+Nature of Component 
+1 
+Test I 
+60 mins. 
+20 
+
+Open Book 
+2 
+Test II 
+60 mins. 
+20 
+
+Closed Book 
+3
+Quiz
+
+20
+
+Closed Book
+3 
+Comprehensive Examination 
+3 hours. 
+40 
+
+Closed Book 
+
+Chamber Consultation Hour: To be announced in class.
+Notices: Notices and solutions will be displayed only on the PHYSICS department notice board and on the Course Management Service (CMS) website.
+Make-up Policy: Make up for tests will be granted only if the make-up letter is forwarded by the Chief Warden in advance.
+									   
+Instructor-in-Charge
+          PHY F111
+

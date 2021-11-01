@@ -1,0 +1,196 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI- HYDERABAD CAMPUS INSTRUCTION DIVISION, FIRST SEMESTER 2016-2017 COURSE HANDOUT PART II Date: 19 -07 - 2016
+In addition to Part-I (General Handout for all courses appended to the timetable) this portion gives further specific details regarding the course.
+
+Course No. Course Title Instructor-in-charge Instructors
+
+: : : :
+
+EEE G581 RF and Microwave Engineering Dr Runa Kumari Dr Runa Kumari
+
+1. Course description:
+
+Maxwell's equations, Boundary conditions, Wave propagation, Poynting theorem; Electrical properties of materials; Transmission line theory, impedance matching, and transmission line resonators; Wave propagation in Waveguides rectangular and circular, non-TEM modes, dominant mode, higher order modes, Waveguide components; Cavity resonators, Equivalent circuit model, Metallic and Dielectric resonator cavities; Image theory, Equivalence principle, Perturbation theorem; Multiport network parameters, S-parameters, Signal flow graphs, Vector network analyzer (VNA) - block diagram; Power divider and directional couplers; Microwave solid state devices and travelling wave tubes; Microwave generators; Computational electromagnetism
+
+2. Scope & Objective:
+
+This course deals with radio frequency and microwave engineering, which in other words is the physical realization of electromagnetic theory. The basic knowledge of the student in the field of engineering electromagnetics will be developed to advanced levels. Low frequency systems can be analyzed using circuit theory, where concepts like voltage, current and impedance are valid. At intermediate frequencies, the analysis needs inclusion of an additional effect called reflection into circuit theory, which now becomes the transmission line theory. But at high frequencies, the circuit / transmission line theory has to be replaced with field theory, in order to address the new effect of radiation. Practical uses of certain theorems based on field theory will be described. Commercial electromagnetic simulators will be introduced and the underlying electromagnetic principles will be revisited. Students are supposed to approach the course from a research point of view also. In addition to relying on the subject oriented textbooks, the students are advised to follow technical journal papers also. Skills like preparing and presenting technical report, seminar, etc., will also be developed and evaluated.
+
+3. Text Books
+
+(i) Pozar, David M Microwave Engg. WSE , 3rd ed , 2005
+
+(ii) Liao, S Y Microwave Devices & Circuits PHI/ Pearson Edu. , 3rd ed , 1990
+
+(iii) Singh,Hema & S.Balasubramanian RF & Microwave Engineering Notes-EDD, 2006
+
+4. Reference Books
+
+[R1] C.A. Balanis, Advanced Engineering Electromagnetics, John Wiley, 1989
+
+[R2] S.L. Liao, Microwave devices and circuits, Pearson Education, 3rd Ed., 1997
+
+[R3] R.E. Collin, Foundations for Microwave Engineering, 2nd Ed. Wiley India, New Delhi 2005
+
+4. Course Plan
+
+Sl.No
+
+Topics to be covered
+
+1 Introduction to the course and its components
+Divergence, Curl, Gradient, and Laplacians; 2 Divergence and Stokes' Theorems; Introduction to
+Curvilinear Coordinate Systems
+Electrostatics, Magnetostatics, Time Harmonic EM 3 Fields (including Maxwell's equations), Boundary
+Conditions
+Helmholtz Wave Equation, Lossy Materials and 4 Complex Permittivity, Poynting Vector, Wave
+Transmission and Reflection
+1
+
+Learning Objectives
+Course handout discussion
+Review of Vector Calculus
+Review of Electromagnetic
+Fields
+Basics of Wave Propagation
+
+Ref. to Book No. of Lectures
+
+Lecture Material (LM)
+
+1 1
+
+T1 : ch.1
+
+3
+
+T1 : ch.1
+
+4
+
+Free Space as a TX Line, TX Line Terminated with a
+
+5
+
+Load, Some Special Cases, Smith Chart, Impedance Matching, Lumped Element Circuit Model of a TX
+
+Transmission Line Theory
+
+T1 : ch.2, ch.5
+
+Line
+
+Implementation of Capacitors and Inductors at 6 Microwave Frequencies, Basic Theory of Series and
+Parallel Resonators, TX Line Resonators
+
+TX Line Resonators
+
+Review of Helmholtz Wave Equation; TE, TM, and
+
+7
+
+TEM Modes (in both rectangular and cylindrical coordinate systems); Rectangular and Circular Waveguides; Planar TX Lines such as Microstrip
+
+Waveguides and TX Lines
+
+Lines
+
+T1 : ch.6 T1 : ch.3
+
+8
+
+Cavity Resonators, Dielectric Resonators, Excitation Cavity & Dielectric
+
+of Resonators
+
+Resonators
+
+T1 : ch.6
+
+Typical N-Port Parameters (such as Z, Y, ABCD,
+
+etc.); S Parameters; Reciprocal, Loss-less, Matched
+
+9
+
+Networks; Even & Odd Mode Analysis; Analysis of Cascaded and Interconnected Microwave Networks;
+Qualitative Analysis of Equivalent Impedance,
+
+Microwave Network Analysis
+
+T1 : ch.4
+
+Voltage, and Currents; Discontinuities and Bends in
+
+TX Lines
+
+Basic theory of Power Dividers and Couplers, 3-Port
+
+10
+
+vs 4-Port Devices; 3-Port Power Dividers such as TJunctions, Wilkinson Power Divider, etc.; 4-Port Devices such as Quadrature Hybrid Coupler, RatRace Coupler, etc.; Qualitative Treatment of a few
+
+Power Dividers and Directional
+Couplers
+
+T1 : ch.7
+
+Other Types of Couplers
+
+Solid State Sources : Gunn Diode - GaAs, InP Diode
+
+11
+
+Oscillators, IMPATT Diode; Tube based Amplifiers and Sources - Klystron, Magnetron, Travelling Wave
+
+Tube, etc.
+
+Microwave generators
+
+T1 : ch.10 T2 : ch.7--9
+
+Introduction to Time Domain and Frequency Domain Computational
+
+12
+
+Techniques; Basic ideas of FDTD, FEM, and MoM Techniques.
+
+Electromagnetics
+
+Lecture Material
+
+Total Number of Lectures
+
+5 2 4 2 5
+5 5 5 42
+
+Laboratory component: One lab session per week. Laboratory component involves hardware as well software (both circuit and full-wave simulations using Ansys Electronic Desktop) experiments.
+
+6. Evaluation Scheme
+
+Component
+Test I
+Test II
+Comprehensive Theory Exam
+Regular Lab Term Project
+Lab Exam.
+
+Duration 60 min
+60 min
+3 Hrs ------
+
+Weightage 15%
+15%
+30% 15% 20% 5%
+
+Date & Time 13/09 & 10:00- 11:00AM 21/10 & 10:00- 11:00AM
+14/12 FN
+
+Remarks Closed Book
+Closed Book
+Closed Book Open Book Open Book Open book
+
+7. Chamber Consultation Hour: Will be announced in the class. 8. Notices: Notices concerning this course will be on CMS.
+
+Runa Kumari Instructor-in-Charge 2
+
+

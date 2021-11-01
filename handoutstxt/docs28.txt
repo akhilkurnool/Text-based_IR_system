@@ -1,0 +1,69 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, Hyderabad INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017 COURSE HANDOUT(PART-I)
+Date : 01/08/2016
+
+In addition to Part-I (General Handout for all courses appended to the Timetable) this portion
+
+gives further specific details regarding the course.
+
+Course No.
+
+: BITS F464 / BITS C464
+
+Course Title
+
+: Machine Learning
+
+Instructor In Charge : Dr. N.L.BHANU MURTHY
+
+Team of Instructors : Dr. N.L.BHANU MURTHY
+
+1. COURSE DESCRIPTION : Machine Learning addresses the problem of identifying patterns in data. The major goal of machine learning is allow to computers to learn (potential ly complex) patterns from data, and then make decisions based on these patterns. This class will provide an introduction to the fundamentals of this discipline. The main objective of this course is to get familiarity with a set of well-known supervised, unsupervised and semi-supervised learning algorithms. This course helps to achieve the ability to design & implement some basic machine learning algorithms and understanding of how machine learning algorithms are evaluated.
+2. SCOPE & OBJECTIVE: The course covers design, implementation and applications of many supervised and unsupervised machine learning algorithms. The classification algorithms, namely, Logistic Regression, Support Vector Machines, Artificial Neural Networks, Decision Trees, Bayesian methodologies will be studied exhaustively. This course also encompasses regression techniques like liner regression of one variable and different variables. The unsupervised techniques like k-means algorithm will also be covered in this course.
+3. TEXT BOOK : T1. Christopher Bishop: Pattern Recognition and Machine Learning, Springer International Edition T2. Tom M. Mitchell: Machine Learning, The McGraw-Hill Companies, Inc..
+
+5. COURSE PLAN:
+Subject
+Course Introduction & Motivation Concept Learning &General-to-Specific Ordering Decision Tree Learning Bayesian Learning Regression - Linear Regression with single and multiple variables
+Logistic Regression Support Vector Machines Artificial Neural Networks Advanced topics
+
+Ref
+Lecture Notes T2 - Ch. 2
+T2 - Ch. 3 T2 - Ch. 6 T1 - Ch. 3
+T1 - Ch. 4 T1 - Ch. 7 T2 - Ch. 4 T2 - Ch. 9
+
+Lecture n
+1 -2 3-6
+7 - 11 12 - 19 20 - 26
+27 - 29 30 - 33 34 - 38 39 - 40
+
+6. EVALUATION SCHEME:
+
+Component
+Test-1 Test-2 Assignments Comprehensive
+
+Durati
+
+Date & Time
+
+on
+
+1 Hr 8/9, 11.30-12.30 PM
+
+1 Hr 25/10, 11.30-12.30 PM
+
+3 Hrs 07/12 AN
+
+Weightage Remarks
+
+20%
+20% 20% 40%
+
+Close Book Close Book
+Close Book
+
+7. CHAMBER CONSULTATION HOUR: Thursday 1500 Hrs - 1600Hrs @B217 8. Make-up: Make-up will be granted only to genuine cases with prior permission only. 9. NOTICES: All notices about the course will be put on CSIS Notice Board.
+
+Instructor-in-charge BITS F464
+
+

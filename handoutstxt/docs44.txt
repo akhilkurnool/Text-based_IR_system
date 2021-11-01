@@ -1,0 +1,135 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+INSTRUCTION DIVISION
+First Semester 2015-2016
+Course Handout (Part II)
+Date: 16.05.2016
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further details regarding the course. 
+
+Course No.		 : CE G620
+Course Title 		 : Advanced Foundation Engineering
+Instructor-in-charge	 : Dr. Anasua GuhaRay
+1.   Course Description:
+Types of foundations, capacity and settlement of foundations, soil properties, design considerations, discrete method for analysis, design of shallow and deep foundations, failure in foundations, remedial measures, case studies of foundations.
+
+2.  Scope and Objective of the Course:
+All engineered construction resting on the earth must be carried by some kind of interfacing element called a foundation. This course is aimed understand different types of foundation, estimation of bearing capacity of underlying soil, settlement behaviour, design of various types of foundation and case studies in foundation. Complete design of foundation systems considering geotechnical as well structural (R.C.C.) design of foundation systems (spread footing, combined footing, raft foundation, ring foundation, pile foundations, pile cap, caissons, well foundations, machine foundations, basements walls, retaining structures etc.) Emphasis will be given on complete coverage of Indian code of practice for various type of foundation.
+ 
+3. Text Book:
+T1
+Bowles, J. E. (1988). Foundation analysis and design.
+T2
+Murthy, V. N. S. (2002). Geotechnical engineering: principles and practices of soil mechanics and foundation engineering. CRC Press.
+
+4. Reference Books:
+R1
+Varghese, P.C. (2009) Design of reinforced concrete foundations Prentice-Hall of India
+R2
+Tomlinson, M. (1994). Pile design and construction practice. 4th edition, CRC Press.
+R3
+Prakash, S., & Sharma, H. D. (1990). Pile foundations in engineering practice. John Wiley & Sons.
+R4
+Relevant IS codes
+5. Course Plan    
+                                    
+Learning Objective
+Topics to be covered
+No of Lec.
+Ref. to Ch. 
+Types of Foundation
+Introduction to foundation engineering, different types of foundation, Requirements of  good foundation
+1
+1,  T1
+
+Soil exploration technique
+Immediate settlement, consolidation settlement, total settlement, settlement from field tests
+2-3
+3T1
+Bearing capacity of shallow foundations
+Failure mechanism, generalized bearing capacity eqn, bearing capacity from field tests
+4-6
+4 T1: 12, T2, R4
+Foundations subjected to eccentric and inclined loads
+Effect of load eccentricity and inclination, pressure distribution, bearing capacity, tilt and settlement 
+7-9
+4 T1: 12 T2
+Foundations on layered soils, slopes
+Design of foundations on slopes, foundations on layered soils, rocks
+10-12
+5 T1: 12 T2
+Foundation Settlement calculation
+Settlement problems, Stress in soil mass, Immediate settlement calculation, field plate load tests
+13-15
+5 T1: 13 T2
+Design of shallow foundations
+Geotechnical and structural design of isolated footings, strip, rectangular and trapezoidal combined footings  strap  balanced footings 
+16-18
+8 T1: 22 R1
+
+Design of raft foundations
+Design of flat slab Raft foundation, Design of beam and slab Raft foundation  Approximate flexible method of raft design - Compensated foundations.
+19-21
+10, T1
+Pile Foundations
+Types of Piles and their applications, Single Pile and Pile group - Load capacity  Settlements, Pile load test, Pile Dynamic analysis 
+22-25
+16, 17 T1: 15 T2: 2 R2, R3, R4 
+Laterally loaded Pile Foundations and seismic design
+Different methods for estimating Lateral load capacity of piles 
+26-29
+16 T1: 15 T2: 2 R2
+Design of pile foundation
+Structural design of piles, pile cap, under-ream piles, detailing.
+30-33
+7 R2
+Machine Foundation
+Types - General requirements and design criteria - General analysis of machine-foundations-soil system - Stiffness and damping parameters - Tests for design parameters - 
+34-36
+18 T1:15 T2
+Drilled Piers
+And Sheet piles
+Introduction, capacity analysis of drilled piers, Settlement, analysis of sheet piles
+37-40
+20 T2
+
+Total 
+40
+
+
+
+
+6. Evaluation Scheme:
+
+Component
+Duration
+Weightage
+Date & Time
+Remarks
+Test  I
+1 hr
+15%
+
+OB
+Test-II
+1 hr
+15%
+
+CB 
+Projects/ Open Book/Assignments /Research oriented activities 
+-
+40%
+Continuous
+-
+Comprehensive
+3 hrs
+30%
+
+CB
+
+7. Chamber Consultation Hour: To be announced in the class
+8. Reading assignments will be given whenever necessary.
+9. Notice: Notices will be displayed on Civil Engg. Group Notice Board only.
+
+Instructor-in-charge
+
+
+

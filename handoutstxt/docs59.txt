@@ -1,0 +1,193 @@
+Birla Institute of Technology & Science, Pilani Hyderabad Campus
+Computer Science and Information Systems Department
+First Semester 2016-2017 Course Handout (Part II)
+Date: 20.07.2016
+In addition to part-I (General handout for all courses appended to the timetable) this portion gives further specific details regarding the course:
+COURSE NO. : CS G623
+ADVANCED OPERATING SYSTEMS
+
+Instructor: Chittaranjan Hota (hota@hyderabad.bits-pilani.ac.in) Hyderabad Co-Instructor: Lavika Goel (lavika.goel@pilani.bits-pilani.ac.in) Pilani
+
+Scope and Objectives Over the last two decades considerable amount of research has been done in "Distributed OS". The aim of this course is to introduce the design and implementation issues of Distributed OS. Distributed OS's work in an
+environment where we have independent machines (both hardware and software) connected with each other over
+a computer network. Distributed OSs have at their center the reasoning that you should use faster machines for
+more tasks that need speed, and slower ones for the tasks that don't. Also, central to the design of distributed OS's
+is making this design transparent to the user. A Distributed OS makes a Distributed System a virtual uniprocessor
+system. The distributed OS to be studied in this course is microkernel based. It's just that the user level processes that are separated from the kernel can run on remote machines. Few case studies like Sun NFS, V-System,
+Condor, Sprite, IVY, Vector Clocks, Causal ordering, Agreement protocols, Mutual Exclusion, Distributed file
+systems etc. shall be discussed and also implemented as part of the coding assignments.
+
+TEXT BOOK T1 M. Singhal & N. Shivaratri, "Advanced Concepts in Operating Systems: Distributed, Database and Multiprocessor Operating Systems", Tata McGraw Hill, 2001.
+REFERENCE BOOKS R1 Distributed Operating Systems - The Logical Design by A. Goscinski, AW R2 Modern Operating Systems by A. S. Tanenbaum, PHI R3 Distributed Systems-Concepts and Design by G. Coluris, AW
+
+PLAN OF STUDY: S.No Learning objectives . 1. Will learn the usage of various Advanced OSs.
+2. Review of Computer networks.
+3. Need of Logical clocks and how can they help solve the problem of nonavailability of hardware clock synchronization approaches.
+
+TOPIC
+
+Overview of Advanced O.S: Design
+
+approaches, Why to study AOS? Types of
+
+Advanced OS.
+
+Architecture:
+
+Motivation,
+
+Issues,
+
+Communication Networks, Communication
+
+Primitives.
+
+Theoretical Foundations: Limitations, Lamport's logical clock, vector clock, causal
+
+ordering, global state, Cuts.
+
+Ch. Ref (T1) Chapter 1
+Chapter 4
+Chapter 5
+
+#Lec 2 2 3
+
+1/2
+
+4. Ways to serialize access to Distributed Mutual Exclusion: Lamport, Chapter 6 3 concurrent resource requests will be Recart-agrawala, and Maekawa's algorithms;
+
+discussed using various approaches Suzuki-kasami broadcast algorithm, and
+
+and their need to DS building.
+
+Raymond's tree based algorithm .
+
+5. Few research papers on DME from Recent Research on DME
+
+IEEE/ACM 1
+
+various publications.
+
+6. Why deadlocks are seen as Distributed Deadlock Detection: Resource Vs. Chapter 7 3
+
+challenges in DS building? How to Communication deadlock, Strategies to handle
+
+handle those without using shared deadlock, Ho-Ramamoorthy, Path-Pushing,
+
+variables like Semaphores as is Edge-Chasing, Diffusion Computation-based
+
+done in Multi-user OS?
+
+algorithms.
+
+7. Importance of Consensus in DSs Agreement Protocols: System model, Chapter 8 3
+
+and different ways to implement Classification of agreement problems,
+
+those in a DS.
+
+Solutions to Byzantine Agreement (BA)
+
+problems.
+
+8. Few research papers on BA from Recent Research on Consensus/ Agreement IEEE/ACM 1
+
+various publications.
+
+9. How to access files from different Distributed File Systems: Mechanisms for Chapter 9 3
+
+machines running heterogeneous building DFSs, Design Issues, Sun DFS,
+
+OSs in an transparent manner?
+
+Sprite DFS, and Hadoop DFS.
+
+10. Few research papers on DFS from Recent Research on DFS
+
+IEEE/ACM 2
+
+various publications.
+
+11. Need of transferring a job from one Distributed Scheduling: Issues in Load Chapter 11 3
+
+machine to another and various Distribution, Components of a load
+
+ways of doing so will be learnt in distribution algorithm, Load Distribution
+
+this part.
+
+Algorithms, V-system, Sprite, and Condor.
+
+12. Few research papers on Distributed Recent Research on Distributed Scheduling IEEE/ACM 2
+
+scheduling from various
+
+publications like Map reduce from
+
+Hadoop.
+
+13. How to combine the storage power Distributed Shared Memory: Algorithms for Chapter 10 3
+
+of several RAMs to realize a single implementing DSMs, Memory Coherence,
+
+RAM of larger size?
+
+and Coherence Protocols, IVY.
+
+14. How to handle failures and different Recovery: Classification of failures, Chapter 12 3
+
+ways of recovering the distributed Synchronous and Asynchronous Check
+
+computations?
+
+pointing and Recovery.
+
+15. Why should we make our DS a fault Fault Tolerance: Commit Protocols, Voting Chapter 13 3
+
+tolerant and their impact?
+
+Protocols, Failure Resilient Processes.
+
+16. Access control mechanisms in DS Protection and Security: Access Matrix Chapter 14 3
+
+will be studied.
+
+Model, Implementation of access matrix,
+
+Unix, and Amoeba..
+
+EVALUATION SCHEME:
+
+Sl No.
+
+Component & Nature
+
+1. Assignment (TH)
+
+2. Mid-semester Test
+
+3. Term paper presentation
+
+4. Comprehensive Exam (20% OB and 20% CB)
+
+Duration * 90 mins
+30 mins
+3 hrs
+
+Weightage 20% 25%
+15%
+40%
+
+Date and Time *
+* TBA (visit ID website)
+
+Coding Assignments for the course will be based on the design aspects of various components of Distributed Operating Systems like distributed middleware, agreement protocols, logical clock implementations, distributed file systems, distributed shared memory, and distributed scheduling or load balancing etc.
+
+Note: All notices related to the course will be displayed on the CSIS Notice Board, and / or course website. Make ups shall be granted to genuine cases with a request for makeup reaching I/C on or before the test.
+
+Chamber Consultation Hour: Will be announced in the class.
+
+Instructor-in-charge, CS G623
+2/2
+
+

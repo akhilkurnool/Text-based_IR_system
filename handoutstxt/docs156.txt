@@ -1,0 +1,92 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE - PILANI, HYDERABAD CAMPUS INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017 (COURSE HANDOUT: PART-II)
+
+Date: 01/08/2016
+
+In addition to Part- I (a general handout for all courses appended to the time-table), this handout provides the specific details of this course.
+
+Course No.
+
+:
+
+Course Title
+
+:
+
+Instructor-in-charge :
+
+ME G533 CONDUCTION AND RADIATION HEAT TRANSFER SANTANU PRASAD DATTA
+
+1. Course Description
+Heat conduction equations; Eigen value problems; analytical solution of heat conduction equation by Laplace transform, Duhamel's theorem, Fourier transform and separation of variables techniques; contact resistance; transient heat conduction - conduction with moving boundary, solidification and melting; problems with periodic boundary conditions; inverse heat conduction, micro-scale heat transfer; integral equation for radiative exchange; view factors; radiative exchange between surfaces: black surfaces, gray, diffuse partially specular surfaces; radiative properties of participating media: introduction to gas properties, wide band models, total emissivity, particle properties; radiative transfer through participating media: gray, plane-parallel slab; approximate methods; non-gray media.
+
+2. Scope and Objective
+To introduce and familiarize students with various analytical methods used as tools to analyse a wide range of engineering applications involving heat transfer by conduction and radiation. Emphasis will be given to understanding and the use of various mathematical techniques needed to develop the exact analytical and appropriate solutions for a broad class of heat conduction and radiation problems. Examples will be discussed to illustrate the applications of various exact solution techniques. In the first half, basics conduction heat transfer equations and analytical methods to the solutions of transient conduction heat transfer with and without heat generation, with moving heat source and phase change will be discussed. In the second half, the theory of radiation heat transfer and analytical methods to the solution of radiation heat exchange between different surfaces with and without participating media will be discussed.
+
+3. Text Books (TBs)
+(a) TB1: M. Necati Ozisik, "Heat Conduction", John Wiley & Sons, 2nd edition, 1993. (b) TB2: Michael F. Modest, Radiative Heat Transfer, Academic Press, 2nd edition, 2003.
+
+4. Reference Books (RBs)
+(a) RB1: Latif M. Jiji, "Heat Conduction", Springer, 3rd edition, 2009.
+(b) RB 2: Theodore L. Bergman, Adrienne S. Lavine, Frank P. Incropera, David P. DeWitt, "Fundamentals of Heat and Mass Transfer",Wiley, 7th edition, 2011.
+(c) RB2: Muralidhar, K. and Banerjee, J., "Conduction and Radiation", Narosa Publishing House Pvt.
+Ltd., 2010. (d) RB3: Vedat S. Arpaci, "Conduction Heat Transfer", Addison-Wesley, 1991. (e) RB4: John R. Howell and Robert Siegel, "Thermal Radiation Heat Transfer", Taylor & Francis,
+4th Edition, 2002.
+
+5. Course Plan
+Lecture Learning Objectives No. 1-5 Heat conduction equations with different geometry, boundary conditions, solution methodology 6-14 Different methodologies to solve transient and steady state heat conduction 15-18 Mathematical modelling of moving heat source and heat sink problems 19-22 Phase-change problems with variable boundary wall 23-26 An overview of inverse heat conduction problems, heat capacity 27-29 Fundamentals of radiation, basic laws, some definition of radiative heat transfer 30-31 Definition and method to evaluate view factor 32-35 Radiative heat exchange between different surfaces
+
+36-38 39-40
+
+Equation of radiative transfer in participating media Radiative properties of molecular gases and particulate media
+
+Topics to be covered
+Fundamental of conduction heat transfer (CHT) - steady and transient CHT, boundary conditions, separation of variables, Eigen values
+Exact solution of CHT - Duhamel's theorem, Green's function, Laplace transform, Fourier transform Application of transient conduction heat transfer (TCHT) - stationary and moving heat source/sink Application of TCHT - moving boundary problems (melting and solidification) Inverse heat conduction problems (IHCP), micro-scale heat transfer
+Fundamental of radiation heat transfer (RHT) - radiation characteristics of matter, radiative properties of surfaces View factors
+Radiative heat exchange between gray, diffusive, partially-specular and non-gray surfaces Radiative heat transfer with participating media - absorbing, emitting and scattering
+Radiative properties of gases and particles
+
+Chapter Nos.
+Ch. 1-3 (TB1)
+Ch. 5-7 (TB1)
+Ch. 10 (TB1)
+Ch. 11 (TB1) Ch. 14 (TB1)
+Ch. 1 & 3 (TB2)
+Ch. 4 (TB2) Ch. 5-7 (TB2)
+Ch. 9 (TB2)
+Ch. 1011 (TB2)
+
+6. Evaluation Scheme
+Evaluation Component
+Test-I Test-II Assignments
+Term-project (1) Comprehensive Exam
+
+Duration (min.) 60 60 Within 7 days 180
+
+Weightage (%) 15% 15% 20%
+
+Date & Time
+9/9, 8.30-9.30 AM 24/10, 8.30-9.30 AM
+To be announced by I/C
+
+20% To be announced by I/C
+
+30%
+
+03/12 FN
+
+Nature of Component Closed Book Closed Book Open Book
+Open Book Closed Book
+
+7. Chamber Consultancy Hour To be announced by I/C in the class.
+
+8. Notices
+All notices concerning this course will be displayed in Mechanical Engineering notice board. Students are advised to visit regularly CMS (institute's web based Course Management System) for all notices
+and updates.
+
+9. Make-up Policy Make-up request for tests shall be granted only for the genuine cases with sufficient evidence. Request letter duly signed by the student should reach the under signed well in advance.
+
+Instructor-in-charge (I/C) (ME G533)
+
+

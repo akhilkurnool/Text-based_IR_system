@@ -1,0 +1,124 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+Instruction Division
+Second Semester 20162017
+Course Handout (Part II)
+Date: 02.08.2016
+In addition to Part I (General Handout for all courses appended to the Time Table), this portion gives further specific details regarding the course.
+
+Course No.                   :               PHY F312
+Course Title                 :              Statistical   Mechanics
+Instructor-in-Charge    :            Aravinda Raghavan
+
+ Course Description    : 
+Statistical mechanics is a great achievement of the human mind and forms an important pillar on which physics stands. While classical mechanics deals with macroscopic objects and quantum mechanics deals with microscopic objects, statistical Mechanics concerns the physical description of a large collection of objects and their relationship with measurable macroscopic properties. Statistical mechanics helps understand arguably the largest variety of both man-made and naturally occurring phenomena. A few examples are semiconductor diodes, why a protein molecule folds under certain conditions, precision detectors, the origin of White dwarfs and other astrophysical objects, phase-equilibrium of mixtures. In this course, the rudiments of this subject will be taught and their application will be shown through illustrative examples. 
+
+Learning outcomes
+
+Understanding the different statistical ensembles and their distribution functions, and applying them to derive thermodynamic potentials, and differentiating their range of applicability.
+
+Defining partition function and applying it to solve problems.
+
+Applying classical and quantum statistical distributions to a few systems. 
+
+Recognizing the relationship between equilibrium distributions and kinetic processes leading to equilibrium.
+
+Understanding interacting systems and some of the approaches developed to comprehend such systems.
+
+Text Books:
+An Introduction to Thermal Physics, Daniel Schroeder, Pearson, 2014. 
+
+Reference Books:
+Fundamentals of Statistical and Thermal Physics, F.Reif, McGraw Hill International Editions, 1985.
+Statistical Physics, Landau and Lifshitz.
+Statistical Physics of Particles, Mehran Kardar, Cambridge University Press, 2007.
+
+
+
+Course Plan: 
+
+Lecture No.
+Topics to be covered
+1-5
+Review of thermodynamics and Kinetic theory
+6-10
+Probability Theory
+11-15
+Classical Statistical mechanics
+16-18
+Ensemble Theory
+19-25
+Interacting systems
+25-27
+Quantum statistical mechanics
+28-32
+Ideal Bose systems
+32-36
+Ideal Fermi systems
+37-39
+Phase transitions
+39-42
+Kinetics: Fluctuation-Dissipation theorem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Evaluation Scheme:
+
+Component
+Duration
+Weightage
+(%)
+Date & time
+Nature
+Test 1
+60 min
+17.5
+13th September, 
+10am-11am
+Closed  Book
+Test 2
+60 min
+17.5
+21st October,
+10am-11am
+Open Book
+Weekly Quiz/Assignments
+10 min
+15
+--
+Closed Book
+Projects
+
+15
+--
+Open Book
+Comprehensive exam
+3 hours
+35
+14th Dec./Afternoon
+Closed Book
+ 
+Make-up policy: 
+It is applicable to the following two cases and it is permissible on production of evidential documents. 
+                          (i) Debilitating illness.
+                         (ii) Out of station with prior permission from the Institute.
+
+All notices will be displayed on the Physics Group Notice Board.
+   
+
+
+                                                                                                      Instructor
+                                                                                                      PHY C312
+

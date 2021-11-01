@@ -1,0 +1,147 @@
+
+INSTRUCTION DIVISION
+FIRST/ SECOND SEMESTER 2016-2017
+Course Handout Part II
+										    Date: 01-08-2016 
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.			:  ECONF418
+Course Title			: Quantitative Analysis of International Trade
+Instructor-in-Charge		: Dr. Archana Srivastava
+
+Scope and Objective of the Course: This course pertains to applied empirical methods in international economics, with an intense emphasis on international trade and trade policy. Aptly devoted to study how economists use empirical techniques  econometrics, survey methods, input-output analysis, simulations, and applied general equilibrium analysis  to estimate relationships in international economics. Further, the course will provide a hands-on, practical introduction to applied trade work.  The course will discuss the theoretical and analytical literature on international trade before the discussion of empirical issues related to international trade.
+
+Textbooks:
+Feenstra, R.C. Advanced International Trade: Theory and Evidence. Princeton University Press, 2004.
+
+Reference books
+Feenstra R. C and Taylor. A.M. International Economics, Worth Publisher, 3rd ED. 2014.
+Kenen, Peter B.The International Economy. Cambridge University Press, 2000.
+Vasudeva, P.K .World Trade Organization: Implications for Indian Economy, Pearson Education, 2005
+Hertel, Thomas W., and Thomas Warren Hertel.Global Trade Analysis: Modeling and Applications. Cambridge university press, 1997.
+J. Borkakoti International Trade: Causes and Consequences: An Empirical and Theoretical Text, Macmillan Press Limited, 1998.
+Markusen, Melvin, Kaempfer and Maskus. International Trade: Theory and Evidence, McGraw Hill, 1995.
+Helpman and Krugman, Market Structure and Foreign Trade, 1985, Cambridge, MIT Press.
+Raveendra Batra, Studies in Pure Theory of International Trade, 1973 Palgrave Macmillan.
+Markusen, J(2002) Multinational Firms and the Theory of International Trade, Cambridge MIT Press.
+Paul R. Krugman and Maurice Obstfeld, International Economics: Theory & Policy, Addison wesley, 6th Ed. 2003.
+
+
+
+
+Course Plan:
+Lecture No.
+Learning objectives
+Topics to be covered
+Chapter in the Text Book
+1
+Global Trade and Empirical Facts of International Trade
+
+Introduction
+Notes 
+2
+Nature of the Globalization Process and Benefits and Costs associated with the Globalization Process, Globalization and Wages
+
+Trade and Globalization
+Notes
+3
+Theory and Empirical Testing of Trade Theories (From Mercantilism to Ricardian, Specific Factor Trade Models. 
+Trade and Technology
+Ch.2,3(R1)
+4
+Heckscher-Ohlin trade models ), testing of the Heckscher-Ohlin-Vanek model, Higher dimensional issues
+Heckscher-Ohlin Models
+Ch.2 (TB)
+3
+Alternative Trade Theories and their Empirical Tests: Linders Hypothesis, Technology Gap and Product Cycle theories 
+ 
+Alternative Trade Models
+Ch.3 (T.B) 
+3
+New Trade Theories by Krugman, Lanacaster and Falvey, New New Trade theories by Melitz, Strategic Trade Theories( Game theoretic Approach), 
+Porters Model of Competitiveness, Gravity Models, Trade in intermediate products and services,  Grubel Lloyd indices.
+New and New-New Trade Theories
+Ch.5 (T.B)
+5
+Gains from Trade and the impact of trade on income distribution, trade patterns of developing countries and development issues, Stopler-Samuelson Theorem and Rybczynski Theorem
+The Basis of International Trade
+Ch. 3,4 (R. 8)
+5
+Instruments of Trade Policy and Welfare Effects: Tariffs, Quotas, Non Tariff Barriers, Voluntary Export Restraints; Protectionist arguments in case of external economies of scale, Nominal and Effective Rate of Protection, Optimum tariff, Lerner and Metzler Paradox
+Tariffs and Quotas
+Ch. 8,9 (R. 1)  
+4
+International Factor Movements including the impact and spillover effects of FDI and Portfolio Investments , Ownership, Locational and Internalization advantage Paradigm, Outward Flow of foreign investments, issues of international migration
+Movement of Capital Between Countries
+Ch. 5 (R.1)
+5
+Trade, Exchange Rate and Balance of Payments, Exchange rate management, different models of currency and banking crises and empirical assessment of BOP crises, international monetary theories and policies and macroeconomic management of an open economy, Impossible trilemma between fixed exchange rates, monetary policies and perfect capital mobility
+The Balance of Payments and the Foreign-Exchange Market
+Ch.12 (R.2)
+
+4
+Trade Policy simulations using software like GTAP and GAMS, International Trade Data Analysis using Econometric Models, introduction to WITS data base
+Trade Policy Simulations
+Ch.11 (R.4)
+
+3
+WTO negotiations and  Issues like TRIPS, GATS, trade and environment and labour standards, Dispute Settlement Process of the WTO, NAMA, among others
+WTO and India
+Ch.12 (R.3)
+
+
+
+
+
+
+Evaluation Scheme:
+Component
+Duration
+Weightage (%)
+Date & Time
+Nature of Component
+Test  I
+1hr
+20
+8/9, 2.30--3.30PM
+CB
+Test  II
+1 hr
+20
+25/10, 2.30--3.30PM
+OB
+Projects/Assignments/Quizes
+
+20
+
+
+Comprehensive Exam.
+3 hrs.
+40
+06/12 AN
+(CB)
+
+Chamber Consultation Hour: To be announced in the class.
+
+Notices: All notices pertaining to this course shall be displayed on the Economics and Finance (or) LTC Notice Board.
+
+Make-up Policy: Make-up will be granted on genuine reason with prior permission.
+
+    
+
+ INSTRUCTOR-IN-CHARGE
+ECON F418
+
+
+
+
+
+
+
+
+
+
+
+
+
+

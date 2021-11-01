@@ -1,0 +1,115 @@
+Birla Institute of Technology and Science, Pilani, Hyderabad Campus First Semester 2016-2017 Course Handout (Part-II)
+CS G524 (Advanced Computer Architecture)
+
+In addition to part-I (General Handout for all courses appended to the time table) this handout gives further details regarding the course.
+
+Course Number : CS G524
+
+Course Title
+
+: Advanced Computer Architecture
+
+Instructor-In-Charge : G Geethakumari
+
+Objective The main objective of this course is to introduce the concepts of advanced computer architectures suitable for high-performance computing.
+
+Scope The advanced concepts in uni-processor environment will be discussed in detail. The issues in designing and using high performance parallel computers will also be covered. System resources such as memory technology and I/O subsystems needed to achieve proportional increase in performance will be discussed along with the software support required for these systems. This course aims to equip the students with the state of the art in this area through case studies and industry interaction. As this area has lot of scope to pursue research, the course will provide the necessary platform. An insight into latest technologies like multi-core architectures will be given as part of this course work.
+
+Text Books
+
+(T1): Computer Architecture: A Quantitative Approach, J.L Hennessy & D.A.Patterson Morgan Kaufmann, 5th Edition, 2012.
+
+Reference Books: (R1): Modern Processor Design, John P Shen & Mikko H. Lipasti., Tata McGraw Hill, 2006. (R2) : Parallel Computer Architecture: A Hardware / Software Approach, David E Culler &
+Jaswinder Pal Singh., Morgan Kauffmann / Harcourt India, 2000. (R3): Advanced Computer Architecture, Kai Hwang, Tata McGraw Hill, 2001. (R4): Computer Architecture & Parallel Processing, Hwang & Briggs, McGraw Hill, latest
+Edn.
+
+Lecture Schedule Lecture# Learning Objectives Topics To be covered
+
+Reference
+
+1 2-3
+4-5 6-7
+8 9-11 12-13
+14 15-17 18-19 20-23
+24-26 27 - 29
+30 31 - 33 34 - 35 36-37 38 - 39 40-42
+
+To understand about the importance of
+quantitative aspects of computer design
+
+Fundamentals of Quantitative Design and Analysis - Introduction
+Dependability, Quantitative principles of Computer Design
+
+Ch.1 Ch.1
+
+To learn about ILP, practical challenges of
+implementing ILP
+To understand data level parallelism, GPUs
+To explore and understand TLP
+To know about the organization of memroy
+hierarchy and learn various optimization techniques at each level
+
+Instruction Level Parallelism and its exploitation - concepts and challenges
+Basic compiler techniques for exposing ILP, reducing branch costs with advanced branch
+prediction Overcoming branch hazards with dynamic
+scheduling Dynamic scheduling, examples and algorithm,
+hardware-based speculation
+Exploiting ILP using Multiple issue and static scheduling, advanced techniques for instruction delivery and speculation Data Level Parallelism -introduction
+Vector Architecture, SIMD Instruction Set Extensions for Multimedia
+Graphics Processing Units, detecting and enhancing loop level parallelism
+Thread Level Parallelism - centralized shared memory architectures, symmetric shared memory architectures
+Distributed shared memory and directory based coherence, synchronization
+Models of memory consistency, multiprocessors and their performance
+Memory Hierarchy Design - Introduction
+Memory Organization - Ten advanced optimizations of cache performance
+Virtual Memory and virtual machines
+
+Ch.3, Appendix A, Appendix C Ch.3
+Ch.3
+Ch.3
+Ch.3, Appendix H(online)
+Ch.4 Ch.4
+Ch.4
+Ch.5
+Ch.5
+Ch.5, Appendix I(online)
+Ch.2, Appendix B
+Ch.2
+Ch.2
+
+To study the performance aspects of
+storage systems
+
+Storage Systems- Introduction, Reliability, Availability & RAID
+request-level and data-level parallelism
+
+Appendix D (online appendix)
+Ch.6
+
+To get an insight into the Introduction to multi-core architectures, code
+
+latest architectures
+
+optimization for multi-core
+
+Latest reference material, industry case studies, Recent
+research publications
+
+Evaluation
+Component Test-1 Test-2 Term Papers/Term Project/Lab Exercises Comprehensive
+
+Mode Closed Book Closed Book Open Book
+Closed Book Open Book
+
+Date & Time
+
+Weightage 15% 15% 40%
+20% 10%
+
+Make-up-Policy Make-up will be granted strictly based on prior permissions and on justifiable grounds only. There is no make up for the Term Papers/Term Project/Lab Exercises component.
+Course Notices All notices pertaining to this course will be displayed on the CS & IS Notice Board.
+Chamber Consultation To be announced in the classroom.
+
+Instructor-In-Charge CS G524
+
+

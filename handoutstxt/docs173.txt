@@ -1,0 +1,202 @@
+
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+Course Handout Part II
+										    Date: 01-08-2016 
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.			:  PHA F313
+Course Title			: Instrumental Methods of Analysis
+Instructor-in-Charge		: A. SAJELI BEGUM
+
+Scope and Objective of the Course:
+The course is aimed at exposing the students to modern analytical techniques in relevance to pharmaceutical industries. Training with respect to the handling of sophisticated instruments and their operation, interpretation of results obtained with relevance to the identification and characterization of molecules, their qualitative and quantitative evaluation and control are emphasized.
+
+Textbooks:
+		Willard H.H., et al., - "Instrumental Methods of Analysis", CBS Pub., New Delhi, 7th ed., 1988
+		Parimoo P, Pharmaceutical  Analysis", CBSi, 1988
+		Mahesh, R & Others Instru. Methods of Analysis Lab Manual Notes EDD, 2007.
+
+Reference books
+		Ewing, Galen Wood. - "Instrumental Methods of Chemical Analysis", Seventh Edition, McGraw- Hill, Inc., N.Y., 1988
+		Robert M Silverstein, Francis X Webster -"Spectroscopic Identification of Organic Compounds", Eighth Edition, John Wiley and Sons, Inc., N.Y., 2014.
+		A.H. Beckett and J.B. Stenlake -"Practical Pharmaceutical Analysis", Fourth Edition, CBS Pub., New Delhi., Vol. I & II, 1988. 
+		Gerhard Talsky,- "Derivative Spectroscopy", VCH-Weinheim, FRG, 1994. 
+		Maureen Melvin,-"Electrophoresis", John Wiley and Sons, Inc., N.Y., 1987. 
+		B.G.Nagavi,-"Laboratory Handbook of Instrumental Drug Analysis", Vallabh Prakashan, New Delhi, 1996.   
+
+Course Plan:
+		Lecture Plan
+
+Lect 
+No.
+Learning Objectives
+Topics
+Chapter in the Text Book
+1
+Introduction of various analytical techniques applicable in field of Pharmacy
+Introduction to Instrumental Methods of Analysis
+TB-1: 1-5; TB-2: 1,2
+2-5
+Learn the principle, instrumentation and application - Difference, Derivative Spectroscopy
+UV Spectroscopy
+TB-1: 6, 7; TB-2: 14,15
+TB-1: 2,3; TB-2:14,15
+6-9
+Theory, instrumentation, spectral data analysis
+IR Spectroscopy                      
+TB-1: 11 ; TB-2: 18
+10-11
+Theory and factors governing spectrofluorimetry
+Spectrofluorimetry	 
+TB-1: 8; TB-2: 17
+12
+Theory and applications
+Polarimetry
+TB-2: 10
+13-21
+Knowledge on proton and carbon NMR  Theory and spectra interpretation
+NMR Spectroscopy   
+TB-1: 15; TB-2: 19
+22-26
+Theory, various instrumental aspects and data analysis
+Mass Spectroscopy  
+TB-1: 16; TB-2: 20
+27-28
+Theory and application of DSC and TGA
+Thermography
+TB-1: 25; TB-2: 25
+29-39
+Knowledge in the area of separation,  purification and quantitative analysis of drugs through various chromatographic techniques
+Chromatographic Techniques
+		Introduction
+		Gas Chromatography
+		HPLC
+		High Voltage/ Gel Electrophoresis
+TB-1: 17; TB-2: 21
+TB-1: 18; TB-2: 21
+TB-1: 19,20; TB-2: 21
+TB-2:  21,22
+40-42
+Theory, instrumentation and applications
+Flame photometry and A.A.S                                        
+TB-1: 9,10; TB-2: 16
+
+
+		Plan for Laboratory: 
+Laboratory sessions will be conducted so that students get hands on experience on all the sophisticated analytical instruments. Certain instruments will only be demonstrated to the students. The comprehensive list of experiments is given below.
+
+S.No.
+Name of Experiments
+Experiments Involving Hands On Experience
+1
+UV  Visible
+Determination of  max, verification of Beer-Lambert's Law
+Determination of binary mixtures
+Difference, derivative spectroscopy
+Unknowns - interpretation and analysis
+2
+IR
+Handling solid samples
+Unknowns - interpretation, functional group analysis
+3
+Polarimetry
+Determination of muta-rotation in glucose, unknown
+Estimation of specific rotations for a few selected drugs
+Evaluation/analysis of isomers in mixtures
+4
+Spectrofluorimetry
+Estimation of selected drugs compounds, unknown
+Quenching effect and its significance
+Evaluation of drug in formulations
+5
+Paper Electrophoresis
+Instrumentation,  applications - separation of proteins / cell components
+Identification/separation/purification of samples
+6
+HPLC
+Instrumentation, method development approaches.
+Separation and estimation of selected drug samples
+Unknown identification, applications
+7
+Thermography
+Instrumentation, calibration of DSC, TGA
+Unknown-identification, applications
+Demonstration Based Experiments
+8
+Flame photometry and A.A.S.
+Calibration, estimation of elements, applications
+9
+GC
+Instrumentation, method development approaches.
+Separation and estimation of selected drug samples
+Unknown identification, applications
+10
+NMR and Mass
+Interpretation of spectra and characterization of organic compounds based upon IR, NMR and Mass
+
+Note:  
+		Modifications/adjustments would be made in the theory/experimental pattern / part, if necessary as and when situation arises.
+		Students should maintain and bring updated record note-books for every practical class. 
+		Make-ups for practical are not always possible. However, depending upon the genuineness of                   the situations, students may be permitted to perform back-log experiments, if any instructor is                free, outside regular class hours.
+		It is imperative that all students come prepared for the experiment in the next turn completing all pending work concerned with the previous experiment. Adequate preparation for the practical in terms of principles and operation of the instrument as per instructions, familiarization of protocols involved, outside class hours, is mandatory.
+
+
+
+
+
+
+Evaluation Scheme:
+
+Component
+Duration
+Weightage (%)
+Date & Time
+Nature of Component
+Test I
+60 min
+15
+9/9, 10.00--11 AM
+CB
+Test II
+60 min
+15
+24/10, 10.00--11 AM
+CB
+Lab Quiz
+30 min
+5
+
+CB
+Laboratory**
+-
+20
+
+
+Viva-Voce (Final)
+-
+10
+
+
+Compre. Exam.
+3 hr
+35
+03/12 AN
+CB: 15 %
+OB: 20 %
+
+Note:
+** Laboratory component may include assignments, which will be practical or theoretical type that would include interpretation of IR, NMR, Mass spectral, Elemental data - characterization of compounds,  etc., besides  identification and estimation of  known and unknown drugs in  given samples based on experiments performed , etc.   
+
+Chamber Consultation Hour: To be announced in class
+
+Notices: Notices concerning the course will be displayed on the Department of Pharmacy N.B. only
+
+Make-up Policy: Make-Ups are not given as a routine. It is solely dependent upon the GENUINENESS OF THE CIRCUMSTANCES under which a student fails to appear in a scheduled evaluation component. In such circumstances, prior permission should be obtained from the Instructor-in-Charge. IN NO CASE THE MAKE-UP APPLICATION BE SLIPPED INSIDE THE CHAMBER OF THE INSTRUCTOR-IN-CHARGE. However, the decision of the Instructor-in-Charge in the above matter will be final.
+
+    
+
+ INSTRUCTOR-IN-CHARGE
+      Instructor -in-Charge
+     PHA F313
+

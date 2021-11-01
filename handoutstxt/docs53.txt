@@ -1,0 +1,164 @@
+
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+Course Handout Part II
+										    Date: 01-08-2016 
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.			:  EA C473 / CS F401
+Course Title			: Multimedia Computing
+Instructor-in-Charge		: Abhishek Thakur
+
+Scope and Objective of the Course: The aim of this course is to introduce the concepts of multimedia computing techniques as used for various data streams, multimedia networks, operating systems and architecture. Emphasis will be on both applied and theoretical aspects of multimedia including, algorithms involved and the study of multimedia system design. After successful completion of the course students should be able to apply the concepts and techniques to various problem domains concerned with multimedia based applications and solutions.
+
+Textbooks:
+		Ze-Nian Li & Mark S. Drew, "Fundamentals of Multimedia", Pearson Education, 2004
+
+Reference books
+		Parag Havaldar, Gerard Medioni, Multimedia Systems: Algorithms, Standards, and Industry Practices, 2010, Course Technology
+		John F. Koegel Buford, Multimedia Systems, PHI, 2001
+		Steinmetz R & Nahrstedt K, Multimedia Systems, Springer 2004, (Indian Reprint 2007)
+		Francisco J. Hens, Jos M. Caballero, Triple Play Building the converged network for IP, VoIP and IPTV Wiley, 2008
+		SY Elhabian, KM El-Sayed et. al., Moving object detection in spatial domain using background removal techniques-state-of-art http://goo.gl/Tlhqrs 2008 Bentham Science Publishers
+		Yilmaz, Alper, Omar Javed, and Mubarak Shah. "Object tracking: A survey." Acm computing surveys (CSUR) 38.4 (2006): 13.
+		Gary Sullivan et. al., Overview of the High Efficiency Video Coding (HEVC) Standard, December 2012 (http://goo.gl/SoLBEY and http://goo.gl/6aXHK3).
+
+Course Plan:
+Lecture No.
+Learning objectives
+Topics to be covered
+Chapter in the Text Book
+1-2
+Introduction to Multimedia
+Multimedia: Introduction, Definitions, Applications, Systems
+T1: Ch-1 
+3-4
+Multimedia Tools and Applications
+Demos and Overview: G-Streamer, VLC, Wireshark, OpenCV, GNU Octave
+T1: Ch-2 + class notes
+5-6
+Graphics and Image data
+Graphics and Image Data Representation
+T1: 3
+7-8
+Color and its perception
+Intro to Color Science, Color Models in images & video
+T1:4
+9-10
+Video Basics
+Fundamental Concepts in Video
+T1:5
+11-12
+Audio Basics
+Audio: Fundamentals, Speech Processing and coding
+T1:6
+13-15
+Multimedia Communication
+Networking overview, QOS, Multicast, Media on Demand
+T1:15,16
+16-17
+Wireless and Multimedia
+Wireless networking basics, Mobility, Synchronization and Error resiliency
+T1:17
+18-20
+Compression Lossless
+Lossless Compression
+T1:7
+21-23
+Compression Lossy
+Perception based compression
+T1:8
+24
+Multimedia In Action
+Demo of SIP/XMPP/SIMPLE 
+Class notes
+25
+Image Compression
+JPEG Compression tools
+T1:9
+26
+Applied Image Compression
+Demo of Various compression and its effects, File formats etc.
+T1:3, Class notes
+27-29
+Video Compression-1
+Basic tools for video compression, H261, H263
+T1:10,11
+30-32
+Video Compression-2
+MPEG compression, Container Formats
+T1:12 + R7
+33
+Multimedia In Action  Part 2
+GStreamer and Related Demo, Mobile Apps, UPnP, DLNA, Miracast
+Class Notes
+34-36
+Audio Compression
+ADPCM, Vocoders, Psychoacoustics, MPEG
+T1:13,14
+37
+Media Synchronization
+Synchronization across components of multimedia
+R3
+38-39
+Modern Multimedia Systems
+CDN/ Hadoop/ YouTube
+Lecture Slides + class notes
+40-41
+Multimedia Research Topics
+Object Detection and tracking, Search and Retrieval in multimedia, Augmented Virtual Reality
+R5, R6 + Class notes
+42
+Course Recap
+Review of the course
+Class Notes
+
+
+
+
+
+Evaluation Scheme:
+Component
+Duration
+Weightage (%)
+Date & Time
+Nature of Component
+Test I
+60
+15
+13/9, 2.30--3.30PM
+Closed Book
+Test II
+60
+15
+21/10, 2.30--3.30PM
+Closed book
+Assignments
+--
+21
+*
+Take Home / Open Book
+Project
+--
+19
+*
+Take Home / Open Book
+Comprehensive
+180
+30
+13/12 AN
+
+
+*	- Details of assignments and project will be announced in the class & on course web page. 
+- 4 Assignments with Viva best 3 will be considered for final grading. 
+- Project involves three components - (1) feasibility demo (2) proof of concept demo (3) Complete demo with weightage of 6%, 6% and 7% respectively.
+
+Chamber Consultation Hour: (TBA)
+
+Notices: in CMS
+
+Make-up Policy: Minimum 50% attendance
+
+    
+
+ INSTRUCTOR-IN-CHARGE

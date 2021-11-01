@@ -1,0 +1,355 @@
+
+INSTRUCTION DIVISION
+First Semester 2016-2017
+        Course Handout (PartII)
+
+
+Date: August 1st, 2016
+
+
+Course Title 			: Derivatives and Risk Management
+
+Course Code			: FIN F311/ ECON F354 
+
+Instructor in Charge		: Dr. Thota Nagaraju 
+ 
+
+Course Objectives: 
+
+The objective of this course is to familiarize the students with the various instruments available for risk management. It covers rather simpler instruments such as options, futures, swaps, and credit derivatives. Besides discussing the pricing of these instruments and hedging principles the course would also aim at introduction of some complex instruments such as options on futures and swaps etc.  The course has three main objectives: 
+
+		To understand the role of financial risk management as well as the techniques available for its measurement in financial and non-financial corporations. 
+
+		To review the set of financial instruments available in modern financial markets as well as the strategies that a firm or and an individual can use to optimize the management of the risks this company is faced to, and
+
+		To build a framework that will help integrate financial risk management into an overall corporate strategy. 
+
+
+Lecturing 
+As a general rule, most of the lectures will introduce new concepts and theory. The objective is to make it as participative and dynamic as possible. Therefore, students are encouraged to intervene with clarifying and constructive questions or remarks anytime during the lecture. The material covered in every lecture is contained in the recommended readings. The specific material is mentioned opportunely in the course schedule. Due to the obvious time constraint, class slides will only cover the main aspects of every topic. A successful preparation for the exam requires reading the corresponding material and working on the suggested problems (if any) after every session.
+
+
+Text Book
+John C. Hull & Basu Sankarshan, Options, Futures and Other Derivatives, 8th Edition, Pearson Education.
+R1. Understanding Futures Markets by Robert W. Kolb and James A. Overdahl, 6th edition, Blackwell.
+
+R2. International Financial Management by Cheol Eun, and Bruce G. Resnick, 6th edition, McGraw-Hill.
+
+R3. Derivatives, by Rangarajan Sundaram, Sanjiv Das, McGraw Hill, 1st edition
+
+R4. Risk Management and Financial Institutions, John Hull.
+Lecture Notes, available on the CMS 
+
+
+Online Resources 
+Recommended periodicals and newspapers: Economist, Wall Street Journal, Financial Times (FT) and Business Week. (Most of the web editions are free, though online-registration might be needed). Recommended web sites for news: Yahoo! Finance, CNN Money, Smart Money, Money Control, Economic Times and Mint. Recommended web sites for data: NSE, MCX, NCDEX and if possible Bloomberg and Thomason Reuters.  
+ 
+
+Suggested problems
+Some lectures may include a suggested set of problems from the recommended readings. These problems are designed to help you understand and digest the course material and serve as a self-guide of your progress and as preparation for the final exam. Students are encouraged to work regularly on the suggested problems and check personally with the instructor any question/doubt. Some sessions can focus on discussing / solving some of these problems, especially those that elicit questions/doubts from a sufficiently large number of students. 
+
+
+
+
+Course contents 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 to 10 
+Understanding of various risks and derivatives products, markets, participants and structure. 
+
+Evolution of the forex markets. Conversion of purchasing power from one currency into another. 
+
+Dynamics of the bid-ask spread One way and two quotations. 
+
+Interest rate parity conditions. Purchasing power parity conditions. 
+
+Interest rate short term dynamics The efficient market, fundamental and technical exchange rate forecasting approaches.
+
+Covered interest rates and International Fisher effect.
+
+Here we empirically test all three models of foreign exchange forecast using daily data so that it gives us some hands on experience about the Indian forex market.  
+Introduction to Risk : 
+Project Risk vs Financial Risk, Event Risk vs Price risk.
+Introduction to Derivatives: 
+Products, Classification, Participants, Function, Uses and Misuses.
+Futures:                                                                                                               Introduction to Derivatives, Characteristics of futures, Trading and Settlement, Margins, Marking to Market, Open Interest etc. 
+Interest rates: 
+Measuring interest rates, Zero rates, Bond pricing, Determining Treasury zero rates, Duration, Convexity, theories of term structure of interest rates, yield analysis.
+Exchange Rate Mechanism:
+Foreign Exchange Markets, and Rates, Conditions for Interest Rate Parity (IRP), Conditions required for Purchasing Power Parity (PPP), Exchange rate forecasting, and covered interest rate. Short run interest rate dynamics. 
+
+Case Study -1
+Quiz-1 in the class for 7 minutes on 19th August 2016 using Socrative.com                                                                                           
+
+
+
+
+
+
+
+
+Ch 1 and 2  of TB,  Ch 5 and 6  of R2.  
+
+
+
+
+
+11 to 16
+
+Understanding how the value of forward contract is determined at initiation, during life of the contract, and at expiration.
+
+Calculate and interpret the price and value of forward contract on equity stock, fixed-income security, currency and a forward rate agreement (FRA).
+
+Evaluate credit risk in a forward contract, and explain how market value is a measure of exposure to a party in a forward contract.                             
+
+
+
+
+
+Forwards and Futures Prices:                                                                               Forward Markets and Contracts, Pricing and Valuation of Equity, Fixed-Income and Interest Rate Forward Contracts, Evaluating credit risk in a forward contracts.
+
+
+
+
+
+Ch2,5  of TB
+
+
+
+
+
+
+
+
+
+
+
+
+17 to 23)
+
+
+
+Understand why the futures price must converge to the spot price at expiration. Determine value of futures contracts.
+
+Understand as to why forward and futures price differ. 
+
+Understand the relation between futures prices and expected spot prices; and appreciate the difficulties in pricing short-term futures contracts. 
+
+Here we empirically test different types of market efficiency hypothesises, volatility, risk levels and hedging effectiveness in equity, commodity and currency futures using the daily data.
+
+Hedging Strategies Using Futures:
+Basic Principles, Arguments for and against hedging, Basis Risk, Cross hedging, and Stack and roll.
+
+Currency Futures: 
+Hedging with Forwards, Non Deliverable Forwards, Currency Futures, Pricing Currency Futures, Hedging, Speculation, and Arbitrage with Currency Futures.
+
+Interest Rate Futures:
+Basics, Treasury bond futures, Eurodollar futures, Short-term interest rate futures contracts, Intermediate and long-term interest rate futures contracts.
+
+Stock and Index Futures: 
+Trading of Index Futures, Pricing, Risk Adjustment, Hedging, Speculation, and Arbitrage with Index Futures.
+
+Commodity Futures                                                                                            Hedging, Speculation, Arbitrage with commodity futures, Pricing of forward and futures, Normal Backwardation Convergence, Basis risk, optimal hedge ratio.
+
+Case Study -2
+Quiz-2 in the class for 7 minutes on 16th  September 2016 using Socrative.com
+
+
+Ch 3 of TB
+
+
+Ch 6 of TB.
+
+
+
+
+Ch 7 of R1
+
+
+
+Ch 3 of TB and Ch 9 of R1
+
+
+
+
+
+
+
+Ch 5 of R1
+
+
+24 to 30 
+
+Understanding Option Markets and Contracts  Variants, Payoffs, Pricing and Hedging strategy.
+
+		General shape of the graph of the straddle strategy.
+
+		Strips and straps, strangles, the bull spread strategy.
+
+		The bear spread strategy. 
+
+		The butterfly spread strategy.
+
+		The collar strategy.
+		
+		
+Options: 
+Basics of call and put options, Their payoffs, Intrinsic value and time value, American and European options, At the money, out of money and in the money options, Bounds to option pricing, Arbitrage based price limits, Put call parity.
+
+Option Pricing: Binomial Option Pricing model, Risk Neutral valuation, Black Scholes option pricing model and assumptions, Interpretation of Black Scholes model.
+
+Option Trading Strategies: 
+Straddle, Strangle, Butterfly, Bull and Bear spread, Ratio spread, Box spread, Condor, Synthesizing with options.
+
+
+Ch 9 and 10 of TB
+
+
+
+
+Ch 12 of TB
+
+
+
+Ch 11 of TB
+
+
+
+
+
+
+
+
+
+31 to 35 
+Understanding the distinction between pricing and valuation of swaps.
+
+Understanding interest rate swaps to a series of off-market forward rate agreements (FRAs) and a plain vanilla swap to a combination of an interest rate call and a put option.  
+
+Calculate and interpret the fixed rate on a plain vanilla interest rate swap and the market value of the swap during its life.
+
+Calculate and interpret the fixed rate, if applicable, and the foreign notional principal for a given domestic notional principal on a currency swap, and estimate the market values of currency swaps during their lives. 
+
+Explain and interpret the characteristics and use of swaptions, and calculate the payoffs and cash flows of an interest rate swaption.
+
+
+
+
+
+
+Swaps: Forward Rate Agreement, Currency Swaps,  Interest Rate Swaps, Applications of swaps, Cancellation, Pricing of Swaps  Interest Rate & Currency Swap, Swap variant.
+
+Case Study -3
+Quiz-3 in the class for 7 minutes on 17th October 2016 using Socrative.com
+
+
+
+
+
+
+
+Ch 7 of TB
+
+
+
+36 to 40
+
+Understand structure and features (reference entity, credit events, settlement method, CDs spread) of credit default swaps (CDS). 
+
+Compare CDS, total return swaps, asset swaps, and credit spread option.
+
+Identify uses of CDS (such as hedging exposure to credit risk, enabling action on a negative credit view, engaging in arbitrage between markets), and Understanding relationship between CDS spread, expected spread payments, and expected default losses.
+Credit Risk:                                                                                                                          Credit ratings, Historical default probabilities, Estimating default probabilities from bond prices, Using equity prices to estimate default probabilities, Credit risk in derivatives transactions.
+Credit Derivatives:                                                                                                            Credit default swaps, Valuation of credit default swaps, CDS forwards and options, Basket credit default swaps, Total return swaps, Collateralized debt obligations, and Valuation of a synthetic CDO. 
+
+Case Study -4
+Quiz-4 in the class for 7 minutes on 21st November 2016 using Socrative.com 
+
+
+Ch 19 of TB
+
+
+
+
+Ch 20 of TB
+
+
+
+
+
+
+
+
+Case Studies: You will be informed full details of these case studies in the class
+Aim of the case studies: 1) Introducing you to analyze the real world problems (situations)
+2) Preparing you to deal with the job market case studies.
+
+Grade Determination: Final grade assignments will depend upon your overall performance and will be determined as objectively as possible based on the following weights.
+Components
+Duration
+Weightage (%)
+Nature of Component
+Date & Time
+Case study seminars (Group)
+
+10%
+OB
+
+Quizzes
+
+10% (each quiz is for 10 points)
+CB
+
+Assignment (individual)
+
+10%
+OB
+
+Test -1
+1 Hour
+15% (=100 points)
+CB
+9/9, 4.00--5.00 PM
+Test -2
+1 Hour
+15% (=100 points)
+OB
+24/10, 4.00--5.00 PM
+Comprehensive Exam
+3 Hour
+40% (=100 points)
+CB
+ 10/12 AN
+Note: Points will be converted into marks based on their weightage.
+  
+For quizzes, please bring either your laptop or smartphone.
+ 
+Chamber Consultation Hour: Wednesday & Friday 4:00 PM to 5:00 PM. 
+ 
+Notice: All notices will be displayed on CMS and Economics & Finance Notice Board.
+
+Make-up policy: Makeup will be given only on Doctors/Wardens recommendation and with prior (at least 01 day before the test/exam) permission of the InstructorinCharge/Instructor. Request for makeup made by phone/sms or during/after the test/exam would NOT be entertained at all.
+
+Assignment 
+students needs to select a topic in the area of financial market (Derivative and Risk Management) and submit the Title of topic, Objective, Expected Deliverables, Methodology and Data Collection by September 19th, 2016: 5:00PM and the final assignment should submit by October 26th, 2016: 5:00 PM (Soft copy should be sent to nagaraju@hyderabad.bits-pilani.ac.in and hard copy should be submitted in my chamber C-234). Only 25 percent of the plagiarism is allowed and thereafter for every 10 percent of additional plagiarism, one mark will be deducted.
+
+
+Case study group presentations: Student participation is compulsory and the group presentations will be held on November 23rd, 24th and 25th from 5:30 PM to 7:00 PM. This schedule will not be changed(note: if someone is not attending at least two days, then he/she will be losing all the marks of this component, the idea here is to provide you a platform to overcome the stage fear). 
+   
+
+                                                                                                                InstructorinCharge
+							  	      FIN F311 & ECON F354
+

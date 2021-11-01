@@ -1,0 +1,102 @@
+INSTRUCTION DIVISION FIRST SEMESTER 2016-2017
+Course Handout Part II Date: 01-08-2016
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No. Course Title Instructor-in-Charge
+
+: CS F214 : Logic in Computer Science : Tathagata Ray
+
+Scope and Objective of the Course:
+Logic plays a fundamental role in computer science. The objective of the course is to present the fundamental basic notions of logic that are important in computer science. The course covers topics in propositional logic - syntax, semantics, satisfiability and validity, predicate or first order logic - syntax, semantics, satisfiability & validity,
+completeness & compactness, Undecidability & incompleteness. The course also deals with verification by model
+checking, linear-time temporal logic (LTL) and computational tree logic (CTL). Other topics that will be briefly touched
+upon include program verification using Hoare logic and proofs of correctness. Modal logic and logic programming are
+also introduced.
+
+Textbooks: 1. Huth, Michael, and Ryan, Mark, Logic in Computer Science, 2e, Cambridge University Press, 2004.
+
+Reference books 1. Ben-Ari, Mordechai, Mathematical Logic for Computer Science, 2e, Springer, 2003. 2. Enderton, Herbert B. A Mathematical Introduction to Logic, 2e, Academic Press, 2001. 3. John Kelly, the Essence of Logic, Prentice-Hall India, Eastern Economy Edition, 1997. 4. I. M. Copi, Symbolic Logic, Prentice-Hall India, reprint of 1979 edition by Macmillan. 5. Clocksin-mellish, programming in prolog, 5e, Springer, 2003.
+
+Course Plan:
+
+Lecture No.
+
+Learning objectives
+
+Topics to be covered
+
+1
+
+Introduction to the course
+
+Introduction: Course overview, Introduction to logic.
+
+Understanding
+
+Propositional Logic,
+
+Propositional logic: Declarative sentences,
+
+2-10 Proof rules for inferring Deductive systems, Propositional logic as a
+
+formulas, and Normal formal language, Semantics, Normal forms
+
+forms
+
+Chapter in the Text Book Chapter 1
+Chapter 1
+
+11-20 21-27 28-32 33-37 38-40
+
+Understanding Predicate Logic, differences with propositional logic, Proof theory, semantics of predicate logic.
+Understanding lineartime temporal logic, Model Checking tools, planning problems.
+Understanding total correctness proofs and verifying program correctness.
+Extending the modes of truth, How to represent the basic modal logic using Kripke's formulation.
+Learning logic programming using prolog
+
+Predicate logic: Limitations of propositional logic, Predicate logic as a formal language, Proof theory, Semantics, Satisfiability & validity, Completeness &
+compactness, Undecidability & incompleteness
+Various approaches to verification: Need for verification, Approaches to verification, Verification by model checking, Temporal
+Logic, LTL, Limitations of LTL, CTL & CTL*
+Various approaches to program verification: Overview of program verification, Framework for software verification, Hoare logic, Proofs of
+correctness
+Role of modal logic in computer science: History of modal logic Syntax & semantics, Kripke's Formulation of Modal Logic, Logic
+engineering, Knowledge in multi-agent systems
+logic programming paradigm: Overview of logic programming paradigm, Propositional
+logic programming, First order logic programming, Prolog
+
+Chapter 2 Chapter 3 Chapter4. Chapter 5 Notes
+
+Evaluation Scheme: Component
+Test I
+Test II
+Assignments
+
+Duration 60 Mins
+60 Mins
+
+Weightage (%)
+20%
+20%
+20%
+
+Date & Time 9/9 (4-5pm) 24/10(4-5pm)
+
+Nature of Component Closed Book
+Closed Book
+
+Comprehensive Exam 3 hrs
+
+40%
+
+10/12 AN
+
+Closed Book
+
+Chamber Consultation Hour: Sat 12-1 pm.
+Notices: All notices related to the course will be displayed on either the CSIS Notice Board or CMS.
+Make-up Policy: Makeup is highly discouraged for this course. Makeup will be given only in genuine cases and that too with prior notification only. In any case, the discretion to give makeup for tests lies with IC.
+INSTRUCTOR-IN-CHARGE Dr. Tathagata Ray
+Email: rayt@hyderabad.bits-pilani.ac.in
+
+

@@ -1,0 +1,107 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI, HYDERABAD CAMPUS INSTRUCTION DIVISION, FIRST SEMESTER 2016-2017
+Provisional Course Handout (Part-II)
+
+Date : 01/08/2016
+
+In addition to part I (General Handout for all courses appended to the time table this portion gives further specific details regarding the course.
+
+Course No. Course Title Instructor-in-Charge Co-Instructor
+
+: BIO F211 : Biological Chemistry : S. Swaminathan : D. Bandyopadhyay
+
+1. Course Description: This course is an introduction to the molecular process of life and focuses upon bio-macromolecules, their energy yielding and energy requiring processes, the flow of genetic information and an overview of tools & techniques that have enabled our current understanding of the field.
+2. Text Book (T): Biochemistry: A short course. Tymoczko, Berg & Stryer; 2nd Edition, 2013.
+
+3. Reference Books R1: Biochemistry. Berg, Tymoczko, Gatto & Stryer. 6th Edition, 2007. R2: Lehninger Principles of Biochemistry. Nelson & Cox. 6th Edition, 2013.
+
+4. Course Plan:
+
+Lec. No.
+
+Topic
+
+1-2 Introduction
+
+3-7 Major biomolecules
+
+8-10 11-14
+
+15-17 18-19 20-23 24-26
+27-28
+
+Transducing & storing energy, biological oxidation
+
+Learning Objective
+Molecular design of life; atoms & molecules of living systems; basic concepts: cells and the 4 major biomolecules; the Central Dogma; water as the solvent for biological reactions, buffers & pH Protein structure & function: amino acids as building blocks of proteins; functional groups of amino acids; essential and non-essential amino acids; different levels of protein structural organization; protein function Enzymes: basic concepts & kinetics; catalytic strategies; regulation of enzyme action; vitamins, coenzymes, inhibitors Carobohydrates: monosaccharides & polysaccharides; glycoproteins and proteoglycans; lipids: Fatty acids, triglycerides, membrane lipids (glycolipids & phospholipids); membrane structure & function Informational macromolecules: The structure of DNA and RNA Basic concepts & design of metabolism; ATP as the energy currency of the cell Glycolysis, TCA cycle, Electron transport and oxidative phosphorylation
+Glycogen metabolism, fat metabolism, protein turnover and amino acid catabolism
+Light reactions of photosynthesis; Calvin cycle; PPP
+
+Text/Ref Book chapters T, Chapters 1,2
+T, Chapters 3, 4
+T, Chapters 68
+T, Chapters 10-12
+T, Chapter 33
+T, Chapters 15
+T, Chapters 16, 18-21 Chapters 24, 27, 30 Chapters 22, 23, 26
+
+1
+
+29 30-31 32-33 34 35-38 39-40
+41-42
+
+Synthesizing biomolecules
+
+Biosynthesis of amino acids Nucleotide biosynthesis
+
+Chapter 31 Chapter 32
+
+Synthesis of lipids and steroids
+
+Gluconeogenesis and glycogen synthesis
+
+Integration of metabolism
+
+DNA, RNA and protein synthesis; control of gene expression
+Interconnected metabolic pathways; Gluc-6P, Pyruvate & Acetyl-CoA
+
+Tools & techniques in biochemistry
+
+Overview of tools and techniques to explore genes & genomes; and proteins & proteomes.
+
+Chapters 28, 29 Chapters 17, 25 Chapter 34-40
+Lecture notes R1, Chapter 27 T1 Chapters 5, 41; Lecture Notes
+
+5. Evaluation Scheme:
+
+Evaluation Component Test 1
+Test 2
+Surprise quizzes* Comprehensive
+
+Duration 1 hour 1 hour
+3 hours
+
+Weightage (%) 20
+20
+20 40
+
+Date & Time Remarks
+
+13.9.16 (4-5 pm) 21.10.16 (4-5 pm) Various 13.12.16 (FN)
+
+Closed Book
+Closed Book
+During lecture and/or tutorial classes Open Book (20%)**+Closed Book (20%)
+
+*Average of n-1 quizzes conducted will be taken (please see make-up policy below) **Compre Open Book: This will be concept and understanding-based drawing mostly on actual topics discussed during both lecture and tutorial classes.
+6. Chamber Consultation Hour: Will be announced in the Class.
+7. Notices: All notices, concerning the course will be displayed on CMS and/or the Biological Sciences Department Notice Board.
+8. Grading policy: Students missing one or more component of evaluation completely will be considered as having not cleared the course (NC grade).
+9. Make-up policy: For T-1, T-2 and Compre, make-up will be granted only if candidate is sick and hospitalized. No make-up will be granted for surprise quizzes under any circumstances.
+
+INSTRUCTOR-IN-CHARGE BIO F211
+
+2
+
+3
+
+

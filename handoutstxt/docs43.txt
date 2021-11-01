@@ -1,0 +1,200 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI INSTRUCTION DIVISION First Semester 2016-2017 Course Handout (Part II) Date: 02.08.2016
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further details regarding the course.
+
+Course No.
+
+: CE G619
+
+Course Title
+
+: FINITE ELEMENT ANALYSIS
+
+Instructor-in-charge : P N RAO
+
+1. Course Description: Fundamentals of Finite Element Method (FEM); basic formulations of FEM; assembly of elements, solution techniques; 2D and 3D problems; review of the isoparametric elements; thin and thick plate elements; introduction to shell formulations; use of newly developed elements; mixed finite element method; material and geometric nonlinear problems; application of FEM to civil engineering problems, programming FEM.
+
+2. Scope and Objective of the Course:
+
+Finite element method is one of the most powerful numerical methods widely used for solving problems in different branches of engineering specially Civil Engineering. This method can be used to solve even complex and difficult problems such as nonhomogeneous material, complex loading and complicated boundary conditions, material and geometric nonlinear problems, dynamics including earthquake analysis. The course is aimed to enable students to understand the advanced concept of finite element method and its application to Civil Engineering.
+
+3. Text Books
+
+T1: R.D.Cook, D.Malkus, M.E. Plesa, Concepts and Applications of Finite Element Analysis, John Wiley & Sons, Third Edition, 2003.
+
+4. Reference Books: R1: J.N.Reddy, An introduction to the finite element method, Third edition, TMH, 2005. R2: C.S. Krishnamurthy, Finite Element Analysis: Theory and programming, Second
+Edition. 1994. R3: C.S.Desai and J.F. Abel, Introduction to Finite Element Method, EWP, New Delhi,
+1972. R4: P. Seshu, Textbook of Finite Element Analysis, PHI. Pvt, New Delhi, .2009. R5: O.C.Zienkiewicz, The Finite Element method, TMH, 1987.
+
+5. Course Plan:
+
+Lecture No. 1-3
+4-11 12-14 15-20
+21-25
+26-27 28-29 30-31 32-33
+34-36
+37-40
+
+Learning Objective
+
+Topics to be covered
+
+Reference
+
+Introduction of FEA, Modeling,
+
+Fundamentals of Finite Discretization,
+
+Interpolation,
+
+element method Elements, Nodes and DOF,
+
+Example applications
+
+Basic formualtions of Formulation techniques: variational
+
+FEM
+
+methods, Galerkin and weighted
+
+residual methods
+
+Assembly of elements, Introduction to bar elements, beam
+
+solution techniques elements, Numerical examples
+
+2D and 3D Problems Area Coordinate system, Plane
+
+stress and Plane strain Problems,
+
+Volume Coordinate system and
+
+axisymmetric problems
+
+Review of the
+
+Isoparametric bar element, plane
+
+Isoparametric elements bilinear element, quadratic plane
+
+element, triangular element,
+
+hexahedral element, numerical
+
+integration.
+
+Thin and thick plate Plate Bending Theory, Plate
+
+elements
+
+Elements.
+
+Introduction to shell Shell Theory and shell elements.
+
+formulations.
+
+Use of newly developed Newly developed elements.
+
+elements
+
+Mixed finite element Mixed Finite elements.
+
+method
+
+Material and geometric Solution methods, small-strain
+
+nonlinear problems plasticity relation, elastic-plastic
+
+analysis procedure, nonlinear
+
+dynamic, problems, geometric
+
+nonlinear problems.
+
+Application of FEM to Structural and Civil Engineering,
+
+Civil Engineering Fluid flow problems, Modeling
+
+problems, programming and Programming in FEM
+
+FEM
+
+T1 - Ch-1
+T1 - Ch-4,5 & Class Notes
+T1 - Ch-2, 5 & Class Notes
+T1 - Ch-3, 6, 7 & Class Notes
+T1 - Ch-6, 7 & Class Notes
+T1 - Ch-15 & Class Notes T1 - Ch-16 & Class Notes Research papers & Material Research papers & Material
+T1 - Ch-17 & Class Notes
+Class Notes
+
+6. Evaluation Scheme:
+
+EC
+
+Evaluation
+
+Duration Weightage Date, Time
+
+Nature of
+
+No. Component
+
+& Venue
+
+Component
+
+1.
+
+Test I
+
+60 Min
+
+15%
+
+10/9, 1.00--2.00 PM
+
+CB
+
+2.
+
+Test II
+
+60 Min
+
+15%
+
+22/10, 1.00--2.00 PM
+
+CB
+
+5. Assignments
+
+15%
+
+OB
+
+6. Term Projects &
+
+25%
+
+OB
+
+Research topics &
+
+Seminars
+
+7. Compre Exam. 180 Min 30%
+
+01/12 FN
+
+CB
+
+7. Chamber Consultation Hour: F-9th hr.
+
+8. Notices: All notices concerning the course will be displayed on Notice Board of Civil Engineering Department.
+
+9. Make up policies: Make-up would be granted only for genuine cases with prior permission.
+
+Instructor-In-Charge CE G619
+
+

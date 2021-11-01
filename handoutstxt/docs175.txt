@@ -1,0 +1,129 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+INSTRUCTION DIVISION
+First Semester 2016-2017
+Course Handout (Part II)
+										Date: 01/08/2016
+In addition to Part-I (general handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+Course No.                   : PHA G543
+Course Title                 : Clinical Research
+Instructor-in-charge     : VV Vamsi Krishna
+
+		Course Description:
+Overview of new drug research and development; bioethics and institutional review board; regulatory control of clinical trials for NDA and ANDA application; Good Clinical Practices (GCP); related ICH guidelines; applied clinical epidemiology and biostatistics; clinical trial study design; trial development (protocol, case report form and data management); clinical trial management-coordinating clinical trial at the site, documentation methodology, implementing monitoring plan and performing quality control; statistical analysis and data interpretation; monitoring obligations and methods; and medical writing and report preparation for various submissions.
+
+		Scope and Objective of the course:
+There is a growing need for clinical researchers in the health industries (Pharmaceutical, biotechnology/medical device companies, research institutes, hospitals) involved in the development of new drugs and therapies. This course is aimed to students in conducting clinical trials on humans with new drugs/therapies before they are introduced to the market. Students completing the course work will gain specialized knowledge and skills required to design, monitor and manage clinical trials. Courses include the drug development process; regulations, guidelines and standards; research methodology and biostatistics; clinical trial organization, monitoring and documentation; and project management. 
+
+		Text Book (T)
+T1: Lawrence Friedman, Curt Furberg and David DeMets, Fundamentals of Clinical Trials, Spring Verlag, New York, 3rd Edition, 1998.
+T2: Shein-Chung Chow, Jen-Pei Liu, Design and analysis of clinical trials, Wiley-IEEE, 2003.
+Reference Books :
+R1: Steven Piantadosi, Clinical trials  A methodologic perspective, John Wiley & Sons, 2005.
+R2: Richard Guarino, New Drug Approval Process, Marcel Dekker, New York, 2nd edition, Vol. 56, 1993.
+R3: S. Bolton, Pharmaceutical Statistics: Practical and clinical application, 3rd edition, Marcel Dekker, New York, 1997.
+		Course Plan: 
+S. No.
+Learning objectives
+Topic to be covered
+Reference 
+1, 2
+Overview of clinical trials and research vis--vis need
+Introduction to clinical research. Regulatory control of clinical trials for NDA and ANDA application
+T1 Ch. 1
+T2 Ch. 2
+R2 Ch. 1-3, 5, 10, 11
+3-6 
+Basic design considerations for clinical research
+Decision on goals; primary questions to be answered; population and patient selection; decision on response variables
+T1 Ch. 2 and 3
+T2 Ch. 3
+7-12
+Understanding various designs and their requirements employed in clinical research
+Designs for clinical trials including classification, blinding, randomization techniques, baseline assessment
+T1 Ch. 4, 5, 6, and 8
+T2 Ch. 3, 4 and 7
+R3 Ch. 11
+13-20
+Biostatistical consideration for clinical trials
+Application of statistical tools, decision on sample size
+T1 Ch. 7
+21-24
+Ethical clearance for clinical research
+Bioethics and institutional review board. Good clinical practice (GCP) and related ICH guidelines
+Class notes
+25-28
+Clinical trial development (protocol, case report form and data management)
+Development of trial development (Protocol, recruitment, case report form and data management)
+T1 Ch. 9
+T2 Ch. 14
+29-32
+Assessment of drug or device related side effects and short and long term safety issues
+Adverse reaction monitoring and safety assessment
+T1 Ch. 11
+T2 Ch. 13
+33-38
+Applied clinical epidemiology and biostatistical consideration for clinical trials
+Application of statistical tools, decision on statistical analysis and data interpretation; survival analysis
+T1 14, 16
+T2 Ch. 10, 11
+R3 Ch. 4, 6
+39
+Assessment of effect of intervention on health related quality of life
+Assessment of health related quality of life
+T1 Ch. 12
+40, 41
+All aspects of clinical research management
+Clinical trial management  coordinating clinical trial at the site, documentation methodology, implementing monitoring plan
+T1 Ch. 10, 13, 15 and 17
+T2 Ch. 8 and 12
+42
+Preparation of reports
+Report writing
+Notes
+
+		Evaluation Scheme:
+Component 
+Duration
+Weightage (%)
+Date and time
+Remarks 
+Test I
+60 minutes
+15%
+10/09/2016; 2.30  3.30 PM
+CB
+Test II
+60 minutes
+15%
+22/10/2016; 2.30  3.30 PM
+CB
+Assignments/ seminars
+
+40%
+Continuous
+OB
+Comprehensive exam
+180 minutes
+30%
+12/12/2016; FN
+CB (15%) + 
+OB (15%)
+		Mid-semester evaluation: will be announced after 2nd test.
+		Attendance: regularity in attendance will be one of the criteria in deciding the borderline cases at the time of final grading
+		Grading Procedure:
+		It is not necessary that all the five grades (i.e. A to E) would be awarded.
+		In borderline cases subjective judgement will be exercised for pull-ups (max. 2%). Basic guiding factors will be regularity, consistency in performance (above average) or/and steady improvement throughout the semester.
+		Make-up exam: make-up will be given only for genuine reasons. It is expected that students shall avoid misuse of this feature.
+		Chamber consultation hours: to be announced in the class.
+		Notices: notices pertaining to this course will be displayed only on Pharmacy group notice board.
+
+          Instructor-in-charge
+									PHA G543
+
+
+
+
+
+
+
+

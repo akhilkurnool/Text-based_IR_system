@@ -1,0 +1,121 @@
+
+
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI, Hyderabad Campus
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+COURSE HANDOUT (PART-II)
+                                                                                                                                Date: 01/08/2016
+In addition to Part-I (General Handout for all courses appended to the Timetable) this portion gives further specific details regarding the course.
+
+Course No.			:  MATH   F312
+Course Title                           :  Ordinary Differential Equations
+Instructor-In-Charge          	:  Dr. T S L Radhika
+
+SCOPE & OBJECTIVE:
+
+Ordinary Differential Equations frequently occurs as mathematical models in many branches of
+science, engineering and economy. For a mathematician confronted with such a model there are
+a number of issues to address and various approaches to choose from:
+ Is the problem well-posed? Do you expect the differential equation to have a solution? If so,
+is there a unique solution satisfying the given initial or boundary conditions?
+Can you find an explicit, analytical solution? This is only possible in rare circumstances.
+Geometric or qualitative methods: These methods give insights into general, qualitative
+features of solutions and do not require solving the differential equation.
+ Stability and dependence on parameters: Having obtained a solution by any method, we
+would like to know how the solution changes if we change the initial data by a small amount
+(stability analysis) and if we change parameters in the differential equation (parameter
+dependence). Course helps deeper understanding of the complicated models that are there in the real life.
+TEXT BOOK:
+
+S Ahmad &  M R M Rao  :  Theory of Ordinary Differential Equations with Applications in Biology and Engineering, East West Press, 1999.
+
+REFERENCE BOOKS:
+
+R1.   The qualitative theory of ordinary differential equations, an introduction, Fred Brauner and John A Nohel, Dover Publications. 
+R2.  Stability theory of differential equations, Richard Bellman, Dover publicationsR3. Theory of Ordinary Differential Equations, E.A. Coddington & N. Levinson,  Tata McGraw- Hill
+R4. Differential equations and dynamical systems- Lawrence Perko, Springer
+
+COURSE PLAN:
+Lecture No.
+Learning objectives
+Topics to be covered
+Chapter in the Text Book
+1-2
+Know the basic definitions and notations 
+Introduction & Overview of the course Notation and Definitions
+Ch. 1 section  1 &2
+3 -8
+Learn the existence and uniqueness theorems for scalar equations and for a general system of equations
+Existence and Uniqueness of Solutions of Scalar Differential Equations, Existence Theorems for system of equations, Differential & Integral Inequalities
+Ch.1 Section: 3  5
+9 -16
+
+Understand the properties of linear systems 
+Introduction to Linear Systems, FSS, Properties of Linear Homogeneous Systems, Inhomogeneous Linear Systems
+Ch.2  Section: 1  3
+
+17 -21
+
+Learn how to find the behavior of linear equations of higher order 
+Behavior of Solutions of nth order Linear Homogeneous Equations, Asymptotic Behavior 
+Ch.2  Section: 4  5
+
+22 - 24
+Understand the concept of stability of a linear system
+Introduction to stability, Continuous dependence and stability properties of Solutions
+Ch.3  Section: 1  2
+
+25 -33
+Learn the stability analysis of weakly non-linear and 2-D systems 
+Linear Systems, Weakly Non linear Systems, Two Dimensional Systems
+Ch.3  Section: 3  5
+
+   34 -38
+Learn the Liapunovs method for  stability analysis
+Introduction to stability by Liapunovs second Method, Autonomous systems, Non Autonomous Systems
+Ch.5  Section: 1  3
+
+39-42
+Understanding more about the behavior of solutions of second order equations
+Second  order differential equations  boundedness of solutions 
+Oscillatory equations,  Classical equations
+Ch.4  section  1-5
+
+EVALUATION SCHEME: 
+
+Component
+Duration
+Weightage (%)
+Date & Time
+Nature of the component
+1
+Test-I
+20
+13/9, 10.00--11 AM
+Closed book
+2
+Test-II
+20
+21/10, 10.00--11 AM
+Open book
+3
+Assignments 
+20
+
+Open book/ Take Home
+4
+Compre
+40
+14/12 AN
+Closed book
+
+CHAMBER CONSULTATION HOUR:  Will be announced in the class.
+NOTICES: All notices regarding MATH F312 will be put on CMS.
+MAKE-UP Policy: 
+(i) NO MAKE UP will be given in Assignment components under any circumstances. 
+(ii) Make up of other evaluation components will be granted only in genuine cases.  Permission must be taken in advance except in extreme cases. 
+      (iii) No MAKE-MAKE-UP will be entertained.
+
+                                                                                                         
+                                                                                                Instructorin-charge
+                                                                                         			     MATH  F312

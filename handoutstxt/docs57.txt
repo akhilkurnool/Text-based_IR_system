@@ -1,0 +1,151 @@
+Birla Institute of Technology and Science, Pilani
+Instruction Division
+First Semester 2016-2017
+Course Handout Part II                                                                 
+        Date: 01/08/2016
+In addition to the Part-I (General Handout) for all courses appended to the timetable, this portion gives further specific details regarding the course.
+
+Course No.		: CS G526
+Course Title		: Advanced Algorithms & Complexity
+Instructor-in-Charge: Dr. Anand Narasimhamurthy
+
+1. Scope and Objective:
+The scope of this course includes (i) algorithm design strategies such as Randomization and Approximation as well as specific techniques therein (ii) NP-hard problems and approaches to handle them and (iii) problem/application domains such as number theory and cryptography and distributed computing.
+The objective of this course is to enable each individual student to pursue one or more of the following activities: 
+explore advanced topics in algorithmic and complexity theory;
+engage in analysis and design of complex algorithms for real-world problems in current application domains;
+learn and evaluate advanced / novel algorithm design strategies and techniques;  and
+understand study / open problems in algorithmic or complexity theory by analyzing known approaches and their limitations.
+While algorithm analysis is included in the scope wherever applicable the emphasis of the course is on algorithm design as such and specific analysis techniques are not emphasized.  While the student is exposed to various problem/application domains from an algorithmic perspective the focus is not on the domains but on specific problems and approaches to solving those problems. Of course, the student is encouraged  if interested  to pursue a specific domain for a project during the course and  occasionally, if the student is tenacious enough  beyond the course.
+2. Text Book:
+T1. Randomized Algorithms, by Motwani, Rajiv & P. Raghavan, CUP, 1995.
+T2. Combinatorial Optimization: Algo. & Complexity, by Papadimitnou, C.H. & Kenneth Steiglitz, PHI, 1982
+
+Reference Books:
+R1. Approximation Algorithms. Vijay Vazirani. Springer.
+R2. Complexity and Approximation, G. Auseiello, et.al. Springer.
+R3. Algorithm Design. Kleinberg and Tardos. Pearson Education.
+AR. Additional reading assigned by the Instructor
+
+
+
+
+Course Plan
+
+Lectures
+Objectives
+Topic
+Reference
+1
+Importance of randomized algorithms and complexity classes
+Introduction & Motivation  Advanced Algorithms & Complexity 
+-
+ 2  4
+Review of probability theory
+Review of Design Techniques, Complexity Classes and necessary basics in Probability
+-
+5  7
+Introduction to approximation algorithm and their complexity classes.
+Introduction to Approximation Algorithms  Examples. Design Techniques and Complexity Classes
+Basic understanding of NP-completeness
+R2- Ch1, Ch2, Ch3
+8  11
+Strategies to deal with NP-complete problems
+Approximation algorithms, parameterized complexity
+Additional reading
+12-14
+Understanding the classification of randomized algorithms
+Randomized Algorithms : Las Vegas & Monte Carlo Techniques, 
+T1  Ch 1
+
+
+
+
+15-17
+Understanding the success rate of the randomized algorithm
+Chebyshev Inequality, Tail Inequalities
+T1-Ch3, Ch4
+18-21
+Understanding how randomization helps in creating some advanced data structures
+Data Structures for randomized algorithms - 
+Skip Lists and Hash Tables
+T1-Ch8
+22-24
+Understanding how randomization has helped to obtain algorithms better than deterministic counter parts. 
+Randomized graph algorithms 
+T1  Ch 10
+
+
+
+
+25-28
+Understanding the Minimax theorem and its implication in game theory.
+QBF Games, Deterministic Game Tree Evaluation Algorithms. Randomized Game Tree Evaluation Algorithms, Game Theory. Minimax Theorems. Application of Minimax Theorems for Proving Lower Bounds for Game Tree Evaluation.
+T1  Ch 4
+29-31
+Understanding role of randomization in parallel algorithms.
+PRAM Models of Computation, Efficiency of PRAM Algorithms, EREW PRAM Algorithm for Addition. EREW PRAM Algorithm for Maximal Independent Sets. Distributed Algorithm for Byzantine Agreement.
+T1-Ch12
+32-38
+Basic Number theoretic algorithms.
+Divisibility, GCD. Extended Euclid's Algorithm for GCD and its Complexity. Congruences, Fermat's Little Theorem, Euler's Theorem. Modular Exponentiation using Repeated Squaring, Wilson's Theorem. Legendre's Symbol, Randomized Algorithm for finding Square Roots Modulo a Prime. Miller-Rabin Randomized Primality Testing Algorithm. Pollards Rho Randomized Algorithm for Factorization.
+T1 - Ch 14 
+   39-42
+Complexity classes and NP-completeness in detail
+How to prove a problem is NP-Complete?
+NP-Completeness of Satisfiability, Independent Sets, Vertex Cover, Clique, 0/1 Integer Programming, etc.
+T2  Ch1, Ch2 & Ch 3, 
+R2 - Ch3
+
+
+5. Evaluation Scheme:
+
+Sr. No.
+Component
+Duration
+Weightage (%)
+Date & Time
+Remarks
+1.
+Test 1 
+60 min.
+15 %
+
+OB
+2.
+Test 2
+60 min.
+15%
+
+OB
+3.Term Project
+- Literature survey & Problemstatement
+-Problem Scoping and Analysis, Mid-Term Progress & Report
+- Seminar
+- Conclusion, Viva and Report
+
+
+40 %
+
+
+4.
+Comprehensive Exam
+3 hrs.
+30 %
+08/12 FN
+CB + OB
+
+Note : This is a Telepresence course in coordination with Pilani campus, also this is an advanced course. The contents and the evaluation scheme are subject to small changes if necessary.
+
+
+6. Chamber Consultation hours: To be announced in the class.
+
+
+7. Make-up Policy:
+Prior Permission of the Instructor-in-Charge is usually required to take a make-up for a test.
+A make-up test shall be granted only in genuine cases on justifiable grounds.
+
+8. Notices: Notice regarding the course will be displayed on the CMS and CS & IS group notice board. 
+
+Instructor-in-charge
+         CS G526.

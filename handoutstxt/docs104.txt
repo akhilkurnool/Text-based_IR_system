@@ -1,0 +1,139 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI HYDERABAD CAMPUS
+INSTRUCTION DIVISION, FIRST SEMESTER 2016-2017 Course handout (Part II)
+
+Date: 01/08/2016 In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No. Course Title Instructor-in-charge
+
+: IS F311 : Computer Graphics : Dr. Tathagata Ray
+
+Course Description Graphics I/O hardware, Generation of dot, lines, conics, curves, surfaces & polygons; Filling closed regions, 2D & 3D Graphics & Transformations, Windowing, Viewing & Clipping, Efficient algorithms, Solid Modeling, Color Models & Dithering, Visible surface detection, Rendering, Animation Techniques, Advanced modeling and Future directions.
+
+Scope and Objective of the Course is to introduce the concepts of computer graphics through theoretical, algorithmic and advanced modeling aspects along with, applications in 3D graphics and visualization. This course is also covering part of OpenGL for graphics. After successful completion of the course student should be able to apply the concepts and techniques to various problem domain and visualization of data sets and processes.
+
+Text Book
+T1: James D. Foley, A. Van Dam, S.K. Feiner, and J.F. Hughes, Computer Graphics: Principles and Practice in C, 2nd edition Pearson education.
+
+Reference Books R1: Rogers B., "Mathematical elements of Computer Graphics", Tata McGraw Hill, 2002.
+R2: D. Hearn and M.P. Baker, Computer Graphics: C Version, Pearson Education, 2002. R3: N Krishnamurthy, "Introduction to Computer Graphics", 1st Ed., TMH, 2002.
+
+Course Plan
+
+L.No.
+
+Learning
+
+Objectives
+
+01-03 Definition
+
+Why to study
+
+Applications
+
+I/O Devices
+
+04-07 Fast algorithms to draw Lines, Conic, And filled regions
+
+Topics to be covered
+Overview of graphics systems - What, Why & Where about Graphics, Hardware & Software, Input & Output Technology, Mathematical complexity involved - Demonstration through some examples Raster Graphics Algorithms for Drawing 2D objects: Lines, Circle, Ellipse, Parabola, Hyperbola, Polygon & Filled Closed Objects
+
+Reference to Text Ch 1 Ch 4.4 Class Notes
+Ch 3.1-3.9
+
+08-10 Concepts of 3D and Introduction to 3D- Graphics & 3D Coordinate Class Notes
+
+OpenGL
+
+Geometry and Introduction of OpenGL
+
+11-13 How & why to 2D & 3D Scaling, Translation, Rotation, Shear, Ch 5.1-5.3
+
+14-16 17-20
+
+manipulate objects
+Mapping 2D from World to Screen Mapping 3D from World to Screen, and Foreshortening
+
+Reflection, Projection and Composite Transformations Viewing & Clipping in 2D (Cohen's and Parametric Line Methods)
+Viewing & Clipping in 3D (Perspective & Parallel projection, Clipping against a Canonical View Volume, Clipping in Homogeneous Coordinates, and Mapping into a View-port
+
+Ch 5.5-5.8
+Ch 5.4
+Ch 3.11-3.12
+Ch 6
+
+21-25
+26-28 29-33 34-35
+36-38 39-40 4142
+
+Drawing Smooth Curves & Surfaces
+
+Representation of
+
+Solid Objects
+
+Detection
+
+of
+
+Hidden portions
+
+Perception of light
+
+and Color,
+
+Dithering
+
+How to shade
+
+surfaces and solids
+
+How to show
+
+graphics in motion
+
+Research Agenda
+
+Hermite, Bezier, Continuities, Bspline Curves & Surfaces Rational Cubic Polynomial Curves & Quadric Surfaces) Solid Modeling (Representations, Operations, Geometry, and Interface) Visible Surface Detection (Need & Algorithms, Ray Tracing) and Hidden Line elimination Light & Color Models (Light, half-toning, Color Models, Color Conversion & Interpolation, Dithering Matrix) Rendering (Models, Physics, Shading Polygons & Surface, & Shadows) Animation (Languages, Techniques, Control, Basic Rules & Problems) Applications of 3D Graphics in Visualization
+
+Ch 11
+Ch 12 Ch 15 Ch 13
+Ch 16 Ch 21 Class Notes
+
+Evaluation Scheme:
+
+E.C.NO 01
+
+Evaluation Component
+Test 1
+
+Duration Weightage (minute) (%)
+50 15
+
+02 Test 2
+
+50 15
+
+03 Project + Seminar 03 Coding Assignments
+
+-
+
+10 20
+
+04 Comprehensive 180
+
+40
+
+Date & time
+10/9, 1.00--2.00 PM
+22/10, 1.00--2.00 PM
+Will be announced in class Will be announced in class
+01/12 FN
+
+Nature of component
+Closed Book Closed Book Open Book Open Book (take home) Closed book
+
+Chamber Consultation Hour: TBA. Notices: Will be displayed only on the CS&IS notice board, 1st floor B-block and CMS. Makeup Policy: Makeup is highly discouraged for this course. Makeup will be given only in genuine cases and that too with prior notification only. In any case, the discretion to give makeup for tests lies with IC.
+Instructor- in-charge IF F311
+
+

@@ -1,0 +1,165 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017 Course Handout (Part II) Date: 01/08/2016
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further details regarding the course.
+
+Course No.
+
+:
+
+Course Title
+
+:
+
+Instructor-in-charge :
+
+CE F435 INTRODUCTION TO FEM Jagadeesh Anmala
+
+1. Scope and Objective of the Course: Finite element method is the most powerful numerical method widely used for solving problems in different branches of engineering especially in Civil Engineering. This method can be used to solve even complex and difficult problems such as non-homogeneous material, complex loading and complicated boundary conditions, material and geometric nonlinear problems, dynamics including earthquake analysis. The course is aimed to enable students to understand the concept of finite element method and its application to Civil and structural Engineering.
+2. Text Book
+Daryl L Logan, A first course in Finite Element Method, Fifth Edition, Cengage Learning, New Delhi. 3. Reference Books:
+1. C.S. Krishnamurthy, Finite Element Analysis: Theory and programming, Second Edition, Tata Mc-Graw Hill, New Delhi, 1994
+2. K. J. Bathe, Finite Element Procedures, PHI Pvt Ltd, 2008. 3. R. D. Cook, D. Malkus, M.E. Plesa, Concepts and Applications of Finite Element Analysis, John Wiley
+& Sons Fourth Edition, 2003. 4. C. S. Desai and J.F. Abel, Introduction to Finite Element Method, CBS Publishers, New Delhi, 1972. 5. T.R. Chandrupatla and A.D.Belegundu, Introduction to Finite Elements in Engineering, Third Edition,
+PHI Learning Private Limited, 2008.
+
+4. Course Plan:
+
+Sl Learning Objectives Topics To be Covered
+
+No. of Reference to
+
+No Lect. Chap. of TB
+
+1. General concepts of Introduction, Basic steps in Finite Element
+
+FEM
+
+Analysis and its usage.
+
+3 TB-Chap 1
+
+2. One-dimensional element
+
+Formulation for 2-node and 3-node onedimensional element, Analysis of Truss structures
+
+4
+
+TB-Chap 2&3
+
+3. Two-dimensional
+
+3-Noded (CST) and 6-node (LST) triangular
+
+Plane stress and
+
+elements, 4-node and 8-node Rectangular
+
+Plane strain elements Element and quadrilateral element, 8-node
+
+rectangular Element, axi-symmetric
+
+6
+
+TB-Chap 6&8
+
+elements
+
+4. Two-dimensional bending elements
+
+2-node and 3-node Beam Elements, Analysis of framed structures
+
+4
+
+TB-Chap 4, R1-Chap 7
+
+5. Natural Coordinates Natural coordinates and Lagrangian and
+
+and Shape Functions Serendipity shape functions for one- and two-dimensional elements, convergence and
+
+4
+
+R1-Chap 3
+
+compatibility requirements
+
+6. Element formulation Iso-parametric formulation for bar element,
+
+linear and quadratic triangular elements and Rectangular Elements, Numerical
+
+6
+
+TB-Chap 9,10&11
+
+Integration, axi-symmetric element
+
+7. Plate Elements
+
+Plate Bending Theory, Formulation of Plate elements
+
+4
+
+TB-Chap 12, R1-Chap 10
+
+8. Shell Elements
+
+Shell theory, Formulation of shell elements
+
+3 R1-Chap 11
+
+9. Programming Aspects
+
+Assembling of global stiffness matrix and load vectors, equation solvers.
+
+4 R1-Chap 6
+
+5. Evaluation Scheme:
+
+SN. Evaluation Duratio
+
+No. Component
+
+n
+
+1. Test-I
+
+1 Hour
+
+2. Test-II
+
+1 Hour
+
+3.
+
+Projects /Home Assignments
+
+-
+
+4.
+
+Comprehensive Exam.
+
+3 Hours
+
+Weightage (% age) 20% 20% 20%
+40%
+
+Date, Time
+10/9, 1.00--2.00 PM 22/10, 1.00--2.00 PM
+01/12 FN
+
+Venu e
+- -
+-
+
+Nature of Componen
+t CB CB
+OB
+
+- CB
+
+6. Chamber Consultation Hour: To be announced in the class. 7. Notices: All notices concerning the course will be displayed on Notice Board of Civil Engineering
+Department. Make up policy: Makeup will be given only to the genuine cases provided prior permission is taken.
+
+Instructor-In-Charge
+
+

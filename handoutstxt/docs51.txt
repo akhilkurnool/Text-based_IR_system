@@ -1,0 +1,57 @@
+Birla Institute of Technology and Science, Pilani, Hyderabad Campus
+Instruction Division
+First Semester 2016-17
+Course Handout (Part-II)
+Date: 01.08.2016
+In addition to Part - I (General handout for all courses appended to the timetable) this portion further specific information regarding the course.
+
+Course No.
+
+: CS F351
+
+Course Title
+
+: Theory of Computation
+
+Instructor-In-Charge : Dr.R.Gururaj
+
+1. Course Description
+Finite automata and regular languages- Regular Expressions, Deterministic and Nondeterministic FA, Conversion from NDFA to DFA, Pumping theorem; Context free languages and CFGs- Push down automata, concepts in parsing, parse trees, Top-down and Bottom-up parsing; Turing machines; Universal Turing Machines; Computability - decidability and semi-decidability, recursive languages, Church-Turing hypothesis; Undecidable problems - the halting problem.
+2. Objective To provide a theoretical foundation for the process of computation and to impart an understanding of the notions of automata, formal languages, Grammars, parsing, computability and complexity classes.
+3. Scope
+This course covers basic concepts of formal models of computation and computability. It introduces a hierarchy of machines and languages to capture classes of computable sets. It concludes with a generic notion of computability, and complexity classes of computable functions.
+4. Textbook
+T1. Elements of Theory of Computation, Harry Lewis and Christos Papadimitriou, Second Edition, PHI, Asia 1998
+5. Reference Books
+R1. Introduction to Automata Theory, Languages and Computation, John Hopcroft, Rajeev Motwani and Jeffrey Ullman, Second Edition, Pearson, Asia 2001
+
+6. Lecture Schedule:
+
+Lect. 1 2-4 5-6 7 8-9 10-12 13-14 15-17 18-20 21-24 25-29 30-33 34-35 36-38 39 40 41 42
+
+Topics Introduction Sets, Finite Sets Alphabets and languages Finite representation of languages Finite automata Deterministic & Non-deterministic finite automata Finite automata & regular expressions State minimization Context-free grammars Parse trees Pushdown automata Turing machines Non-deterministic Turing machines Undecidability, Universal TMs Unsolvable problems Computational complexity N-P Completeness Course Summary
+
+Readings T1 Ch.1 T1 Ch. 1 T1 Ch. 1 T1 Ch. 2 T1 Ch. 2 T1 Ch. 2 T1 Ch. 2 T1 Ch. 3 T1 Ch. 3 T1 Ch. 3 T1 Ch. 4 T1 Ch. 4 T1 Ch. 5 T1 Ch. 5 T1 Ch. 6 T1. Ch.7 -
+
+7. Evaluation: Component
+Test-1
+Test-2
+Comprehensive
+
+Duration 1 Hr
+1 Hr
+3 Hrs
+
+Date & Time 09-09-2016,
+10-00 to 11-00 AM 24-10-2016,
+10-00 to 11-00 AM 03-12-2016, AN
+
+Weightage Remarks 30% Close Book
+30% Open Book
+40% Close Book
+
+8. Make-up-Policy: For genuine reasons other than medical, prior approval from the IC is mandatory. Requests coming after the test will not be honored. For make-up on medical grounds, first inform the warden about the illness and take his help for consulting the doctor, and finally Chief Hostel Warden's recommendation is a must and such students should not leave the campus during Test dates (please refer to the guidelines by ID in this regard). No make-up will be given by just producing some medical prescription. The above mentioned rules will be followed very strictly.
+9. Course Notices: All notices pertaining to this course will be displayed on the CSIS Notice Board and Course webpage.
+10. Chamber Consultation: To be announced. Instructor In-charge CS F351
+
+

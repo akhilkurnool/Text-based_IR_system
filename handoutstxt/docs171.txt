@@ -1,0 +1,109 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+Course Handout (Part - II)
+							                                  		01-08-2016        
+Course No.		    	:  PHA F215
+Course Title		   	:  Introduction to Molecular Biology 
+Instructor-in-Charge   	:  Arti Dhar
+Instructors			:  Arti Dhar
+ 1. Scope and Objective of the Course:
+      This course deals with Basic aspects of cell and molecular biology, DNA replication, transcription, translation and control mechanisms of protein synthesis. Post transcriptional modifications, DNA-protein interactions and regulation of gene expression. Basic aspects of immune system, cell-mediated and humoral immunity  
+2. Text Book : 
+G.M. Cooper and R.E. Hausman, The Cell: A Molecular approach, ASM Press, Washington, D.C.4th Edition. 2007.
+Kuby Immunology by Owen et al., 7th Ed. Freeman press. 2013.
+3. Reference Books :
+B. Albert et al., Molecular Biology of the cell, 5th edition, Taylor & Francis Group, 2008.
+H. Lodish et al., Molecular Cell Biology, 7th Ed., MacMillan, 2013.
+L. Picorina, Molecular Biology of Cancer: Mechanisms, Targets and Therapeutics, 3rd Ed., Oxford University Press, 2012 
+4. Course Plan
+Lec. No.
+Learning Objectives
+Topic to be covered
+Ref.
+1-6
+Introduction to molecular biology
+Molecular biology of a cell and its applications. Brief outline of molecular chemistry
+TB1, Ch1,2
+7-9
+Cells
+Cellular activities, check points, programmed cell death, cell-cell interactions, molecular basis for human diseases
+TB1, Ch3, 11, 12, 14
+10-11
+Genome
+Structures of RNA, DNA
+TB1 Ch4, 5, 7
+12-14
+DNA replication
+DNA replication, repair and recombination, genetic disorders and cancer
+TB1 Ch6
+15-19
+Cell cycle
+Regulation of cell cycle, proliferation, events of meiosis, cytokines, etc,
+TB1 Ch16
+20-22
+RNA and Protein
+RNA and protein synthesis, RNA polymerases, transcription, regulation of protein function
+TB1 Ch7, 8
+23-24
+Plasma membrane
+Structure of plasma membrane, transport of small molecules, receptors
+TB1 Ch13
+25-26
+Cell signaling
+Signaling molecules, receptors and transporters, cell surface proteins, signal transduction and cytoskeleton, protein kinases, signal transduction and oncogenes
+TB1 Ch15
+27-28
+Immune system
+Cells, organs and tissues of immunity, receptors and signaling, antigen, antibody, immunoglobulin genes
+TB2, Ch1-3
+29-33
+Innate immunity, MHC and antigen presentation
+Infection barriers, phagocytosis, inflammation and adaptive immune responses, Role of MHC and expression patterns, antigen processing and presentation 
+TB2, Ch5, 8
+34-37
+Cell-based immunity
+T-cell and B-cell activation, differentiation, memory, effector responses
+TB2, Ch11-13
+38-40
+Immune disorders
+Immunodeficiency diseases, autoimmune diseases, allergy and hypersensitivity reactions, etc.
+TB2, Ch15-16
+
+5. Evaluation:
+Component
+Duration
+Weightage (%)
+Date & Time
+Remarks
+Test I
+50 mts.
+15 
+13/9, 4.00--5.00 PM
+CB
+Test II
+50 mts.
+15
+21/10, 4.00--5.00 PM
+CB
+Surprise quiz
+
+15
+
+
+Seminars, presentations and Assignments
+
+20
+
+OB
+Compre Exam
+3 hrs.
+35
+13/12 FN
+CB(25)+OB(10)
+
+6.  Chamber consultation hours:  To be announced in class.
+7.  Notices: Notices concerning the course will be displayed on the pharmacy group notice 
+     board only.
+8. Make-Ups: Make-Ups are not given as a routine. It is solely dependent upon the     GENUINENESS OF THE CIRCUMSTANCES under which a student fails to appear in a scheduled evaluation component. In such circumstances, prior permission should be obtained from the Instructor-in-Charge.       			Instructor - in -Charge
+        PHA F215

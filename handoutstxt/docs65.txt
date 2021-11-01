@@ -1,0 +1,159 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+
+HYDERABAD CAMPUS
+
+INSTRUCTION DIVISION
+
+FIRST SEMESTER 2016 - 2017
+
+Course Handout Part II
+
+Date: Mon 1st Aug 2016
+
+In addition to part - I (General Handout for all courses appended to the Time Table), this portion gives
+
+further specific details regarding the course.
+
+Course No.
+
+: EEE / ECE / INSTR F214
+
+Course Title
+
+: ELECTRONIC DEVICES
+
+Instructor-in-Charge :
+
+Dr. Surya Shankar Dan
+
+Lecture Instructor :
+
+Dr. Surya Shankar Dan
+
+Tutorial Instructors :
+
+Dr. Surya Shankar Dan & Prof. Sanket Goel
+
+1. Scope and Learning Outcome: i. Understanding the relationship between atomic structure and physical properties of semiconductors with semiconductor devices of modern VLSI technology. ii. Interpreting electronic band structure using quantum mechanics.
+iii. Identifying the semiconductor properties that determine the performance of electronic devices. iv. Calculating the carrier concentrations and conductivity of a semiconductor using given doping
+concentrations. v. Understanding the basic physics of charge carriers in solids and carrier transport in
+semiconductors. vi. Deriving equations of charge transport in semiconductors under normal operating conditions. vii. Applying the charge diffusion equation to electronic devices and deriving their I-V
+characteristics. viii. Utilizing defect densities and carrier recombination processes to calculate generation and
+recombination rates in semiconductor devices. ix. Understanding the basics of optoelectronic devices.
+
+2. Text Book: B. G. Streetman & S. Banerjee, "Solid State Electronic Devices", 6th Ed., PHI, 2006
+3. Reference Book: D. A. Neamen & D. Biswas, "Semiconductor Physics and Devices", 4th Ed., MGH, 2013
+
+4. Course Plan:
+
+Lect. #
+
+Topic
+
+1
+
+Introduction to the subject and course details
+
+2-4 Crystal Structure
+
+5-8
+
+Review of semiconductor fundamentals.
+
+9-11
+
+Charge carriers in semiconductors,
+
+Learning Objectives
+Cubic Lattices, Planes & Directions Fundamentals of quantum physics, Schrodinger wave equation, tunneling, uncertainty principle Fermi level, equilibrium carrier concentrations, temperature dependence, space charge neutrality
+
+Text Ref.
+1.2.1 - 1.2.3 3.1.3, 3.1.4, 3.2 3.3
+
+12-14 15-19 20-27 28-32 33-38 39-42
+
+Effect of electric and
+
+magnetic fields on drift of Conductivity and mobility, Hall effect
+
+carriers
+
+Interaction of photons with semiconductors,
+
+Excess carriers in
+
+generation and recombination mechanisms of
+
+semiconductors
+
+excess carriers, quasi-fermi levels in non-
+
+equilibrium
+
+PN junctions, I-V characteristics, biasing,
+
+Junctions
+
+breakdown diodes, Metal semiconductor
+
+junctions, Tunnel Diode, Varactor diode
+
+To understand the structure and working of
+
+Field Effect Transistors
+
+JFET, MOSFET, I-V characteristics and
+
+secondary effects
+
+BJT operations, amplifications, carrier
+
+Bipolar Junction Transistors distribution, I-V characteristics etc. and
+
+secondary effects,
+
+Photoelectric effect, Solar cells, Photodiodes,
+
+Optoelectronic devices
+
+Light Emitting Diodes(LED), Lasers and
+
+Semiconductor Lasers
+
+3.4-3.5
+4.1 - 4.4
+5.2 - 5.7, 10.1 6.2,6.3.1,6.3.3, 6.4.1-6.4.5, 6.5.16.5.4, 6.5.6,6.5.8 7.1, 7.3 -7.7, 7.9
+2.2.1, 8.1-8.4
+
+5. Evaluation Scheme:
+
+Component
+
+Evaluation
+
+Test I
+
+Closed Book
+
+Test II
+
+Open Book
+
+Comprehensive
+
+Closed Book
+
+Duration 60 min 60 min 180 min
+
+Marks (% out of 300) 90 (30%) 90 (30%) 120 (40%)
+
+Date & Time 9/9 & 4:00-5:00 PM 24/10 & 4:00-5:00 PM 10/12 & 2:00-5:00 PM
+
+6. Chamber consultation hours: To be announced in the class.
+
+7. Notices & Announcements: All notices for the course will be announced in the class and displayed on the CMS ONLY
+8. Make-up Examination: Requests for make-up examination will be entertained ONLY for extremely serious cases where: (i) Parents of the concerned student have to request the course IC for the makeup for their ward (ii) Written & signed documentary evidence needs to be provided from the Hostel Warden confirming the reason for absence from scheduled examination. (iii) In case of medical emergencies students must produce a documentary evidence from the surgeon.
+
+Instructor-in-Charge EEE / ECE / INSTR F214
+
+

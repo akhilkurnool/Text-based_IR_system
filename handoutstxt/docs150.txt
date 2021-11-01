@@ -1,0 +1,125 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI, HYDERABAD CAMPUS INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017 Course Handout (Part II) Date: 01.08.2016
+
+In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.
+
+: ME F432
+
+Course Title
+
+: Computer Aided Manufacturing
+
+Instructor-in-charge : Kurra Suresh
+
+1. Scope and objective of the Course:
+To increase the productivity, industry has tried to apply more computerized automation in manufacturing. This has led to an increased number of computer-controlled machine tools, an appearance of industrial robots in the production lines. This trend towards computerized manufacturing is leading to a demand for appropriately trained engineers to design and maintain these systems. The course aims to provide an introduction to the theory and applications of control in the manufacturing area. It presents concepts of computer control as applied to stand-alone manufacturing systems (such as Machine tools and industrial robots) computer aided process planning, production control, inspection & quality control and provides a useful approach to their implementation. Projects using CAD/CAM software (PRO-E, CATIA) and CNC machines demonstrations are highlights of the course.
+
+2. Text Book: 1. Yoram Koren., "Computer Control of Manufacturing Systems", McGraw-Hill International
+edition, 1985.
+Reference Books: 1. P.N. Rao, "CAD/CAM", Tata McGraw-Hill, New Delhi, 2003 2. Ibrahim Zeid, "Mastering CAD/CAM", Tata McGraw-Hill, New Delhi
+3. P.N. Rao, N.K. Tewari, and T.K. Kundra., "Computer Aided Manufacturing", Tata
+McGraw-Hill, New Delhi.
+
+3. Course Plan: Lec. No. Objective 1-2 Introduction
+3 To introduce features of NC machine tools
+4 To equip students with NC Part Programming skills
+5-7
+
+Topics
+ Basic concepts of manufacturing  Fundamentals, advantages  Classifications of NC systems  Design considerations of machine
+tools  Methods of improving accuracy  Increasing productivity with NC
+machines  Machining Centres, MCU
+functions  Introduction  Manual Programming * Manual Programming - Lathe
+
+Chap. (T/R) T1-1 T1- 2
+R1 R1
+
+8-9 10-11 12-13 14-16 17-19 20-21 22-23
+24-25
+26 27
+28-29
+30 31
+32-33
+34-35
+
+To introduce other part programming techniques
+Introduction to CAD
+Machining of freeform surfaces
+
+* Manual Programming - Milling  Computer Aided Programming  APT programming  Other programming Systems  Curves and surfaces  Geometric transformations  Toolpath generation  5 and 4 axis machining
+
+R1 R1
+R2 Class notes
+
+Pro/Manufacturing Master CAM To introduce various CAM system devices
+To make familiar students with Interpolators
+To explain control loops of NC system CNC Tooling
+To introduce Adaptive Controls
+To make students to grasp Industrial Robots fundamentals To introduce robot programming and economic aspects
+To explain use of computers in process planning
+To introduce Rapid Prototyping
+
+ Toolpath generation using CAD/CAM packages
+ Tool path generation using CAM packages
+ Drives  Feedback devices  Counting devices,  Digital to Analog converters  Hydraulic Systems  DDA integrator  DDA Hardware interpolator  CNC software interpolators  Software DDA interpolators  Control of point to point systems  Control loops in contouring
+systems  Cutting tools  Work holding devices  Cutting process parameter
+selection  Introduction  Adaptive Control with
+optimization  Adaptive control with constraints  Basic concepts in Robotics  The manipulator  The control and drives  Robot programming  Intelligent robots  Economics  Applications of robots  What is process planning  Computer Aided Process
+Planning (CAPP)  Group Technology  Application programs
+ Introduction to free form fabrication
+ RP Techniques
+
+Class notes T1-4 T1-5 T1-6 R1-11 T1-8
+R3 R3 Class Notes
+
+36-37 38
+
+To explain use of computers in inspection and quality control
+To make students familiar with CIM architecture
+
+ Quality assurance & quality control
+ SQC  Coordinate measuring machine,
+Non-contact inspection
+ Hierarchical computer control  DNC systems  The Manufacturing Cell  Flexible Manufacturing
+Systems  The factory of the future
+
+R3 T1-10
+
+4. Evaluation Scheme:
+
+Component
+
+Duration Weightage (%)
+
+Date & Time Venue
+
+Test I
+
+50 mts.
+
+Test II
+
+50 mts.
+
+Compre. Exam.
+
+3 hrs.
+
+Seminar/Computer Project
+
+15 13/9, 10.00--11 AM 15 21/10 10.00--11 AM 35 14/12 AN 35
+
+5. Chamber Consultation Hours: To be announced in the class.
+
+6. Notices: Notices, if any, concerning the course will be displayed on the CMS only.
+
+Remarks
+OB CB CB OB
+
+C432
+
+Instructor-in-charge ET C422/ME
+
+

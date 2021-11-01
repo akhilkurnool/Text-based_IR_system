@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ 	<title>INFER®</title>
+   <link rel='stylesheet' href='infer_results_style.css'>
+	<link rel='stylesheet' href='g.css'>
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+</head>
+<body id="body">
+  <div id="logo">
+    <span style="margin-left: calc(50% - 50px)">
+      <img width="100px" height="100px" src="./bits.png" />
+    </span>
+  </div>
+  <div id="initial">
+    <input class="b-search" type="text" id="search1" name="search" placeholder="Search" autofocus autocomplete="off"><br />
+	  <input class="b-submit" id='firstSubmit' type="submit" value='Infer Search' />
+  </div>
+	
+	<!--.<input value="I'm Feeling Lucky" type="submit" href="http://cms.bits-hyderabad.ac.in">..-->
+
+  <!-- <div class ='header'>
+    <input type="text" id="search" name="search"  autofocus autocomplete="off"><br />
+    <input type='submit' value='Infer Search'>
+  </div>
+  <div class= "all_results"> -->
+</body>
+</html>
+
+
+<script>
+var first = true;
+var apiEventHandler = () => {
+  fetch(`${backendURL}${searchValue}`)
+      .then(res => res.json())
+      .then(res => {
+        if (first) {
+          document.getElementById('initial').remove();
+          document.getElementById('logo').remove();
+          var body = document.getElementById('body');
+          body.insertAdjacentHTML('beforeend', final);
+        }
+        var results = document.getElementById('results');
+        results.innerHTML = '';
+        resStr = '';
+        if (res.result.length > 0) {
+          res.result.forEach(([r]) => {
+            // console.log('r? ', r[3], r[1], r[2], r[0])
+            console.log(card.format(r[3], r[1], r[2], r[0]))
+            resStr += card.format(r[3], r[1], r[2], r[0])
+          });
+          results.innerHTML = resStr;
+        } else {
+          results.innerHTML = `
+            <h1 class='no_results'>
+              No relevant documents containing all the search terms
+            </h1>`
+        }
+      })
+      .catch((e) => console.log('error? ', e))
+      .finally(() => {
+        if (first) {
+          document.getElementById('search2').addEventListener('input', (event) => {
+            searchValue = event.target.value;
+          });
+          document.getElementById('submit2').addEventListener('click', apiEventHandler)
+        }
+        first = false;
+      })
+}
+
+if (!String.prototype.format) {
+  String.prototype.format = function() {
+    var args = arguments;
+    return this.replace(/{(\d+)}/g, function(match, number) { 
+      return typeof args[number] != 'undefined'
+        ? args[number]
+        : match
+      ;
+    });
+  };
+}
+
+  var final = `
+    <div class ='header'>
+      <input class="a-search" type="text" id="search2" name="search"  autofocus autocomplete="off"><br />
+      <input class="a-submit" id="submit2" type='submit' value='Infer Search'>
+    </div>
+    <div id="results" class= "all_results"></div>
+  `;
+  var card = `
+    <div class='card'>
+      <a class='result' href='http://id.bits-hyderabad.ac.in/moodle/course/view.php?id={0}' > 
+        <p class='course_id'>{1}</p> 
+        <p class='course_name'>{2}</p> 
+      </a>
+      <a class='direct_doc' href='http://localhost:3000/Handouts/{3}.pdf'>Open</a>
+    </div>
+  `;
+  var searchValue = ''
+  var backendURL = 'http://localhost:80/?q='
+  
+  window.onload = () => {
+    first = true
+  };
+  document.getElementById('search1').addEventListener('input', (event) => {
+    searchValue = event.target.value;
+  })
+  document.getElementById('firstSubmit').addEventListener('click',  apiEventHandler)
+</script>

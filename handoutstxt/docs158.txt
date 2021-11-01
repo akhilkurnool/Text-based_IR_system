@@ -1,0 +1,192 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE-PILANI - HYDERABAD CAMPUS
+
+INSTRUCTION DIVISION, FIRST SEMESTER 2016 - 2017
+
+(COURSE HANDOUT PART II)
+
+Date: 02/08/2016
+
+In addition to part-I (general handout for all courses in the time-table), this handout provides the specific details regarding the course.
+
+Course No.:
+
+ME G621
+
+Course Title:
+
+FLUID DYNAMICS
+
+Instructors:
+
+N. Jalaiah, K. Supradeepan
+
+Instructor-in-charge: N. JALAIAH
+
+1. Course Description: Mechanics of turbulent flow; semi-empirical expressions; statistical concepts; stability theory; flow of non-Newtonian fluids; stationary and moving shock waves; Prandtl-Mayer expressions; two and three dimensional subsonic and supersonic flow; methods of characteristics; small perturbation theory and similarity rules.
+
+2. Scope and Objective: The objective of this course is to lay strong foundation in understanding the concepts on turbulence and the statistical and computational methods used in estimating it. Starting from the basics of laminar flow concepts, the key parameters of turbulence is explained with the help of equations of motion. This course focuses also on fundamentals of compressible flow viz isentropic flow, shock waves, Prandtl-Meyer expansions. The fundamental mathematics and physics governing these flows are derived and discussed.
+
+3. Text Book:
+1. Garde R. J., "Turbulent Flow", New Age International Pvt. Ltd., New Delhi, 3rd Ed., 2010. 2. Yahya S. M., "Fundamentals of Compressible Flow with Aircraft and Rocket Propulsion", New Age
+International Pvt. Ltd., New Delhi, 4th Ed., 2010.
+Reference Books:
+1. John D. Anderson Jr., "Modern Compressible Flow - With Historical Perspective", McGraw-Hill Publishing Company, Singapore, 2nd Ed., 1990.
+2. Stephen B. Pope, "Turbulent Flows", Cambridge University Press, 2000.
+
+4. Course Plan:
+
+Lecture Nos.
+
+Learning Objectives
+
+1-4 Laminar Flow
+
+5-7
+
+Transition from Laminar to Turbulent Flow
+
+8-11 Nature of Turbulence
+
+12-14 Equations of Motion
+
+15-20
+
+Statistical Theory of Turbulence
+
+21-24 Turbulence Models
+
+Topics to be covered
+Introduction, Equations of motion, Conditions of Similarity, Creeping motion, Exact solutions of N-S equations, Boundary layer approximations, Characteristics of laminar flows Concept of Stability, Stability analysis, Experimental verification, Factors affecting transition Averaging procedures, Characteristics of turbulent flows, Types of turbulent flows, Scales of turbulence, Methods of analysis Reynold's equation of motion, Energy Equation, Bernoulli's equation for mean flow Introduction & some definitions, Isotropic turbulence and homogeneous turbulence, Kinematics & dynamics of isotropic turbulence, Spectrum analysis, Kolmogorov's theory of local isotropy Mixing length hypothesis, Karman's similarity hypothesis, Vorticity transport theory, Zero equation models, One equation models, Two equation models, Multi-equation models
+
+Chapter/ Section
+TB:1 Chapter: 1
+TB:1 Chapter: 2
+TB:1 Chapter: 3
+TB:1 Chapter: 4
+TB:1 Chapter: 5
+TB:1 Chapter: 6
+
+Page | 1/2
+
+Lecture Nos.
+
+Learning Objectives
+
+Topics to be covered
+
+Chapter/ Section
+
+25-26
+
+Introduction to Compressible flow
+
+Definitions, Basic relations, Energy equations
+
+TB:2 Chapters: 1&2
+
+27 Rate Equations
+
+Rate equations for a control volume
+
+TB:2 Chapter: 3
+
+28-30
+
+Isentropic Flow with Variable Area
+
+Stagnation and critical states, Flow through nozzles and TB:2
+
+diffusers, Use of gas tables
+
+Chapter: 4
+
+31-34
+
+Flow with Normal Shock Waves
+
+Governing equations, Prandtl-Meyer Relation, RankineHugoniot equations, Strength of a shock wave, Moving normal shock waves
+
+TB:2 Chapter: 6
+
+35-37
+
+Flow in Constant Area Ducts with Friction
+
+Fanno curves, Fanno flow equations and their solutions, Variation of Mach number with duct length, Isothermal flow with friction
+
+TB:2 Chapter: 8
+
+38-40
+
+Flow in Constant Area Ducts with Heat Transfer
+
+Rayleigh line, Rayleigh flow relations, Maximum heat transfer
+
+TB:2 Chapter: 9
+
+5. Evaluation Scheme: Evaluation Component Test-1 Test-2
+
+Duration Weightage (%)
+
+60 min
+
+15
+
+60 min
+
+15
+
+Date & Time
+13.09.2016 1.00 - 2.00 PM
+21.10.2016 1.00 - 2.00 PM
+
+Nature of Component
+CB
+CB
+
+Lab Reports* --- 10
+
+Continuous
+
+OB
+
+Project Report
+
+---
+
+20
+
+To be announced in the class
+
+OB
+
+Seminar
+
+---
+
+10
+
+To be announced in the class
+
+OB
+
+Comprehensive Exam
+
+3 hours
+
+30
+
+08.12.2016 FN
+
+CB
+
+* List of Experiments: 1. Free and forced vortex flow 2. Reynold's and laminar flow 3. Boundary layer flow 4. Nozzle performance test 5. Nozzle pressure distribution test
+6. Chamber Consultation Hour: To be announced in the class room.
+7. Notices: All notices concerning this course shall be posted at CMS, the institute's web based course management system.
+8. Make-up Policy: Make-up shall be given only to the genuine cases with prior intimation.
+
+Instructor-in-charge ME G621
+
+Page | 2/2
+
+

@@ -1,0 +1,116 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE  PILANI, HYDERABAD CAMPUS
+INSTRUCTION DIVISION, First SEMESTER 2016 - 2017
+COURSE HANDOUT (PART-II)
+									     	         	Date: 01-08-2016
+
+In addition to part I (General handout for all courses appended to the timetable) this portion gives further specific details regarding the course.
+
+Course Number		:	PHY F212, ECE F212, EEE F212
+Course Title			:	Electromagnetic Theory I
+Instructor-in-Charge		:	Souri Banerjee
+Instructors		:           Kannan Ramaswamy; Adonis   Lupulescu 
+                                                Rahul Nigam
+					                                                   
+Scope & Objective of the course:  
+We live in an electromagnetic world. From atoms and molecules to computers and biological systems the electromagnetic forces, which is the most well-understood forces, are at the heart of most phenomena. We perceive physical objects because of electromagnetic forces and the objects around us are held together because of electromagnetic forces. 
+The theory which gives account of electromagnetic phenomena is one of the greatest accomplishments of the human mind and as such it has to be part of the intellectual achievements of our students too. The chief principles of the electromagnetic theory are deceptively simple. It is one of the aims of this course to lead the students to a thorough understanding of electromagnetic phenomena and their origin.  
+
+Text Book:          Introduction to Electrodynamics, David J. Griffiths, Third Edition, Pearson
+                             Education Inc., 1999.
+
+Reference Books:  
+1. Electricity and Magnetism, Edward M. Purcell, Second Edition, McGraw Hill Education, 2011.
+2. The Feynman Lectures on Physics: Volume II, Richard P. Feynman, Robert B. Leighton, Matthew Sands, The New Millennium Edition, Pearson  Education Inc. 2013.
+
+  
+
+
+Lecture Number
+Learning Objectives
+Topics to be covered
+Reference
+Chapter/
+Section
+1
+Feel of Electromagnetism
+Introduction: The scope of EMT 1
+ClAss lecture
+2-6
+Vector Algebra
+Gradient, divergence and curl, Line, surface and volume integrals, Curvilinear co-ordinates, Dirac Delta Function
+1.2-1.6
+7-8
+Review of Electrostatics
+Gausss Law in differential and integral form and its applications  
+2.1, 2.2
+9-11
+Some special mathematical techniques
+Laplaces equation, First uniqueness theorem, Method of images, Multipole expansion, Applications
+3.1- 3.4,
+(Exclude 3.3)
+12-15
+Electric Fields in Matter
+Polarization, bound charges, electric displacement, Linear dielectrics.
+4.1-4.4
+16-20
+Magnetism
+Lorentz force law, Biot-Savart law, Amperes law, Magnetic vector potential.
+5.1-5.4
+20-23
+Magnetic fields in Matter
+Magnetization, the field of a magnetized object, Amperes law in magnetized materials, Magnetic susceptibility and permeability, Ferromagnetism. 
+
+6.1-6.4
+24-28
+Electrodynamics
+Electromotive force, Ohms law, Text book problem on Superconductors, Electromagnetic induction, Faradays law.
+7.1-7.2
+29-31
+Maxwells Equations
+Maxwells equations, Boundary conditions, Poyntings theorem 
+7.3, 8.1
+32-40
+Electromagnetic Waves
+Polarization, EM waves in vacuum, EM waves in matter
+9.1,9.2,9.3
+
+Evaluation Scheme:
+EC No.
+Evaluation Component
+Duration
+Weightage
+(%)
+Date, Time 
+Remarks
+1
+Test I
+60 Min.
+20
+
+Closed Book
+2
+Test II
+60 Min.
+20
+
+Open Book
+3
+Assignment in the form of 3 announced quiz*
+20 mins
+20
+
+Closed Book
+4
+Comprehensive
+3 Hours
+40
+
+Closed Book
+* Best two out of three will be taken. The quiz will roughly be equi-spaced and exact dates & venue will be announced later. 
+Chamber Consultation Hour: To be announced in class
+Notices: Notices and solutions of tests & Final Comprehensive Examination will be displayed only on the Physics notice board. 
+Make-up Policy: NO Make-up for any quiz. However for T1 & T2, it is applicable to the following two cases and it is permissible on production of evidential documents. 
+(i) Debilitating illness.
+(ii) Out of station with prior permission from the Institute.
+
+									Instructor-in-Charge                                                                                                        

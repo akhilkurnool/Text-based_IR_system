@@ -1,0 +1,172 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI - HYDERABAD CAMPUS INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+Course Handout (Part II) Date: 02-08-2016
+In addition to part-I (General Handout for all courses appended to the time table), this portion gives further specific details regarding the course.
+
+Course No.
+
+: ME F311
+
+Course Title
+
+: Heat Transfer
+
+Instructor-in-charge
+
+: SATISH K DUBEY
+
+Team of Instructors
+
+: Khalid Anwar, Ramsankar V
+
+1. Course Description:
+
+Fundamental concepts of heat transfer; steady-state and unsteady-state heat conduction; analytical and
+
+empirical relations for forced and free convection heat transfer; heat exchanger analysis and design; Heat
+
+transfer by radiation; condensation and boiling,: associated laboratory.
+
+2. Scope and Objective:
+
+This is an extension of the course Transport Phenomena I. This course is designed to make the students
+
+familiar with the concepts of heat and their applications in engineering. As a part of this course, students
+
+have to do the experiments through which they can correlate with their theoretical knowledge on the
+
+subject.
+
+3. Text Books: T1 :
+
+J.P. Holman, Heat Transfer, McGraw Hill, 2002,9th Edition.
+
+T2 : Mittal RK, Lab Manual, EDD Notes 2007.
+
+T3 : Srinivas, M & R.K. Mittal Transport Phenomenta-II Notes-EDD, 2003.
+
+4. Reference Books:
+
+R1 : F. P. Incropera & D. P. Dewitt, Fundamentals of Heat and Mass Transfer, John Wiley & Sons, 2001, 5th edition.
+
+R2 : F. Kreith & M. S. Bohn, Principles of Heat Transfer, Brooks Cole, 2000, 6th edition.
+
+R3 : J. R. Welty and others, Fundamental of Momentum, Heat and Mass Transfer, John Wiley & Sons, 2000, 4th edition.
+
+5. Course Plan:
+
+Reference
+
+Lecture No.
+
+Learning Objectives
+
+Topics to be covered
+
+Chap/Sec in Textbook/ Ref.
+
+Book
+
+1 To revise the basic concepts of Introduction to heat and mass Class notes
+
+2-3
+
+transport phenomena
+
+transfer
+
+To learn the basics of conduction heat Heat conduction equation
+
+1.1 - 1.2 (T1)
+
+4-5
+
+transfer To understand the analysis of one- 1D steady state heat conduction
+
+2.1 - 2.8 (T1)
+
+dimensional steady state heat
+
+6-8
+
+conduction To understand the heat transfer from Finned Surfaces
+
+2.9 - 2.10 (T1)
+
+9 - 14 15 - 17
+
+extended surfaces To do the analysis of multidimensional steady state heat conduction To learn heat transfer analysis of
+
+Analytical and numerical methods Lumped system analysis; analytical
+
+3.1 - 3.2 (T1) 3.4 - 3.6 (T1)
+4.1 - 4.5 (T1)
+
+unsteady-state conduction
+
+methods of analysis
+
+18-19 To learn the principles of convection Concepts and basic relations in 5.1-5.2 (T1)
+
+heat transfer
+
+convection heat transfer
+
+19-21 To understand the forced convection Analytical solutions and empirical 5.10, 5.11, 6.2 (T1)
+
+22-25
+
+heat transfer for flow inside ducts
+
+relations
+
+To understand the forced convection Analytical solution and empirical 5.4 - 5.9, 5.12, 6.3 -
+
+heat transfer for flow over bodies
+
+relations for forced convection heat 6.5 (T1)
+
+transfer for flow over flat plate,
+
+26-27
+
+cylinders, spheres and tube banks To understand the heat transfer Analytical solutions and empirical 7.2 - 7.12 (T1)
+
+analysis of natural convection correlation
+
+28 29 - 35 36- 39 40 - 42
+
+systems To understand the basic laws of radiation To learn the principles of radiation heat transfer To learn the design and analysis of heat exchangers To learn the principles condensation and boiling
+
+Basic laws and nature of thermal radiation Radiation heat exchange between surfaces; radiation shields Types of heat exchangers; LMTD and NTU method of analysis Filmwise, dropwise condensation ,pool boiling
+
+8.1-8.3 (T1)
+8.4 - 8.8; 8.16 - 8.17 (T1) 10.1 - 10.6 (T1)
+9.1-9.2,9.4-9.5 (T1)
+
+6. Evaluation Schedule: Component
+Test I Test II Tutorial Test
+Lab reports Lab viva Lab Compre and Viva Compre.
+
+Duration 1 hrs 1 hrs 30 Minutes
+2 hours 3 hrs
+
+Weightage (%) 15 15 10
+10 10 10 30
+
+Date & Time
+10/9: 8.30-9.30 Am 22/108.30-9.30 Am Distributed & Surprise
+8/12 AN
+
+Remarks Closed Book Open Book Open Book
+Open Book Closed Book Closed Book Closed Book
+
+7. Chamber consultation hours: To be announced in the class.
+Notices: Notices pertaining to this course will be displayed on Mechanical Engineering notice board only. Besides this, students are advised to visit regularly CMS (institute's web based course management system) for latest updates and notices
+
+8. List of Experiments: The list of experiments and complete modalities of operation of the laboratory such as the exact titles of experiments, reports submission and evaluation methodology etc. shall be announced at the beginning of laboratory session.
+
+Make-up Policy: Make-up for the tests shall be granted only for genuine cases. Requests for the make-up tests, duly forwarded by the instructors, should reach the IC well before the tests. For cases related to illness, proper documentary evidence is essential. No makeup for tutorial test
+Instructor-in-charge ME C311
+
+

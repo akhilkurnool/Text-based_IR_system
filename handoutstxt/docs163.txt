@@ -1,0 +1,92 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE-PILANI - HYDERABAD CAMPUS
+INSTRUCTION DIVISION, FIRST SEMESTER 2015 - 2016
+(COURSE HANDOUT PART II)
+Date: 09/05/2016
+In addition to part-I (general handout for all courses in the time-table), this handout provides the specific details regarding the course.
+Course No.:			ME F214 / MF F214
+Course Title:		APPLIED THERMODYNAMICS
+Instructor-in-charge:	Dr.  Supradeepan K
+Instructor(s):		Dr.  Supradeepan K
+1.	Scope and Objective: This course is designed to acquaint the students with the thermodynamics of power developing and power absorbing machines. The course discusses about gas and vapour cycles, combined power generation cycles, refrigeration cycles, psychrometry and basic air conditioning concepts, gas turbine cycles. It also focuses on thermodynamic relations, gas mixtures, exergy and gas dynamics fundamentals.
+2.    Course Description: Availability and irreversibility, Thermodynamic relations, Compressible flow, Ideal gas and vapour cycles, Combined power generation cycles, gas mixtures, Refrigeration cycles, Psychrometrics and introduction to heat load calculations, Gas turbine cycles, Compressors, Boilers and accessories.
+3.	Text Book:
+	P.K. Nag, Engineering Thermodynamics  Tata McGraw-Hill Publishing Company Ltd., 4th Ed., 2008.
+	Reference Books:
+		T. D. Eastop & A. McConkey, Applied Thermodynamics  Pearson Education, 5th Ed., 2008.
+		Rayner J., Basic Engineering Thermodynamics  Pearson Education, 5th Ed., 2008.
+		Claus Borgnakke & Richard E. Sonntag, Fundamentals of Thermodynamics, John Wiley & Sons, 7th Ed., 2009.
+4. Course Plan:
+Lecture Nos.
+Learning Objectives
+Topics to be covered
+Chapter
+1-7
+Vapour Power Cycles
+Rankine cycle, Actual vapour cycle and comparison with Carnot cycle, Mean temperature of heat addition, Reheat cycle, Regenerative cycle, Feed water heaters, Exergy analysis, Binary vapour cycles, Process heat and by-product power, Efficiencies in steam power plant
+12
+8-15
+Gas Power Cycles & Propulsion
+Stirling, Ericsson, Otto, Diesel, Dual cycle, Comparison, Brayton cycle, Combined cycles and Aircraft propulsion
+13
+16-19
+Gas Compressors
+Single-stage and Multi-Stage Compression, Volumetric efficiency, Rotary compressor
+18
+20-25
+Refrigeration Cycles
+Reversed Heat Engine Cycle, Vapor Compression Cycle, Absorption Cycle, Heat pump system, Gas cycle refrigeration, Liquefaction of gases
+14
+26-30
+Psychrometrics
+Properties of air, Psychrometry chart, Psychrometric processes
+15
+31-32
+Thermodynamic Relations & Gas mixtures
+Maxwells equations, Energy equation, Joule-Kelvin effect, Clausius-Clapeyron equation, Daltons law of partial pressures
+11.1  11.8 & 10.8
+33-35
+Compressible Fluid Flow
+Stagnation properties, 1-D steady isentropic flow, Normal shocks, Adiabatic flow with friction, Diabatic flow without friction
+17
+36
+Boilers and Accessories
+Boiler classification, Functions, Nomenclature, Mountings and accessories, Circulation 
+Class notes
+37-40
+Availability & Irreversibility
+Maximum work in a reversible process, Dead state, Availability and its balance, Second law efficiency
+8
+5.	Evaluation Scheme:
+Evaluation Component
+Duration
+Weightage (%)
+Date & Time
+Nature of Component
+Test-1
+60 min
+20
+
+CB
+Test-2
+60 min
+20
+
+CB
+Assignments
+
+20
+
+OB
+Comprehensive Exam
+180 min
+40
+
+CB
+NOTE: 	(i) EDD Notes on Thermodynamics Tables, Figures and Charts and (ii) Psychromeric Chart are allowed in the closed book tests also. However, they should not be defaced by writing formula, equations, etc.
+6.      Chamber Consultation Hour: To be announced in the class room.
+7.	*Surprise tutorial tests of 10 minutes duration each will be conducted during the tutorials or regular classes and these will be evaluated for ten marks each. 
+8.	Notices: All notices concerning this course will be displayed only on the CMS or Mechanical Engineering Department Notice Board. Besides this, students are advised to visit regularly CMS (institutes web based course management system) for latest updates.
+9.	Make-up Policy: Make-up shall be given only to the genuine cases with prior intimation. No make-up will be given for the surprise tests. Surprise tests shall be conducted in either lecture class or tutorial class.
+
+Dr. Supradeepan K
+ME F214 / MF F214

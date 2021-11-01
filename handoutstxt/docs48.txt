@@ -1,0 +1,70 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, Hyderabad INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017 COURSE HANDOUT(PART-I)
+Date : 01/08/2016
+
+In addition to Part-I (General Handout for all courses appended to the Timetable) this portion
+
+gives further specific details regarding the course.
+
+Course No.
+
+: CS F222 / IS F222
+
+Course Title
+
+: Discrete structures for Computer Science
+
+Instructor In Charge : Dr. N.L.BHANU MURTHY
+
+Team of Instructors : Surender Singh Samant
+
+Muthu Kumaran K
+
+1. COURSE DESCRIPTION : Sets & operation on sets; relations & equivalence relations; number theory; weak & strong form of mathematical induction; principle of inclusion & exclusion, pigeonhole principle; recurrence relations & generating functions; digraphs & graphs, graph isomorphism & sub-graphs, spanning trees, Euler & Hamiltonian graphs, planar graphs, chromatic numbers & graph coloring; groups; Lagrange theorem finite groups; Rings & Fields.
+2. SCOPE & OBJECTIVE: This course aims to provide the mathematical foundations for many computer science courses including data structures, algorithms, databases theory, automata theory, formal languages, compiler theory, computer security, and operating systems. This course can develop mathematical maturity to understand and create mathematical arguments. The course encompasses topics like methods of proof (induction, contradiction, proof by cases etc), set theory, functions, relations, partially ordered sets, lattices, graph theory, basic number theory and its application to cryptography, algebraic structures & coding theory.
+3. TEXT BOOK : T1. Mott , Abraham & Baker : Discrete Mathematics for computer scientist & Mathematicians, PHI, 2nd edition 2002.
+4. REFERENCE BOOK : R1. Kenneth Rosen: Discrete Mathematics and its applications, seventh editions, Tata McGrawHill Education Private Limited R2. KOLMAN , BUSBY & ROSS : Discrete Mathematical Structures , PHI 2003 R3. ROSS & WRIGHT : Discrete Mathematics PHI 2nd edition , 1988.
+
+5. COURSE PLAN:
+
+6. EVALUATION SCHEME:
+
+Component
+
+Duration Weightage Date & Time Remarks
+
+Test 1 Test 2
+
+60 mins 60 mins
+
+20% 20%
+
+10/9, 4.00-5.00 PM 22/10, 4.00-5.00 PM
+
+CB CB
+
+Assignments
+
+Take Home 20%
+
+OB
+
+Comprehensive Examination
+
+180 mins 40%
+
+01/12 AN
+
+CB
+
+7. CHAMBER CONSULTATION HOUR: Thursday 1600 Hrs - 1700Hrs @B217
+
+8. Make-up: Make-up will be granted only to genuine cases with prior permission only.
+
+9. NOTICES: All notices about the course will be put on CSIS Notice Board.
+
+Instructor -in-charge
+
+CS F222 / IS F222
+
+

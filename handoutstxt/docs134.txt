@@ -1,0 +1,111 @@
+      BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI-HYDERABAD CAMPUS 
+INSTRUCTION DIVISION, FIRST SEMESTER 2016-2017
+Course Handout (Part-II)
+								Date: 01-08- 2016
+In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.		:	CHEM F337
+Course Title		:	Green Chemistry and Catalysis
+Instructor-in-charge	:	R. KRISHNAN
+
+1. Course Description
+Realizing the problems in the old conventional chemical methods and exploring the possibility for alternative chemical processes for a safer and sustainable central science. Definition and overview of the twelve principles of Green Chemistry, alternative starting materials; alternative synthesis and reagents;  E factor and the concept  of atom economy; the role of catalysis, alternate energy sources (microwave & ultrasound), catalysis by solid acids and bases, bio-catalysis, catalytic reduction, catalytic oxidation, catalytic CC bond formation, cascade catalysis, enantioselective catalysis, alternative reaction media, renewable raw materials, industrial applications of catalysis.
+ 
+2.  Scope and objective of the course:
+The objectives of this course are to provide the students with a fundamental understanding of Green Chemistry with an emphasis on the design, prepare and use of chemicals and protocols that have little or no pollution potential or environmental risk. The students will also be exposed to the development of latest technologies and methodologies for environmentally benign methods which are being practiced in industry.
+ 
+3. Text Book:   
+T1: Green Chemistry and Catalysis, Roger Arthur Sheldon, Isabel Arends, and Ulf Hanefeld, Wiley, 2007.
+4. Reference Books:
+R1: Green Chemistry: Theory and Practice, Paul T. Anastas and John C. Warner, Oxford, 2000.
+R2: New trends in Green Chemistry, V. K. Ahluwalia, M. Kidwai, New Age Publications, 2004.
+R3: Green Organic Chemistry in Lecture and Laboratory, Ed., A. P. Dicks, CRC Press, 2012.
+
+5.  Course Plan: 
+Lec. No.
+Topics to be covered
+Learning Objectives
+Reference
+(Page no.)
+1-4
+Introduction and Tools of  Green Chemistry
+Definition and overview of the twelve principles of Green Chemistry, E factor and the concept of atom economy, Alternative feedstocks/starting materials, reagents, solvents, product/target molecule and catalysts.
+T1 1.1-1.3 Lecture notes
+
+5-9
+Solid acids and bases as catalyst and Biocatalysis
+Acidic clays, Zeolites and Zeotypes, Solid Acids Containing Surface SO3H Functionality,  Heteropoly Acids, Anionic Clays: Hydrotalcites, Basic Zeolites, Organic Bases Attached to Mesoporous Silica,  Catalysis by enzymes and microorganisms.
+T1 2.1-2.4
+10-13
+Catalytic reduction
+Heterogeneous Reduction Catalysts: General Properties, Transfer Hydrogenation Using Homogeneous and Heterogeneous Catalysts, Chiral Homogeneous and Heterogeneous Reduction Catalysts, Biocatalytic Reductions, Enzyme and Whole Cell Technology for Biocatalytic Reduction. 
+T1 3.1-3.5
+14-17
+Catalytic oxidation
+Mechanisms of Metal-catalyzed Oxidations: General Considerations, Homolytic and Heterolytic Mechanisms,  Direct Homolytic Oxidation of Organic Substrates, Catalytic Oxygen Transfer, Ligand Design in Oxidation Catalysis, Enzyme Catalyzed Oxidations.
+T1 4.1-4.5
+18-21
+Catalytic CC bond formation
+Enzymes for CarbonCarbon Bond Formation, Transition Metal Catalysis, organocatalysis.
+T1 5.1-5.4
+22-25
+Catalysis in Novel Reaction Media
+Choice of Solvent, Alternative Reaction Media and Multiphasic Systems, Two Immiscible Organic Solvents Aqueous Biphasic Catalysis, Fluorous Biphasic Catalysis, Supercritical fluids, Ionic liquids.
+T1 7.1-7.9
+26-29
+Chemicals from Renewable Raw Materials 
+Carbohydrates, Chemical and Chemoenzymatic Transformations of Carbohydrates into Fine Chemicals and Chiral Building Blocks, Fats and Oils, Terpenes, Renewable Raw Materials as Catalysts, Green Polymers from Renewable Raw Materials.
+T1 8.1-8.8
+30-33
+Cascade and Enantioselective Catalysis
+Dynamic Kinetic Resolutions by Enzymes Coupled with Metal Catalysts, Combination of Asymmetric Hydrogenation with Enzymatic Hydrolysis, Catalyst Recovery and Recycling, Immobilization of Enzymes: Cross-linked Enzyme Aggregates, enantioselective catalysis.
+T1 9.1-9.6
+34-37
+Alternate Energy Sources
+Applications of microwave & ultrasound energies in green synthesis.
+Lecture notes
+38-42
+Green methods in Industry
+Polysaccharide polymers, chemical from glucose, halide free synthesis of aromatic amines, alternative to Strecker synthesis, non phosgene isocyanate synthesis.
+Lecture notes
+
+Evaluation Scheme: (Total 200 Marks)
+Components
+Duration
+Marks 
+(Weightage)
+Date & Time
+Remarks
+Test I
+Test II 
+Labs
+Assignments and Presentation
+Compre. Exam* 
+1 h
+1 h
+10 min
+10 min
+3 h
+34 (17%)
+34 (17%)
+32 (16%)
+28 (14%)
+72 (36%)
+8/9, 11.30-12.30 PM
+25/10, 11.30-12.30 PM
+Continuous
+Continuous
+7/12 AN
+CB
+CB
+OB
+OB
+CB
+* The comprehensive examination will have a quiz portion with 14% Weightage, and a descriptive section with 22% Weightage.
+
+Chamber Consultation Hours:  To be announced through a notice.
+Notices: Notices, if any, concerning the course will be displayed on the Chemistry Notice Board only.								        
+
+Instructor in charge
+                                                                                                                             CHEM F337
+

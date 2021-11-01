@@ -1,0 +1,108 @@
+
+Birla Institute of Technology and Science, Pilani, Hyderabad Campus
+Course Handout (Part II)
+First Semester 2016-2017
+                                                                         Date: 01/08/2016
+In addition to Part I (General Handout for all courses appended to the Time Table), this portion gives further specific details regarding the course.
+ 
+Course No.:  CHE F312
+Course Title: Chemical Engineering Laboratory -I
+Instructor-in-charge: Dr. Balaji Krishnamurthy(IC)
+Instructors: Dr. Balaji Krishnamurthy, Dr. Ramesh Adusumalli  
+            
+Scope 
+
+This course serves as an introduction to important experiments which serve to supplement the Compulsory Discipline Courses in Chemical Engineering such as fluid mechanics, heat transfer, engineering chemistry and separation processes.
+
+Learning Outcomes
+
+Handling various equipments and instruments
+Conducting experiments, troubleshooting, collecting precise data
+Data analysis and interpretation
+Understanding the application of Chemical Engineering concepts 
+	
+Text Books
+
+McCabe W. L., and Smith J. M., & Harriott P., Unit Operations of Chemical Engineering, Seventh  Edition., McGraw-Hill International Edition, 2005.   
+Relevant handouts and experiment manuals and instructions will be provided.
+	
+List of Experiments:
+
+S.No.
+Experiments - Transport Phenomena - I
+1
+Reciprocating pump: To determine the pump efficiency at various piston speeds and flow rates.
+2
+To determine Reynolds number for laminar, transition and turbulent fluid flow.
+3
+To determine the coefficient of discharge for Venturi & Orifice meter and calculate the skin friction losses in three pipes. 
+4
+To study the mass transfer of fluids in a wetted wall column.
+5
+To determine the diffusion coefficient of acetone in gaseous phase
+6
+Liquid-liquid extraction
+7
+To experimentally verify Bernoullis theorem.
+
+Transport Phenomena - II
+1
+To determine the thermal conductivity of a composite wall.
+2
+To determine the thermal conductivity of a solid by static method.
+3
+To determine the heat transfer coefficient of air in a natural convection specification and to compare with theoretically calculated value of the same.
+4
+To determine the heat transfer of air in a forced convection specification and to compare with theoretically calculated value of the same.
+5
+To study the heat transfer phenomena in plate type heat exchanger.
+6
+To study the heat transfer phenomena in shell and tube heat exchanger.
+7
+To study the process of drop-wise and film-wise condensation .
+8
+To determine the thermal conductivity of a liquid.
+
+Demo Experiments
+1
+To determine the coefficient of discharge of a gas and understand how to calibrate the Rota meter.
+2
+To study the effect of free and forced vortex on fluid flow.
+3
+To determination the liquid level by pressure difference method.
+4
+Fixed and fluidized bed
+5
+Electrospinning
+6
+Rotary digester
+
+Evaluation Scheme
+
+Component
+Duration
+Weightage (%)
+Remarks
+
+Regular Experiments (16) 
+3 hours each slot
+30
+Attendance, performance in lab, record and viva
+Mid term 
+3 hours
+30
+Open/Closed Book
+Quiz
+30 mints
+10%
+Closed book
+Final Exam
+3 hours
+30
+Open/Closed Book
+
+Make-up policy
+Make-up for the regular lab or tests shall be granted only for genuine reasons and with prior information and permission from the IC. 
+
+Instructor-in-Charge   CHE F312
+

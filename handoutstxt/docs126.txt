@@ -1,0 +1,167 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI 
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+Course Handout (Part II)
+Date: 1/8/2016
+In addition to Part I (General Handout for all courses appended to the time table), this portion gives farther details regarding the course:
+
+Course No.		: CHEM F213
+Course Title		: Physical Chemistry-II
+Instructor-in charge	: K. Sumithra
+Instructor 		: G. Sundar
+
+Scope and Objective: The principles of quantum mechanics will be introduced, and application to problems in electronic structure of atoms, chemical bonding and spectroscopy will be discussed.
+
+Text Books: Quantum Chemistry, Donald A. McQuarrie, University Science Books (First Indian Edition 2003, Viva Books Private Limited).
+
+Reference Books:
+  Quantum Chemistry, Ira N Levine, 5th ed., PHI (2008).
+   Physical Chemistry, P W Atkins & Julio de Paula, 8th ed., OUP (2006).
+  Introduction to Quantum Mechanics with applications to Chemistry, Linus Pauling and E. Bright Wilson, Jr., Dover (1962)
+
+Course Plan:
+
+Lect. No.
+Topics
+Learning Objectives
+Ref. to text
+
+Development of Quantum Theory
+
+1-2
+Origins of Quantum Theory
+Blackbody Radiation, Photoelectric Effect, Atomic Vibration in Crystals, Line Spectra & Bohr Model of H Atom.
+1.1-1.10
+3
+Wave-Particle Duality
+De Broglies postulate, Heisenberg Uncertainty Principle
+1.11-1.14
+4-5
+The Wave Equation
+Normal modes, superposition, Fourier series
+2.1-2.5
+6-8
+Postulates of Quantum Mechanics
+Wave function,, Operators and Observables, Schrodinger equation, Time Evolution and Stationary States, Uncertainty
+3.1-3.4, 3.7,8,11, 4.1-4.9
+
+Some Exactly Solvable Problems
+
+9-10
+Particle in a Box
+Bound States, Zero Point Energy, Symmetry, Superposition States,  Degeneracy in 2 and 3 dimensions
+3.4-3.11, 6.1-6.2
+
+11-12
+Finite Potential Wells and Barriers
+Bound States in Wells, Probability Current, Reflection and Tunneling
+Class Notes, Ref (b) 12.3
+13-15
+Harmonic Oscillator
+Eigenstates, Molecular Vibration
+5.1-5.13
+16-18
+Angular Momentum and Rigid Rotator
+Energy levels, Commutation Relations and Wavefunctions, Molecular Rotation
+6.3-6.7, 6.10
+19-20
+The Hydrogen atom
+Energy levels, Wavefunctions  Angular and Radial Parts, Orbitals
+6.8-6.11
+
+Approximation Methods
+
+21-23
+Variation Method
+Variation theorem, application including Linear Variation
+6.12, 7.3-7.7, 8.1,2
+24-25
+Stationary State Perturbation Theory
+Systematic Correction of Wavefunctions and Energies, Treatment of Degenerate States
+7.1,2, 8.2
+Ref (a) 9.1-7
+
+Many Electron Atoms
+
+26-27
+
+Many Electron Wavefunctions
+
+Systems of Identical Particles, Spin & Permutation Symmetry, Pauli Principle, Slater Determinants
+8.4-6
+
+
+
+28
+ SCF Method
+Hartree and Hartree-Fock Methods, Periodicity
+8.3,7,8
+29-30
+Atomic Terms and Spectra
+Addition of Angular Momenta, Spin-Orbit Interaction, Selection Rules
+8.9-8.12
+
+Molecules
+
+31
+Born-Oppenheimer Approximation
+Separation of nuclear and electronic motion
+9.1
+32-33
+Valence Bond Theory  H2
+Localized Electron Pair Bonds
+9.2-9.5
+34-35
+Molecular Orbital Theory  H2+, H2
+Linear Combination of Atomic Orbitals, Comparison to VB Picture
+9.6-9.8
+36-37
+Homonuclear Diatomic Molecules
+Molecular Electronic Configuration, SCF-LCAO-MO Wavefunctions, Molecular Terms
+9.9-9.15
+38-40
+Hckel MO theory
+-electron approximation for conjugated systems, energies and delocalization, charge distribution and bond orders
+9.21-9.24
+41-42
+Molecular Spectroscopy
+Vibration-Rotation Spectra, Selection Rules, Electronic Spectra and the Franck-Condon Principle
+10.1-10.18
+
+Evaluation Scheme:
+Component
+Duration
+Weightage (%)
+Date & Time
+Remarks
+Assignments *
+
+20
+Continuous
+*
+Test 1
+60 min.
+20
+8/9/2016, 11:30-12:30 pm
+CB
+Test 2
+60 min.
+20
+25/10/2016, 11:30-12:30 pm
+CB
+Comprehensive Examination
+3 hrs.
+40
+7/12/2016 (AN)
+CB
+
+* Assignments will be evaluated continuously along with the lecture classes and averaged to 20% of total marks.  
+
+Note: Active and regular participation in the class room discussions is expected from each student.
+Make-up policy :  for genuine cases only 
+Chamber consultation hour:  Monday 11am -12 pm
+Notices concerning the course will be displayed on the Chemistry Department Notice Board and CMS.
+
+										
+Instructor-in-Charge
+											CHEM F213

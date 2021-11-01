@@ -1,0 +1,203 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI, HYDERABAD CAMPUSPRIVATE 
+INSTRUCTION DIVISION, FIRST SEMESTER 20152016
+COURSE HANDOUT   PART II
+ 	Date: 20-07-2016                      
+In addition to partI (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.            	:  MATH F212
+Course Name          	:  Optimization
+Instructorincharge  :  P.T.V. Praveen Kumar
+Instructor  		:  Sumit Kumar Vishwakarma                                                                            
+                                      
+1. Scope and Objective of the Course:
+Engineers, scientists, analysts and managers are often faced with the challenge of making trade-offs between different factors in order to achieve desirable outcomes. Optimization is the process of choosing these trade-offs in the best way. Optimization problems, having reached a degree of maturity over the past several years, are encountered in physical sciences, engineering, economics, industry, planning, and many other areas of human activity. Objective of the course is set to familiarize the students with standard methods of solving optimization problems. 
+This course deals with details of various aspects associated with optimization. These include description of optimization techniques, namely, Linear Programming and Nonlinear Programming, and their applications to various engineering and science disciplines including economics and finance. Multi-objective optimization which handles optimization aspects of more than one objective is also discussed. A brief and informative description of Nontraditional optimization techniques such as Genetic Algorithms, Differential Evolution, Memetic Algorithms, Ant Colony Optimization, Particle Swarm Optimization, etc. is also provided. 
+2. Text Book:
+T1	HA Taha, Operations Research: An Introduction, Pearson Education, 9/E, 2011.
+ Reference Books:
+R1	SS Rao, Engineering Optimization: Theory and Practice, New Age International (P) Limited, Third Edition, 1996 
+R2	 FS Hillier and GJ Lieberman, Introduction to Operations Research, TMH, 8/E, 2006.
+R3	WL Winston, Operations Research: Applications and Algorithms, Thomson Learning, 4th Edition, 2004
+R4	JC Pant, Introduction to Optimization: Operations Research, Jain Brothers, New , 6/E, 2004.
+R5	A Ravindran, DT Philips and JJ Solberg, Operations Research: Principles and Practice, John Wiley & Sons, Singapore, Second Edition, 1987
+R6	GC Onwubolu and BV Babu, New Optimization Techniques in Engineering, Springer-Verlag, Heidelberg, Germany, First Edition, 2004.
+3. Course Plan:
+Learning Objectives
+Topics to be Covered
+Lecture Nos.
+Ref. To Text book
+To understand the meaning of Optimization
+Introduction to optimization 
+1
+
+How to develop Linear Programming models and how to solve two variables LP models by the graphical solution procedure
+Two variable LP model, Graphical LP solution, Selected LP applications, Convex Set
+2-5
+T1 (2.1, 2,2, 2.4, 7.1)
+To obtain an understanding of why and how the simplex calculations are made and know how to recognize the special situations
+LP model in equation form, Transition from graphical to algebraic solution
+
+The Simplex Method Generalized simplex tableau in matrix form, Revised Simplex Method.
+
+Artificial starting solution
+Special cases in the simplex method 
+6-7
+
+
+8-10
+
+
+11-13
+
+T1 (3.1, 7.1.1 , 3.2)
+
+ 
+T1(3.3., 7.1.2, 7.2) 
+
+
+T1(3.4, 3.5)
+To understand the concept of duality, how to read and interpret the solution of dual problem and relate the dual solution to the primal solution and to explain how post optimal analysis can be used by a decision maker 
+Definition of Dual Problem, Duality, Primal-Dual Relationships.
+
+ Economic Interpretation of Duality,  Additional simplex algorithms (Dual Simplex Method, Generalized Simplex Algorithm),
+
+ Post optimal Analysis
+14-15
+
+
+16-17
+
+
+18-19
+T1 (4.1, 7.4,4.2)
+
+
+ 
+T1(4.3, 4.4)
+
+
+
+T1(4.5)
+To formulate transportation and assignment problems as LPP and how to solve these problems 
+Definition of   transportation problem, The transportation Algorithm,
+
+ The Assignment Model 
+20-22
+
+
+23
+T1 (5.1, 5.3)
+
+
+
+T1(5.4)
+To understand multiples objectives optimization and how to solve multi objective optimization
+Goal Programming Formulation, 
+
+
+24
+
+
+T1 (8.1)
+
+
+
+To understand Integer Programming problem and its efficacy
+Formulation of IP problem
+Branch and Bound method for solving IPP
+Cutting Plane method
+25-28
+T1 (9.1, 9.2)
+Learning Objectives
+Topics to be Covered
+Lecture Nos.
+Ref. To Text book
+How to solve Nonlinear Programming problem
+Unconstrained problems, Convex and concave functions,
+
+Elimination Methods: Fibonacci Method and Golden Section Method,
+Gradient of a Function, Descent Methods: Steepest Descent Method and Conjugate Gradient Method,
+
+
+Karush-Kuhn-Tucker (KKT) Conditions, 
+
+Quadratic Programming,
+
+
+29
+
+
+30-31
+
+32-33
+
+
+34-35
+
+36-39
+
+
+T1 (20.1)
+
+R1 (5.7)
+ 
+T1 (21.1.1)     T1(21.1.2)R1( 6.11,6.12) 
+ 
+T1 (20.2.2)      
+
+T1(21.2.2)
+
+To introduce Evolutionary Computation Techniques
+Drawbacks of the Classical Techniques, Introduction to Nontraditional Optimization Techniques (Genetic Algorithms, Differential Evolution, etc.)
+40-42
+R6
+
+5.   Evaluation Scheme:
+Component
+Duration
+Weightage 
+Date & Time
+Remarks
+Test I
+60 minutes
+30%
+13-09-2016(8:30-9:30A.M)
+Closed Book
+Test II
+60 minutes
+30%
+21-10-2016(8:30-9:30A.M)
+Open Book
+Comprehensive
+3 hours
+40%
+09-12-2016 (A.N)
+ Closed Book 
+
+6. Notices: All notices about the course will be put on LTC notice board, CMS.
+7. Chamber Consultation Hour: To be announced in the class by the respective Instructors.
+8. Make-up: Make up for the tests will normally be held in the following week. Make up will be 
+                       granted only in genuine cases. Permission must be taken in advance except in 
+                       extreme cases.                                                                    
+
+
+												
+Instructorincharge
+(MATH F212)
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+PAGE  3
+
+
+
+

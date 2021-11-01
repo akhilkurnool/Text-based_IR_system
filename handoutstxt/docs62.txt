@@ -1,0 +1,209 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI- HYDERABAD CAMPUS INSTRUCTION DIVISION, FIRST SEMESTER 2016-2017 COURSE HANDOUT PART II Date: 01 - 08 - 2016
+In addition to Part-I (General Handout for all courses appended to the timetable) this portion gives further specific details regarding the course.
+
+Course No. Course Title Instructor-in-charge Instructors
+
+: : : :
+
+ECE F311 / EEE F311 Communication Systems Y.Yoganandam Ramakanth and S. R. Zinka
+
+1. Course description:
+Analysis and design of communication systems; analog and digital modulation and demodulation, frequency conversion, multiplexing, noise and distortion; spectral and signal-to-noise ratio analysis, probability of error in digital systems, spread spectrum. Introduction to the basic principles of the design and analysis of modern digital communication systems. Topics include source coding, channel coding, baseband and passband modulation techniques, receiver design, and channel equalization.
+2. Scope & Objective:
+This course intends to cover the basic understanding of functionalities of various block-sets involved in communication system. The topics like Analog to Digital conversion, Pulse coding, Modulation (Analog and Digital, Baseband and Bandpass), source coding, channel coding, Multiple access, Multiplexing techniques, Spread spectrum will be covered with appropriate detail and mathematical description. Important topic like Information theory and its fundamental limits will be emphasized to appreciate the concepts of digital communication. Students will be introduced to the functioning of modern communication systems and how they perform in the presence of noise. Students will be given assignments on communication system modeling using MATLAB. The laboratory component involves system design and simulation exercises using MATLAB and Simulink and experiments based on HW boards. Advance/application areas like wireless, optical, satellite, acoustic communication will be covered towards the end. Students are expected to have sound understanding of Signals and systems, Mathematics, Electromagnetic Field theory.
+3. Text Books
+T1 B.P. Lathi and Zhi Ding, Modern Digital and Analog Communication Systems, 3rd OR 4th Edition, Oxford University Press, 2010
+T2 Simon Haykin & Michael Moher, Communication Systems, 4th OR 5th Edition, John Wiley & Sons, 2010
+4. Reference Books
+R1. Proakis John, Digital Communications, 4th Edition, TMH
+R2. K. Sam Shanmugam, Digital and Analog communication systems, John Wiley & Sons
+R3. DIGITAL COMMUNICATIONS Fundamentals and Applications: ERNARD SKLAR and Pabitra Kumar Ray; Pearson Education 2009, 2/e.
+4. Course Plan
+
+Sl. Topics to be covered No
+
+Learning Objectives
+
+Ref. to Book No. of Lectures
+
+1 Overview of the course, History of electronic communications, blocks of a T1&
+
+introduction to
+
+typical communication system, Electronic
+
+T2:Chapter 1
+
+communication
+
+Communication Channels, twisted pair, cable, wave
+
+systems.
+
+guide, wireless channels, need for modulation,
+
+concept of a carrier, analog and digital
+
+communication concepts.
+
+1
+
+2 Deterministic and random signals and their properties
+3 Random variables, processes and Noise
+
+Signals, nature of signals, Review of energy and power signals, correlation functions, power and energy spectral densities, Fourier series and Fourier Transforms, signal distortions. Real world signals, pure, distorted and noise corrupted signal examples, typical BW of various signals.
+
+T1: Chapters 2 &3 T2:Chapter 2
+
+Recap of Probability, Random variables & processes, statistical averages, Power spectral density, Gaussian process, Noise, Nature of noise,
+1
+
+T1:Chapter 8,9 T2:Chapter 5
+
+2 3
+
+Sources of Noise, white noise, KTB, Noise Figure and Noise temperature, calculations, Signal-toNoise ratio.
+
+R3:Chapter 5
+
+4 Transmission and reception of analog Signals: Amplitude modulation (AM)
+
+Different Amplitude Modulation Techniques: DSBSC, SSB-SC, VSB, AM with carrier: BW requirements of above modulation schemes. Circuits for Generation and demodulation. Noise performance of different AM systems. Frequency Division multiplexing, Super heterodyne Receivers, Practical circuits
+
+T1:Chapter 4 T2:Chapter 3,6 R2:Chapter 7
+
+5 Transmission and
+
+Angle modulation, FM transmitter and receivers,
+
+reception of analog
+
+interference and bandwidth considerations,
+
+Signals: Angle
+
+comparison of AM and FM, FM generation and
+
+Modulation Phase & demodulation, Noise performance of different
+
+Frequency modulation Angle Modulation systems.
+
+T1:Chapter 5 T2:Chapter 4,6 R2:Chapter 7
+
+6 Digital Representation Sampling theorem, aliasing, quantization and
+
+T1:Chapter 6
+
+of Analog Signals and Pulse Modulation
+
+encoding, PAM, TDM, PPM, PWM, Quantization, PCM, Delta Modulation
+
+T2:Chapter 7 R2:Chapter 10
+
+7 Baseband Transmission Line codes, NRZ etc, Inter Symbol Interference
+
+of Digital Signals
+
+(ISI), eye diagram, Nyquist Criterion for
+
+Distortionless transmission, pulse shaping,
+
+equalization
+
+T1:Chapter 7 T2:Chapter 8
+
+8 Baseband Reception of Probability of error due to Noise, detection of
+
+T1:Chapter 10
+
+Digital Signals and Noise performance
+
+digital signal in noise, threshold determination, Bit R3:Chapter 3 Error Probability concepts, Matched Filter, bit
+
+Energy and BER Vs Bit Energy curves
+
+9 Band-Pass transmission Band-Pass Transmission Model, Binary PSK ,FSK T2:Chapter 9
+
+of Digital signals
+
+and QAM, M-Array Data Transmission Systems, Noise performance of PSK & FSK Systems
+
+T1:Chapter 10 R3:Chapter 4
+
+R2:Chapter 8
+
+10 Information & Forward Measure of information, entropy, Source Coding
+
+Error Correction
+
+Theorem, discrete memory less channels, Channel
+
+capacity & Channel Coding, Error Control Codes,
+
+Linear block & convolutional codes
+
+T1:Chapter 13,14 T2:Chapter 10 R3:Chapter 6 R2:Chapter 9
+
+11 Digital receiver design & performance analysis.
+
+Goals of Communication system designer, Error probability plane, Nyquist bandwidth, ShannonHartley capacity theorem, bandwidth-Efficiency plane, BW efficiency of different modulation schemes, Modulation & coding trade-offs, Designing digital communication systems, Modulation & coding for Bandwidth limited channels
+
+R3:Chapter 9
+
+12 Introduction to Spread Concept of spread spectrum, PN sequences and
+
+spectrum systems
+
+their use in communication systems,
+
+T1: Chapter 11 R3:Chapter 12
+
+13 Emerging Trends in Communication Systems: Optical and Mobile communications.
+
+A brief overview of different communication technologies
+
+Supplementary notes
+
+Total Number of Lectures
+
+2
+
+5
+4 4 4 4 5 5
+3
+2 1 43
+
+Laboratory component: Laboratory exercises will involve simulations using MATLAB. Also, experiments will be conducted using HW boards, Signal Sources, Oscilloscopes & spectrum analyzer.
+
+6. Evaluation Scheme
+
+Component Test I Test II
+Final lab Exam
+Regular Lab Component
+Comprehensive Totals
+
+Duration 60 mts. 60 mts.
+3 Hrs
+
+Weightage 20% 20%
+10%
+10%
+20% 20% 100%
+
+Marks 60 60
+30
+30
+60 60 300
+
+Date & Time 10/09 &8:30-9:30AM 22/10 &8:30-9:30AM
+08/12 AN
+
+Remarks Closed Book Closed Book Experiment to be performed & viva-voce Lab attendance and performing of experiment Open Book Closed Book
+
+7. Chamber Consultation Hour: Will be announced in the class. 8. Notices: Notices concerning this course will be on CMS.
+
+Y.Yoganandam Instructor-in-Charge
+
+3
+
+

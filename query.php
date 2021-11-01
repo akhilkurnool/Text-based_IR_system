@@ -27,7 +27,7 @@ if(strlen($user_input)){
 		
 	include 'stemmer.php';
 
-	$conn = mysqli_connect('127.0.0.1', 'root', 'yourmom','infer');
+	$conn = mysqli_connect('127.0.0.1', 'root', '', 'infer');
 	if (!$conn) {
 	    die('Something went wrong while connecting to MySQL');
 	}
@@ -55,7 +55,7 @@ if(strlen($user_input)){
 
 
 	$query = "SELECT postings from matrix where tokens in ($t)";
-	$result = mysqli_query($conn,$query);
+	$result = mysqli_query($conn, $query);
 	
 	if (!$result) {
 	  die('Invalid query: ' . mysqli_error());

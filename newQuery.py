@@ -14,11 +14,12 @@ from newQueryAuxiliary import relevance_query_maker
 # The config json used to connect to the MySQL database.
 config = {
 	'user': 'root',
-	'password': '57879347',
+	# 'password': '57879347',
 	'host': '127.0.0.1',
-	'database': 'handouts',
-	'raise_on_warnings': True,
+	'database': 'infer',
+	# 'raise_on_warnings': True,
 	'use_pure': False,
+	'auth_plugin': 'mysql_native_password'
 }
 
 # dbConnector and c are variables used to connect to the MySQL database.

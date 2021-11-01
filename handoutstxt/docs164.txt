@@ -1,0 +1,64 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI - HYDERABAD CAMPUS INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+Course Handout (Part II) Date: 1/08/2016
+In addition to part-I (General Handout for all courses appended to the time table), this portion gives further specific details regarding the course.
+
+Course No. Course Title Instructor-in-charge
+Team of Instructors
+
+: ME F215 : Mechanical Engineering Laboratory : AMRITA PRIYADARSHINI
+: Amrita Priyadarshini, Pavan Kumar, P Shravya
+
+1. Scope and Objective: The objective of this course is to expose the students to a broad knowledge of experimental methods and measurement techniques useful in Mechanical engineering.
+
+2. Text Books / Manuals: Holman J.P., "Experimental Methods for Engineers," Tata McGraw Hill, 7th ed., 2004.
+A Laboratory Manual pertaining to the experiment will be provided
+Reference Books:
+Doebelin E.O. "Measurement Systems: Application and Design" TATA McGraw HILL, 5th ed.2003
+Welty James R., Charles E. Wicks and Robert E. Wilson, "Fundamentals of Momentum, Heat and Mass Transfer", John Wiley & Sons, New York, 1984.
+Modi P.N. and S.M Seth, "Hydraulics and Fluid Mechanics," Standard Publishers, 12th ed. 1998.
+3. List of Experiments: Following is the list of experimental set ups on which experiments shall be conducted. Complete modalities of operation of the laboratory such as the exact titles of experiments, reports submission and evaluation methodology etc. shall be announced at the beginning of laboratory session.
+
+CYCLE I
+
+Exp. No.
+
+Experimental Setup
+
+1 ROCKWELL HARDNESS TESTING 2 BRINELL HARDNESS TESTING ( Al & MS) 3 TENSILE TEST( COMPRESSION & TENSILE) 4 IMPACT TESTING( IZOD/CHARPY) 5 CRYSTALLOGRAPHY (MS) 6 CRYSTALLOGRAPHY ( Al) 7 TORSION TEST 8 SPRING TEST 9 FLOW MEASUREMENT USING VENTURIMETER 10 CALIBRATION OF ORIFICE METER 11 VERIFICATION OF BERNOULLI'S THEORM 12 STUDY OF REYNOLD'S APPARATUS 13 MEASUREMENT OF ELECTRICAL VARIABLES IN
+SINGLE PHASE CIRCUIT 14 DETERMINATION OF SENSITIVITY OF LVDT 15 TESTS ON DC SHUNT MOTOR 16 TESTS OF SINGLE PHASE TRANSFORMER
+
+Location to perform experiment
+Material Testing Lab E-block cellar
+HFM Lab E-122
+Electrical Machines Lab E-block entrance
+
+CYCLE II
+
+DEMONSTRATION 17 CALIBRATION OF THERMOCOUPLE
+18 MEASUREMENT OF POWER IN 3-PHASE CIRCUITS
+19 FATIGUE TEST 20 VICKER'S MICRO HARDNESS TESTER
+
+Will be announced later Will be announced later Will be announced later Will be announced later
+
+2. Evaluation Schedule: Component
+Lab reports Lab viva Lab Compre and Viva Compre. (MCQ + Fill up the blanks)
+
+Duration
+2 hours 1 hour
+
+Weightage (%) 20 10 30 40
+
+Date & Time Continuous Continuous
+
+Remarks --CB CB
+
+3. Chamber consultation hours: To be announced in the class.
+
+4. Notices: Notices pertaining to this course will be displayed on CMS only.
+
+Make-up Policy: Make-up is strictly not entertained and may be considered only in the case of hospitalization with appropriate certification.
+
+AMRITA PRIYADARSHINI Instructor-in-charge ME F215
+
+

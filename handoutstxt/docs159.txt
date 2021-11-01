@@ -1,0 +1,134 @@
+Birla Institute of Technology & Science, Pilani 
+Instruction Division 
+First Semester 2016-2017
+Course Handout (Part-II) 
+Date: 01/08/2016
+
+In addition to Part I (General Handout for all courses appended to the Time Table), this portion gives further specific details regarding the course. 
+
+Course No.			:  ME G641 
+Course Title			:  Theory of Elasticity and Plasticity
+Instructor-in-Charge   	:  K.V.N. Surendra
+
+
+Course Description: The theory of elasticity continues to play an essential role in mechanical, civil, materials, and aerospace engineering applications. Indeed, many important mechanical systems, ranging from space crafts to trabecular bones, are studied within the context of linear elastic theory. The studies deal with the determination of stresses and displacements in common structural forms- plates, beams, shells etc. subjected to external forces. The course covers basic theory of elasticity, 2-D and 3-D problems of elasticity, Theories of plastic flow, Flow of ideally plastic and strain hardening metals, and theory of metal forming processes. 
+
+2.  Scope & Objective: The objective of this course is to introduce the student to the analysis of 
+linear elastic solids under application of loads. The material presented in this course will provide the foundation for pursuing other solid mechanics courses such as theory of plates and shells, elastic stability, composite structures and fracture mechanics. Students are also encouraged to do assignments using the ANSYS or similar analysis software to solve problems of elasticity and plasticity to compare the analytical solutions.
+
+3. Text Books:
+T1	Timoshenko S. P. & Goodier J. N., Theory of Elasticity, 3rd Edition, Mc-Graw Hill, 1982.
+T2 	J. Chakrabarty, Theory of Plasticity, Mc-Graw Hill Book Company, Singapore, 1987.
+4. Reference Books:
+R1	L.S. Srinath, Advanced Mechanics of Solids, Third Edition, Tata McGraw Hill companies, New Delhi, 2009.
+R2	T.G. Sitharam , L. GovindaRaju, Applied Elasticity, Interline Publishing ISBN: 81-7296-083-2.
+R3	Alexander Mendelson  Plasticity-Theory & application, The Macmillan Company, New York, 1968.
+R4 	Martin H Sadd, Elasticity: Theory, Applications and Numerics, Elsevier ButterworthHeinemann, New York.
+R5	M. Filonenko-Borodich, Theory of Elasticity, ForeignLanguagePublishing House, Moscow.
+5. Course Plan:
+
+Lec. No
+Learning Objectives 
+Topics to be covered 
+Reference 
+
+1-2
+Introduction to Elasticity
+Elasticity, Stress, Component of Stress and strain, Hookes Law
+Ch 1-2 of T1, R2
+3-6
+Plane stress and plane strain
+Stress at point, strain at point, Measurement of surface strain, construction of Mohr circle, differential equation of equilibrium, compatibility equation
+Ch 2 of T1, R2
+7-14
+2D Problems in Rectangular coordinates
+Saint-Venants Principle, Determination of displacements, Bending of beam, 2D problems in the form of Fourier series. 
+Ch 3 of T1, R2
+15-23
+2D Problems in Polar Coordinates
+General equations, Pure bending of curved beam, strain component, Effect of circular hole on stress distribution, stresses in circular disk, Generalized solution of the 2D problem in polar coordinates. 
+Ch 4 of T1, R2
+24-28
+Photoelatic and Moire Experimental Methods
+Experimental methods and verifications, photoelastic stress measurement, Examples, Determination of principle stresses, Moire method
+Ch 5 of T1
+29-34
+Analysis of stress strain in 3D
+Principle stresses, Stress Invariants, Homogeneous deformation, strain at point, Principle axes of strain
+Ch 7 of  T1
+35-38
+Torsion
+Torsion of straight bar, rectangular bar, energy method, torsion of hallow shaft, circular shaft with variable diameter.
+Ch 10 of T1
+39-41
+Basic of Plasticity
+Stress strain behavior in plastic region, Work hardening, Hardening laws, Influence of pressure, strain rate and temperature, Analysis of strain rate, Concepts of stress rate  
+Ch 1 of T2
+41-44
+Foundation of Plasticity
+Criterion of yielding, Isotropic Hardening, Anisotropic, The rule of plastic flow, Constitutive relations, Application of plasticity for sheet metal processes.  
+Ch 2 of T2
+
+
+6. Evaluation Scheme: 
+
+EC No. 
+Evaluation Component 
+Duration
+Weightage (%)
+ Date , Time & Venue 
+Nature of Component
+1.
+ Test 1
+1 hour
+15
+13/9, 8.30-9.30 AM
+Closed Book
+2
+ Test 2
+1 hour
+15
+21/10, 8.30-9.30 AM
+Open book
+3
+Assignments(5)
+
+15
+
+Take home
+4
+Lab (Design of an Exp)
+
+25
+
+Open book
+5
+Comprehensive Exam 
+3 hour
+30
+14/12 FN
+Closed/Open Book
+7. Chamber Consultation Hour: Room No: D 120. Time will be announced later on.
+8. Notices: Mostly by direct e-mail, rarely in CMS and department notice board.
+9. Make-up Policy: No makeup for Assignment, Quizzes and Presentations. Makeup for Tests needs prior permission.
+
+
+
+Instructor-in-charge
+
+ME G641  
+
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 2
+
+
+
+
+

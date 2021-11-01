@@ -1,0 +1,131 @@
+INSTRUCTION DIVISION FIRST SEMESTER 2016-2017
+Course Handout Part II Date: 01-08-2016
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No. Course Title Instructor-in-Charge Instructor
+
+: BITS F466 : Service Oriented Computing : KCS Murti : KCS Murti
+
+Scope and Objective of the Course: Objective Service-oriented computing is an emerging cross-disciplinary paradigm for distributed computing, which is changing the way software applications are designed, delivered and consumed. At the heart of service-oriented computing are services that provide autonomous, platform-independent, computational elements that can be described, published, discovered, orchestrated and programmed using standard protocols to build networks of collaborating applications distributed within and across organizational boundaries. The course aims to give the student an understanding of Service Oriented Computing , implement and deploy applications using this paradigm. They will also learn to define and design applications as combinations of services.
+
+Scope The course covers Introduction to Web Services, Overview of Service Oriented Architecture, SOAP enabled web services, Describing Web Services using WSDL, Publishing and Finding web services using UDDI Registry, UDDI SOAP APIs ,Inquiry APIs, Publisher APIs. Work flow based services, Usage of Business Process Execution Language for describing workflow of web services, Rest web service its protocol and usage, Design patterns in SoA and security aspects.
+
+Prerequisites The course presupposes a basic understanding of XML schema and XML namespaces. Practical exercises entail a considerable amount of Java or any OO programming language. The design discussion assumes basic knowledge of UML.
+Text Books
+
+T1 SOA, principles of service design.Thomas Erl, PH Reference Books:
+R1. SOA, design patterns,Thomas Erl,PH R2. SOA A_Field_Guide_to_Integrating_XML_and_Web_Services, Thomas erl,PH R3. Next generation SOA, Thomas Erl,PH
+
+Course Plan: Lecture No. L1 L2-4
+
+Learning objectives
+Course overview Introduce service oriented
+
+Topics to be covered
+Course overview Design fundamentals, Introduction to SOC,goals
+
+Chapter in the Text Book
+Ch-3
+
+L5-7 L8-11 L12-17 L18-21 L22-24 L25-27 L28-30 L31-32 L33-34 L35-36 L37
+L38-42
+
+computing
+
+and benefits
+
+Introduce service orientation Introduction to Service-Orientation, benefits, Ch-4
+
+and its benefits
+
+challenges, SOC in enterprise.
+
+Understanding design principlesUsing design principles, design patterns
+
+Ch-5
+
+for SOC
+
+Service contracts
+
+Service Contracts. Standardization and service Ch-6 design
+
+Service coupling
+
+Service Contract Coupling Types, Service
+
+Ch-7
+
+consumer Coupling Types,Service loose coupling
+
+Service abstraction
+
+Notion of abstraction, Functional Abstraction, Ch-8 service abstraction
+
+Service re-usability
+
+Service Reuse in SOA, Standardized Service Reuse and Logic Centralization
+
+Ch-9
+
+Service autonomy
+
+Service autonomy, types of service autonomy, Ch-10 isolated services
+
+State management
+
+State management, Stateless and Stateful,
+
+Ch-11
+
+Service discovery
+
+Types of Discovery and Discoverability Meta Ch-12
+
+Information
+
+Service composition
+
+Composition Concepts and Terminology, Ch-13
+
+Complex Service Composition
+
+Service orientation
+
+OOAD vs SoA paradigm, Designing Service- Ch-14
+
+Oriented Classes
+
+Design patterns
+
+Popular design patterns in SoA.
+
+Topics from R1
+
+Evaluation Scheme:
+Component
+Test-1 Test-2 Labs/take home(*) Comprehensive
+
+Duration
+1 hr 1 hr NA
+3 hrs
+
+Weightage (%) 15% 15% 40% 20% 10%
+
+Date & Time
+10/9, 10.00--11 AM 22/10, 10.00--11 AM
+09/12 AN
+
+Nature of Component Closed Book Closed Book Open Book Closed Book Open Book
+
+(*) Labs will include developing services either by java or windows, .NET and Azure. The assignments include study and presentation of latest topics in this area.
+
+Chamber Consultation Hours: Any time. Check my free hours from my public calendar chandra.kavuri@gmail.coom
+
+Notices: All notices pertaining to this course will be posted on CMS.
+
+Make-up Policy: Make-up will be granted strictly based on prior permissions and on justifiable grounds only. There is no make up for the Quizes/Lab Exercises component.
+
+INSTRUCTOR-IN-CHARGE BITS C466
+
+

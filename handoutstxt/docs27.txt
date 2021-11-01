@@ -1,0 +1,108 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE - PILANI, HYDERABAD CAMPUS INSTRUCTION DIVISION, FIRST SEMESTER 2016-2017 (COURSE HANDOUT: PART-II)
+
+Date: 01/08/2016
+
+In addition to Part-I (a general handout for all courses appended to the time-table), this handout provides the specific details of this course.
+
+Course No.
+
+:
+
+Course Title
+
+:
+
+Instructor-in-charge :
+
+BITS C462 BITS F462 RENEWABLE ENERGY R. PARAMESHWARAN
+
+1. Course Description Introduction of renewable energy, advantages, potential, status of development, broad details of different renewable energy systems such as solar, wind, biomass, micro hydel, geothermal etc.; Renewable energy development policy, Renewable energy industries, international co-operation, HRD and career growth opportunities, consultancy areas and future thrust areas in renewable energy development
+
+2. Scope and Objective The purpose of this course is to provide introductory knowledge and a state-of-the-art learning of different resources and sources of renewable energies including their technologies, utilities, techno-economic assessments, social and environmental aspects pertaining to the real-world applications. Besides the theoretical knowledge, emphasis will also be provided on interactive approach to mathematically analyze the functional aspects of different renewable energy systems design. The course will certainly interest students aiming to build-up a research career in the field of new and renewable and energy.
+
+3. Text Books:
+T1. Kothari, D.P et al. Renewable Energy Sources & Emerging Tech, PHI, 2nd ed., 2011. T2. John Twidell, Anthony D. Weir, Renewable Energy Resources, 2nd Ed, Taylor & Francis,
+NY, 2006.
+
+Reference Books:
+R1. Robert Ehrlich, Renewable Energy: A First Course, CRC Press, Taylor & Francis Group, 2013.
+R2. Aldo V. Da Rosa, Fundamentals of Renewable Energy Processes, Second Edition, Academic Press (an Imprint of Elsevier), MA, USA, 2009.
+
+4. Course Plan
+
+Lecture No.
+1-3
+
+Learning objectives
+Basic and introductory concepts
+
+4-7
+
+Solar energy resource and solar radiation
+
+8-10
+
+Solar water heating systems
+
+Topics to be covered
+Energy, renewable energy, statistics, relationship between energy and social implications Components of radiation, geometry of the Earth and sun, geometry of collector, measurements of solar radiation Principles, types of collectors, associated heat transfer and design aspects
+
+Book T1, T2 T1, T2, R1 T1, T2
+
+Page 1 of 2
+
+11-14 15-17 18-22 23-26 27-29 30-31 32-33 34-35 36-41
+
+Overview of solar thermal applications
+Solar photovoltaic (PV) technology and applications Hydropower: Resource and technology Wind energy harnessing
+Bio-energy resources: Biomass and biofuels
+Wave power and Tidal power resources
+Ocean thermal energy conversion (OTEC)
+Geothermal energy resource Microgeneration, smart grids and sustainability
+
+Air heaters, solar driers, solar thermal energy storage, passive solar architecture, solar refrigeration, desalination, solar ponds, solar concentrators Solar cell technology, cell efficiency, solar cell construction, PV circuit properties, PV applications, environmental impacts Principles, resource assessment for small hydro installations, types of hydro turbines, social and environmental aspects Principles, Turbines and terms, fluid mechanics of wind energy and its harnessing, mechanical and electrical power generation, environmental impacts Photosynthesis, biofuel classifications and production, harnessing energy potential from biomass and biofuels, environmental aspects Wave motion, wave energy and power, wave patterns, devices to harness wave power, causes and enhancement of Tides, power from tides, social and environmental aspects Basic principles of OTEC, Heat exchangers, pumping requirements and social and environmental considerations Geophysics, harnessing energy from geothermal resources Climate change, low carbon technologies, decarbonized economy, goals for a smart grid, sustainability aspects, energy policies and opinions
+
+T1, T2
+T1, T2, R1
+T1, T2, R1
+T2, R1
+T2, R2
+T1, T2
+T2, R2 T1, T2 T2, R1, Lecture Notes
+
+5. Evaluation Scheme
+Evaluation Component Test-I Test-II
+Project & Viva Comprehensive Exam
+
+Duration Weighting (%)
+
+60 min 60 min
+
+20 20
+
+--- 20
+
+3 hours
+
+40
+
+Date & Time
+9/9, 1.00-2.00 PM 24/10, 1.00-2.00 PM To be announced in the
+Class 05/12 AN
+
+Nature of Component
+CB CB
+OB
+CB
+
+6. Chamber Consultancy Hour: To be announced in the class room.
+
+7. Notices: All notices concerning this course shall be displayed only on the Mechanical Engineering Notice Board. Besides this, students are advised to visit regularly CMS (the Institute's web based course management system) for latest updates.
+
+8. Make-up Policy: Make-up shall be given only to the genuine cases with prior confirmation. Request for the make-up tests, duly signed by the students, should reach the under signed well before the scheduled test.
+
+Instructor-in-Charge BITS C462 BITS F462
+
+Page 2 of 2
+
+

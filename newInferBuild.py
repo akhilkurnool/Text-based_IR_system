@@ -17,11 +17,11 @@ import numpy as np
 # Config file used to connect to the MySQL database
 config = {
 	'user': 'root',
-	'password': 'yourmom',
 	'host': '127.0.0.1',
 	'database': 'infer',
-	'raise_on_warnings': True,
+	# 'raise_on_warnings': True,
 	'use_pure': False,
+	'auth_plugin': 'mysql_native_password'
 }
 
 table_name_1 = "matrix"

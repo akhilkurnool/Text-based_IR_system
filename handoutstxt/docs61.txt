@@ -1,0 +1,146 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI, HYDERABAD CAMPUS INSTRUCTION DIVISION, FIRST SEMESTER 2016-2017 Course Handout (Part-II) Date: 01/08/2016
+
+Course No.
+
+: ECE F314
+
+Course Title
+
+: Electromagnetic Fields and Microwave Engineering
+
+Instructor-in-charge : Dr. Prasant Kumar Pattnaik
+
+Course Description:
+
+Electromagnetic waves; Maxwell's equations; Poynting theorem and wave equations; propagation of EM waves; transmission lines; microstrip lines; wave guides; cavities and antennas; microwave generators, microwave amplifiers; measurement at microwave frequencies.
+
+Scope and objective of the course:
+Electromagnetics is one of the most fundamental topics in Electrical Engineering. Maxwell's four simple equations form the basis for almost all phenomena in Electrical and Communication Engineering. Thorough understanding of many areas such as VLSI, PCBs operating at GHz clocks, rotating machines, microwaves and antennas depends upon electromagnetics. The emphasis will be placed on both physical concepts and mathematical equations. An effort will be made to show that electromagnetic is not a dull and dry area with lot of mathematics but something beyond it. The objective of this course is to provide the students with the basic understanding of electromagnetic fields and microwaves. The material covered in this course is basic to the training of electrical engineers.
+1. Text Book : John D. Kraus and Daniel A. Fleisch, "Electromagnetics", 5th ed., McGraw-Hill, New York, 1999.
+
+2. Reference Books : i) RB1: Samuel Y. Liao, "Microwave devices and circuits" 3rd ed.,PHI 2008.
+ii) RB2: Annapurna Das and Sisir Das, "Microwave Engineering", TMH 2009. iii) RB3: David Pozar, "Microwave Engineering", 4th edition,John Wiley & Sons, 2012. iv) RB4: J.D Krauss et.al., "Antennas and Wave Propagation", 4th edition, TMH 2010. v) RB5: Matthew N.O.Sadiku, "Principles of Electromagnetics" 4th ed. Oxford University
+Press, New Delhi, 2009. vi) RB6: David K.Cheng, "Field and Wave Electromagnetics" 2nd ed. Pearson Education,
+New Delhi, 2009.
+vii) RB7: EDD Notes: "Smith Chart and its Applications", BITS, Pilani, 2009.
+
+3. Course Plan:
+
+Lec. No.
+
+Topic to be covered
+
+Maxwell's equations, Plane 1-2 wave propagation in
+conducting and dielectric
+
+Learning Objective
+Understand the propagation of waves through space and various kinds of media
+
+Ref. To Text Book and
+Reference Book
+4.2-4.6 (TB)
+
+3-4 5-6 7-8 9-10 11-12 13-15 16 17-18 19-20 21-22 23-25
+26-28
+29-30 31-32 33-35 36-37 38-40
+
+media Energy relations and Poynting Vector& Wave
+polarisation Reflection & refraction of
+plane waves Transmission lines Impedance matching
+Waveguides
+Waveguides Cavity Resonator Microwave Network theory and Passive Devices Microstrip Lines & MMIC Microwave Generators
+Microwave amplifiers, Microwave measurements
+Antennas and Antennas Arrays
+Dipole antennas
+Different types of Antennas
+Radio wave propagation
+Antenna measurements
+Special Topics
+
+How energy is stored and transmitted by EM wave
+
+4.10-4.12 (TB)
+
+Behaviour of plane waves at the interface between two media
+Analysis of transmission lines and their circuit behaviour
+How to solve transmission line problems using Smith Chart
+General Wave behaviour along uniform guiding structures, TEM waves, TM waves, TE waves Parallel-plate, Rectangular & Circular waveguides Rectangular cavity resonator and quality factor Microwave hybrid circuits, Directional couplers, Circulators and Isolators.
+Study of microstrip lines
+Introduce the microwave generation concepts with Gunn
+diode and Klystron tubes Types of amplifiers, classes based on operating point,
+measurements Antenna parameters, basic antenna elements, Antenna Equivalent circuit, Antenna arrays, Antenna patterns,
+Tapering etc Retarded Potential, Hertzian
+dipole, Half wave dipole, Small loop antenna, Slot antenna, Horn antenna, Helical antenna and Log periodic
+antenna Radio link and Friis formula,
+radar equation, etc. To measure antenna ranges, gain, directivity and radiation
+efficiency of an antenna RF MEMS, Computational
+Electromagnetics
+
+4.7-4.9,4.14(TB)
+3.1-3.4 (TB) 3.4-3.5 (TB)
+8.1-8.3 (TB)
+8.4 (TB) and 4.14.2(RB1)
+8.12 (TB) and 4.3 (RB1)
+Class notes and 4.4-4.6 (RB1)
+11.1 (RB1) 7.1-7.3,9.1-9.2,9.4 (RB1) & 9.2, 10.2-
+10.3 (RB2) Class Notes & 13.2-13.17 (RB2)
+5.2-5.3(TB)
+5.4-5.9 (TB)
+5.4-5.9 (TB)
+5.10-5.12 (TB)
+19.1-19.6 (RB4)
+Class notes
+
+4. Evaluation Scheme:
+
+Component Test-I Test-II
+
+Duration 60 min 60 min
+
+Percentage 25 % 25 %
+
+Marks
+
+Date & Time
+
+75 13/09 &10:00 to 11:00 A.M
+
+75 21/10 & 10:00 to 11:00 A.M
+
+Evaluation type Open Book Closed Book
+
+Assignments
+
+---
+
+10% 30
+
+Take home
+
+Open Book
+
+Compre. Exam. 3 hours
+
+40 %
+
+120
+
+14/12/2016 AN
+
+Closed Book
+
+Total
+
+300
+
+5. Chamber Consultation Hour: To be announced in the class email: pkpattnaik@hyderabad.bits-pilani.ac.in
+
+6. Notices: EEE Notice Board and CMS.
+
+7. Make-up Examination:
+
+Makeup for Tests and Comprehensive Examination will be given only in extremely genuine cases for which prior permission of the instructor-in-charge is required.
+
+Instructor-in-charge ECE F314
+
+

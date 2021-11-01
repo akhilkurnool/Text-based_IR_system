@@ -1,0 +1,264 @@
+Birla Institute of Technology and Science, Pilani
+Hyderabad Campus
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+course Handout Part II
+
+
+
+       1 AUGUST 2016
+Course Handout (Part II) for BIO F111 (General Biology)
+
+In addition to part I (general handout for all courses appended to the timetable) this portion gives further specific details regarding the course.
+
+Instructor-in-charge:	Debashree Bandyopadhyay
+Team of instructors: 	Vidya Rajesh	
+			V. Ramakrishna
+			P. Sankar Ganesh
+			Jayati Ray Dutta
+			Sridev Mohapatra				
+				  								
+Course description:	Living System and their properties, major biological compounds, basic biochemical and physiological processes, introduction to genetics and recombinant DNA technology.
+Scope and objectives: The course is aimed at providing the introduction of biological system with respect to nature, behavior and functioning of the cell. The intricate relationship of the living organism with its environment at the molecular level is highlighted so that the impact of the modern biological researches can be understood and appreciated.
+Text book:	T: Eldon D. Enger, Frederick C. Ross and David B. Bailey, Concepts in Biology, 14th Edition (BITS Pilani Custom Edition) Tata McGraw Hill Publishing Company Limited, 2012.
+Reference books:	R1: Peter H.Raven, George B. Johnson, Jonathan B. Losos, Susan R. Singer Biology, 7th Edition. WBC McGraw Hill, 2005.
+R2: C. Starr, Biology: Concept and application, 6th Edition, Thomson Learning.
+Suggested reading: 	S1: Campbell, N.A., Reece J.B., Biology, 7th Edition, Pearson Education Inc, 2009.
+S2: Campbell, N.A., et. al. Essential Biology with Physiology, 2nd Edition Pearson Education Inc, 2009.
+Course Plan:
+
+Lecture No.
+Learning objectives
+Topics to be covered
+Reference
+Chap/Sec
+(Books)
+1
+Introduction
+Brief introduction to all aspects of biology
+1; section 1.4 (T)
+2
+The chemistry of life: Organic Molecules  The Molecules of Life
+Carbohydrates and lipids
+
+3
+
+
+3 (T)
+4
+
+Proteins and nucleic acids
+
+5
+Cell structure and Function
+Cell theory, cell membrane and transport
+4 (T)
+6
+
+Membranous organelles
+
+7
+
+Non-membranous organelles, Nuclear components and major cell types
+
+8
+Enzymes, coenzymes and Energy
+Nomenclature Bio-catalysis: Hypotheses
+5 (T)
+9
+
+Environmental factors, co-enzymes, 
+enzyme activation and inhibition
+
+10
+Biochemical pathways
+Introduction,  Glycolysis
+6 & 7 (T)
+11
+
+TCA cycle, ETS,
+
+12
+
+ATP calculation and fermentation
+
+13
+
+Protein and fat metabolism, Photosynthesis  
+
+14
+Taxonomy
+The classification and Evolution of Organisms
+20 (T)
+15
+
+A brief survey of domains, acellular infectious particles
+
+16
+DNA & RNA: 
+The Molecular Basis of Heredity
+Central Dogma, molecular structures, duplex DNA and DNA replication.
+8 (T)
+17
+
+Gene expression: Transcription and translation
+
+18
+
+Mutation and mutagenesis
+
+19
+Applications of Biotechnology
+Introduction, polymerase chain reaction, DNA fingerprinting, 
+11 (T)
+20
+
+DNA sequencing, Human genome project
+
+21
+
+Genetic modification of organisms, Cloning of organisms: Illustration (Dolly), Stem cells, Biotechnology & Ethics
+
+22
+Cell division: Mitosis
+(Cell copying process) and Meiosis (Sex cell formation)
+Cell cycle: The stages of mitosis
+9 (T)
+23
+
+Abnormal cell division: Basis of oncology
+
+24
+
+Introduction Meiosis I & II and crossing over 
+
+25
+
+Nondisjunction, sex determination and comparison of mitosis & meiosis
+
+26
+Mendelian genetics
+(Concepts and problems)
+Introduction, Inheritance patterns and laws, 
+10 (T)
+27
+
+Multiple allelism, Sex linked inheritance, Pleiotropy,
+
+28
+
+Polygenic Inheritance and Environmental Influences
+
+29
+
+
+
+30
+Genetic diversity within species
+Speciation, gene pool concept, Hardy-Weinberg equilibrium and its applications
+12.1 - 12.4 13.1 - 13.5 & 13.9 (T)
+31
+
+
+
+32
+Material Exchanges in the body
+Basic principle, Cardiovascular system: Blood, 
+24 (T)
+33
+
+heart, blood vessels and lymphatic system, Respiratory system
+
+34
+
+Obtaining nutrition: Mechanical and Chemical processing of food, Waste Disposal: Kidney structure & function
+
+35
+
+
+
+36
+Bodys control mechanism
+Nervous system: Nerve impulse, events at the synapse and CNS organization, 
+26 (T)
+
+37
+
+Endocrine system,
+
+38
+
+Sensory input (Chem & Ear), sensory input (Eye & skin) and output coordination
+
+39
+
+Immune system and defense mechanisms
+
+40
+
+Humeral and cell-mediated immune responses, Blood typing and AIDS 
+
+41
+Sex and reproduction
+Chromosomal determination of sex, male and female fetal development, hormonal control of fertility, fertilization, pregnancy and contraception
+27 (T)
+
+42
+
+
+
+
+
+Self-study:  Ecology  Ecosystem organization and energy flow: Chapter 15.1 to 15.3 (T); Nutrition  Food and Diet: Chapter 25 (T). 
+These portions will be included in evaluation components such as T1, T2 and Comprehensive exams
+
+Evaluation scheme
+
+S. No.
+Evaluation component*
+Duration
+Weightage
+Date and time
+Remarks
+1
+T-1
+1 hour
+20%
+8/9, 4.00--5.00 PM
+Closed book
+2
+T-2
+1 hour
+20%
+25/10, 4.00--5.00 PM
+Closed book
+3
+Surprise Quizzes (Multiple)
+Diverse
+20%
+
+Closed book
+5
+Comprehensive Exam
+3 hours
+40%
+09/12 FN
+20% Closed book + 
+20% Open book
+
+Surprise quizzes may be taken in lecture hours and/or tutorial hours
+
+Chamber consultation hour: Please contact your section instructor
+
+Notices: 	All notices regarding this course will be displayed on CMS only.
+Grading policy: 	Award of grades will be guided in general by the histogram of marks. Decision on border line cases will be taken based on individuals sincerity, attendance in classes, and the section instructors assessment of the student. Students missing one or more component of evaluation completely may be given NC.
+ 
+Make-up policy: 	As per Clause 4.07 of BITS academic regulations booklet. 
+Make-up may be granted only in case of medical emergency and hospitalization. Makeup for quizzes will not be granted under any circumstances.
+									
+
+									
+									Instructor-in-Charge
+										BIO F111
+
+

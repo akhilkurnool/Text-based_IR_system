@@ -1,0 +1,121 @@
+INSTRUCTION DIVISION FIRST SEMESTER 2016-2017
+Course Handout Part II Date: 01-08-2016
+In addition to part-I (General Handout for all courses appended to the time table), this portion gives further specific details regarding the course.
+
+Course No. Course Title Instructor-in-Charge
+
+: ME F212/MF F212 : FLUID MECHANICS : JEEVAN JAIDI
+
+Scope and Objective of the Course: Fluid Mechanics deals with the fundamental laws governing the mass, momentum and energy transfer. The objective of this course is to lay a solid foundation in understanding the properties and behaviour of fluids by means of integral and differential equations along with specific applications related to turbomachines as fluid systems. Since these three phenomena (mass, momentum and energy) are very similar in nature, an integrated approach would not only conserve efforts but also contributes to a greater understanding of this subject. In this course, more emphasis will be given to fluids and its motion in a given system.
+
+Textbooks: 1. Frank M White, "Fluid Mechanics", Tata McGraw-Hill, 7th Edition, 2012.
+2. Robert W. Fox and Alan T. Mc Donald, "Introduction to Fluid Mechanics", John Wiley & Sons Private Ltd., 2013, 8th Edition.
+3. Yunus A Cengel and John M Cimbala, "Fluid Mechanics", McGraw-Hill, 3rd Edition, 2015.
+4. Online Resources & films: http://web.mit.edu/hml/ncfmf.html
+
+Reference books
+1. James R. Welty, Charles E. Wicks and Robert E. Wilson, "Fundamentals of Momentum, Heat and Mass transfer", John Wiley & Sons (Asia) private limited., 2008, 5th Edition.
+2. James. A. Fay, "Introduction to Fluid Mechanics", Prentice Hall of India, 2007. 3. Milton Van Dyke, "An Album of Fluid Motion", Parabolic Press, 12th Edition.
+
+Course Plan: Lecture No.
+1
+2-6
+
+Learning objectives
+Basic fluid property relations and
+frameworks to study fluidic systems. Applications of
+hydrostatic principle.
+
+Topics to be covered
+Fluid properties, continuum fluid Pressures in static fluid; Static forces on
+surfaces
+
+Chapter in the Text Book
+Ch. 1
+Ch. 2
+
+7-14 15-20 21-24 25-30 31-36 37-40 41-42
+
+Basic relation between control mass and
+control voulme (RTE) and its application to
+turbomachines.
+Application of differential equations to
+simplified 1-D fluid flow problems.
+Nondimensionalization of basic flow equations, dimensionless numbers and relations between
+model and prototype.
+Drag force and power calculations of
+unidirectional (1-D) internal flow problems.
+Drag force and power calculations of
+unidirectional (1-D) external flow problems. Application of auxiliary
+functions and their relation to analyse fluid
+flow behaviour. Understanding the basic stages involved in numerically solving flow systems using Commercial Softwares.
+
+Integral relations for a control volume: Conservation of mass, momentum and energy
+Differential relations for fluid in motion: Newtonian Fluid; Navier-Stokes equations;
+Viscous Flows
+Dimensional analysis of Navier-Stokes equations; Similarity technique
+Internal flows through pipes and ducts
+External flows past immersed bodies; boundary layer concepts and equations
+Inviscid fluids, stream function, potential flow, rotational & irrotational flows
+Introduction to Computational Fluid Dynamics (CFD)
+
+Ch. 3
+Ch. 4
+Ch. 5
+Ch. 6
+Ch. 7
+Ch. 8 To be announced by
+I/C
+
+Evaluation Scheme: Component
+Test - 1
+
+Duration (min.)
+60
+
+Weightage (%)
+20%
+
+Date & Time 09/09; 4-5PM
+
+Nature of Component
+Closed Book
+
+Test - 2
+Home assignments (#4)
+Classroom surprise tests (#2)
+Comprehensive Examination
+
+60 50 180
+
+20%
+
+24/10; 4-5PM
+
+Closed Book
+
+20%
+
+To be announced by I/C
+
+Open Book
+
+10%
+
+To be announced by I/C
+
+Open Book
+
+30%
+
+10/12; AN
+
+Closed Book
+
+Chamber Consultation Hour: To be announced by I/C in the class.
+
+Notices: All notices concerning this course will be displayed in Mechanical Engineering notice board. Students are advised to visit regularly CMS (institute's Web based Course Management System) for all notices and updates.
+Make-up Policy: Make-up request for tests shall be granted only for the genuine cases with sufficient evidence. Request letter duly signed by the student should reach the under signed well in advance.
+INSTRUCTOR-IN-CHARGE (ME F212/MF F212)
+
+

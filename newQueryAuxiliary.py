@@ -54,6 +54,7 @@ def raw_token_finder(dir, pre, num_docs, log_path):
 		log_path: Path to where tokens must be written
 	Returns: Final token list and list of lists of tokens from all documents.
 	"""
+	print("INSIDE raw_token_finder")
 	list_list = []
 	tokens = []
 	for i in range(num_docs):
@@ -102,6 +103,7 @@ def source_stop_words(path):
 		path: Path of the stopwords file. The file must contain all stopwords
 		separated by newline characters.
 	"""
+	print("INSIDE source_stop_words")
 	with open(path) as f:
 		raw = f.readlines()
 		return set(a.strip('\n') for a in raw)
@@ -115,6 +117,7 @@ def remove_stop_words(tokens, list_list, stop_words):
 		list_list: List of lists of tokens from all documents.
 		stop_words: List of all stopwords.
 	"""
+	print("INSIDE remove_stop_words")
 	tokens = [w for w in tokens if w not in stop_words]
 	for l in list_list:
 		l = [w for w in l if w not in stop_words]
@@ -132,6 +135,7 @@ def matrix_creator(tokens, list_list, config, table_name):
 	Returns:
 		Nothing
 	"""
+	print("INSIDE matrix_creator")
 	dbConnector = mysql.connector.connect(**config)
 	c = dbConnector.cursor()
 

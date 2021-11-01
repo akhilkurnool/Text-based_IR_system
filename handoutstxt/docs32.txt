@@ -1,0 +1,100 @@
+INSTRUCTION DIVISION FIRST SEMESTER 2016-2017
+Course Handout Part II Date: 01-08-2016
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No. Course Title Instructor-in-Charge Instructors
+
+: CE F213 : SURVEYING : V VINAYAKA RAM :
+
+Scope and Objective of the Course: This compulsory Disciplinary Course has been designed to introduce the basic fundamental concepts of surveying for Civil Engineering students. Different basic and advanced methods of measurements and traversing have been included so that the student will be able to handle a given project independently, irrespective of whether it is a road or any other infrastructure related project. Important issues like curve setting, calculation of areas and volumes, which form part and parcel of any filed civil engineer in his/her day to day activity have also been included. An introduction to the state of the art surveying techniques is also added in the course to help the student in getting updated with the current trends.
+Text Books: T1. Arora K R, Surveying (In SI Unit) Vol. I , II and III Standard Book House,14th Edition, 2013 T2. Moondra H.S. and Rajiv Gupta, Lab Manual for Civil Engg, CBS Press,
+2nd Edition, 2000.
+Reference Books: R1. Duggal S.K.; Surveying; Tata Mcgrawhill, New Delhi, Vol. 1and II, 4th Edition, 2013 R2. Punmia B.C et al; Surveying; Laxmi Publishers, Vol I, II and III, (2005). R3. S S Bhavikatti, Surveying and Levelling, I.K. International Pvt Ltd, Vol. I and II (2008).
+
+Course Plan:
+Lecture No. 1 2-3 4-7 8-12 13-14 15-17 18-20
+21-23 24-26 27-29
+30-32
+33-35 36
+36-42
+
+Learning objectives
+Introduction to the basic concepts of Geodesy/surveying Linear Measurements Chain and Compass Surveying
+Leveling
+Contouring
+Plane Table Surveying Tachometric Surveying
+Traversing
+Curve Ranging Trigonometrical Leveling
+Measurement of Areas
+Measurement of Volumes Setting out works
+Advanced Topics
+
+Topics to be covered
+Fundamental definitions and concepts
+Methods, accessories, ranging Steps in chain survey, field work and plotting, obstacles in chaining, Compass surveying Principles, bearings Instrument, HI method, Rise and fall method, curvature and refraction corrections. Objectives, use, methods of contouring, contour gradient, Applications of Contouring Accessories, methods, errors, Three Point Problem, Two point Problem Theory, instrument constants, methods of Tachometric surveying, Normal and inclined lines of sights Methods, Open and Closed Traversing, adjustments and plotting, Consecutive coordinates Types of curves and staking in the field Single plane and two plane methods of finding the elevation of the object and distance from the survey station Simpson 1/3rd rule, Trapezoidal rule, Meridian Distance (MD), Double Meridian Distance (DMD), Double Parallel Distance (DPD) methods; Area by coordinates Prismoidal Formula, Trapezoidal Formula, Basic Case study examples Definitions, Setting out of structures, Examples
+Introduction to GPS, Training on DGPS, GIS, Map Projections, Aerial Photogrammetry, Total Station and other advancements in surveying
+
+Chapter in the Text Book Vol 1 - 1 Vol 1 - 3
+Vol 1 - 7, 8
+Vol 1 - 9 Vol 1 - 10 Vol 1 - 11
+Vol 2 - 3
+Vol 2- 4 Vol 2 - 5 Vol 2 - 6
+Vol 2 - 7
+Vol 2 - 8 Vol 1 - 14
+(R1) Vol 3
+
+PRACTICALS: No. 1 2 3 4 5 6 7 8 9 10
+
+Name of experiment Area of Irregular object using offset method using chain and tape Chain and Compass traversing (Closed) Plane Table Surveying Ht. of tall objects by one and two-plane methods Contour survey by square grids Profile leveling and Volume of Earth Work Setting Simple circular curve Using linear and angular methods Setting Reverse Curve Using Angular Method Setting Compound Curve Application of Total Station, Handheld GPS and DGPS
+
+No. of turns 1 1 1 1 1 1 1 1 1 1
+
+Evaluation Scheme:
+
+Component
+Test I
+Test 2 Lab Performance, Records,
+Observation Book Laboratory Skill Test plus Quiz
+Take Home Assignments
+Design Assignment Component
+
+Duration 60 min 60 min
+-
+
+Weightage (%) 15
+15
+
+Date & Time
+9/9, 4.00--5.00 PM
+24/10, 4.00--5.00 PM
+
+10
+
+10 10
+
+5
+
+Comprehensive Examination
+
+180 min
+
+35
+
+10/12 AN
+
+Nature of Component
+CB CB
+OB CB OB OB
+CB
+
+Chamber Consultation Hour: Will be announced in the class Notices: Notices will be displayed on CMS and few important notices will also be displayed on the notice board of civil engineering department Make-up Policy:
+1. Make-up will be granted only on genuine reasons (medical emergencies). However, prior permission is a must.
+2. Applications received 24 hours after the test will not be entertained. Applications on informal forums like Face Book will be ignored
+3. For medical cases, a certificate from the concerned physician of the Medical Centre must be produced. Cross verification will be done with Hostel Superintendent / Warden before proceeding further with the application
+4. For the skill tests, surprise tests, lab demo sessions and tour case study (if any), make-ups are not possible.
+Special Instructions for Survey Field Work: 1. Students must collect the instruments in the specified time. Late arrival will not be entertained in any case. 2. The students must come to the field- work with a 40 page field observation book or any other specified
+field book, pencil, scale and a calculator. The field- work record must be submitted in the next field- work class. 3. Field observation book also forms part and parcel of the evaluation process. 4. Since the work may involve standing in the sun for longer duration of time, you are advised to wear caps during field surveys. 5. Students are advised to use the instruments with utmost care. Loss / misuse of equipment will attract fine and entire batch handling that experiment will be held responsible 6. Students are advised to wear shoes during the field work from the safety point of view 7. Usage of Mobile Phones during the field work is strictly prohibited 8. Plagiarism of any form will be considered very seriously.
+
+INSTRUCTOR-IN-CHARGE CE F213
+
+

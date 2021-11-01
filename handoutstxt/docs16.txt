@@ -1,0 +1,96 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE-PILANI HYDERABAD CAMPUS
+FIRST SEMESTER 2016-17
+
+Course Handout (Part II)
+Date: 01/08/2016 In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the courses.
+
+Course No Course Title
+Instructor-in-charge Team of Instructors
+
+: BITS F110 : ENGINEERING GRAPHICS
+: KURRA SURESH : Ansua Guharay, Ashok kumar, C P Kiran, K Rajitha, M Mounika, M Swagatika, MD Abdul Wahed, Naveen James, Prakash Mohan, Surya Prakash, VN Surendra Kamadi.
+
+1. Course Description:
+Introduction to AutoCAD commands, simple drawings, orthographic projections, projections of points, lines, planes; auxiliary projections; projections and sections of solids; development of surfaces; isometric projections.
+
+2. Scope and objective of the course:
+Engineering Graphics is the primary medium for development and communicating design concepts. Through this course the students are trained in Engineering Graphics concepts with the use of AutoCAD. The latest ISI code of practice is followed. Computerized drawing is an upcoming technology and provides accurate and easily modifiable graphics entities, easy data storage and retrieval facility and enhances creativity.
+
+3. Text Book: D.M. Kulkarni, A.P. Rastogi and A.K. Sarkar., Engineering Graphics with AutoCAD, PHI Learning Private Limited, New Delhi 2009.
+
+4. Reference Books:
+a) Dhananjay A Jolhe, Engineering Drawing: With an Introduction to AutoCAD, Tata McGraw Hill, 2008.
+b) Warren J. Luzadder & Jon M. Duff, Fundamentals of Engineering Drawing, 11th edition, Prentice Hall of India, New Delhi.
+c) N.D.Bhatt & V.M.Panchal, Engineering Drawing, Charotar Publishing House, 2006.
+
+5. Course Plan
+
+Lecture No.
+1-2
+3-4
+
+Learning Objectives
+Introduction to AutoCAD Orthographic projections
+
+5 Projections of Points
+
+Topics to be covered
+Basic commands
+Theory, techniques, first and third angle projections, Multi view drawing from pictorial views. Positions, notation system and projections procedure
+
+Practical Classes
+3 2
+-
+
+Chapter 1&2 3&5
+9
+
+Page 1 of 2
+
+6-7 8 9-10 11-12 13-15
+
+Projections of Lines
+Projections of Planes
+Projections of Solids and Sections of Solids Development of surfaces Isometric Projection
+
+Positions, terms used, different cases, traces of a line and projections procedure
+Positions, terms used, different cases, traces of a line and projections procedure
+Construction of right, regular, oblique solids; section planes and sectional view.
+Radial line, parallel line; antidevelopment
+Theory of isometric drawing, construction of isometric projection from orthographic.
+
+2 1 2 1 2
+
+9 10 12 & 13 14 6
+
+6. Evaluation Scheme:
+EC Evaluation component No.
+1 Mid - Test (CBT)
+2 Comprehensive (CBT) 3 Assignments CBT - Computer Based Test
+
+Duration
+60 min
+90 min -
+
+Weightage (%) 25
+35 40
+
+Date, Time
+21/10, 8.00 AM 4.30 PM 14/12 FN -
+
+Remarks
+Closed Book
+Closed Book Open Book
+
+7. Chamber Consultation Hours: To be announced by respective instructors.
+
+8. Notices: Concerned notices will be displayed on CMS.
+
+9. Make - up policy:
+Make-up for practical class will be granted only on medical reasons. For medical cases, a certificate from the physician of the Institute Medical Centre must be produced. Request for evaluation of makeup should be made to the practical section in-charge on the immediate subsequent practical class which is attended.
+
+INSTRUCTOR-IN-CHARGE BITS F110
+
+Page 2 of 2
+
+
