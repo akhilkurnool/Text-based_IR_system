@@ -17,6 +17,7 @@ import numpy as np
 # Config file used to connect to the MySQL database
 config = {
 	'user': 'root',
+        'password': '#Akhil123',
 	'host': '127.0.0.1',
 	'database': 'infer',
 	# 'raise_on_warnings': True,

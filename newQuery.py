@@ -14,7 +14,7 @@ from newQueryAuxiliary import relevance_query_maker
 # The config json used to connect to the MySQL database.
 config = {
 	'user': 'root',
-	# 'password': '57879347',
+	'password': '#Akhil123',
 	'host': '127.0.0.1',
 	'database': 'infer',
 	# 'raise_on_warnings': True,

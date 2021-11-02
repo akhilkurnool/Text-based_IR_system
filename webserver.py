@@ -18,7 +18,7 @@ from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
 
 config = {
 	'user': 'root',
-	# 'password': '57879347',
+	'password': '#Akhil123',
 	'host': '127.0.0.1',
 	'database': 'infer',
 	# 'raise_on_warnings': True,
@@ -133,5 +133,5 @@ class HandleRequests(BaseHTTPRequestHandler):
 		self.do_POST()
 
 host = ''
-port = 80
+port = 3000
 HTTPServer((host, port), HandleRequests).serve_forever()
