@@ -15,7 +15,7 @@
       <img width="100px" height="100px" src="./bits.png" />
     </span>
   </div>
-  <div id="initial">
+  <div id="initial" class="initial">
     <input class="b-search" type="text" id="search1" name="search" placeholder="Search" autofocus autocomplete="off"><br />
 	  <input class="b-submit" id='firstSubmit' type="submit" value='Infer Search' />
   </div>
@@ -33,6 +33,20 @@
 
 <script>
 var first = true;
+var searchValue = ''
+var backendURL = 'http://localhost:3000/?q='
+
+window.addEventListener('keydown', (e) => {
+  console.log('e? ', e.code);
+  if (e.code === 'Enter') {
+    var bSubmit = document.getElementById('firstSubmit');
+    if (bSubmit) bSubmit.click();
+    var aSubmit = document.getElementById('submit2');
+    if (aSubmit) aSubmit.click();
+    console.log('sub? ', bSubmit, aSubmit)
+  }
+})
+
 var apiEventHandler = () => {
   fetch(`${backendURL}${searchValue}`)
       .then(res => res.json())
@@ -42,6 +56,10 @@ var apiEventHandler = () => {
           document.getElementById('logo').remove();
           var body = document.getElementById('body');
           body.insertAdjacentHTML('beforeend', final);
+          var search2 = document.getElementById('search2');
+          if (search2) {
+            search2.value = searchValue;
+          }
         }
         var results = document.getElementById('results');
         results.innerHTML = '';
@@ -93,15 +111,15 @@ if (!String.prototype.format) {
   `;
   var card = `
     <div class='card'>
-      <a class='result' href='http://id.bits-hyderabad.ac.in/moodle/course/view.php?id={0}' > 
-        <p class='course_id'>{1}</p> 
+      <div class='inner-card'>
+        <a class='result' href='http://id.bits-hyderabad.ac.in/moodle/course/view.php?id={0}' > 
+          <p class='course_id'>{1}</p> 
+        </a>
         <p class='course_name'>{2}</p> 
-      </a>
-      <a class='direct_doc' href='http://localhost:3000/Handouts/{3}.pdf'>Open</a>
+      </div>
+      <a class='direct_doc' href='/Handouts/{3}.pdf'>Open</a>
     </div>
   `;
-  var searchValue = ''
-  var backendURL = 'http://localhost:80/?q='
   
   window.onload = () => {
     first = true

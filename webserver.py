@@ -4,6 +4,8 @@ import math
 import time
 import re
 import mysql.connector
+from os import curdir, sep
+
 from nltk.stem.porter import PorterStemmer
 import operator
 import urlparse
@@ -18,7 +20,7 @@ from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
 
 config = {
 	'user': 'root',
-	'password': '#Akhil123',
+	# 'password': '#Akhil123',
 	'host': '127.0.0.1',
 	'database': 'infer',
 	# 'raise_on_warnings': True,
@@ -98,10 +100,36 @@ def searchList(user_input):
 	return result
 
 class HandleRequests(BaseHTTPRequestHandler):
+	def _return_file(self):
+		f = open(curdir + sep + self.path, 'rb') #self.path has /test.html
+		self.send_response(200)
+		if self.path.endswith(".html"):
+			self.send_header('Content-type', 'text/html')
+		elif self.path.endswith(".css"):
+			self.send_header('Content-type', 'text/css')
+		elif self.path.endswith(".pdf"):
+			self.send_header('Content-type', 'application/pdf')
+		elif self.path.endswith(".png"):
+			self.send_header('Content-type', 'image/png')
+		self.end_headers()
+		self.wfile.write(f.read())
+		f.close()
+
+	def _return_data(self):
+		o = urlparse.urlparse(self.path)
+		q = o.query.split('=')[1]
+		result = searchList(q)
+		json_string = json.dumps({
+			"result": result
+		})
+		# print("json_string: ", json_string)
+		self.wfile.write(json_string)
+
+
 	def _set_headers(self):
 		self.send_response(200)
 		self.send_header('Content-type', 'application/json')
-		# self.send_header('Access-Control-Allow-Origin', "*")
+		self.send_header('Access-Control-Allow-Origin', "*")
 		self.end_headers()
 
 	def do_OPTIONS(self):
@@ -112,15 +140,16 @@ class HandleRequests(BaseHTTPRequestHandler):
 		self.send_header("Access-Control-Allow-Headers", "X-Requested-With, Content-type")
 
 	def do_GET(self):
-		self._set_headers()
-		o = urlparse.urlparse(self.path)
-		q = o.query.split('=')[1]
-		result = searchList(q)
-		print("result? ", result, q)
-		json_string = json.dumps({
-			"result": result
-		})
-		self.wfile.write(json_string)
+		print('self.path? ', self.path)
+		try:
+			if self.path.endswith(".html") or self.path.endswith(".pdf") or self.path.endswith(".png") or self.path.endswith(".css"):
+				self._return_file()
+			else:
+				self._set_headers()
+				self._return_data()
+			
+		except IOError:
+				self.send_error(404,'File Not Found: %s' % self.path)
 			
 	def do_POST(self):
 		'''Reads post request body'''
@@ -134,4 +163,5 @@ class HandleRequests(BaseHTTPRequestHandler):
 
 host = ''
 port = 3000
+print("Starting web server at port: ", port)
 HTTPServer((host, port), HandleRequests).serve_forever()

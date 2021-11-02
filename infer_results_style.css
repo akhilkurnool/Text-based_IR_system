@@ -74,14 +74,16 @@
 
 .card 
 {
-	display: block;
+	display: flex;
 	box-shadow:0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
 	width: 70%;
+	align-items: center;
 	height: 50px; 
 	margin: 20px auto;
 	padding: 1px 10px 15px 20px;
 	background-color: #ee6e73;
 	border-radius : 3px;
+	justify-content: space-between;
 }
 .result
 {
@@ -94,27 +96,34 @@ a
 {
 	text-decoration: none;
 	color: white;
-	font-size: 150%;
+	/* font-size: 150%; */
 }
 
 p.course_id
 {
-	display: inline-block;
-	width: 20%;
+	/* display: inline-block; */
+	display: flex;
+	align-items: center;
+	width: 18%;
+	font-size: 1.1rem;
 }
 
 p.course_name
 {
-	display: inline-block;
-	position: relative;
-	left: 15%;
+	/* display: inline-block; */
+	/* position: relative; */
+	display: flex;
+	align-items: center;
+	color: white;
+	font-size: 1.25rem;
+	/* left: 15%; */
 }
 .direct_doc
 {
-	position: relative;
+	/* position: relative; */
 	float: right;
 	right: 2%;
-	padding: 20px 0px 0px 0px;
+	/* padding: 20px 0px 0px 0px; */
 }
 
 .time
