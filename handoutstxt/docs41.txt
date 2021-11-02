@@ -1,0 +1,175 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI (RAJASTHAN) HYDERABAD CAMPUS INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017 COURSE HANDOUT (PART-II)
+Date: 01-08-2016
+
+In addition to Part-I (General Handout for all courses appended to the Time Table) this portion gives further
+
+specific details regarding the course.
+
+Course No.
+
+: CE G616
+
+Course Name
+
+: BRIDGE ENGINEERING
+
+Instructor-in-charge
+
+: P N RAO
+
+1. Scope and Objective of the Course: Bridges are inseparable part of any communication network as they are the key elements in roadways and Highways network. This course intends to impart skills for planning and analysis & design of different types of bridge structures at basic as well as at advance level.
+
+2. Course Description: Purpose of bridge; Classification of bridges; planning of bridges; Characteristics of different type of bridges; Loads stresses and their combinations; Design of R.C.C Slab culverts, Boxculverts, Tee-beam bridges; Design of Prestressed concrete bridges; steel girder bridges; composite bridges; box girder bridges; continuous spans bridges; design of bearings; Design of Bridge Substructures: piers and abutments and their foundations; Rigid frame bridges; arch bridges; Introduction to Long span bridges: Cable stayed bridges and suspension bridges;
+
+3. Text Book (TB): 1. Johnson Victor, D. (2010), "Essentials of Bridge Engineering", 6th Edition, Oxford & IBH Publishing Co. Pvt. Ltd., New Delhi.
+
+4. Reference Books (RB): 1. Bakht,B. and Jaegar, L.G.(1985),"Bridge Analysis Simplified," McGraw-Hill, New Delhi. 2. Raina, V. K. (1999), `Concrete Bridges: Handbook', Galgotia Publication, New Delhi. 3. Krishna Raju, N, (2008) "Prestressed Concrete" Tata McGraw-Hill Pub. Co. Ltd., New Delhi. 4. Ponnuswamy, S, (2008) "Bridge Engineering", 2nd edition, Tata McGraw-Hill Pub. Co. Ltd., New
+Delhi.
+5. Standard Specifications and code of Practice for Bridges: 1. IRC: 5-1998, "Standard Specifications and code of Practice for road bridges: section I-General features of Design", Indian Road Congress.
+2. IRC: 6-2000, "Standard Specifications and code of Practice for road bridges: section II-Loads and Stresses", Indian Road Congress.
+3. IRC: 21-2000, "Standard Specifications and code of Practice for road bridges: section III-Cement
+Concrete (Plain and Reinforced), Indian Road Congress.
+4. IRC: 40-2002, "Standard Specifications and code of Practice for road bridges: section IV-Brick, and
+Stone and block Masonry, Indian Road Congress.
+5. IRC: 24-2001, "Standard Specifications and code of Practice for road bridges: section V-Steel Road Bridges", Indian Road Congress.
+6. IRC: 22-1986, "Standard Specifications and code of Practice for Road Bridges: section VI-Composite
+Construction, Indian Road Congress.
+7. IRC:78-2000, "Standard Specifications and code of Practice for road bridges: section VII-Foundation and Substructures", Indian Road Congress
+8. IRC:83-1999, "Standard Specifications and code of Practice for road bridges: section IX (Part I)-
+Metallic Bearings, (Part II )- Elastomeric Bearings and (Part III )-Pot, Pot-Cum-PTFE, Pin and metallic
+guide Bearings, Indian Road Congress
+9. IRC:18-2000, "Design criteria for Prestressed Concrete road Bridges (post-tensioned concrete)", Indian
+Road Congress
+10. IS1343-1990," Indian Standard code for Prestressed Concrete". BIS.
+
+7. Course Plan:
+
+S. No.
+
+Topic
+
+Learning Objectives
+
+Lec. Ref. to Nos. TB
+
+1. Introduction
+
+Importance of Bridge, Components of bridges, Classification of bridges, Economical span
+
+3
+
+Ch-1
+
+2.
+
+Bridge Loading standards
+
+Emphasis on IRC loadings, Impact factors, loading for Indian Railway bridges
+
+3 Ch-3&4
+
+Design of (i) slabs spanning in one direction (slab culverts), (ii)
+
+3.
+
+Design of culverts
+
+cantilever slabs (in T-beam bridges), and (c) slabs spanning in two-directions using Pigeaud's Method, Design of slab culverts,
+
+5
+
+Ch-6
+
+design of skew slabs Load distribution in longitudinal girders using Courbon's
+
+4. RCC Bridges method, Guyon and Massonet method and Hendry-Jaegar 5 Ch-7
+
+method, Design of simply supported Tee-beam bridges
+
+Pre-stressed 5. Concrete
+Bridges
+
+Introduction to Pre-stressed concrete, analysis of pre-stressed section, design aspects of pre-stressed girders
+
+5
+
+Ch-8
+
+Design of stringers, Cross girders and main girders, Wind loads
+
+6. Steel Bridges on truss bridges; Design of steel truss bridges, Effect of
+
+5 Ch-9
+
+repeated loading
+
+Types of piers and abutments; Loads to be considered on piers
+
+7. substructure
+
+and abutments; Stability analysis of pier and abutment, wing 5 Ch-12
+
+walls and approach slabs, features of wing walls
+
+8.
+
+Bridge Foundations
+
+Types of Bridge foundations, design aspects of Pile and well foundations
+
+4
+
+Ch.- 13
+
+9.
+
+Bearings joints
+
+and
+
+Necessity of bearings, types of bearings, design of steel bearings, designs of elastomeric bearings, necessity and types of expansion
+
+joints.
+
+4
+
+Ch-14
+
+8. Evaluation Scheme:
+
+Components Test-I Test-2 Term Projects & Research topics & Seminars Compre. Exam.
+
+Duration 1hr 1hr
+continuous
+3 hours
+
+Weightage
+
+Date
+
+15 8/9, 10.00--11 AM
+
+15 25/10, 10.00--11 AM
+
+40
+
+30 08/12 FN
+
+Venue
+
+Remarks CB CB
+OB
+CB
+
+9. Chamber Consultation Hour: M-8th hr.
+
+10. Notice: Notice if any concerning this course will be displayed on the Notice Board of Civil Engg. Dept.
+
+11. Make up policy: make-up will be granted only to genuine cases. For cases related to illness, proper
+
+documentary evidence is essential. Prior permission is necessary if student is out of station on the test date.
+
+Instructor-in-charge CE G616
+
+

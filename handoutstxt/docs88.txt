@@ -1,0 +1,299 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI, HYDERABAD CAMPUS INSTRUCTION DIVISION, FIRST SEMESTER 2016-2017
+Course Handout (Part-II) Date: 23/07/2016
+
+Course No.
+
+: EEE G591
+
+Course Title
+
+: Optical Communication
+
+Instructor-in-charge : Mr. Balasubramanian M
+
+Course Description:
+
+Basic concepts of optical Communication systems, linear and non-linear optical fibre characteristics, optical sources and transmitters (design, performance), modulator (direct/indirect), optical coupling/distribution, optical amplifiers, coherent light wave system, long-haul and distribution optical communication systems, WDM & TDM light wave system, soliton based communication system and new advances in optical communication.
+
+Scope and objective of the course:
+This course is intended for a specialized degree of communication engineering/Science students at senior levels. This course covers a detailed discussion on optical communication concepts, components, system and applications. The goal of this course is to enhance the basics and concepts of optical communication system design
+1. Text Book : Govind P. Agrawal, "Fiber-optic Communication Systems" Third Edition, John wiley 2002.
+
+2. Reference Books : i) RB1: John Powers, "An Introduction to Fiber Optic Systems" 2nd Ed., IRWIN, 1997 ii) RB2: Robert M. Gaglindi & S. Karp, "Optical Communications" John Wiley & Sons NC, 1995. iii) RB3: Rajiv Ramaswami, Kumar N. Sivarajan," Optical Networks-A Practical Perspective",Morgan Kaufmann Pub. Second Ed.,2004 iv) RB4: Djafar K. Mynbaev & Lowell L Scheiner `Fiber - Optic Communications" Person Asia, First Indian Reprint, 2001.
+
+3. Course Plan:
+
+L Learning Objective
+
+Topic to be Covered
+
+No.
+
+1. Concept of field propagation in optical Optical Confinement, cutoff
+
+fibres
+
+condition, single
+
+mode/multimode concept.
+
+2. Concept of field absorption, scattering, Fiber loss, linear scattering
+
+loss
+
+3. Concept of pulse broadening and
+
+Dispersion in fibers
+
+bandwidth limitation
+
+Concept of dispersion reduction and Zero dispersion concepts,
+
+4. B.L optimization.
+
+DSF, DFF
+
+Ref*.Chap/ Sec./ (Book) 2(T)
+2(T)
+2(T)
+Class discussions Ch.3 (R2)
+
+5. Nonlinear effects in optical fibers
+
+SRS,SBS,SPM,XPM,FWM Class, 3.4 (R1)
+
+6. Concepts of dispersion compensation Dispersion management,
+
+FWM Tech.
+
+7. Concept of semiconductors sources
+
+LED & ILD
+
+3.3 (R2) 5.3 (R1), 3 (T)
+
+8. Concepts of optical gain
+
+Laser modes, laser action,
+
+3(T),9.2 (R4)
+
+mode selection
+
+9. Concept of high speed S.C lasers
+
+Chirping control, mode
+
+Class, 6.6 (R2)
+
+selection
+
+10. Concept of Electo-Optic effect
+
+Pockel effect & Kerr effect 17 (R3)
+
+based devices
+
+11. Concept of Acousto-Optic effect
+
+Raman & Bragg modulators, 17 (R3)
+
+deflectors
+
+12. Concepts of Transmitter design.
+
+Coherent light wave
+
+Class, 10 (R4)
+
+Transmitters
+
+13. Concept of performance issues of
+
+Reliability, Testing, chirping Class notes
+
+transmitters
+
+and performance study
+
+14. Concept of photo detection
+
+PIN,APD, MSM.
+
+6(R1),4(T)
+
+15. Concept of optical receiver
+
+Receiver design, S/N
+
+10(T) Class
+
+Estimation, Digital optical
+
+receivers
+
+16. ---Do---
+
+Digital receiver sensitivity
+
+6.3-6.4(R1) 10(T)
+
+(Coherent receivers)
+
+17. Concept of receivers performance
+
+Design issues, S/N and BER 10(T),6.4, 6.5 (R1)
+
+optimization.
+
+18. Concept of receivers overview
+
+Practical receiver discussion Class,11 (R4),10(T)
+
+19. Concept of Semiconductor laser
+
+SLA,
+
+6(T)
+
+amplifier
+
+20. Concept of active fibre amplifiers
+
+SRA, SBS
+
+6(T)
+
+21. Concepts of Doped fibre amplifiers
+
+EDFA
+
+6(T), Class notes
+
+22. Concept of light wave amplifier
+
+Design and application of
+
+Ch.6 (T)
+
+systems.
+
+amplifiers
+
+23. Concept of light wave communication Design issues of
+
+Class
+
+systems
+
+communication systems
+
+24. Concept of design Power penalty
+
+Power penalty estimation and 5.4 (T)
+
+reduction approaches.
+
+25. Concept and design guide-lines for
+
+Power penalty considerations 5.4 (T)
+
+optical link
+
+and link budget.
+
+26. Concept of optical network and system Different topologies used in 8 (R1),6(R3)
+
+architectures
+
+optical network
+
+Concept of Optical Networks
+
+Optical LAN , WANS,
+
+8 (R1),6(R3)
+
+27 SONET/SDH
+
+28. Concept WDM light wave system
+
+Channel spacing decision,
+
+8(T)
+
+multipliers, design issues
+
+29. Concept of WDM system components couplers/routers/switches
+
+8(T)
+
+30. --Do --
+
+Optical filters
+
+Class, (T) 13 (R4)
+
+31. Concepts of WDM
+
+Practical Transmitters
+
+Class,12.2 (R4)
+
+Transmitters/Receivers 32. Concept of WDM system performance 3335 Concepts of WDM Networking
+36 Concept of time division multiplying 37 Concept of soliton communication
+38 --Do-39 --Do--
+40 Concept of WDM soliton system
+41 To learn new development in optical communication
+42 ------Do-----
+
+/Receivers Linear and Nonlinear effects WDM Network routing/management Optical TDM techniques. Soliton Generation
+Soliton Interaction High capacity soliton systems and jitter reduction Soliton Multiplexing techniques New trends in optical communication Networking, communication
+
+8(T) 8(R3)
+7.4 (R1) 19 (R2), 9(T) 7.10 (T) 9(T) 9(T)
+Class notes
+R3,Class notes
+R3,Class notes
+
+4. Evaluation Scheme:
+
+Component Duration Percentage
+
+Test-I
+
+60 min
+
+15%
+
+Test-II
+Regular Labs
+Project Compre. Exam.
+Total
+
+60 min 3 hours
+
+15% 20% 20% 30%
+
+Marks 45
+45
+60
+60 90 300
+
+Date & Time 10/9, 1.00-2.00 PM 22/10, 1.00-2.00 PM
+----01/12 FN
+
+Evaluation type Closed Book
+Closed Book Open Book Open Book Closed Book
+
+5. Chamber Consultation Hour: To be announced in the class email: balasubramanian@hyderabad.bits-pilani.ac.in
+
+6. Notices: EEE Notice Board and CMS.
+
+7. Make-up Examination:
+
+No make-up will be given for Assignment and Surprise tests. However for Tests and Comprehensive Examination make-up examination will be given only in extremely genuine cases for which prior permission of the instructor-in-charge is required.
+
+Instructor-in-charge EEE G591
+
+

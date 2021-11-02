@@ -1,0 +1,109 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+Course Handout (Part II)
+                                                      Date: 17/07/2016
+In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+Course No.           		: MATH F313
+Course Title         		: Numerical Analysis
+Instructorincharge 		: A RAMU
+Instructors          		:  A RAMU		
+1.Scope and Objective of the Course:
+Enables one to devise algorithms for the numerical solutions of mathematical problems. Also discusses the error analysis of different algorithms.
+2.Text Book:	 	Applied Numerical Analysis by Curtis F. Gerald, Patrich O. Wheatley Pearson education (7th Edition) 2003.
+Reference Books: 1. Numerical Analysis, Burden and Faires, 7th ed., Thomson Learning, 2001
+
+                                    
+3.  Elementary  numerical Analysis, SD Conte & Carl de Boor 3rd ed., 
+TMH 2006 (Reprint).
+
+4.	Course Plan:
+Lec. No. 
+Learners Objective
+Topic to be Covered
+Ref. to Text /Ref.  Ch./Sec  
+1-3
+To understand the potential pitfalls of numerical computing
+Introduction, Using computer to do numerical analysis, Errors, Sources of errors, Floating point arithmetic, Arithmetic accuracy in computer, Significant digits, Relative error, Propagation of errors, how to avoid loss of significant digits, evaluation of polynomial,  Parallel and distributed computing
+0.1-0.7
+4-9
+To find roots of nonlinear equations and understand the relative strengths and
+Weaknesses of each 
+Computation methods of System of non-linear Equations. 
+Bisection, secant, false position, Newtons method, Mullers method, Fixed point iteration method. Order of convergence,  multiple roots. 
+1.1-1.6
+10-15
+To solve a linear system, using gaussian elimination and iterative methods and compute
+matrix inverse and understand the relative strengths and weakness of each computational method
+
+The Elimination method, Gaussian Elimination,  Other direct methods, Pathology in linear systems-singular matrices, Determinants and matrix inversions, Tridiagonal systems, Thomas algorithm, Norms, condition numbers and errors in computed solutions;
+Jacobis method, Gauss Seidel method, SOR method , Newtons methods, fixed-point methods for non-linear systems
+
+2.1-2.6, 1.7
+16-21
+What is an interpolating polynomial and how to efficiently evaluate it
+Existence and Uniqueness of interpolating polynomial, Lagrange polynomials 
+Divided differences, Evenly space points, Error of interpolation, cubic spline, Inverse interpolation
+3.1, 3.2-3.3, 12.10(R1)
+22-28
+
+To compute numerical derivatives and integration
+using discrete data points and know how to integrate functions Containing singularities
+Derivatives from difference table, Higher order derivatives, Extrapolation techniques,
+Newton-Cotes Integration formulas,  
+The Trapeziodal rule- a composite formula, Simpsons rule, Other ways to derive integration formulas, Gaussian Quadrature, 
+
+5.1-5.3, 5.6, 14.11-14.12(R1)
+29-34
+
+To compute numerical solutions of initial value problems
+The Taylor  Series method, Euler and Modified Eulers method, Runge-kutta Methods	
+Multistep methods: Milnes method, Adams-moulton method, Predictor  corrector formulas, system of equations and  higher order equations, 
+6.1-6.6
+35-37
+To solve boundary value problems
+The shooting method, Finite difference method, solution through  a set of equations,  Derivatives boundary conditions
+6.7, 16.4(R1)
+38-39
+Eigen values and eigenvectors of matrices  
+Power method,  Inverse Power method &  QR methods of finding eigenvalues and eigenvectors  of matrices  
+6.8
+40-42
+How to deal irregular boundaries using Finite Element Methods
+The Rayleigh-Ritz method, The Collocation and Galerkin Methods, Finite Elements for Ordinary-Differential equations
+9.1-9.2
+
+5.   Evaluation Scheme:
+Components	  	Duration     Wt%   	 		Date&Time 	    Remarks
+   Test I		60 mts     	30                    		       		CB     	 
+   Test II           	60 mts     	30    	            		        		OB
+              
+   Compre Exam           3 hrs               40   		 	                   		CB
+    
+
+6.  Problems:  Students are strongly advised to work out all the relevant problems in the textbook and do similar problems from the reference books. It is also recommended that the students should try out  the algorithms on  computers (Using MATLAB) to get a better understanding of the subject.
+7. Chamber Consultation Hours: To be announced in the class.
+8. Make-up: Make-up for any component of evaluation will be given only in genuine cases   of  absence. 
+9 Notices:  All notices related to this course will be put only on the Mathematics Department Notice Board.
+
+                                      InstructorInCharge   
+                                        							AAOC C341   
+
+
+
+
+
+
+
+ 
+
+ 
+
+PAGE  
+
+
+PAGE  2
+
+
+
+

@@ -1,0 +1,118 @@
+BITS-Pilani, Hyderabad Campus
+First Semester 2016 - 2017
+Course Handout (Part - II)
+Date: 22/07/2016 In addition to Part I (General Handout for all courses appended to the Timetable) this portion gives further specific details regarding the course.
+
+Course Number Course Title Instructor-in-Charge
+
+: EEE F474 : Antenna Theory and Design : S. R. Zinka
+
+1. Scope and Objective of the Course:
+
+To provide the fundamental knowledge about the antenna design which is the key subject of radar, wireless communication and mobile communication. The main objective of this course is to introduce theory, analysis, design and measurements of antennas. First, the electromagnetic theory is introduced and the fundamental antenna parameters are explained. Classical radiating elements; dipoles/monopoles, loops, apertures, horns, reflectors and modern antennas like microstrip patch antennas (MPAs) and fractal antennas are included to meet the cutting-edge requirement of this field. Considerable special attention is also planned to antennas popular in mobile telecommunications. Antenna simulations through professional software will be taken through seminars.
+
+2. Text Books:
+
+C.A. Balanis, Antenna Theory, Analysis and Design, 3rd ed., John Wiley and Sons 2005.
+
+3. Reference Books:
+
+a) J. D. Kraus and R. J. Marhefka, Antennas, 3rd ed. McGraw-Hill, 2002. b) W. L. Stutzman and G. A. Thiele, Antenna Theory and Design, 2nd ed. Wiley, 1998. c) S.J.Orfanidis, Electromagnetic Waves and Antennas; Online Book by Reuters Univ., 2005
+
+4. Course Plan:
+
+Lec. No. 1-2 3 4-8 8 - 10
+11 - 12
+13 - 14
+15 - 16
+17 - 18 19 - 21
+
+Topic Introduction to antenna theory, review of Maxwell's equations and electromagnetic wave theory, Smith Chart and impedance matching
+Radiation integrals and auxiliary potential functions
+Antenna Arrays; linear arrays, planar arrays. N-Element Linear Array
+Basic radiator; short dipoles, half wave dipoles, loop antennas
+Antenna parameters: Radiation pattern, power density, radiation intensity, beamwidth, Directivity, Antenna Efficiency and Gain etc.
+Antenna Polarization, Antenna Equivalent circuit, Friis transmission and Radar range equation
+Demonstration of Commercial Software Packages for antenna design; CST and HFSS software tools.
+Aperture antennas: Huygen's principle, rectangular apertures
+Horn Antennas: E-Plane, H-Plane,
+
+Learning Objective
+To recall the basics of EM theory to useful to discuss antenna theory
+To derive potential functions
+To describe the various linear antenna arrays To explain the analysis and parameters of basic radiators
+To describe parameters used to evaluate the properties of antenna.
+To derive polarization and Friis transmission equation
+To demonstrate the antenna design software tools
+To explain the Huygen's principle for aperture antennas To analyze the performances of horn antennas
+
+Reference Chapter 1 3.1 - 3.6 6.1 - 6.5; 6.8 4.1 - 4.3; 4.6
+&5 2.1 - 2.11
+2.12 - 2.17
+Software Tools
+12.2, 12.5 Ch 13
+
+22 - 24
+25 - 26 27 - 29 30 - 32 33 - 37 38 - 42
+
+Pyramidal and conical corrugated horn
+Microstrip antennas analysis and design; general characteristics, radiation mechanism feeding techniques, rectangular patch.
+Q-factor, bandwidth and Efficiency. Input impedance & circular polarization techniques. Patch Antenna arrays
+Traveling wave and Broadband Antennas (Helical and Yagi-Uda antennas)
+Frequency Independent Antennas (FIA): Spiral antennas and Logperiodic antenna Fractal antennas
+Parabolic Reflector antenna and Smart antennas, Cellular radio system evolution,
+Antenna Measurements; antenna ranges, radiation pattern, gain, polarization and antenna efficiency. Comparison between MPA and DRA
+
+To explain the theory and radiation mechanism of patch antennas
+To evaluate the performance of patch antenna on the basis of Q-factor, BW & eff.
+To discuss important broadband antennas
+To learn some important types of FIA
+To describe the smart antennas
+To measure the various antenna properties Total no. of classes planned
+
+5. Evaluation Scheme:
+
+14.1 - 14.2
+14.3 - 14.8
+10.2 - 10.3 11.3 - 11.4,
+11.6 15.4 & 16
+17.1 - 17.9 42
+
+Component Duration Weightage Marks
+
+Date & Time
+
+Remarks
+
+Test I
+Test II
+Term Project
+Regular Lab Take Home Lab
+Exam Comprehensive
+Total
+
+60 mts. 60 mts.
+3 Hrs
+
+15% 15% 20% 10% 10% 30% 100%
+
+30 13/9, 2:30 - 3:30 PM Closed Book
+
+30 21/10, 2:30 - 3:30 PM Closed Book
+
+40 Open Book
+
+20 Open Book
+
+20 Open Book
+
+60 13/12 AN
+
+Closed
+
+200
+
+6. Chamber Consultation Hour: To be announced in Class 7. Make-up Policy: Make-up will be given on extremely genuine grounds only. Prior application should be made for seeking the make-up examination. 8. Notices: Notices, if any, concerning the course will be put up on CMS only.
+Instructor-in-Charge EEE F474
+
+

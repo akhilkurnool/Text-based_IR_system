@@ -1,0 +1,242 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+
+HYDERABADCAMPUS
+
+INSTRUCTION DIVISION
+
+FIRST SEMESTER 2016-2017
+
+Course Handout Part-II
+
+Date: 01/08/2016
+
+In addition to part -I (General Handout for all courses appended to the time table) this portion gives further
+
+specific details regarding the course.
+
+Course No.
+
+: CE G551
+
+Course Title
+
+: DYNAMICS OF STRUCTURES
+
+Instructor-in-charge
+
+: Dr. Mohan S C
+
+ Scope and Objective of the Course:
+Natural phenomena and man made events usually impose forces of time-dependent variability on various civil engineering structures and consideration of these are essential to design a structure resistant to these type of forces.Hence,this course is focused on analysis of structures, subjected to dynamic loads such as buildings, bridges, tanks, industrial structures, tall chimneys, highway infrastructure etc subjected to earthquake excitations.
+
+At the end of the course, students will be able to understand and analyse the behaviour of structures under dynamic loading. They willbe able to design a structure which is resistant to dynamic loading such as seismic, wind, vehicle induced vibration etc. Hence, this course will be useful for students desirous of designing structures resistant to time dependent forces such as seismic, wind, vehicle induced vibrations etc.
+ Text Book (TB):
+1. Chopra, Anil K. "Dynamics of Structures: Theory and applications to earthquake engineering", Pearson Edu., 4th edition, 2012.
+ Reference Books (RB):
+1. R.W. Clough and J. Penzien, "Dynamics of Structures", Second edition, McGraw Hill International edition, 1993.
+2. M. Mukhopadhyay, "Structural Dynamics: Vibrations & Systems" Ane's Student Edition,2010. 3. Mario Paz, "Structural Dynamics - Theory and Computation", Van Nostrand, 1985. 4. J.L.Humar, "Dynamics of Structures", Prentice Hall India Ltd., 1990. 5. L. Meirovitch, "Elements of Vibration Analysis", 2nd Ed., McGraw-Hill, 1986. 6. Daniel J. Inman, "Engineering Vibration", Prentice Hall of India Ltd., 2001. 7. Singiresu S. Rao, "Mechanical Vibrations" Pearson Education.2010. 8. Roy R Craig,Jr., "Structural Dynamics", John Wiley & sons, 1981. 9. J. M. Biggs, "Introduction to Structural Dynamics", McGraw-Hill, 1964. 10. N.C. Nigam, "Introduction to Random Vibration", MIT Cambridge, 1983. 11. L. Fryba, "Dynamics of Railway Bridges", Thomas Telford, 1996. 12. E. Siniu and R.H. Scanlan, "Wind effects on structures: fundamentals and applications to design",
+John wiley and sons, 1997. 13. P.Agarwal, and M. Shrikhande, "Earthquake resistant design of structures", Prentice-Hall India.2006. 14. Patrick Paultre. "Dynamics of Structures" Wiley, Reprint 2013.
+
+ Course Plan
+Lec. Learning No. Objective
+
+Topics to be covered
+
+Ref. Teaching Mode
+
+I. Introduction to Dynamics of Structures
+
+1 Importance of the Introduction and Scope of dynamic analysis of structures;origins of
+
+course
+
+vibration theory and experiment; review of earlier concepts:
+
+d'Alembert's principle, equations of motion.
+
+2-3 Fundamentals of Elements of a structural system: springs, mass; Springs in parallel
+
+Dynamics of
+
+and series; methods to formulate equations of motion: Newton's
+
+Structures
+
+equation of motion.
+
+II. Single Degree of Freedom (S.D.O.F) System(Discrete Mass Systems)
+
+4-5 Free vibration
+
+Formulation (equation of motion) and solution of undamped and
+
+analysis
+
+damped free vibration analysis of S.D.O.F system.
+
+6-8 Forced vibration Formulation (equation of motion) and solution of undamped and
+
+analysis
+
+damped forced vibration analysis of S.D.O.F system.
+
+9-11 General dynamic Evaluation of Response for SDOF system for general dynamic
+
+load analysis
+
+loading like periodic, step, impulse etc.
+
+III. Multi Degree of Freedom (M.D.O.F) Systems
+
+12-15 Analysis of MDOF
+
+Development of equation of motion and solution for Multi degree of freedom systems.(Free and Forced)
+
+16-18 Modal analysis of Evaluation of natural frequencies, modeshapes, orthogonality MDOF systems conditions and modal combination rules.
+
+19-22 Dynamic Analysis Response history analysis under support excited vibration; Response
+
+under support
+
+spectram analysis, modal combination rules using absolute sum,
+
+excited vibration SRSS and CQC method.
+
+23-26 Numerical
+
+Approximate methods for obtaining natural frequencies and mode
+
+evaluation for
+
+shapes; Reyleigh-Ritz method; Time history analysis; Central
+
+MDOF systems Difference method; Newmark beta method; average and linear
+
+acceleration method.
+
+IV. Free and Forced Vibration of Continuous Systems
+
+27-28 Derivation of
+
+Equations of motion;undamped free vibration;forced response.
+
+equation of
+
+motion
+
+29-30 Application for Vibration of bars and beam, modal analysis; bars (axial vibrations),
+
+continuous
+
+beams.
+
+systems
+
+V. Modeling and Dynamic Analysis
+
+31-35 Dynamic analysis Modelling and Dynamic analysis of beam, frame, bridge, multi-
+
+using FEM
+
+story building, water tank, etc.
+
+36-37 Vibration isolation Vibration absorber and tuned mass damper;
+
+VI. Random Vibration
+
+38-40 Random vibration Introduction of random vibration; stochastic processes; Stochastic response of SDOF systems;
+
+VII. Frequency Domain Analysis of Structures
+
+41-42 Frequency domain analysis
+
+Response of Multi-degree systems in frequency domain.
+
+TB TB
+TB TB TB TB TB
+TB
+TB TB
+RB-2
+RB10
+Note/ RB-14
+
+PPT/BB PPT / BB
+PPT / BB PPT / BB PPT / BB PPT / BB PPT / BB
+PPT / BB
+PPT/BB PPT/BB
+PPT/ BB
+PPT/BB PPT/BB
+
+ Evaluation Scheme:
+
+EC
+
+Evaluation
+
+Duration Weightag Date, Time
+
+Nature of
+
+No. Component
+
+e
+
+& Venue
+
+Component
+
+1.
+
+Test I
+
+60 Min
+
+15%
+
+8/9, 10.00--11 AM
+
+CB
+
+2.
+
+Test II
+
+60 Min
+
+15%
+
+25/10, 10.00--11 AM
+
+CB
+
+3. Laboratory /
+
+20%
+
+OB
+
+Assignments
+
+4. Term Paper/ Projects
+
+20%
+
+OB
+
+5.
+
+Compre Exam.
+
+180 Min
+
+30%
+
+08/12 FN
+
+OB
+
+ Chamber Consultation Hour: Will be announced in class  Notice: Notices will be displayed on Department of Civil Engg. notice board only.
+
+Instructor-in-Charge CE G551
+
+

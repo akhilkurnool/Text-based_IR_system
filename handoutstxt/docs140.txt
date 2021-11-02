@@ -1,0 +1,103 @@
+INSTRUCTION DIVISION FIRST/ SECOND SEMESTER 2016-2017
+Course Handout Part II Date: 01.08.2016
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No. Course Title Instructor-in-Charge
+
+: MATH F215 : Algebra I : Dr JAGANMOHAN JONNALAGADDA
+
+Scope and Objective of the Course: The objective of this course is to teach the importance of fundamental algebraic structures in modern mathematics and to relate the general results so obtained to concrete applications.
+Text Book: I. N. Herstein, Topics in Algebra, 2nd Edition, John Wiley, 1975.
+
+Reference Books:
+
+1. Joseph A. Gallian, Contemporary Abstract Algebra, Seventh Edition, Brooks / Cole, Cengage Learning. 2. John B. Fraleigh, A First Course in Abstract Algebra, 3rd Edition, Narosa.
+3. Dummit & Foote, Abstract Algebra, Third Edition, Wiley.
+4. Jacobson H., Basic Algebra I, Feemass HPC, 1982.
+
+Course Plan: Lecture No.
+1-4
+
+Learning objectives
+
+Topics to be covered
+
+Definition & Examples of Groups, Preliminary Lemmas
+
+Chapter in the Text Book
+2.1 - 2.3
+
+5-7 8 - 10 11 - 14 15 - 18 19 - 22
+
+To understand the structural properties of different groups
+To determine the existence of a simple group of a given order
+
+Subgroups, A Counting Principle
+Normal Subgroups & Quotient Groups
+Homomorphisms, Automorphisms, Cayley's Theorem Permutation Groups, Another Counting Principle
+Sylow's Theorems
+
+2.4, 2.5 2.6 2.7 - 2.9 2.10, 2.11 2.12
+
+23 - 24 25 - 26 27 - 29 30 - 32 33 - 35 36 - 38 39 - 40 41 - 42
+
+Definition & Examples of Rings, Ring of Real Quaternions
+Homomorphism & Examples
+
+3.1, 3.2 3.3
+
+Ideals & Quotient Rings
+
+3.4, 3.5
+
+To understand the structural properties of different rings
+
+Field of Quotients of ID
+Polynomial Rings, Polynomials over the Rational Field
+Unique Factorization Domain
+
+3.6 3.9, 3.10 3.11
+
+Euclidean Rings
+
+3.7
+
+A Particular Euclidean Ring
+
+3.8
+
+Evaluation Scheme:
+
+Component
+Test I
+Test II Comprehensive Exam.
+
+Duration 1 Hr. 1 Hr.
+
+Weightage (%)
+30
+30
+
+Date & Time
+8/9, 11.30-12.30 PM
+25/10, 11.30-12.30 PM
+
+3 Hrs.
+
+40
+
+07/12 AN
+
+Nature of Component Closed Book
+Open Book
+Closed Book
+
+Chamber Consultation Hour: To be announced by the respective Instructor.
+
+Notices: The notices concerning this course will be displayed in CMS only.
+
+Make-up Policy: Make-up for tests will be given only for very genuine cases and prior permission has to be obtained from Instructor In-charge.
+
+INSTRUCTOR-IN-CHARGE MATH F215
+
+

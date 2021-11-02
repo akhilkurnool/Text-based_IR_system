@@ -1,0 +1,144 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE. PILANI
+HYDERABAD CAMPUS
+INSTRUCTION DIVISION, 
+FIRST SEMESTER 2016-2017
+Course Handout (Part-II)
+	     Date: 01/08/2016               
+In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course. 
+
+Course No 		: PHA G542
+Course Title 		: Advanced Physical Pharmaceutics
+Instructor-in-charge 	: V V Vamsi Krishna 
+Instructor		: Anup Jose	
+
+
+1. Course Description:
+Physico-chemical principles involved in effective formulation development, including various aspects like, crystallinity, particle size, solubility, pKa and stability, development and validation of analytical method, principles and kinetics of dissolution, polymer science, etc.
+
+
+2. Scope and objective of the course: 
+Prior to the development of any dosage form with a new or old drug candidate, it is essential that certain fundamental physical and chemical properties of the drug molecule and other derived properties of the drug are determined. This information dictates possible approaches in formulation development. The aim of this course is to make the students understand those physicochemical principles which must be applied in the formulation and development of an efficacious dosage form, so that required duration and intensity of effect can be ensured at the intended site of action.
+
+
+		Text Book (TB): 
+      TB: Carstensen, J.T. Pharmaceutical Preformulation CRC Press, 1998
+
+
+		Reference Books (R): 
+R1: Carstensen, J. T., Rhodes, C.T., 2000. Drug Stability: Principles and Practices, Drugs and Pharm. Sci. Series, Vol. 43, 3rd edn., Marcel Dekker Inc., New York. 
+R2: Martins Physical Pharmacy and Pharmaceutical Sciences,  
+
+
+5. Course Plan: 
+Number of sessions
+Learning Objectives
+Topic to be covered
+
+Chapter in Text book
+1
+Stages of drug development, significance of physical pharmaceutics in formulation development
+Introduction to physical pharmaceutics 
+Class notes
+2
+Overview of preformulation studies carried out during/ prior to formulation development
+Pharmaceutical preformulation
+Class notes
+Chapter 1, TB
+3-10
+Study and impact of crystallinity/ polymorphism, hydrates and solvates on dosage forms
+Solid state pharmaceutics
+Chapter 7, TB
+11, 12
+Techniques of aqueous solubility determination of non-ionized, ionized and unstable drugs
+Solubility
+Chapter 2, TB; Chapter 9, R2
+13-16
+Impact of pH, ionic strength, surfactants, partition coefficients, dielectric constant, and mixed solvent systems on solubility; Enhancement of solubility
+Factors/ parameters affecting solubility
+Chapter 2, TB; Chapter 9, R2
+17, 18
+Characterization of powders, microparticles and nanoparticles 
+Particle size  
+Chapter 11, TB;
+Chapter 18, R2
+19-22
+Various types and sources of stability problems; procedure/ protocol to perform stability studies of drug substances; compatibility studies; characterization of stability; Stability indicating analytical method development
+Drug and formulation stability
+R1; Chapter 14, R2
+23-26
+Kinetics of chemical degradation and influence of temperature on degradation
+Kinetics of drug stability
+R1; Chapter 14, R2
+27-30
+Overview of chemical and physical protein degradation and useful analytical methods for detecting the same
+Stability of polypeptides and proteins
+Class notes
+31-33
+Principles and applications of adsorption; Factors affecting surface tension and critical micelle concentration; Pharmaceutical applications of surfactants
+Surface phenomenon 
+Chapter 9, TB; Chapter 15, R2
+34-36
+Polymer classification, synthesis and characterization. Polymers in dosage forms and drug delivery
+Polymers 
+Chapter 20, R2
+37-40
+Diffusion and dissolution controlled release process and their mathematical treatment
+Principles of diffusion and dissolution
+Chapter 10, TB; Chapter 13, R2
+41, 42
+Modeling of drug release kinetics
+Release characterization
+Class notes
+
+
+
+		Evaluation Scheme:
+Components
+Duration
+Weightage
+Date and Time
+Nature of component
+Test I
+60 minutes
+15%
+13/09/2016; 8.30  9.30 AM
+Closed Book
+Test II
+60 minutes
+15%
+21/10/2016; 8.30  9.30 AM
+Closed Book
+Lab work/
+Seminar/ Assignments	
+
+Continuous
+Weekly lab work 15%
+Lab quiz 5%
+Lab viva 5%
+Seminar 10%
+Assignment 5%
+continuous
+Open book except for lab quiz
+
+Comprehensive Examination
+180 minutes
+30%
+14/12/2016 FN
+Closed Book (10%)/
+Open Book (20%)
+
+		Mid-Semester Evaluation: Will be announced in the first week of Oct 2015
+
+		Make-up: Prior approval or intimation to take a make-up is a must. It is solely the discretion of the instructor-in-charge dependent upon the genuineness of the circumstances to allow a student to appear for a make-up evaluation component. 
+
+		Grading policy: As specified in Handout  Part I, appended to the timetable, the instructor in-charge reserves the right to award a NC report in case the student does not make himself/ herself available for any of the evaluation component mentioned above. Also it is not imperative on part of the instructor in-charge to award all the grades. Borderline cases during grading will be judged on the basis of regularity to classes and consistency or progress in the performance in evaluation components. The maximum pull-up to be exercised by the instructor in-charge will be announced in the class and shall be based on the subjective judgment of the evaluator.
+
+		Chamber Consultation Hours: To be announced in the class.
+
+		Notices: Notices concerning the course will be displayed in the Pharmacy Group notice board only.
+
+
+
+
+       Instructor-in-charge
+                PHA G542

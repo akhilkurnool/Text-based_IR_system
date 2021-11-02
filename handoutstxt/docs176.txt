@@ -1,0 +1,140 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI-HYDERABAD CAMPUS
+INSTRUCTION DIVISION, FIRST SEMESTER 2016-2017
+Course Handout (Part II)
+                                                   Date: 01/08/2016
+In addition to Part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.          		: 	PHA G612
+Course Title        		: 	Pharmacokinetics & Clinical Pharmacy
+Instructor In-charge   	: 	PUNNA RAO RAVI 
+Instructor			: 	Rimpy Diwan
+1. Course Description:
+The study of pharmacokinetics and its clinical applications in the development, evaluation and use of drugs; the time course of drug and metabolite levels in different fluids, tissues and excreta of the body, mathematical relationship required to develop models to interpret the data for single and multiple dosing, study of bioavailability, dosage regimen adjustment in renal impairment, application of the pharmacokinetic principles in the therapeutic management of patients.
+
+2. Scope and Objective of the Course:
+The course is designed to impart knowledge of pharmacokinetics, its application, pharmacokinetic studies, mathematical modeling and experimental design.  This will help students to gain knowledge in a very important area of pharmacy. Practicals will be designed to expose students to pharmacokinetic studies.
+
+3. Text Book: Gibaldi, M &   Perrier, D., Pharmacokinetics, Marcel Dekker, 2nd, ed., 1982.
+
+4. Reference Books:
+ R1: Stephen H Curry and Robin Whelpton., Manual for Laboratory Pharmacokinetics, John Wiley & Sons, 1983.
+ R2:  Gibaldi,   M &   Perrier, D., Pharmacokinetics, Marcel Dekker, N.Y., 1st ed. 
+ R3:  Gibaldi M., Biopharmaceutics and Clinical Pharmacokinetics, 4th ed. 
+
+5. Course Plan:
+Lecture No.
+Learning objective
+Topics to be covered
+Reference
+1-2
+Introduction to Pharmacokinetics and its application
+Pharmacokinetics & ADME characters of drugs
+R1, R2
+3
+Concept of compartment model in pharmacokinetics
+Compartment model: one, two & multicompartments
+TB
+4 - 6
+Pharmacokinetic study of drugs and mtabolites: in plasma & urine for i.v injection
+One compartment i.v. bolus
+TB
+7-8
+Pharmacokinetics of iv infusion
+One compartment i.v. infusion
+TB
+9-11
+Pharmacokinetics of drugs administered through extravascular route
+First-order absorption & zero order absorption
+TB
+12-14
+Multi compartment pharmacokinetics, drugs in plasma, urine for iv injection
+Two compartment iv injection
+TB
+15-16
+Multi compartment pharmacokinetics of infusion, 1st order absorption
+Two compartment iv infusion and first-order absorption
+TB
+17-19
+Pharmacokinetics of one compartment multiple dosing: drug in plasma, iv injection first-order absorption
+Multiple dosing: pharmacokinetics of iv injection, first-order absorption
+TB
+20-22
+Pharmacokinetics of two compartment multiple dosing iv injection, first-order absorption
+Two compartment Multiple dosing
+TB
+23-24
+Concept of Non compartmental analysis: approach and modeling
+Non compartment
+Analysis
+TB
+25-27
+Study of bioavailability
+Bioavailability: Rate and extent of absorption
+TB
+28-29
+Study of non-linear pharmacokinetics
+Non-linear pharmacokinetics
+TB
+30-32
+Concept and study of apparent volume of distribution
+Apparent volume of distribution
+TB
+33-34
+Concepts on Clearance
+Clearance
+TB
+35-36
+Use and study of physiological models of pharmacokinetics
+Physiological models of pharmacokinetics
+TB
+37-39
+Various applications of pharmacokinetic studies including in renal impairment
+Application of pharmacokinetic studies
+TB
+40-42
+Expeimental techniques & Analysis of Biological samples.
+Analysis of drugs in biological samples
+Class Notes
+
+7. Evaluation Scheme:
+EC No.
+Evaluation component
+Duration
+Weightage
+Date, Time 
+Nature of Component
+1
+Test I
+60 min.
+15
+13/9, 4.00--5.00 PM
+CB
+2
+Test II
+60 min.
+15
+21/10, 4.00--5.00 PM
+CB
+4
+Assignment/Seminar*
+-
+25
+
+OB
+5
+Lab Sessions
+-
+15
+
+OB
+5
+Comprehensive
+3 hrs.
+30
+08/12 FN
+CB (20) +OB (10)
+*Assignments include study of certain topics and research articles from reference books and/or journals for Evaluation Component. Laboratory assignments will be given during the semester including use of computer software in pharmacokinetic study (WinNonLin). Assignments/seminar will involve 3 contact hours per week for each student. CB-closed book, OB-open book.
+8. Chamber Consultation Hour: To be announced in the class.
+
+9. Notices: The Notices concerning this course will be displayed only on the Pharmacy Department Notice Board.Instructor-incharge   
+											 PHA G612

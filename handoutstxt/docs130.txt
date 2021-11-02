@@ -1,0 +1,193 @@
+
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI  Hyderabad Campus
+INSTRUCTION DIVISION
+                                        First Semester 2016-2017
+                                        Course Handout (Part-II)
+									 Date:  21.07.2016
+In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.		: CHEM F313
+Course Title		: Instrumental Methods of Analysis
+Instructor-in-charge	: Ramakrishnan Ganesan
+Team of Instructors: Ramakrishnan Ganesan, Manab Chakravarty, N. Rajesh, Balaji Gopalan, R. Krishnan.
+ 
+Course Description:
+This course describes the principles and practice of modern instrumental methods of chemical analysis. Emphasis will be given on spectroscopic techniques such as UV-Visible, Infrared, NMR (1H, 13C and other elements, NOE, correlation spectroscopies), ESR, Mass spectroscopy, atomic absorption and emission spectroscopies, fluorescence and chromatographic techniques such as GC/ HPLC. Other topics will include separation techniques, light scattering, electroanalytical methods, thermal analysis, and diffraction methods.
+
+Scope and Objective of the Course: 
+Chemists extensively use modern sophisticated electronic instruments in various areas such as chemical analysis, structure elucidation, identification of reaction pathways, reaction rates etc.  This course aims to introduce the basic theory and experimental details of such instrumentations. Some of the popular absorption spectroscopic techniques such as UV-Visible, IR, NMR, etc. will be discussed in detail; other techniques such as mass spectrometry, thermal analysis, chromatographic techniques  GC, HPLC, etc. will also be covered.
+
+Text Books: 
+T1. Kemp W, Organic Spectroscopy, 3rd ed., Palgrave, New York (1991).
+T2. Gary D. Christian,Analytical Chemistry, 6th ed., John Wiley & Sons (Asia) Pvt. Ltd. Singapore (2003).
+
+Reference Books:
+R1. Lampman G.M., Pavia D.L., Kriz G.S., and Vyvyan J.R., Spectroscopy, 4th Edition,  
+       Cengage Learning (2010).
+R2. Silverstein R. M., and Webster F. X., Spectrometric Identification of Organic     
+       Compounds, 6th Edition, John Wiley & Sons, New York (1998). 
+R3. Willard H. H., Merritt L. L., Dean J. A., and Settle F. A. Jr., Instrumental Methods of     Analysis, 7th Edition. Wadsworth, New York (1989).
+R4. Kalsi P. S., Spectroscopy of Organic Compounds, 6th Edition., New Age International Publishers,   New Delhi (2005).
+
+
+
+
+
+
+
+Course Plan:
+
+A. Lecture Sessions:
+
+Lec. No.
+Topics to be covered
+Learning Objectives
+Reference:
+Chap./Sec.#(Book)
+1
+Infrared spectroscopy:  Molecular vibrations; related factors
+IR absorption due to molecular vibrations; influence of factors such as hydrogen bonding.
+2.1-2.3 (T1)
+2-3
+Infrared spectroscopy:  Instrumentation, Applications
+IR instrumentation details; FT-IR; sample preparations recording details
+2.4-2.7 (T1) &
+ 2.1-2.9 (R1)
+4-6
+Infrared spectroscopy: Correlation charts; Supplementary materials 
+Obtaining structural information from IR spectrum; Reflectance and Raman spectroscopies comparison
+ 2.8-2S.3 (T1) &
+2.10-2.21 (R1)
+7-8
+Nuclear Magnetic Resonance (NMR) spectroscopy Proton NMR Theory, chemical shift, related factors
+Understanding Magnetic Resonance phenomena and the concept of chemical shift
+3.1-3.4 (T1)
+9-12
+NMR- Correlation Data, Solvents, Integrals, spin-spin coupling, related factors
+Extracting chemical shift related structural information from simple NMR spectrum; spin-spin coupling and its effect on the spectrum
+3.5-3.9 (T1)
+13-16
+NMR- Non first order spectra, simplification of spectra, tables, 13C NMR applications
+What is meant by non-first order NMR spectrum; different methods of extracting information from such spectra; 13C NMR how to interpret.
+3.10-3.16 (T1)
+17-19
+NMR- double irradiation, multi pulses, MRI, polarization techniques, other isotopes 19F, 31P, 15N, 17O etc.
+Understanding a few of the advanced methods in NMR; Interpreting NMR spectra of nuclei other than 1H and 13C
+3S.1-3S.6 (T1)
+20-21
+Electron Spin Resonance Spectroscopy
+Principles and applications of electron spin resonance spectroscopy
+ 3S.7 (T1) 
+
+22
+Atomic absorption, emission spectroscopy
+Specific atomic energy levels for different elements; instrumentation; quantitative estimations; interferences etc.
+Ch 17 (T2)
+23-25
+Chromatographic Techniques: GC, HPLC, Electrophoresis
+Theories of separation techniques; stationary and mobile phases etc.
+Ch. 19 20.1, 21.1(T2)
+26-27
+Thermo analytical methods
+Differential Thermal Analysis; Thermo Gravimetric Analysis; Differential Scanning Calorimetry etc.
+Ch. 20 (R3)
+28
+Electro analytical methods
+Analytical methods based on measurements of current voltage etc.
+Ch. 15 (T2)
+29
+Energy and Electromagnetic spectrum
+Regions of Electromagnetic Spectrum; units.
+Ch.1 (T1)
+30
+Ultraviolet (UV) and visible spectroscopy: Light Absorption, theory, instrumentation
+Chromophore concept; electronic energy levels. 
+ 4.1-4.3 (T1)
+31-33
+UV-Visible: Solvents, applications
+Solvent effects; Absorption wavelength calculations based on empirical rules
+ 4.4-4.10 (T1)
+34
+Fluorescence and phosphorescence
+Principles of fluorescence and phosphorescence and applications
+ 4S.2 (T1) &
+ 16.15 (T2)
+35
+Mass spectrometry: Basics, Instrumentation, Isotopic abundance, and Molecular ion.
+Principles of mass spectrometry;  the effect of isotopic abundance in the mass spectrum
+ 5.1-5.4 (T1) &
+ 8.3-8.5 (R1)
+36-37
+Mass spectrometry: Metastable ions, fragmentation processes
+Understanding the molecular fragmentations at the time of ionization and during flight; stabilities of fragments.
+ 5.5-5.6 (T1)
+38-40
+Mass spectrometry: fragmentations associated with functional groups
+Extracting the structural information from mass spectra
+ 5.7 (T1) &
+ 8.6 (R1)
+41-42
+Mass spectrometry: Supplementary topics
+Understanding different kind of  mass spectrometers, hyphenated techniques such as GC-MS, isotopic substitution etc.
+ 5S.1-5S.5 (T1)
+& 8.2 (R1)
+
+B. Practical Sessions:
+Regular sessions:  (10 to 12 sessions)
+In these sessions the student (in groups) will perform a simple experiment in the techniques such as UV-Visible spectroscopy, spectrofluorimetry, IR spectroscopy, polarimetry, AAS, HPLC/GC analysis, flame photometry, DSC, X-ray fluorescence  etc. All students are required to write a report and come prepared for viva-voce examination during next session. The instructors will make procedure sheets available for each of these laboratory experiments.
+
+Evaluation Scheme: Total 300 marks
+
+A. Lecture (180 Marks)
+
+Components
+Duration
+Marks
+Date & Time
+Remarks
+Test I
+1 h
+
+40
+
+---
+CB
+Test II
+
+1 h
+
+40
+
+---
+CB
+
+Surprise tests (Best 4 out of 6)
+---
+20
+Continuous
+CB
+Comprehensive*            Examination
+3 h
+80
+---
+CB
+
+* The comprehensive examination will have objective and descriptive portions.
+
+
+B. Practical (120 Marks)
+
+For the ten regular sessions: 10 marks each per session (Practical 5; Records 5). Quiz will carry 20 marks.
+
+Chamber Consultation Hours: Will be announced later.
+Makeup Policy: See Part I for details. However, it may be noted that it is difficult to arrange make up of practical sessions.
+
+Notices: Notices, if any, concerning the course will be displayed on the notice board of Chemistry Department only.
+
+
+
+								Ramakrishnan Ganesan       
+ Instructor-in-charge
+                                                                                                         CHEM F313
+
+

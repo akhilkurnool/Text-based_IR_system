@@ -1,0 +1,140 @@
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+                      INSTRUCTION DIVISION
+                     FIRST SEMESTER 20132014
+                       Course Handout (Part II)
+
+                                                   Date: 07/05/2016
+
+In addition to partI (General Handout for all courses appended to the timetable) this portion gives further specific details regarding the course.
+
+Course No.		: CHE F413/CHE C413
+Course Title		: Process Plant Safety
+Instructor in Charge	: Asma Ahmed
+
+		Objective and Learning Outcomes
+
+Plant safety is an integral part of any process industry. Knowledge of plant safety is essential to prevent accidents in the plant, thereby having a direct impact on process economics. A chemical engineer is expected to have a thorough understanding of various aspects of plant safety, including hazard analysis, safety regulations and practices, risk assessment and management, etc. This course deals with the application of fundamentals of chemical process safety. It introduces the role of safety in process industries, concepts of chemical hazards, risk assessment methods etc. Various cases studies of industrial accidents are analyzed in this course.
+At the end of the course, the student should be able to:
+		Describe the engineering aspects of process plant safety
+		Define the physical and chemical agents that affect safety at the workplace and the effects of occupational hazards on the health of workers
+		Identify and classify hazardous substances and define precautions for their handling and storage
+		Define the basic steps involved in risk assessment and apply this to various case studies
+		Describe the various steps and procedures of a safety audit
+
+
+		Text Books:
+T1: Fulekar M.H. Industrial Hygiene AND Chemical Safety. Publisher: I.K. International, New Delhi. 2006. Library code: 363.179, FUL-M, 11219.
+
+
+		Reference Books:
+R1: Sanders R.E., Chemical Process Safety: Learning from case Histories, Butterworth-Heinemann (Elsevier), Boston and New Delhi, 2005.
+R2: Crowl D.A. and Louvar J.F., Chemical Process Safety Prentice Hall International Series in the Physical and Chemical Engineering Sciences. Third Edition. 2011
+
+
+
+
+
+
+
+		Course Plan:
+
+Lecture No.
+Topic
+Learning Objectives
+Reference
+1-2
+Introduction
+Role of safety, Accident and loss statistics
+Ch 1 : R2
+3-7
+Industrial hygiene
+Chemical Hazards and worker safety, Identification evaluation and control of occupational conditions
+Ch 1-2 : T1
+8-11
+Physical and chemical stresses
+To study the hazards and worker safety in regards to noise, vibration, heat, chemicals and manufacturing processes
+Ch 3-4 : T1
+12-13
+Occupational Diseases
+To study afflictions that arise due to effects of physical, chemical, biological and psychological hazards
+Ch 7 : T1
+14-16
+Personal protective equipment
+Introduction, requirements, selection guidelines and study of various protective equipment
+Ch 9 : T1
+17
+Introduction to chemical safety
+Chemical plant layout and legal requirements
+Ch 10: T1
+18-22
+Hazardous Chemicals and Substances
+Classification, storage and handling. Fire Precautions.
+Ch 11-12:  T1
+23-25
+
+Safety in Explosives and Pipeline Safety
+Classification of explosives. Risk assessment, stress corrosion cracking, pipelines-spills.
+Ch 13-14: T1
+26-27
+Chemical process safety
+Introduction, hazardous chemical processes, reactors and reaction hazards and necessary precautionary measures
+CH 15: T1
+28-30
+Risk assessment
+Risk assessment procedures and typical operational practices
+CH 16: T1
+31-33
+Hazard Identification
+Hazard and operability studies
+Ch 17: T1, R1
+34-36
+Emergency preparation and Accident investigation
+On-site and off-site emergency plan and infrastructure, Learning from accidents, Layered investigation, Aids for diagnosis and recommendations
+Ch 18: T1
+37-38
+Safety audit
+Introduction, essentials, requirements, programs and procedures
+Ch 19: T1
+39-42
+Case studies of major disasters due to safety violations
+Chernobyl disaster, Bhopal disaster, recent oil spills etc.
+R1, R2
+		Evaluation Scheme:
+
+Component
+Duration
+Weightage (%)
+Date & Time
+Remarks
+Test I
+1 hr
+15
+
+CB
+Test II
+1 hr
+15
+
+CB
+Surprise Test
+Variable
+15
+
+CB
+Assignment
+-
+20
+
+OB
+Comprehensive Exam.
+3 hrs
+35
+
+CB 
+
+		Chamber Consultation Hour: Will be announced in the class (Chamber: D-222)
+		Notices:  Notices concerning the course will be displayed on the CMS website
+		Make-up Policy: Make-up will be granted only for genuine cases with valid justification and only with prior permission of Instructor-in-charge.
+
+Instructor-in-charge

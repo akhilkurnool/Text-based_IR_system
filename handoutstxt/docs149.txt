@@ -1,0 +1,119 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017 COURSE HANDOUT (PART-II)
+Date: 13/05/2016
+
+In addition to Part-I (General Handout for all courses appended to the timetable), this portion gives further specific details regarding the course.
+
+Course Code
+
+: ME F313
+
+Name of the Course
+
+: Production Techniques-II
+
+Instructor-In-Charge
+
+: AMRITA PRIYADARSHINI
+
+Instructors (L, P, T)): Amrita Priyadarshini, C Kiran Sagar, Khalid Anwar
+
+I. Scope and Objective of the Course This course is designed to enrich theoretical, analytical as well as practical knowledge about common production techniques used in machining. Methods of selection of proper production techniques, CAM and micro manufacturing technologies are also included.
+
+II. Textbook 1. B. L. Juneja, G.S.Sekhon, Nitin Seth, "Fundamentals of Metal Cutting and Machine Tools, New Age
+International, 2005, New Delhi. 2. Amitabha Ghosh and Asok Kumar Mallik, "Manufacturing Science", Affiliated East-West Press,
+New Delhi, 1985.
+
+III. Reference Books
+1. Geoffrey Boothroyd, Fundamentals of metal machining and machine tools, TMH, New Delhi, 2007.. 2. Serope Kalpakjian and Steven R. Schmid, "Manufacturing Engineering and Technology," Pearson
+Education (Low Cost Indian Edition), 4/e, 2001, New Delhi. 3. Roy A. Lindberg, "Processes and Materials of Manufacture," PHI, New Delhi, 2004. 4. P. N. Rao, "Manufacturing Technology: Metal Cutting & Machine Tools," TMH, New Delhi, 2000.
+
+IV. Course Contents
+
+Topic
+
+Learning Objectives
+
+Metal cutting theory Analysis
+Economics
+Quality control of metal cutting
+
+A brief overview of different metal cutting processes
+Analysis of mechanics of metal cutting in turning, milling and drilling, cutting force calculation, power estimation, cutting temperature calculation, Lee-Shafer theory, Ernest-Merchant theory, chip separation, tool life, Machining with controlled contact tools Costs of single pass turning operation, optimum cutting speed for maximum profit rate in turning, restrictions on optimum cutting speed
+Introduction, aims of inspection, scope
+
+Number of Lectures
+2
+8
+3 1
+
+Source T1 & T2
+T1 & T2
+T1 & T2 T1 & T2
+
+Topic
+Laboratory exercises in metal cutting Different machine tools; their description and operation
+Non-traditional machining processes Micromanufacturing technologies Introduction to computer aided manufacturing (CAM) CNC machines
+CNC part programming
+
+Learning Objectives Tool wear, surface finish, key way production
+
+Number of Lectures
+
+Source
+
+2 T1& T2
+
+Milling, drilling, Shaping, Abrasive machining processes
+
+Introduction, Ultrasonic Machining, Abrasive Jet Machining, EDM, ECM, LBM, EBM, ECG and Chemical Machining
+
+Introduction, lithography
+
+Chemistry-based,
+
+Electron-beam
+
+Introduction, developments in conventional machine tools, CIM, FMS, Modern developments in machine tools
+NC and CNC Machines, Operation of NC/CNC, Definition of terms often used in numerical control, Positional control Introduction, Programming for NC/CNC Machining, Some commonly used G codes
+Total
+
+7
+6 2
+3
+2 6 42
+
+T1 & T2 T2 T2 T2 R3 R4
+
+V. Evaluation Scheme and Schedule
+
+EC Component No. 1 Test I
+2 Test II
+
+Duration
+60 min 60 min
+
+3 Class Room Assignments
+
+4 Practical & Fabrication
+
+Project
+
+5 Comprehensive exam
+
+3 hours
+
+Weightage (%) 20 20 5
+15 (5+10)
+40
+
+Date, time, venue
+
+Nature
+CB CB OB OB
+CB
+
+VI. Chamber Consultation Hour: To be announced in the class. VII. Notices concerning the course: All notices concerning the course will be displayed on the CMS. VIII. Make-up Policy: Make-up will be permitted only in genuine cases with prior permission. NOTE: The border cases in final grading will be decided based on mainly class room attendance and attentiveness in the classroom.
+Instructor-In-Charge ME F313
+
+

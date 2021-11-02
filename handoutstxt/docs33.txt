@@ -1,0 +1,170 @@
+
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+Course Handout Part II
+										    Date: 01-08-2016 
+
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.			: CE F214
+Course Title			: CONSTRUCTION MATERIALS 
+Instructor-in-Charge		: Sridhar Raju
+
+Scope and Objective of the Course:
+The course deals with properties of materials, their characterization, testing, selection and quality control. Understanding the suitability of materials for construction in civil engineering structures is imperative for its economical, durable and high performance. This course would briefly discuss traditional as well as current materials used. The course would focus mainly on materials and admixtures used in concrete, quality control and acceptance criteria of concrete. Other materials that would be discussed are bricks, blocks, tiles, timber, paints, bitumen & emulsion, steel, non-ferrous metals, polymeric materials, geo-synthetics, low cost and waste materials in construction. Latest BIS, IRC and ASTM specifications and guidelines of all above mentioned material, construction equipments, classification, selection and economics will be dealt in this course. 
+
+Text Books:
+T1. 	Duggal, S. K. (2008) Building Materials, New Age International Pvt. Ltd., New Delhi.
+T2. 	Gambhir, M. L. (2009), Concrete Technology, Tata McGraw-Hill Publishing Company Ltd., New Delhi
+
+Reference Books:
+R1. 	Varghese P.C. (2011) Building Materials, PHI Learning Private Ltd, New Delhi
+R2. 	Shetty M.S (2013) Concrete Technology, Theory and Practice, S. Chand and Company Ltd, New
+      	Delhi
+R3. 	Mehta P.K and Monteiro P.J.M (2006) Concrete: Microstructure, properties and materials, TMH 
+R4. 	Neville A.M. (2004) Properties of Concrete, Pearson India
+R5. 	Zongjin Li (2011) Advanced Concrete Technology, WILEY
+R6. 	Peurifoy  R.L,  Ledbetter  W.B,  Schexnayder  .C  (1995)  Construction  Planning,  Equipment  and
+	Methods, McGraw Hill, Singapore
+R7. 	A. M. Neville and J. J. Brooks, Concrete Technology, Pearson India
+
+
+
+
+
+Course Plan:
+Lecture No.
+Learning objectives
+Topics to be covered
+Chapter in the Text Book
+1-2
+Introduction to Construction Materials
+Introduction, Physical properties, Mechanical properties and Characteristic behavior under stress 
+1-T1
+3
+Building
+Mortars
+Classification, Characteristics, Types, Special mortars, Testing and application techniques
+12-T1,10-R1
+4
+Structural Clay Products 
+Bricks, advanced bricks, Manufacturing- Classification-Tests on bricks- Refractory bricks, Specifications 
+2-T1, 2-R1
+ 5
+Wood and Timber Products
+Timber - Market forms -
+Classification, Characteristics, Seasoning, Testing, Defects and Preservation
+4-T1, (15,16)- R1
+6-7
+Cementious Material- Cement, flyash, Lime
+Different types, Chemical Composition, Properties, Tests - IS Specifications, application
+5-T1,2-T2; 
+8-T1,(4,5)-R1
+8-10
+Concrete making materials 
+Introduction to Cement Concrete; aggregate grading, gap grading and quality of water  
+10-T1,1-T2;
+6-T1,3-T2;
+7-T1, 4-T2
+11-13
+Admixture and Additives
+Accelerators-Retarders- Plasticizers- Super plasticizers. Puzzolanas their function and applications. 
+Fly Ash, Silica Fume, Ground Granulated Blast Furnace Slag, viscosity modifier etc.
+9-T1,5-T2
+14-16
+Special Concretes
+Types of Special Concrete - Fiber Reinforced Concrete, High Performance Concrete, Self- Compacting Concrete, Light Weight aggregate Concrete etc.
+20-T1, 14- T2, (12, 13)-R2,  6-R5
+17-21
+Concrete mix design
+Principles of Mix Proportioning- Properties of concrete related to Mix Design-BIS Method of Mix Design- Examples 
+11-T1, 10-T2, 13-R1 and 11-R2 
+22-31
+Production and properties  of concrete
+Steps, Equipment and Tools and Techniques in Concrete Production; 
+Property of fresh concrete: Workability-Tests for workability of Concrete - Segregation and Bleeding
+Properties of Hardened Concrete-
+Compressive, Tensile and Shear Strength - Modulus of Rupture- Stress-Strain curve for concrete- Determination of Youngs Modulus, Shrinkage, Creep and Durability
+10-T1,10-R3; 9-R4
+32-33
+Quality Control and acceptance criteria of Concrete
+Nondestructive testing, acceptance criterion, Quality Control and Challenges
+10-T1,13-T2,
+R2-11
+34
+Paints, Enamels and Varnishes
+Paints-Varnishes-Distempers- Classifications, Testing 
+17-T1, 22-R1
+35-36
+Bitumen and bitumen Emulsion
+Classification, Tests, Applications 
+18-T1, 25-R1, Notes
+
+37-38
+Steel and
+Non- Ferrous
+Metals
+Different type of Ferrous and Non-
+Ferrous metals, Properties, Testing, Applications
+(13, 14)-T1,
+(18,19,20,21)- R1
+39
+Polymeric
+Material and Geo- synthetics
+Ceramics, polymers and Geo-synthetics - Functions, Applications and Testing
+(15,16, 21)-T1, (23,24,27,29)- R1
+40-41
+Low Cost and
+Waste Material in Construction
+Natural fibers, waste plastic, industrial waste and novel construction material
+Lecture Notes
+42
+Construction
+Equipment
+Classification, Selection and Economics - commonly used Construction Equipment
+(8,16)-R6, 
+
+
+Evaluation Scheme:
+Component
+Duration
+Weightage (%)
+Date & Time
+Nature of Component
+Test-I
+60
+15
+8/9, 2.30--3.30PM
+Closed Book
+Test-II
+60
+15
+25/10, 2.30--3.30PM
+Closed Book
+Assignments
+TBA
+15
+
+Open Book
+Design Project
+TBA
+15
+
+Open Book
+Comprehensive Exam 
+180
+40
+06/12 AN
+Closed Book
+
+Chamber Consultation Hour: Will be announced in the class
+Notices: Notices will be displayed on CMS and few important notices will also be displayed on the notice board of civil engineering department
+Make-up Policy:
+		Make-up will be granted only on genuine reasons (medical emergencies). However, prior permission is a must.
+		Applications received 24 hours after the test will not be entertained. Applications on informal forums like Face Book will be ignored
+		For medical cases, a certificate from the concerned physician of the Medical Centre must be produced. Cross verification will be done with Hostel Superintendent  / Warden before proceeding further with the application
+
+
+
+INSTRUCTOR-IN-CHARGE
+CE F214

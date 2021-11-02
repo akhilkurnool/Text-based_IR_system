@@ -1,0 +1,226 @@
+INSTRUCTION DIVISION, FIRST SEMESTER 2016 - 2017 Course Handout Part II
+
+Date: 01.08.2016
+
+In addition to Part - I (General Handout for all courses) printed on Page 1 of the timetable; this portion gives further specific details regarding the course.
+
+Course Number
+
+: BIO G671
+
+Course Title
+
+: BIOCONVERSION TECHNOLOGY
+
+Instructor In-charge : P. SANKAR GANESH
+
+Instructors
+
+: P. Sankar Ganesh, B. Hemalatha
+
+Course Description : Bioconversion technology course deals with the fundamental aspects of biomass conversion and their applications in biotechnology. This course emphasizes on the biochemistry of biomass and understanding the principles of utilizing biomass to produce economically important enzymes, chemicals, fuel and energy products.
+
+Scope and Objectives : Bioconversion of waste materials and other biomass is a cost-competitive and environment friendly alternative to chemical process. Therefore, the course emphasizes on the principles and applications of fermentation technology, environmental technology, downstream processing and biotransformation of various wastes and their byproducts. The course also focuses on aspects of applications of bioconversion technology to produce microbial polyhydroxyalkanoates, microbial polysaccharides, antibiotics and recombinant proteins. Pertinent information about patenting and the technical aspects of the course will be useful in choosing processes for both present and future goals, from both industrial and environmental perspectives.
+
+Text Book
+
+:
+
+T: Basic Biotechnology by Colin Ratledge, Bjorn Kristiansen (2006) Cambridge University Press.
+
+Reference Books
+
+:
+
+R1: Bioconversion of Waste Materials to Industrial Products, Martin, A.M. (1998) Springer Publ.
+
+R2: Bioenergy and Biofuel from Biowastes and Biomass, Khanna, Samir K. Surampalli, Rao Y., (2010) American Society of Civil Engineers
+
+R3: Biotechnology for Agro-Industrial Residues Utilization, Singh-Nee Nigam, Poonam; Pandey, Ashok (2009), XVIII, Springer Publ.
+
+R4: Biofuels, 1st Edition Alternative Feedstocks and Conversion Pandey & Larroche & Ricke & Dussap & Gnansounou ( 2011) Academic Press .
+
+Processes,
+
+R5: Environmental Anaerobic Technology: Applications and New Developments Fang, Herbert H.P. (2010) Imperial College Press.
+
+R6: Bioprocessing for Value-Added Products from Renewable Resources, 1st Edition New Technologies and Applications, S Yang, (2006) Elsevier Science.
+
+R7: Bio-Based Polymers and Composites, Richard P. Wool and Xiuzhi Susan Sun (2005), Elsevier Academic Press.
+
+R8: Modern Industrial Microbiology and Biotechnology, Nduka Okafor (2007), Science Publishers
+
+Course Plan:
+
+Lecture Number
+
+Learning Objectives
+
+Topics to be covered
+
+Reference Chapter (Book)
+
+1 2-5
+6-8 9-12 13-16 17-19
+20-22
+23-25 26-28 29-33 34-37 38-39
+40
+
+Introduction
+
+Biotechnology- Public perception Biotechnology and the developing world
+
+of
+
+1(T)
+
+Biochemistry and Physiology of growth and metabolism
+
+Introduction, metabolism, catabolic pathways, Gluconeogenesis, Anaerobic metabolism, Biosynthesis, Control of metabolic processes, efficiency of microbial growth
+
+2(T); 4(R6) 5(R8)
+
+Industrial and agricultural Wastes/Substrates for Biotechnology
+
+Natural Raw materials, Availability of by products, Chemical and petrochemical feed stocks, Raw materials and the future of biotechnology.
+
+Bioreactor Design
+
+Bioreactor/fermenter, Design for fermentation process, Specific Design Considerations
+
+Downstream processing in Cell Disruption, Clarification, Concentration,
+
+Biotechnology
+
+Purification, Ultra purification and sequencing
+
+5(T), 14(R1); 2,3,4,8,9,10(R2); 1,2(R3)
+7(T); 6(R6) 9(R8)
+9(T) 10,11(R8)
+
+Enzyme Biotechnology
+Biomaterial Modification And Processing
+Bioreactants: Immobilization and Biotransformations
+Biological fuel generation
+Environmental Technology
+
+Development of Producer strains, Large scale production, recovery and formulation. Applications of Enzymes
+
+20(T) 20-22(R2)
+22(R8)
+
+Extraction of plant proteins from flour (pH
+
+modification,
+
+denaturation,
+
+dissolution,
+
+centrifugation, freeze drying and other
+
+downstream unit operations), development of bio-
+
+adhesives from agri-waste, development of bio-
+
+plastics
+
+9(T) 3(R7)
+
+Protein and catalyst immobilization, mechanisms of immobilization, matrices for immobilization, thermodynamic consequences of immobilization
+
+24(T) 6,9,10,12 (R7)
+
+Sources of Biomass, Ethanol from biomass, methane from Biomass, bio hydrogen and microbial recovery of petroleum
+Digestion of organic slurries, Treatment of solid wastes, Soil remediation and Treatment of water and wastewater.
+
+1,6,14,16,17&21(R2); 10to12, 20to24(R4)
+17(T); 1-5(R5) 29(R8)
+
+Microbial polysaccharides Production of microbial polysaccharides and
+
+and single cell oils
+
+single cell oils
+
+Antibiotics production
+
+Strain improvement, Production Process, recovery and future prospects of fermentation based antibiotics
+
+Recombinant proteins of high value
+
+Analytical enzymes, Therapeutic proteins
+
+16(T) 23-24(R6)
+18(T) 17(R6) 24(R8)
+21(T)
+
+41-42
+
+The Business of Biotechnology
+
+Biotechnology-Investment, management and patenting
+
+13(T)
+
+Examination Scheme :
+
+Evaluation component
+Test 1
+Test 2
+Research oriented activities/ Class work#
+Comprehensive Examination
+
+Duration 1 Hr. 1 Hr.
+Diverse 3 Hrs.
+
+Theory Portion
+
+% (Marks)
+
+Date and Time
+
+10% (30) 15% (45)
+
+10.09.2016 1:00 to 2:00 PM
+22.10.2016 1:00 to 2:00 PM
+
+25% (75) Continuous Evaluation
+
+30% (90)
+
+01.12.2016 9:00 AM to 12:00 PM
+
+Practical Portion
+
+Nature of the Component*
+CB
+OB
+OB
+CB
+
+Practical/ Record
+Comprehensive Examination
+
+1 Hr.
+
+15% (45) 5% (15)
+
+Continuous Evaluation To be announced
+
+OB OB
+
+* OB: Open book, CB: Closed book # This component includes one or more of the following: Literature Survey, Seminars/Presentations, Research Summaries, Design/Development of processes/products/artifacts, Experimental or Quantitative Analysis of processes/products/phenomena, Design of Experiments etc.
+
+Chamber consultation hour: To be announced in the class.
+
+Grading policy: Award of grades will be guided in general by the histogram of marks. Decision on border line cases will be taken based on individual's sincerity, student's regularity in attending classes, and the instructor's
+assessment of the student.
+
+Make-up policy: Make-up for Test 1 or 2 will be given only in genuine (medical emergency) cases of absence. If the absence is anticipated, before the examination, prior permission of the Instructor-in-charge is necessary. The request for make-up should reach the Instructor-in-charge at the earliest. Make-ups for class tests/ quizzes and assignments are not given. Also refer to Clause 4.07 of BITS Academic Regulations for more details.
+
+Notices: All notices/ announcements regarding this course shall be displayed only in the Course Management System (CMS).
+
+Prof. P. Sankar Ganesh Instructor In-charge BIO G671
+
+

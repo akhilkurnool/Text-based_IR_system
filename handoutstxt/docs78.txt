@@ -1,0 +1,190 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-17
+Course Handout Part II
+                                                     Date: 01/08/2016
+In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.              	: ECON F355
+Course Title            	: Business Analysis and Valuation
+
+Instructorincharge  : Niranjan Swain (niranjanswain@hyderabad.bits-pilani.ac.in)
+
+1.	Brief Course Description:
+The fundamental goal of the firm either to maximize shareholder value or stakeholders value depends on their geographical location. The former has been highly emphasized by the top management of corporate in the most powerful capitalistic economy in the world - USA and the latter is weighted by the corporate in continental Europe and Japan with short-sighted, inefficient, simplistic, and even antisocial approach towards shareholders value maximization. But globalization of financial markets has forced countries economic systems to focus on maximizing shareholder value otherwise they will be starved of capital - India cannot be an exception to this. 
+
+The recent trend of consolidations, mergers & acquisitions and other forms of strategic alliances for sustainable growth have warranted finance domain experts of investment banks, investment and consulting firms, research wing of corporates both in private and public sectors, government agencies, etc. to analyze entire business constituents as to how to manage present, selectively forget past and create for future. The course has been designed to help the students interested in the area of investment banking, consultancy - mergers & acquisitions and capital market (investment analysis). The broad objective of the course is to sensitize students to the various frameworks of business analysis such as business strategy, accounting, financial and prospective, and valuation approaches and which will help to take the right decision at the right time and place. 
+
+
+
+		Scope and Objectives of the Course:
+Thiscourse attempts to examine the role of accounting information and intermediaries in the economy, and how financial analysts can create in well functioning markets. Primarily four key components such as business strategy, accounting, financial and prospective of effective financial statement analysis will be discussed to have better understanding and evaluation of the business from internal and external stakeholders perspectives.  The objectives of the course are as under.
+		Critical business analysis - business strategy analysis, accounting analysis, financial analysis and prospective analysis.
+		Analyzing various strategic decisions such as financing and rewarding, and application various business valuation methods.
+
+		Teaching Methodology:
+The course is designed to an Active-Based Learning. The course will utilize the active learning methods such as engaged learning / project-based learning and case and problem-based learning. The application of various concepts will be drawn from the best source(s) i.e. refereed journals, case study and opinion based papers.
+
+		Text Book: Palepu, Healy & Bernard, Business Analysis & Valuation - Using Financial Statements, Text & Cases, Cengage Learning Publisher, 3rd Edition.
+
+		Reference Book: 
+Damodaran A, Damodaran on Valuation, Wiley India Pvt. Ltd. 2nd Edition.
+Damodaran A, The Dark Side of Valuation: Valuing Young, Distressed and Complex Businesses, 2nd Edition, Pearson Education, 2010.
+
+		Course Content:
+
+ Title:		 	Framework for Business Analysis and Valuation Using Financial Statements 
+Learning Objective: 	Financial statements provide the most widely available data on public corporations economic activities, investors and other stakeholders rely on financial reports to assess the plans and performance of firms and corporate managers. Accrual accounting data in financial statements are noisy, and unsophisticated investors can assess firms performance only imprecisely. Whereas, financial analysts who understand managers disclosure strategies have an opportunity to create inside information from public data, and they play a valuable role in enabling outside parties to evaluate a firms current and prospective performance. This chapter outlines a comprehensive framework for business analysis with financial statements, using the four key steps: business analysis, accounting analysis, financial analysis and prospective analysis.
+ 
+Topics:	Role of financial reporting in capital markets; From business activities to financial statements; and Financial statements to business analysis
+Case Study: The Role of Capital Market Intermediaries in the Dot-Com Crash of 2000
+Learning from Case: This case will enable students to understand the role of key intermediaries  venture capitalists, investment banks, sell-side and buy-side analysts, and professional money managers, and public accountants  in the functioning of capital markets.  The case discussion will focus both on the potential value these intermediaries create, and also some of the governance and incentive challenges they face in performing their intended function.  By focusing on the dot-com bubble of the late 1990s, and its crash in the 2000, the case attempts to show the incredibly important role these players play - both constructive and destructive - in the flow of capital between individual investors and entrepreneurs. After this case study, students will be able to understand and appreciate how capital markets work and how information incentives influence their functioning
+
+Reference: 		Text Book, Chapter-1
+No. of Sessions:	4
+
+Title:			Strategy and Competitive Analysis
+
+Learning Objective:	The insights gained from strategy analysis can be useful in performing the remainder of the financial statement analysis. This chapter will examine the importance of firms accounting policies that are consistent with its stated strategy. Strategy analysis is also useful in guiding financial analysis. Business strategy analysis also helps in prospective analysis and valuation. Therefore, this chapter allows the analyst to assess whether, and for how long, differences between the firms performance and its industry (or industries) performance are likely to persist. Secondly, strategy analysis facilitates forecasting investment outlays the firm has to make to maintain its competitive advantage.
+
+Topics:	Strategic analytical techniques (Industry analysis techniques and its application in personal computer industry); Competitive and customer analysis techniques; Environmental analysis techniques; Evolutionary analysis techniques; and Value Chain Analysis for Competitive Advantages: 
+ 			Case Study: America Online Inc.
+Learning from Case: The America Online (AOL) case is a comprehensive financial statement analysis case. It will enable students to do strategic, accounting, financial and prospective analysis in a rich context. Students will get an opportunity to answer the various strategic and operational issue such as prior to 1995, why was AOL so successful in the commercial online industry relative to its competitors CompuServe and Prodigy? During 1995, what were the key changes took place in the commercial online industry and how could they likely affect AOL's future prospects. Students will be able to justify the rationale behind AOL's policy to capitalize subscriber acquisition costs and whether AOL should change its accounting policy or not keeping its impact on its share price.
+
+Reference:		Text Book, Chapter-2
+No. of Sessions:	5
+
+Title:			Accounting Analysis
+Learning Objective:	Accounting analysis is an important step in the process of analyzing corporate financial reports. The purpose of accounting analysis is to evaluate the degree to which a firms accounting captures the underlying business reality. Sound accounting analysis improves the reliability of conclusions from financial analysis, the next step in financial statement analysis. This chapter will explain the six key steps in accounting analysis. The analyst begins by identifying the key accounting policies and estimates, given the firms industry and its business strategy. The second step is to evaluate the degree of flexibility available to managers, given the accounting rules and conventions. Next, the analyst has to evaluate how managers exercise their accounting flexibility and the likely motivations behind managers accounting strategy. The fourth step involves assessing the depth and quality of a firms disclosures. The analyst should next identify any red flags needing further investigation. The final accounting analysis step is to restate accounting numbers to remove any noise and bias introduced by the accounting rules and management decisions.
+
+Topics:	Institutional framework for financial reporting; Factors influencing accounting quality; Steps on doing accounting analysis; Accounting analysis pitfalls and Value of accounting date and Accounting analysis.
+Case Study: Harnischfeger Corporation
+Learning from Case: The purpose of the "Harnischfeger Corporation" case is to expose students to the managerial motives for making major financial reporting policy changes. Generally Accepted Accounting Principles (GAAP) allow companies wide latitude in the choice of accounting policies.  After a firm chooses a set of accounting policies, current accounting rules permit changes from one alternative policy to another at the discretion of the management.  Since reported accounting figures are widely used by a number of external parties, managers of firms have incentives to choose accounting policies in order to influence the behavior of these parties.  A variety of managerial motives for accounting policy decisions have been identified in the accounting literature.  The Harnischfeger case is designed to encourage students to explore these motives. Harnischfeger Corporation, a large New York Stock Exchange company, faced a financial crisis in 1982.  New management was appointed to turn the company around.  As part of its restructuring strategy, the new management team made a number of financial reporting policy changes in fiscal 1984.  Together, these changes accounted for most of Harnischfeger's reported 1984 profits.  More significantly, these changes represented a substantial switch from the company's earlier conservative reporting philosophy to a more aggressive one. The case describes the company's financial crisis, the turnaround strategy of the new management team, and the accounting policy changes that took place in 1984. This is an excellent case wherein students will understand stock market response to accounting policy decisions.
+
+Reference:		Text Book, Chapter-3		
+No. of Sessions:	3
+
+Title:			Implementing Accounting Analysis			
+Learning Objective:	In order to implement accounting analysis, the analyst needs to recast the financial statements into a common format so that accounting distortions that exist in the firms assets, liabilities and equity can be determined. Common distortions that overstate assets include delay in recognizing asset impairments, underestimated reserves, aggressive revenue recognition leading to overstated receivables, and optimistic assumptions on long-term asset depreciation. Assets underestimates can arise if managers overstate asset write-offs, use operating leases to keep assets off balance sheet, or make conservative assumptions for asset depreciation. They can also arise because accounting rules require outlays for key assets (e.g. R&D and brands) to be immediately expensed. Therefore, an attempt will be made to understand the factors that overstate and understate the financial statements and analyze the impact of these situation.
+
+Topics:	Recasting financial statements; Asset distortions - Overstated assets; Understated assets; Liability distortions and Equity distortions.
+
+Case Study: Pre-Paid Legal Services, Inc.
+Learning from Case: Pre-Paid Legal Services (PPLS) has been a rapidly-growing provider of legal insurance. Its most popular insurance plan provided reimbursement for such services as will and testament preparation, document review and letter writing, and some of the legal costs associated with employment-related trial defense, traffic violations, and Internal Revenue Service audits. The company has marketed its memberships through a multi-level marketing program that encourages buyers to become salespeople. Members who wanted to become sales associates received training materials and attended training meetings. They then sold legal insurance to their friends and business associates. Prior to 1995, associates that signed-up a new member received a commission of 70% of the first year premium, and a 16% commission for subsequent year renewals. After 1995 PPLS modified its commission formula to a flat 25% commission for both initial year and subsequent renewal memberships.  However, to retain and attract sales associates, PPLS advanced the sales associate three years of commission on every new membership sold.  If a membership lapsed before the advances had been recovered, PPLS deducted 50% of any unearned advances from future commissions to the relevant associate. The case focuses on PPLSs change in commission structure, and the controversy it faced in the method of accounting for commissions. The critical issues for students to consider are (a) why has the company changed its commission structure? and (b) how should commission costs be matched with revenues generated from the sign-up of a new member?
+Case Study: CUC International Inc.(A)
+CUC International is a membership-based consumer services company which markets its programs to credit cardholders.  The company spends heavily on marketing to acquire new members.  Returns on these outlays are determined primarily by initial membership yields on the marketing programs and by subsequent renewal rates.  To underscore the historically high renewal rates for its members, CUC's management elected to capitalize membership acquisition costs, and to amortize them over three years.  While this decision was endorsed by the SEC and the company's auditors, it was viewed skeptically by analysts who were concerned whether the high rate of renewals would persist.  This concern was heightened in late 1988 and early 1989, when marketing outlays increased dramatically as the company sought to attract customers to its new products.  As a result CUC's stock price fell 50% relative to the market, and short sales of the company's stock increased dramatically. Therefore, the students can understand the impact of accounting policies and management communication systems on companys share price
+
+Reference:		Text Book, Chapter-4
+No. of Sessions:	3
+
+Title: 			Financial Analysis		
+Learning Objective:	This chapter deals with two key tools of financial analysis: ratio analysis and cash flow analysis. Both these tools allow the analyst to examine a firm's performance and its financial condition, given its strategy and goals. Ratio analysis involves assessing the firm's income statement and balance sheet data. The starting point for ratio analysis is the company's ROE. The next step is to evaluate the three drivers of ROE, which are net profit margin, asset turnover, and financial leverage. Net profit margin reflects a firm's operating management, asset turnover reflects its investment management, and financial leverage reflects its liability management. Each of these areas can be further probed by examining a number of ratios. Cash flow analysis relies on the firm's cash flow statement and it supplements ratio analysis in examining a firm's operating activities, investment management and financial risks. Since there are wide variations across firms in the way cash flow data are reported, analysts often use a standard format to recast cash flow data. This chapter will examine one such cash flow model that allows the analyst to assess whether a firm's operations generate cash flow before investments in operating working capital, and how much cash is being invested in the firm's working capital. It also enables (he analyst to calculate the firm's free cash flow after making long-term investments. which is an indication of the firm's ability to meet its debt 'and dividend payments.
+
+Topics: 	Relationship between financial forecasting and other analysis; Techniques of forecasting, Making forecasts; and Sensitivity analysis. 
+Case Study: The Home Depot, Inc.
+Learning from Case: The Home Depot case is designed to expose students how to do the analysis of growth strategies using financial statement data.  The case assumes familiarity with basic financial statements, and the techniques of ratio analysis, cash flow analysis, and the preparation of pro-forma financial statements.  The Home Depot pioneered the do-it-yourself warehouse retailing concept in the home center industry.  The company was established in 1978 and grew rapidly by pursuing an innovative retailing strategy.  By 1985, the time of the case, the company's ambitious expansion plans led to a continued increase in sales but a decline in profitability.  Students will have an opportunity to analyze the company's growth strategy, and the reasons for the decline in its profitability.  Based on this analysis, they will asked to project the company's financial needs for the following year and to suggest modifications to the company's growth strategy and financial policies. Moreover, students will use the case to understand the challenges The Home Depot was facing at that time, and try to identify areas where management needed to focus its attention to assure continued success of the company.
+One of the unique features of this case is that it has physical productivity data, in addition to the financial data, on the company's performance.  The physical data enable students to identify the levers that influence the company's financial performance and to recommend specific managerial actions for improving the operating performance of the company without sacrificing growth. 
+
+						Case Study: Anacomp, Inc.
+Learning from Case: The Anacomp, Inc. case provides students an opportunity to perform comprehensive financial statement analysis on a software company that relies on research and development (R&D) partnerships for new product development.  The R&D partnerships allow the company to defer expense recognition and accelerate revenue recognition, thereby creating a gap between the company's reported profits and its true economic performance.  The company's financial statements therefore offer an interesting analytic challenge to the students. The case is based on Anacomp's 1982 financial statements.  There are a number of hints in these statements which indicate that the company was heading for trouble as it pursued its new strategy.  However, the financial accounting policies of the company masked these hints.  Students will be asked to assess the current performance of the company and its future potential using the information in financial statements. Analyzing performance requires a reasonable amount of analytical sophistication, and the ability to integrate business and accounting analysis.
+
+Reference:		Text Book, Chapter-5
+No. of Sessions:	5
+
+
+Title:			Prospective Analysis		
+Learning Objective:	Forecasting represents the first step of prospective analysis and serves to summarize the forward-looking view that emanates from business strategy analysis, accounting analysis, and financial analysis. Although not every financial statement analysis is accompanied by such an explicit summarization of a view of the future, forecasting is still a key tool for managers, consultants, security analysts, investment bankers, commercial bankers and other credit analysts, and others. The best approach to forecasting future performance is to do it comprehensively-producing not only an earnings forecast but a forecast of cash flows and the balance sheet as well. This chapter explains a comprehensive approach provides a guard against internal inconsistencies and unrealistic implicit assumptions. The approach described in this involves line-by-line analysis, so as to recognize that different items on the income statement and balance sheet are influenced by different drivers. Nevertheless, it remains the case that a few key projections-such as sales growth and profit margin - usually drive most of the projected numbers.
+
+Topics:	Financial Analysis Techniques: Financial statement analysis  Ratio and cash flow analysis, Economic Value Added (EVA) and Cash Value Added (CVA) analysis, Strategic funds programming and sustainable growth rate analysis- Balanced Scorecard (BSC).
+Case Study: Krispy Kreme Doughnuts
+Learning from Case: Krispy Kreme (KKD) has achieved spectacular growth in the last few years using an area developer model to expand geographically. This case examines the factors that have driven its growth and their sustainability in the coming two years. Students are provided with forecasts made by financial analysts at CIBC. They will be asked to identify and evaluate the assumptions underlying these earnings forecasts. Since the CIBC report does not provide a forecasted balance sheet for KKD, the case can be used to let students learn how to build a forecasted balance sheet. Finally, the case will be used to discuss potential conflicts of interest between analysts and investors that might lead analysts to over-sell a growth firm such as KKD
+Reference:		Text Book, Chapter-6
+No. of Sessions:	4
+
+
+
+Title:			Equity Security Analysis			
+Learning Objective:	Security analysis involves establishing the objectives of the investor or fund, forming expectations about the future returns and risks of individual securities, and then combining individual securities into portfolios to maximize progress toward the investment objectives.
+Some security analysis is devoted primarily to assuring that a stock possesses the proper risk profile and other desired characteristics prior to inclusion in an investor's portfolio. In practice, a wide variety of approaches to fund management and security analysis are employed. However, at the core of the analyses are the same steps i.e. business strategy analysis, accounting analysis, financial analysis, and prospective analysis (forecasting and valuation). For the professional analyst, the final product of the work is, of course, a forecast of the firm's future earnings and cash flows, and an estimate of the firm's value. But that final product is less important than the understanding of the business and its industry, which the equity analysis provides. It is such understanding that positions the analyst to interpret new information as it arrives and infer its implications. 
+
+Topics:	Equity security analysis and market efficiency, Approaches to fund management and security analysis, Security analysis process, and Measuring performance of security analysts and fund managers.
+
+Case Study: United Parcel Services IPO
+Learning from Case: In 1998, UPS announced an IPO of million shares. The transaction was expected to be the largest US IPO in history. UPS had a long track record for excellent customer and financial performance in the package delivery business. The case provides students with an opportunity to apply all of the tools discussed in the course. Strategy analysis provides insights into how UPS has been able to sustain its leading position in the industry, and to assess whether its current superior financial is likely to persist. Accounting analysis is helpful to judge how UPS performs relative to its leading competitor, Federal Express, since FedEx leases most of its aircraft. After adjusting for the lease policy differences between the two companies, students can get a better sense for the strength of UPSs financial performer to FedEx. They can then judge how much UPS is likely to be worth, either through a discounted abnormal earnings analysis, or through the use of multiples for FedEx or for other Best of Breed companies.  
+Reference:		Text Book, Chapter-9
+No. of Sessions:	3
+
+
+Title:			Credit Analysis and Distress Prediction			
+Learning Objective:	Credit analysis is the evaluation of a firm from the perspective of a holder or potential holder of its debt. Credit analysis is important to a wide variety of economic agents - not just bankers and other financial intermediaries but also public debt analysts, industrial companies, service companies, and others. The purpose of the analysis is not just to assess the likelihood that a potential borrower will fail to repay the loan. It is also important to identify the nature of the key risks involved, and how the loan might be structured to mitigate or control those risks. The key task in credit analysis is the assessment of the probability of default. The task is complex, difficult, and to some extent, subjective. This chapter deals with a small number of key financial ratios that can help predict financial distress with some accuracy. The most important financial indicators for this purpose are profitability, volatility of profits, and leverage.
+
+Topics:	Market for credit; Credit analysis process, Financial statement analysis and Public debt; and Prediction of distress and turnaround
+
+Case Study: Amazon.com in the Year 2000
+Learning from Case: This case describes Amazons growth strategy as of early 2000, and a critique of the strategy and performance from a credit analyst at Lehman Brothers, Ravi Suria.  This is one of the first critical reports on the company (and the dot com sector in general), and precedes the burst of the dot com bubble.  Students will be asked to evaluate the analysts report, and the subsequent market reaction.  The case provides a variety of learning opportunities: (1) an evaluation of a companys strategy and performance from a credit analysis perspective; (2) an appreciation of the potential value of contrarian thinking in fundamental analysis; and (3) the analysis of the type of strategies and market conditions that fueled the dot com bubble.  
+
+
+Reference:		Text Book, Chapter-10
+No. of Sessions:	3
+
+Title:			Prospective Analysis: Business Valuation  Approaches and Methods			
+Learning Objective:	Valuation is the process by which forecasts of performance are converted into estimates of price. A variety of valuation techniques are employed in practice, and there is no single method that clearly dominates others. In fact, since each technique involves different advantages and disadvantages, there are gains to considering several approaches simultaneously.
+For shareholders, a stock's value is the present value of future dividends. This chapter described three valuation techniques directly based on this dividend discount definition of value: discounted dividends, discounted abnormal earnings/ ROEs, and discounted free cash flows. The discounted dividend method attempts to forecast dividends directly. The abnormal earnings approach expresses the value of a firm's equity as book value plus discounted expectations of future abnormal earnings. Finally, the discounted cash flow method represents a firm's stock value by expected future free cash flows discounted at the cost of capital.
+Although these three methods were derived from the same dividend discount model, they frame the valuation task differently. Price multiple valuation methods were also discussed. Under these approaches, analysts estimate ratios of current price to historical or forecasted measures of performance for comparable firms. The benchmarks are then used to value the performance of the firm being analyzed. Multiples have traditionally been popular, primarily because they do not require analysts to make multiyear forecasts of performance. It also includes contingent claim methods where option pricing used to value the stock and justify over or under priced stock at different price level.
+
+Topics:		Valuation Frameworks and Methods  DCF (DDM, FCFE, FCFF), Price Relative and Contingent Claim Methods.	
+Case Study: 	
+(i)Valuation Ratios in the Airline Industry
+Learning from Case: This case provides students with the opportunity to consider the factors that underline a firms price-to-earnings and price-to-book multiples.  Information on the strategy and performance of four US airlines is provided in the case. The case question presents that multiples for these companies (without names attached), and students will be asked to match the airlines with their multiples.  Therefore, the case provides a good introduction to valuation using multiples and to abnormal earnings valuation. 
+			(ii) Home Depot, Inc. in the New Millennium
+Learning from Case: By fiscal year ending January 31, 2001, Home Depot has become a storied stock with a tremendous track record of growth and profitability over the past fifteen years.  The case allows students to examine the drivers of Home Depots strong track record, and assess whether the companys performance is sustainable at the same level into the future.  Students can also assess the assumptions about growth and profitability needed to justify the companys current stock price, and examine whether this performance can be achieved in light of the companys stated growth strategy.
+
+(iii) Arch Communications Systems
+Learning from Case: The Arch Communications Systems case is designed for teaching security analysis and valuation.  Arch is a paging company facing consolidation and technological changes in its industry.   As a result of these concerns, investors were pessimistic about the companys future, bidding its stock price down by approximately 50% around the time of the case.  Several prominent analysts, however, suggested that the stock was undervalued. The case provides detailed description of Arch industry, its strategy, recent financial performance, and an industry analysts discounted cash flow valuation of Archs stock.  Students will be asked to evaluate the analysts valuation to identify its strengths and weaknesses, and then they will be asked to prepare their own valuation analysis of the companys stock.
+Reference:		Text Book, Chapter-7 & 8
+No. of Sessions:	6
+
+Title:			Business Restructuring: Mergers and Acquisition			
+Learning Objective:	This chapter will summarize how financial statement data and analysis can be used by financial analysts interested in evaluating whether an acquisition creates value for an acquiring firms stockholders. Obviously, much of this discussion is also likely to be relevant to other merger participants, including target and acquiring management and their investment banks. This chapter will also identify the acquirers acquisition strategy some of which are consistent with maximizing acquirer value, including acquisitions to take advantages of economies of scale, improve low-cost financing to financially constrained targets, and increase product-market rents. Moreover, we will discuss whether the acquirer is offering a reasonable price for the target.
+
+Topics:		Motivation for merger and acquisition; Acquisition pricing; Acquisition financing and Acquisition outcome.
+
+Case Study: Schneider and Square D 
+Learning from Case: Schneider, the French electrical equipment manufacturer, has expressed interest in merging with its US counterpart Square D, only to be rebuffed by Square Ds board. However, there is reason to believe that the company is in play, and Schneider is eager to gain access to the US market. This case examines the strategic fit of Square D for Schneider and the valuation of the company. The case provides a useful way of exploring the impact of typical assumptions made in Discounted Cash Flow analysis, and how to use the Abnormal Earnings approach for valuing a company in a takeover situation. 
+
+
+Reference:		Text Book, Chapter-11
+No. of Sessions:	3
+
+
+Title:			Corporate Financing and Rewarding Policies			
+Learning Objective:	This chapter explains how firm's optimal long-term capital structure is largely determined by its expected tax status, business risks, and types of assets. The benefits from debt financing are expected to be highest for firms with (1) high marginal tax rates and few non-interest tax shields, making interest tax shields valuable; (2) high, stable income/cash flows and few new investment opportunities, increasing the monitoring value of debt and reducing the likelihood that the firm will fall into financial distress; and (3) high tangible assets that are not easily destroyed by financial distress.
+Optimal dividend policy is determined by many of the same factors - firms' business risks and their types of assets. Thus, dividend rates should be highest for firms with high and stable cash flows and few investment opportunities. By paying out relatively high dividends, these firms reduce the risk of managers investing free cash flows in unprofitable projects. Conversely, firms with low, volatile cash flows and attractive investment opportunities, such as start-up firms, should have relatively low dividend payouts. By reinvesting operating cash flows and reducing the amount of external financing required for new projects, these firms reduce their costs of financing.
+Financial statement analysis can be used to better understand a firm's business risks, its expected tax status, and whether its assets are primarily assets in place or growth opportunities. Useful tools for assessing whether a firm's current capital structure and dividend policies maximize shareholder value include accounting analysis to determine off-balance-sheet liabilities, ratio analysis to help understand a firm's business risks, and cash flow and pro forma analysis to explore current and likely future investment needs.
+
+Topics: 	Factors that determine firms debt policies; Optimal long-term mix of debt and equity; Financing new projects; and Factors that determine rewarding policies.
+Reference:		Text Book, Chapter-12
+No. of Sessions:	4
+
+
+
+7.  Evaluation Scheme:
+     Component        						Duration    Weightage     Date & Time        	Remarks  
+
+TestI      							60 min.     	15     	10/9, 1.00--2.00 PM		CB
+Test  II									15	22/10, 1.00--2.00 PM		CB/OB
+Quiz				 						15					CB  
+Assignments 									10					Take away
+Class Participation								10					
+Comp. Exp.   	 						3.00 hrs.     	35		01/12 (FN)  	       	CB/OB
+Quiz (Surprise):  Questions may also be based on the conceptual / empirical research papers, article published in various magazines, daily financial newspaper and case study at the end of each chapter in text book.
+
+8.   Chamber consultation hour:  With prior intimation through SMS (Mob.9553381682) between 6 to 7 pm on Tuesday and Thursday.
+
+9.   Home Assignments: 
+Case study will be assigned periodically and they must be worked out to understand the subject. Students are expected to refer the books (text and references), research papers and other secondary sources to participate in the group discussions and case study.  There will be one group assignment to develop a Case Study on Business Analysis & Valuation. This will enable students to understand and apply various aspects of business analysis and valuation using different tools and techniques discussed in the class. Each group consists of 5 students can select 3 companies in one industry/sector and submit (not through email) students and organizations details (Students Name, ID Number, Contact Number, Parents Name and Contact Number, Name of the organizations) to IC on August 11, 2016 at 6pm. Selected companies must be listed and actively traded in stock exchange(s), not protected by any restrictions by Government and must have at least 5 years of financial track records. There will be five assignments viz. business strategy analysis, accounting analysis, financial analysis and prospective analysis, and valuation using DDM and Free Cash Flow. After each module discussed in the class, group will apply concepts / tools / techniques discussed in class in selected three companies. All assignment must be submitted in hardcopy and softcopy shall not be evaluated. 
+10.   Notices: 
+All notice concerning this course will be displayed only on the Economics & Finance Notice board.                   
+10.   Notices: Notices will be displayed on Course Management System (CMS)  or Economics notice board.
+Niranjan Swain
+I/C, ECON F355

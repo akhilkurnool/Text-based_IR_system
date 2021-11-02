@@ -1,0 +1,131 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI
+
+HYDERABAD CAMPUS
+
+COMPUTER SCIENCE & INFORMATION SYSTEMS
+
+FIRST SEMESTER 2016 - 2017
+
+COURSE HANDOUT (PART II)
+
+01-08-2016
+
+In addition to Part I (General Handout for all courses appended to the timetable) this handout gives further details
+
+regarding the course.
+
+Course No
+
+: CS F342
+
+Course Title
+
+: Computer Architecture
+
+Instructor-in-charge : Dr G Geethakumari
+
+Instructors
+
+:Abhishek Thakur, Barsha Mitra
+
+1. Scope and Objective: This course aims at introducing the concept of computer architecture. It involves design aspects, and deals with the current trends in computer architecture. System resources such as memory technology and I/O subsystems which contribute to proportional increase in performance will also be discussed.
+
+2. Text Book: T1. Patterson, D.A. & J.L. Hennessy, Computer Organization and Design, Elsevier, 4th ed., 2009
+
+3. Reference Books: (i)Hamacher et. al, Computer Organisation, McGraw Hill, 5th ed., 2002
+(ii)J.L. Hennessy & D.A. Patterson, Computer Architecture: A Quantitative Approach, Morgan Kauffmann, 5th Ed, 2012.
+(iii)J. P. Hayes, Computer Organisation & Architecture, McGraw Hill, 1998.
+(iv)W. Stallings, Computer Organisation & Architecture, PHI, 6th ed., 2004.
+(v) Other additional material to be put up in CMS
+
+4. Course Plan: Lecture No.
+
+Learning Objectives
+
+1-2
+3-4 5-7
+8 9 - 11
+12 -13 14 - 15
+16 - 17 18 19
+20 - 21 22 - 23
+24 25 26 27 28 29-32
+
+To understand about the overview of classes of computers
+To learn about instructions; ISA as well as know about sample ISAs like
+MIPS, ARM
+To practice arithmetic operations on integers; floating point numbers etc
+To understand the basics of processor; learn about data path,
+control path
+To know about the organization of memroy hierarchy and learn various optimization techniques at each level
+
+33 - 34 35
+36-38
+
+39 40 41 - 42
+
+To understand about storage systems and performance
+
+5. Evaluation Scheme:
+
+Topics to be covered
+Computer Abstractions and Technology
+Instructions- language of the computer MIPS Architecture & Instruction Set
+Introdcution to ARM architecture Arithmetic for computers: floating point
+arithmetic Processors: logic design conventions Role of Performance, pipelining - design
+issues Pipelined data path and control
+Various types of hazards Structural hazards Data Hazards Control Hazards
+Branch prediction techniques Static Branch Prediction
+Dynamic Branch Prediction Exploiting memory hierarchy - introduction
+Cache Memory Organisation Measuring and improving cache performance, cache optimization Main Memory and Interleaving Virtual Memory and Virtual Machines Performance and memory hierarchies:
+Cache coherence Storage and other I/O topics Dependability, reliability, availability I/O performance measures, Redundant Array of Independent Disks
+
+Reference to T1 Ch. 1
+Ch.2 Ch. 2, 3rd edn book of T1
+Ch 2 Ch 3
+Ch 4 Ch 4
+Ch 4 Ch 4 Ch 4 Ch 4 Ch 4 Ch 4 Ch 4 Ch 4 Ch 5 Ch 5 Ch 5
+Ch 5 Ch 5 Ch 5
+Ch 6 Ch 6 Ch 6
+
+EC Evaluation Duration Weightage
+
+No. Component
+
+(min)
+
+(%)
+
+1 Test I
+
+60 20
+
+2 Test II
+
+60 20
+
+3 Lab exercises, Lab test -----
+
+20
+
+4 Comprehensive
+
+180
+
+40
+
+Date, Time & Venue
+13/9, 10.00--11 AM 21/10, 10.00--11 AM
+14/12 AN
+
+Nature of Component
+Closed Book Closed Book Open Book Closed Book
+
+6. Chamber Consultation Hours: To be announced in the class
+
+7. Notices: Notices regarding the course will be put up on the CSIS notice board and in CMS.
+
+8. Makeup Policy: No makeup exam allowed without prior permission. For lab evaluation component, there is no makeup.
+
+Instructor - in - charge CS F342
+
+

@@ -1,0 +1,238 @@
+ BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI-HYDERABAD CAMPUS
+INSTRUCTION DIVISION
+FIRST SEMESTER 2015-2016
+Course Handout (Part II)
+Date: 16/05/2016
+In addition to part I (General Handout for the course appends to the time table) this portion gives further specific details regarding course. 
+Course No.                  : CE F313 
+Course Title                : Foundation Engineering
+Instructorincharge    : Dr. Anasua GuhaRay
+Instructors                  : Dr. Anasua GuhaRay
+
+1. Course Description, Scope and Objectives:
+
+The main goal of this course is to provide an in-depth understanding of different types of foundations for buildings, bridges substructure, industrial complexes, ports, harbors, water tanks, big storage tanks of industrial structure, transmission line towers and machines subjected to both static & dynamic loads. Comprehensive geotechnical analysis of foundation systems (spread footing, combined footing, raft foundation, ring foundation, pile foundations, machine foundations, retaining structures etc.) will be covered under this course.  Special emphasis will be given on coverage of relevant code of practices for various types of foundations and retaining structures. 
+
+2. Text Book: 
+T1. 	Murthy, V. N. S. Geotechnical Engineering: Principles and Practices of Soil Mechanics and Foundation Engineering, Marcel Dekker Inc., Special Indian Edition, First Indian Reprint, 2010. 
+
+3. Reference Books:
+R1. 	Knappett, J. Jonathan Knappett (Author) 
+ Visit Amazon's Jonathan Knappett Page
+Find all the books, read about the author, and more.
+See search results for this author 
+Are you an author? Learn about Author Central 
+, Craig, R.F. Craig's Soil Mechanics, Eighth Edition, CRC		Press, 2012.
+R2. 		Kaniraj, S.R. Design Aids in Soil Mechanics and Foundation Engineering, Tata McGraw Hill, 1988.
+R3. 	Gulhati, SK, and Datta, M.Geotechnical Engineering, Tata McGraw-Hill Publishing Company Ltd, 2005.
+R4. 	Saran, S. Analysis and design of foundations and retaining structures subjected to seismic loads I K Lee Publishers, 2012 
+R5.  	Relevant BIS, IRC codes and International code of practice
+R6. 	Gopal Ranjan & A.S.R Rao. Basic Soil and Applied Soil Mechanics, Revised second edition, New Age International Publishers, 2012
+R7.      B.M. Das. Principles of Foundation Engineering. Cengage Learning, 7th Edn
+4. Course Plan
+Learning Objective
+No. of Lectures
+Topics to be covered
+Reference
+(Text books, Reference books and codes)
+1) Lateral Earth Pressures
+
+1-5
+Introduction,
+Lateral Earth Pressure at Rest,
+Active and Passive Earth Pressure,
+Rankines Theory on earth pressure: submerged backfill, sloping backfills, backfill with surcharge, layered soil, tension crack
+Deflection of Retaining Wall
+Coulombs Wedge Theory
+TB Ch 11, 
+IS: 1893 (Part 3)
+2) Concrete and Mechanically Stabilized Earth Retaining Walls
+
+
+6-9
+Introduction,
+Proportioning of retaining walls: Gravity, Cantilever, Counterfort,
+Stability of Retaining Walls,
+Mechanically Stabilized Retaining Walls, 
+Backfill and Reinforcing Materials (Geosynthetics, Geotextiles etc.)
+External and Internal Stability
+TB Ch 19
+3) Shallow Foundations I: Ultimate Bearing Capacity
+
+
+10-15
+Introduction
+Requirements, Location, Depth of foundation,  
+Classification of shallow and deep foundations, 
+Brief description of isolated, strap and spread footings, 
+Selection of foundation type,
+Terminology
+Principal Modes of Soil Failure: general, local and punching shear failures, 
+Terzaghi, Skempton and Meyerhofs Bearing Capacity Theory: corrections for size, shape, depth, inclination, water table etc., eccentric loading
+Hansen, Vesic and IS Code Recommendations for Bearing Capacity
+Ultimate bearing capacity of soils based on SPT and CPT tests,
+Ultimate bearing capacity of footings resting on stratified deposits of soil, 
+Bearing capacity of foundations on top of a slope,
+TB Ch 12, 
+IS: 1904 (1986), IS: 6403 (1981), 
+4) Shallow Foundations II: Settlement
+
+16-17
+Effect of Settlement on Structure,
+Contact Pressure Distribution,
+Permissible Settlement,
+Field plate load tests
+TB Ch 13,
+IS: 8009 (Part 2) - 1980
+5) Shallow Foundations III: Combined Footings, Mat and Raft Foundations
+18-20
+Introduction
+Design of Combined Footings by Conventional Method
+Design of Mat Foundation by Rigid Method
+Floating Foundations
+
+TB Ch 14
+6) Deep Foundations
+
+
+21-25
+Introduction,
+Types of piles according to composition, 
+Types of piles according to method of installation: driven and bored piles, pre-cast and cast in-situ piles, under-reamed piles,
+Vertical load bearing capacity of single vertical pile for cohesionless and cohesive soil,
+Ultimate skin resistance for single pile in cohesionless and cohesive soil
+Pile Load Tests
+Uplift resistance of piles
+Pile groups: Efficiency
+Vertical load bearing capacity of pile groups, 
+Negative Skin Friction,
+Uplift capacity of pile group
+TB Ch 15 Part A and Part B, 
+IS 2911 (Part1)  2010,
+IS 2911 (Part2)  2010,
+IS 2911 (Part3)  2010,
+IS 2911 (Part4)  2010
+7) Laterally Loaded Vertical and Batter Piles
+
+
+26-28
+Introduction
+Winklers Hypothesis, 
+Differential Equation
+p-y curves for solution of laterally loaded single piles, 
+Behavior of laterally loaded batter piles in sand
+TB Ch 16
+8) Pier and Well Foundations
+
+29-30
+Types of drilled piers, 
+Methods of construction, 
+Design considerations
+Types and Components of Well Foundations
+Shapes of Well Foundation
+Forces acting on Well Foundation
+TB Ch 17
++ 
+Rao Ranjan Ch 17
+9) Foundations on Collapsible and Expansive Soils
+
+31-32
+Design of Foundations of swelling soils,
+Collapse Potential,
+Estimation and elimination of swelling,
+Treatment methods for collapsible soils 
+General characteristics of swelling soil
+Swelling Potential, Swelling Pressure, Free Swell
+TB Ch 18
+10) Ground Improvement Techniques
+
+33-35
+Introduction
+General Principles of Compaction
+Field Compaction
+Sand Drains, Stone Columns, Prefabricated Vertical Drains, Grouting
+TB Ch 21
++
+B.M. Das Ch 14
+11) Slope Stability
+
+36-38
+Introduction
+Stability Analysis of Infinite Slopes in Sand and Clay
+Factor of Safety
+Taylors Stability Number
+Finite Slopes  Forms of Slip Surface
+Method of Slices
+Simplified Bishops Method
+TB Ch 10
+12) Introduction to Machine Foundations
+
+39-40
+Introduction
+Terminology
+Dynamic Properties of Soil
+Single Degree of Freedom System 
+Stiffness and Damping
+Block and Framed Foundations
+Rao Ranjan Ch 18,
+IS 2974 (Part 1,2,3,4,5) - 1982
+13) Introduction to Earthquake Engineering and Liquefaction of Soils
+41-42
+Basics of soil dynamics, 
+Seismic design guidelines for foundations and geotechnical structure, 
+Liquefaction of soil, 
+Evaluation of liquefaction potential.
+IS1893-part1,2,3,4,5
+ Total no. of lectures = 42
+5. Evaluation Scheme:
+Component
+Duration
+Weightage
+Date & Time
+Remarks
+Syllabus
+Test 1
+60 min
+15%
+
+Closed Book 
+Ch 1-5
+Test 2
+60 min
+15%
+
+Closed Book
+Ch 6-10
+Home Assignments 
+-
+10%
+Continuous
+Open Book 
+
+Projects
+-
+10%
+Continuous
+Open Book
+Topics to be given in class
+Surprise Quizzes
+-
+10%
+Continuous
+Closed/Open Book
+
+Comprehensive Examination
+3 hrs
+40%
+
+Closed/Open Book
+
+
+6. Chamber Consultation Hour: Will be displayed at D115 B
+
+7. Notice: Notices will be displayed on CMS and few important notices will also be displayed on the notice board of civil engineering department
+
+8. Make-up Policy: 
+		Make-up will be granted only on genuine reasons (medical emergencies). For medical cases, a certificate from the concerned physician of the Medical Centre must be produced. 
+		For the skill tests, surprise tests, lab demo sessions and tour case study (if any), make-ups are not possible. 
+Instructorincharge  

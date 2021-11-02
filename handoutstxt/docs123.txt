@@ -1,0 +1,186 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI
+
+HYDERABAD CAMPUS
+
+FIRST SEMESTER 2016-2017
+
+Course Handout (Part - II)
+
+Date: 01/08/2016
+
+In addition to part-I (General Handout for all courses appended to the time table) this
+
+portion gives further specific details regarding the course.
+
+Course No.
+
+: CHEM F111
+
+Course Title
+
+: General Chemistry
+
+Instructor-in-charge : Dr. Durba Roy
+
+Instructors: Prof. Anupam Bhattacharya, Prof. J. Subbalakshmi, Prof. R. Krishnan,
+
+Prof. Manab Chakravarty, Dr. Sounak Roy, Dr. Subhas Ghosal and Dr. Durba Roy.
+
+1. Scope and Objective of the Course: This course provides a comprehensive survey of
+the concepts involved in the study of the electronic structure of atoms and molecules (part of quantum chemistry), spectroscopy, chemical equilibrium, and chemical kinetics,
+concepts of organic stereochemistry, functional groups, reaction mechanisms and coordination chemistry.
+
+2. Text Books:
+T1: P.W. Atkins & Julio de Paula, `The Elements of Physical Chemistry', Fifth/Sixth edition (Oxford University Press, Oxford 2009). T2: T. W. Graham Solomons and Craig B. Fryhle, `Organic Chemistry', 10th Edition, John Wiley & Sons, Inc. NewYork, 2011. T3: J. D. Lee, `Concise Inorganic Chemistry', 5th Edition, Blackwell Science, Oxford, 1999.
+
+3. Reference Books:
+(R1) D. W. Ball, `Physical Chemistry', First Edition, India Edition (Thomson, 2007). (R2) L. G. Wade, Jr. and M. S. Singh, `Organic Chemistry', 6th Edition, Pearson
+Education Inc., 2006.  The syllabus also includes lecture and tutorial notes
+
+4. Course Plan (SS stands for `self study'): L N Learning Objectives Topics to be covered
+
+1-3 Quantum Theory
+
+Origins of Quantum Mechanics, Black body
+
+radiation, Wave function, Schrodinger Equation,
+
+Uncertainty, Simple Applications.
+
+4-8 Atomic Structure and Hydrogenic Atoms: Energy Levels and
+
+Spectra
+
+Wavefunctions, Orbitals, Spectral Transitions,
+
+Many-electron Atoms: Pauli Principle, Orbital
+
+Approximation, Aufbau Principle, Term symbols,
+
+(Simple systems only) Selection rule
+
+9-12 Chemical Bonding: VB Theory: Electron Pair Bond, Hybridization,
+
+Valence Bond and
+
+Resonance, MO Theory: LCAO, Bonding and
+
+Molecular Orbital
+
+Antibonding Orbitals, Diatomic Molecules.
+
+Theories
+
+Lewis theory and VSEPR model (self study)
+
+Thermodynamics: the Thermodynamic Systems, State Functions, Thermal
+
+First Law, Internal
+
+Equilibrium and Temperature, Work, Internal
+
+13 Energy and Enthalpy Energy and Heat Transfer, Heat Capacity.
+
+Chapter in the Text Book T1: 12.1-12.7
+T1: 13.1-13.11, 13.17, 13.19 (SS): 13.15-13.16 T1: 14.1-14.14
+T1: 2.1-2.9
+
+Self Study 14-15 16 17-18
+19-20
+21-23 24-25
+26-27 28-29 30-31 32 33
+34
+35-36
+
+Thermochemistry
+Thermodynamics: the Second Law, Entropy, Gibbs Energy Spontaneity and Equilibrium, Chemical Kinetics: Experimental Methods, Reaction Rates, Temperature Dependence Vibrational and Electronic Spectroscopy
+
+Application of the First Law to physical and chemical changes. Natural and Reversible Processes, Entropy and Second Law, Calculation of Entropy Changes, Absolute Entropies, Gibbs Energy. Applications of entropy and Gibb's free energy in Chemical reactions Rate Laws, Order, Rate Constants, Arrhenius Equation, Rate-determining step, Reaction mechanisms. Steady-state Approximation.
+General Features, Vibrational Energy Levels and Spectra; Electronic Spectra: Franck-Condon Principle, Types of Transitions
+
+Nuclear Magnetic Resonance Spectroscopy Conformations
+Stereochemistry
+
+Principles, Chemical Shift, Fine Structure, Spin Relaxation, Applications (Identification of organic compounds).
+Rotation around sigma bonds, conformational analysis of butane, cyclohexane, and substituted cyclohexanes.
+Isomerism, chirality, origin of optical activity, stereochemistry of cyclic compounds, resolution.
+
+T1: 3.1-3.7 17.6 T1: 4.1-4.13
+T1: 5.1 - 5.3, 7.17.4 T1: 10.1-10.9, T1: 11.4-11.7
+T1: 12.9,19.6 - 19.8; 19.11 T1: 20.1 - 20.4 T2: 2.16 T1: 21.1 - 21.4 T2: 9.1-9.8
+T2: 4.8-4.9, 4.10 (SS), 4.11-4.14
+T2: 5.1-5.13, 5.15-5.18, 7.2
+
+Substitution reactions Elimination reactions Addition reactions
+
+Nucleophilic substitution reactions (both SN1 and SN2) of alkyl halides.
+Elimination reaction of alkyl halides; Hoffmann and Cope Elimination.
+Addition reactions to >C=C< bond
+
+Aromaticity and
+
+Structure and reactivity of benzene and other
+
+aromatic compounds aromatic compounds.
+
+Introduction to coordination compounds
+VB theory and Crystal field theory for octahedral complexes
+
+Double salts and coordination compounds. Werner's work; Identification of structure by isomer counting. Effective Atomic No. concept.
+Explanation for the stability of complexes according to crystal field theory
+
+T2: 6.2-6.13
+T2: 6.15-6.19, 7.5-7.8, 20.13 T2: 8.1 (SS), 8.28.14, 10.9 T2: 14.3-14.7, 15.1-15.2, 15.615.11 (SS) T3: p194-201
+T3: p203-212
+
+37-38
+
+Jahn-Teller distortions; How do geometrical distortions stabilize the
+
+Square planar and
+
+system? Stability in other geometries
+
+tetrahedral complexes
+
+T3: p214-222
+
+39-40
+
+Chelates & Isomerism Different types of ligands and stabilization due to
+entropy factors and electron delocalization in the rings.
+
+T3: p222-224, 307,351-352, 389, 793, 807. p232235
+
+5. Evaluation Scheme:
+
+Component Test - I Test - II Class Tests#
+Comprehensive Examination*
+
+Duration 60 min 60 min -
+3 hr
+
+Weightage% 20% 20% 20%
+40%
+
+Date Time
+8/9, 4.00--5.00 PM 25/10, 4.00--5.00 PM Continuous
+09/12 FN
+
+Remarks Closed Book Closed Book Open Book#
+Closed Book*
+
+Tutorials: The tutorial hour will be used for a quick review of the highlights of the material covered in the lectures, clarification of doubts, and problem solving.
+# No makeup would be given for this evaluation component.
+
+* The Comprehensive Examination will be a closed book exam, with quiz portion having 16% weightage and descriptive section having 24% weightage.
+
+6. Chamber Consultation Hours: To be announced through a notice.
+
+7. Notices: Notices, if any, concerning the course will be displayed on the Chemistry Department Notice Board as well as in CMS.
+
+8. Make-up-policy: Make up would be considered only for very genuine reasons.
+
+Instructor-in-charge CHEM F111
+
+

@@ -1,0 +1,109 @@
+
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+Course Handout Part II
+										    Date: 18-07-2016 
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.			:  MATH F214
+Course Title            	  	:  Elementary Real Analysis 
+Instructor in charge    	:  MANISH KUMAR
+Instructor		  	:  Manish Kumar
+
+Scope and Objective of the Course:
+The objective of this course is to train the students with the basic tools of modern mathematical analysis, train them in art of logical, deductive & constructive thinking and thus equip them with enough back ground for   courses which involve deeper mathematical analysis. Real analysis is needed in several science & engineering disciplines, in study of dynamical systems, which are solutions of differential equations, theoretical study of differential equations, concept of fractal & fractal dimension is usually studied in metric spaces.  Riemann integral is basic integral on which advance theory of integration is developed. Integration theory is needed in study of theoretical & numerical solution of partial differential equations. 
+
+
+Textbooks:
+W. Rudin, Principles of Mathematical Analysis, McGraw, Hill 3rd edition, 1976.                                           
+
+Reference books
+Apostal: Mathematical Analysis, Addision Wesley, 1983.
+John M Howie: Real Analysis, Springer Verlag, 2000.
+Kenneth Ross:  Elementary Analysis, Springer international edition, 2000.
+
+Course Plan:
+
+Lecture No.
+Learning objectives
+Topics to be covered
+Chapter in the Text Book
+1-5
+Representation of real numbers 
+Ordered field, Construction of real numbers, the set of real numbers as ordered field, extended real numbers
+Chapter 1, Sec : 1.1  to 1.23
+6-8
+Difference between countable
+& uncountable set
+Finite, Countable  & uncountable sets
+Chapter 2, Sec : 2.1  to 2.14
+9-15
+Generalization of concept of  distance to abstract sets
+Metric spaces, compact sets, different 
+Definition of compact sets, Cantor Intersection theorem, Contraction Principle
+Chapter 2, Sec : 2.15  to 2.47
+16-21
+Generalization of concept of  limit & continuity  to metric spaces
+Continuous & uniformly continuous functions& their properties
+Chapter 4
+22-29
+Integration with respect to a function
+Riemann  Stieltjes integral & properties
+Chapter 6
+30-37
+Distinguish between uniform & point wise convergence of sequence of functions. Functions not differentiable but continuous
+Point & uniform convergence of functions & related properties of Integrability & differentiability
+Chapter 7
+38-42
+How continuity & differentiability have generalization for function of several variables
+Linear Transformations, Differentiation of functions of several variables
+Chapter 9  sec: 9.1 to 9.15
+
+
+Evaluation Scheme:
+
+Component
+Duration
+Weightage (%)
+Date & Time
+Nature of Component
+Test I
+60 min.
+30%
+---------------------------
+Closed Book
+Test II
+60 min.
+30%
+---------------------------
+Open Book
+Comprehensive Exam
+180 min.
+40%
+---------------------------
+Closed Book
+
+Chamber Consultation Hour: To be announced in the class. 
+
+Notices: Notices concerning this course will be displayed on the LTC Notice Board only
+
+Make-up Policy: Prior permission is needed for makeup; makeup will be given only for genuine cases. 
+
+ 
+	
+ INSTRUCTOR-IN-CHARGE
+MATH F214
+
+
+
+
+
+
+
+
+
+
+
+
+
+

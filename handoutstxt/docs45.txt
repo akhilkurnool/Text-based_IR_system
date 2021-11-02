@@ -1,0 +1,188 @@
+
+
+
+
+
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI, HYDERABAD CAMPUS
+INSTRUCTION DIVISION, FIRST SEMESTER 2016-2017
+COURSE HANDOUT
+
+01-08-2016
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course Number        :  CS F111
+Course Title              :  Computer Programming
+Instructor-In-Charge :   Mr Sanjeev Kumar Singh (EMAIL: sanjeev@ hyderabad.bits-pilani.ac.in)
+
+		Objective: 
+The primary goals of the course are to introduce: 
+		Basic representation of data and how to process data using the representation inside a computer. 
+		Techniques for specifying data, operations on data, and problem solving using a programming language. 
+		Systematic techniques and approaches for constructing programs. 
+
+		Scope: 
+The course covers the following topics: Basic Model of a Computer; Problem Solving  Basic Computing Steps and Flow Charting (Assignment, Sequencing, Conditionals, Iteration). Programming Constructs  Expressions, Statements, Conditionals, Iterators/Loops, Functions/Procedures; Data Types  Primitive Types, Tuples, Choices (Unions or Enumerations), Lists/Arrays, Pointers and Dynamically Allocated Data. Input output and Files. 
+While the topics are taught using a specific language, the intent of the course is to teach a programming methodology, and not a programming language. There is also a laboratory component that involves development and testing of iterative and procedural programs using bounded and unbounded iterations, function composition, random access lists, sequential access lists, dynamically allocated lists, and file access. Finally sincerely putting effort will reward you making you a good problem solver which is very much required in every sphere of life and course.
+
+
+		Text and Reference: 
+3 (a) Text Book: 
+T1. J.R. Hanly and E.B. Koffman, Problem Solving and Program Design in C. 7th Edition. Pearson Education 
+
+3 (b) Reference Books: 
+R1. Programming with C Bryon Gottfried, Jitendra Chhabra TMH 3rd Edition.
+R2. C Programming: A Modern Approach, K.N.King 2nd Edition
+R3. Brian W. Kernighan, Dennis Ritchie. The C Programming Language. Prentice Hall. 2nd Edition.
+R4. Yale Patt, Sanjay Patel. Introduction to Computing Systems: From bits & gates to C & beyond, Second edition, McGraw Hill. 
+
+
+
+
+		Course Plan
+Lecture#
+Learning Objectives 
+Topic 
+Reference
+1-2
+To understand the fundamentals on computer hardware and computer software, fundamentals of programming
+Introduction to computers, programming, high level languages, compiling programs, integrated development environments
+T1 (Chap 1)
+R1 (Chap 1)
+
+3-6
+To understand how to define basic data, data types and data representation
+Binary number system, Data representation: Unsigned Integers, Signed Integers: Signed Magnitude, Ones complement, twos complement, floating point data representation, octal, hexadecimal and octal number systems and conversions.
+R4(Chap 2)
+7-8
+To understand problem solving methodology
+Problem statement, input/output description, the notion of an algorithm, algorithm development, flow charts
+T1 (Chap 1)
+R1(Chap 1)
+9-12
+To get an overview of C 
+C language elements: variables, data types and sizes, operators,  expressions, precedence and associativity,  general form of a C program, 
+T1 (Chap 2)
+R1 (Chap 2, 3)
+R2 (Chap 2, 4)
+13-14
+To understand C standard input/output and format it
+How printf(), scanf() works and field widths and precisions ?
+T1 (Chap 2)
+R1(Chap 4)
+R3(Chap 3)
+15-16
+To know the control flow  in C program
+C statements and blocks, Making decisions: if-else, else-if, switch construct
+T1(Chap 4)
+R1(Chap 6)
+R2(Chap 5)
+17-19
+To understand repetition and loop constructs in C
+while, do-while, for, break and continue, goto and labels
+T1(Chap 5)
+R1(Chap 6)
+R2(Chap 6)
+20-22
+To understand modular programming
+Functions and program structure, arguments and local variables, function prototype, function definition, calling functions, returning function results, simple example of recursion.
+T1(Chap 6)
+R1(Chap 7)
+23-26
+To understand arrays 
+Declaring and referencing arrays, using array elements as counters, initializing arrays, 1-D and 2-D arrays,  passing arrays to functions, Searching and Sorting
+T1(Chap 7)
+R1(Chap 9)
+R2(Chap 8, 9)
+27-28
+To get to know the basics of  pointers in C
+Pointer variable declaration and initialization,  pointer operators, pointers and addresses, pointer arithmetic,  pointer arrays, pointer to a function, call by reference
+T1(Chap 6)
+R1(Chap 11)
+R2(Chap 11, 12, 17)
+29-30
+To understand characters and strings in C (character arrays)
+String basics, string library functions, string comparison, null string 
+T1(Chap 8)
+R1(Chap 10)
+R2(Chap 13)
+31-33
+To know structures, union and  enums in C
+Basics of structures, unions and enums, structure type data as input and output, array of structures, structure containing structures, pointers to structures, Self-referential structures. Difference between structures and unions
+T1(Chap 10)
+R1(Chap 12)
+R2(Chap 16)
+34-35
+To know about storage classes in C
+Memory segment of a C program in RAM and Different storage classes: auto, register static and external.
+T1(Chap 12)
+R2(Chap 18)
+36-37
+To understand bit-level manipulations
+Bitwise operators, bit-fields, shift function, rotating bits
+R1(Chap 14)
+R2(Chap 20)
+38-40
+To understand Linked-List  in C
+Creation, traversal, search, insertion, deletion in the linked list
+T1(Chap 13)
+Lectures Notes
+41-44
+To know text and file processing
+Files and streams, creating and accessing sequential files, random access files, read, write operations, binary files  
+T1(Chap 11)
+R1(Chap 13)
+R2(Chap 22)
+
+		Evaluation Scheme: [Legends: OB - Open Book, CB - Closed Book]
+
+Evaluation Component
+Weightage
+Duration
+Nature of Components
+Date & Time
+Test-1
+15%
+60 Mins
+Closed Book
+10/9, 10.00--11 AM
+Test-2
+20%
+60 Mins
+Closed Book
+22/10, 10.00--11 AM
+Lab Evaluation*
+35%
+60 Mins
+Open Book
+
+Comprehensive
+30%
+3 hrs.
+Closed Book 
+07/12 FN
+
+*Lab Evaluation[ 35%]
+		Continuous Lab Evaluation  10%
+		Online Test-1  10%
+		Online Test-2  15%
+Open Book : CMS, Text Book, Lab Sheets, Tutorial Sheets
+
+MAKE UP POLICY
+
+		Out of N number of continuous Lab evaluations, best (N-1) will be considered in final grading. No additional Make-up will be granted for continuous Evaluated Labs under any condition.
+
+		There will be one make up (for both the online tests put together), i.e. a student can take a make up for at most one online test out of both the tests. The makeup will be conducted after the conduct of Online test 2 and syllabus for it will be announced later.
+
+		Prior Permission of the Instructor-in-Charge is required to get make-up for the Test-1/Test-2, and/or online tests. Only on producing documentary proof of possible absence, which proves that student would be physically unable to appear for the test/exam, the decision of granting the make-up will be taken.
+
+		Prior Permission of Dean, Instruction Division is required to get make-up for the comprehensive exam.
+		Instructor / Deans decision in the matter of granting Make-up would be final.
+
+Course Notices:
+All notices pertaining to this course will be displayed on the CS&IS Dept. Notice Board and CMS.
+
+Chamber(B223) Consultation Hours : Wednesday (4 - 5 PM)
+ 
+Instructor-In-Charge, CS F111
+

@@ -1,0 +1,247 @@
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+
+INSTRUCTION DIVISION
+
+SEMESTER I: 2016-2017
+
+Course Handout Part II
+
+Date: 01/08/2016
+
+In addition to part -I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.	: ECON F412/FIN F313
+
+Course Title	: Security Analysis & Portfolio Management
+Instructor-in-charge       :  Nagaraju Thota 
+
+1. Scope & Objective: Introducing students to the World of Investments.
+
+The objective and focus of the course is to give an insight into evaluation and analysis of a wide range of financial securities and thereby developing techniques for designing an optimal portfolio. The main emphasis of the course is to impart an understanding of the methods and techniques of Risk Quantification, Security Valuation, Fundamental Analysis, and Technical Analysis required for security selection for designing an optimal portfolio.
+
+After completing this course the students shall be able to:
+
+A/ Appreciate and apply the concepts of Investment analysis in theory as well as in a real-life situation.
+B/ Identify numerous investments related risks that an investor is subject to while investing in financial securities.
+C/ Differentiate between various classes of financial securities such as Equities, Fixed Income Securities, and Derivatives and learn various techniques to value and analyze these securities.
+D/ Carry out Fundamental Analysis (that involves Economy Analysis, Industry Analysis and Company Analysis) to study the intrinsic strength of a firm and make investment decisions based on the study.
+
+E/ Analyze and interpret various technical charts related to stock price movements and predict future price movements to comment on Buy/Sell/Hold decisions.
+F/ Understand the mechanics of Derivatives trading and develop various strategies for hedging or speculation using derivatives.
+G/ Comprehend the news items appearing in the financial dailies.
+
+2. Text book (TB):
+
+1.	Reilly Frank K and Keith C. Brown, Investment Analysis and Portfolio Management, 8th edition Thomson Learning, 2007.
+
+		Reference books (R): 
+
+1.  Zvi Bodie, Alex Kane, Alan Marcus, Pitabas Mohanty, Investments, 2010, McGraw Hill. 
+
+		Prasanna Chandra - Investment Analysis and Portfolio Management, 3RD edition, 2009, TMH. 
+
+		D.E. Fisher and R.J. Jordan - Security Analysis and Portfolio Management, Prentice-Hall/Pearson Edu., 6th Edition, 1995 
+
+		J. fuller & James L. Farell  Modern Investment & Security analysis - McGraw Hill, International Ed. 
+		J.C. Francis, Investments: Analysis and management, 5th Ed., 1991, McGraw Hill, Singapore 
+		M.Ranganatham & R. Madhumathi: Investment Analysis & Portfolio Management, Pearson Education. 
+
+		Comprehensive Course Plan: 
+
+Lecture
+Learning Objectives
+Topics to be covered
+
+No.
+
+
+Ref.
+
+
+
+
+1-4
+Exposure to investment
+Introduction to Investments. Risk and return,
+
+
+climate, Risk and return.
+investor life cycle, securities and its various
+ Ch 1-5 TB
+
+
+types, global security markets. Organization and
+
+
+
+functioning of security markets, indexes and
+
+
+
+their calculations, Types of orders, trading
+
+
+
+mechanism, common stock exchange problems,
+
+
+
+margin trading,
+
+
+
+
+
+5-20
+Modern portfolio theory
+Markowitz model, Sharpes Single Index model,
+Ch 6-9 TB
+
+
+Capital Asset Pricing model, Arbitrage pricing,
+
+
+
+Portfolio performance evaluation
+
+
+
+
+
+21-30
+Exposure to Fundamental
+Economy, Industry & Company Analysis, Models
+
+
+Analysis technique of
+of Security Valuation (Cash Flow Model and
+Ch 10-15 TB
+
+Security valuation
+Dividend Discount Model), Multiple Growth
+
+
+
+rates, Dividend Capitalization Approach, Basic
+
+
+
+features, patterns and parameters. Ratio
+
+
+
+Analysis; Value investing principles
+
+
+
+
+
+31-32
+Technical Analysis
+Understanding the significance and limitations of
+
+
+
+Technical Analysis. Popular figures and chart
+Ch 16-17 TB
+
+
+patterns (support and resistance level, moving
+
+
+
+averages, Price-volume indicators, momentum
+
+
+
+indicators) their analysis and interpretation.
+
+
+
+
+
+33-38
+Exposure to Bond
+Time Value of Money, Bond Valuation, Analysis
+
+
+Fundamentals
+& management. Bond Strategies, Duration,
+
+
+
+Immunization etc.
+Ch 18-20 TB
+
+
+
+
+39-41
+Derivatives
+Introduction to Options, Futures, Forwards,
+
+
+
+Option and Futures Pricing.
+Ch 21-23 TB
+
+
+
+
+
+
+5. Evaluation Scheme:
+
+EC
+Components
+Duration
+Weight age
+
+
+No.
+
+
+(%)
+Date & Time
+Nature of Component
+1
+Assignment
+Class
+10
+
+
+2
+Test-I
+1 Hour
+25
+10/9, 10.00--11 AM
+OB
+3
+Test-II
+1 Hour
+25
+22/10, 10.00--11 AM
+CB 
+4
+Comprehensive
+3 hrs
+40
+
+OB
+
+
+
+
+02/12 AN
+CB
+
+6. Chamber Consultation Hour: TBA.
+
+		Notice: All notices pertaining to this course shall be displayed on the Course Management System (CMS) or the Economics and Finance Notice Board. 
+
+		Make-up policy: Make-up will be approved only for students who give a prior (on or before test date) intimation with a genuine reason. 
+
+
+Instructor-In-Charge
+ECON F412/FIN F313.

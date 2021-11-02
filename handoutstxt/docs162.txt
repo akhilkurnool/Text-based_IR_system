@@ -1,0 +1,206 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI-
+
+HYDERABAD CAMPUS
+
+INSTRUCTION DIVISION
+
+FIRST SEMESTER 2016-2017
+
+COURSE HANDOUT (PART II)
+
+12th May 2016
+
+Course No. Course Title Instructor-in-Charge
+
+: ME F213 & MF F213 : Materials Science and Engineering : Dr. Sujith R
+
+Course Description: The course gives an introduction to materials science and its structure at the atomic and microscopic level. The relation between structure and properties of materials is also highlighted. The course mainly discusses about the structure and properties of different types of materials such as metals, ceramics and polymers.
+
+Scope and Objectives: This course aims to provide the relation between structure and properties of metallic materials. Concept of phase transformation, phase diagrams and its influence on the properties of metals. Methods of improving properties by thermal, mechanical treatment and importance of non-metallic materials like polymers, ceramics and composites.
+
+Prescribed Text Book
+
+T1. Callister William D & R. Balasubramaniam, Materials Science and Engineering, Wiley Student Edition, 7th Edition, 2007.
+Reference Books
+
+R1. William F Smith, Javad Hashmi and Ravi Prakash, Materials Science and Engineering, Fourth Edition, Tata McGraw Hill Education Private Limited, New Delhi.
+
+R2. George E. Dieter, Mechanical Metallurgy, SI Metric Edition McGraw Hill Book Company, London.
+
+R3. R. A. Higgins, Applied Physical Metallurgy, Sixth edition, Viva Low priced students edition, New Delhi.
+R4. Thomas. H. Courtney, "Mechanical Behavior of Materials" McGraw Hill Publication Company, Materials Science series, II Edition (2000).
+
+R5. Material Science and Engineering by V. Raghavan, Fifth Edition, Prentice-Hall of India Private Limited (2004).
+
+Lec Topics
+
+Learning Objective
+
+Reference to Self study
+
+No.
+
+Text book
+
+material.
+
+1
+
+Classification of Materials and its
+
+R1: 1.1 - 1.6
+
+Introduction
+
+Properties
+
+T:1:1-1.6
+
+Class Notes
+
+2-5 Crystallography Unit cell, Crystallographic directions
+
+R1:3.1-3.10
+
+and Metallic
+
+and planes, FCC, BCC, Linear and
+
+T:3.1-3.10
+
+Class Notes
+
+structures
+
+planar densities, close-packed crystal
+
+T4.1-4.9
+
+structures
+
+6-7
+
+Types of polymers, structure and
+
+T 13.1 - 10,
+
+R1 :10
+
+Polymers and
+
+applications.
+
+14.20,
+
+Class Notes
+
+applications.
+
+4.18 - 4.19
+
+8-9 Types of ceramics, structure and
+
+Ceramic materials
+
+applications.
+
+and applications
+
+T : 4.10 4.15, 4.17
+
+R1 : 11 Class Notes
+
+Lec No. 10-12 13-15
+16-18
+19-21 22
+23-25
+26-28
+29-32 33-35
+
+Topics X-ray diffraction
+
+Learning Objective
+Determination of crystal structure, Bragg's Law, diffraction technique
+
+Reference to Text book R5: 3.4 - 3.6 T: 4.20
+
+Self study material. Class Notes
+
+Crystal Imperfections
+
+Vacancies and interstitials, dislocations and grain boundaries
+
+Phase diagrams
+Iron-Iron Carbide phase diagram
+
+Phases, microstructure, phase equilibrium, Isomorphous system, Gibbs Phase rule, Phase transformation
+Fe-Fe3C Phase diagram, Alloy steel. Cast iron,
+
+Non ferrous metals and alloys
+
+Copper, Aluminium, Magnesium, Titanium and alloys
+
+T:5.1-5.10 T1 :7.1-7.17
+T:7.18-7.20 T:.9.1-9.2
+T1: 9.3
+
+R2, 4: Class Notes
+R3: 9. Class Notes
+R3:11. 13, 15 Class Notes
+R3:Ch16,17, 18 Class Notes
+
+Phase Transformations
+Mechanical Properties of
+materials. Failure of metals.
+Composites
+
+Avrami rate equations, Isothermal transformation, Continuous cooling
+transformation diagrams Tensile testing and influence of structure, elastic, plastic deformation
+and instability. Fracture, DBTT & Fractography. S-N
+Curve, Creep. FRP, MMC, PMC and other types and
+applications.
+
+8.1-8.6
+
+R3:12.50-12.52. Class Notes
+
+R2Ch 8,9,&10 T: 9.5-9.10 Class Notes
+
+T:11.2-11.15 T : 15
+
+R4:9.1-9.4. Class Notes
+R1: 12. Class Notes
+
+Evaluation Scheme:
+
+EC No. Evaluation Component
+
+Duration Weightage Date & Time
+
+1 Test I
+
+60 Min 20
+
+2 Test-II
+
+60 Min. 20
+
+3 Comprehensive 180 Min. 40
+
+exam.
+
+4 Assignments -.
+
+20
+
+Nature of Component
+CB CB CB
+OB
+
+Note: 1. Chamber Consultation hour: To be announced in class by instructors. 2. Mid-Semester grading: It will be announced normally in the month of March. It is done in
+the same manner as that of the final grading. 3. Notices: All notices concerning this course will be displayed on CMS. 4. Programmable calculators are strictly not allowed during any of the evaluation components. 5. Make-up Policy: Make-up will be granted only to genuine cases. For cases related to
+illness, proper documentary evidence is essential. Prior permission is necessary if the student is out of station on the test date.
+
+Instructor-in-charge ME F213 & MF F213
+
+

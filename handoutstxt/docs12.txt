@@ -1,0 +1,122 @@
+INSTRUCTION DIVISION FIRST SEMESTER 2016-2017
+Course Handout (Part II)
+
+Date: 01.08.2016 In addition to part-I (General Handout for all courses appended to the timetable) this portion gives further specific details regarding the course.
+
+Course No. Course Title Instructor-in-Charge Lab Instructor
+
+: BIO G512 : MOLECULAR MECHANISM OF GENE EXPRESSION : NAGA MOHAN K : SONAL SAXENA
+
+1. Course Description: Prokaryotic and Eukaryotic genomes and their topology; DNA protein-interaction, RNA transcription and transcriptional control, Translation, RNA processing, Post-transcriptional control and other mechanisms of gene expression, Gene rearrangement, Epigenetics, nucleic acids as Biomarkers.
+
+2. Scope & Objective: This course is designed to impart knowledge of molecular genetics, which is one of the fundamental requirements for the biotechnology. This course is designed to make the student understand the various mechanisms, which regulate the biological processes at genetic level including transcriptional and post transcriptional regulation of gene. . 3. Text Books: Gene X by Benjamin Lewin; Pearson Education, 2011 and additional material given in the slides/ class room.
+
+Reference Book: Molecular Biology of Gene: Watson, Baker, Bell, Gann, Lavine & Losick (5th Ed).
+
+4. Course Plan:
+
+Lect No Learning Objective
+
+1-3 Molecular genetic
+
+mechanisms
+
+4-7 Organization of
+
+genes
+
+and
+
+genomes -1
+
+Topics to be covered Nature of genetic material: DNA, RNA and their properties as hereditary material in different organisms. Prokaryotic genomes: Organization of genes in bacterial and viral genomes. Eukaryotic genomes: Organization of genes in yeast and higher eukaryotes, non-coding sequences and their importance.
+
+Chap/Sec Text Book Chap. 1, 2 Text Book Chap. 4-8
+
+1
+
+8-11 Organization of Organization of bacterial and viral genomes
+
+Text Book
+
+genes
+
+and Eukaryotic chromatin: Nucleosomes-10nm and 30nm Chap. 9 &
+
+genomes -2
+
+structures, histone variants and their functional role, 10
+
+organization into mitotic chromosomes and banding
+
+patterns, Centromere and telomeres.
+
+12-18 19-28
+29-31 32-37 38-42
+
+Maintenance of the genome Transcriptional mechanisms
+Translation and genetic code Regulation of gene expression-1
+Regulation of gene expression-2 Topics for reading assignments
+
+DNA replication, recombination, repair and transposition
+Prokaryotes: Transcriptional initiation, elongation and termination. Eukaryotes: Transcriptional initiation, elongation, termination, RNA splicing and processing, mRNA stability, catalytic RNA Translational mechanisms in prokaryotes and eukaryotes, nature of the genetic code Prokaryotes: Regulation of lac operon, regulation of trp operon, regulation of lytic and lysogenic phases in bacteriophages Eukaryotes: mechanisms transcriptional activation, epigenetic regulation and regulatory RNA Protein localization on subcellular compartments of prokaryotic and eukaryotic cells, vesicular trafficking and protein secretion.
+
+Text Book Chap. 11-17 Text Book Chap. 19-23
+Text Book Chap. 24-25 Text Book Chap. 26-27
+Text Book Chap. 28-30.
+
+List of Experiments to be completed: i. Reagent preparation for DNA and bacterial work ii. Reagent preparation for RNA work
+iii. Isolation of human genomic DNA iv. Dinucleotide distribution by restriction enzyme digestion v. Analysis of DNA methylation in target sequences: I vi. Analysis of DNA methylation in target sequences: II vii. Effect of mutagens on bacterial growth: I viii. Effect of mutagens on bacterial growth: II ix. Isolation of total RNA from eukaryotic cells x. Synthesis of cDNA from total RNA xi. Reverse transcription PCR xii. Analysis of differences in gene expression by real time PCR xiii. Regulation of Gene Expression in lac Operon-I xiv. Regulation of Gene Expression in lac Operon-II
+
+2
+
+5. Examination Scheme:
+
+No Evaluation
+
+Duration
+
+Date and Time
+
+Component
+
+1 Test-1
+
+60 Min 08/09/2016; 2:30-3:30 PM
+
+2. Test-2
+
+60 Min 25/10/2016; 2:30-3:30 PM
+
+3. Laboratory components
+
+(experimental design,
+
+data analysis, questions
+
+on experimental designs,
+
+Laboratory Record)
+
+5. Comprehensive
+
+3 Hrs.
+
+12/12/2016; FN
+
+Examination
+
+Weightage (%) Remarks 15 CB 15 CB 40 OB
+30 CB
+
+6. Chamber Consultation Hour: To be announced in class
+
+7. Notices: Notices will be displayed on the CMS
+
+8. Make-up Policy: Make up will not be granted under any circumstance, barring hospitalization of the student himself/herself and that too with prior permission from the Instructor In-charge.
+
+INSTRUCTOR-IN-CHARGE BIO G512
+
+3
+
+

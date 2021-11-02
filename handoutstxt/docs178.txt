@@ -1,0 +1,96 @@
+INSTRUCTION DIVISION FIRST SEMESTER 2016 - 2017
+Course Handout Part II Date: 01.08.2016
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.
+
+: PHY F112
+
+Course Title
+
+: General Physics
+
+Instructor-in-charge : B. Harihara Venkataraman
+
+Scope and Objective of the course The objective of this course is to give a general overview of the fundamentals of basic Physics. The course will broadly cover the following topics: Oscillations, Waves and Optics.
+
+Textbook
+
+ Fundamentals of Physics Halliday, Resnick & Walker, John Wiley & Sons.
+
+Reference Books
+ Principles of Physics (3rd edition) R.A. Serway and J.W. Jewett, Thomson Brooks/Cole  Sears & Zemansky's University Physics (11th edition) H.D. Young and R.A. Freedman,
+Pearson Education (LPE).
+
+Course Plan
+
+Lecture
+
+Learning objective
+
+Number
+
+1 - 5 Oscillations
+
+6 - 10
+
+Waves
+
+11 - 17
+
+Optics - Interference
+
+Topics to be covered
+Simple harmonic motion, Damped simple harmonic motion, Forced oscillations and resonance Speed, Energy and Power of a wave, Principle of super position, Beats Wave nature of light, Interference, Young's interference experiment, Coherence, Double slit interference, Michelson's interferometer
+
+References /Chapters 16
+17 and 18.7
+36
+
+18 - 22 23 - 27 28 - 30 31 - 42
+
+Diffraction Polarization Photons and matter waves Atoms, molecules and solids
+
+Diffraction and wave theory of light, Single slit, Double slit diffraction, Grating, Dispersion, Resolving power, X - ray diffraction Electromagnetic spectrum, Polarization, Reflection and refraction, Total internal reflection, Polarization by reflection Quantum of light, Photo electric effect, Matter waves, SchrOdinger wave equation, Heisenberg's uncertainty principle Electron spin, Angular and magnetic dipole moments, Stern - Gerlach experiment, Magnetic resonance, Pauli exclusion principle, X - rays and the numbering of elements, Lasers, Insulators, Metals, Semiconductors, Electrical properties of solids
+
+37
+34.6 - 34.9
+39
+41.1 - 41.7, 41.10 42.1 - 42.6
+
+Evaluation Scheme
+
+EC Evaluation Duration Weightage No. component
+
+1 Test 1
+
+1 hour 20 %
+
+2 Test 2
+
+1 hour 20 %
+
+3 Assignment
+
+20 %
+
+4 Compre exam 3 hours 40 %
+
+Date & time
+
+Nature of component
+
+10 - 9 - 2016 (2.30 - 3.30PM) 22 - 10 - 2016 (2.30 - 3.30PM)
+
+Closed Book Closed Book Open Book
+
+12 - 12 - 2016 (FN)
+
+Closed book
+
+Chamber consultation Hours : To be announced in the class.
+Notices: Notices and solutions will be displayed only on the Physics notice board.
+Make-up policy: Make up will be granted ONLY for serious medical emergencies.
+Instructor-in-charge PHY F112
+
+

@@ -1,0 +1,106 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE - PILANI, HYDERABAD CAMPUS INSTRUCTION DIVISION, FIRST SEMESTER 2016-2017 (COURSE HANDOUT: PART-II)
+
+Date: 01/08/2016
+
+In addition to Part-I (a general handout for all courses appended to the time-table), this handout provides the specific details of this course.
+
+Course No.
+
+:
+
+Course Title
+
+:
+
+Instructor-in-charge :
+
+ME G537 CRYOGENIC ENGINEERING R. PARAMESHWARAN
+
+1. Course Description Introduction to cryogenics and its applications, properties of cryogenic fluids, properties of materials at cryogenic temperature, gas-Liquefaction and refrigeration systems, gas separation, cryocoolers, cryogenic insulations, vacuum technology, instrumentation in cryogenics, safety in cryogenics.
+
+2. Scope and Objective The purpose of this course is to provide introductory knowledge of the cryogenic principles and the engineering aspects of low temperature applications. The course also gives detailed knowledge and state-of-the-art review of a variety of cryogenic systems pertaining to the potential research and real-world applications. Besides the theoretical knowledge, the course will also embark with interactive approach to mathematically analyze the cryogenic systems design. The course will certainly interest students aiming to build-up a research career in Cryogenic Engineering.
+
+Prerequisites: Thermodynamics, Heat transfer, Refrigeration systems
+
+3. Text Books:
+T1. Klaus D. Timmerhaus and Thomas M. Flynn, Cryogenic Process Engineering, Plenum Press, Springer Science+Business Media New York, 1989.
+T2. S. S. Thipse, Cryogenics: A Textbook, Narosa Book Distributors Pvt Ltd India, 2013.
+
+Reference Books:
+R1. Valery V. Kostionk, Digumarti Bhaskara Rao, A Text Book Of Cryogenics, Discovery Publishing House India, 2003.
+R2. Guglielmo Ventura, Lara Risegari, The Art of Cryogenics Low-Temperature Experimental Techniques, Imprint: Elsevier Science, First Edition, 2008.
+
+4. Course Plan
+
+Lecture No.
+
+Learning objectives
+
+1-4
+
+Introduction to fundamentals of Cryogenics and its applications
+
+5-8 Properties of cryogenic fluids Material properties at cryogenic
+9-14 temperature
+
+Topics to be covered
+Overview of thermodynamics basics, refrigeration cycles, Cryogenics, and applications. Study of cryogenic fluids, types and their properties.
+Mechanical, Thermal, and Electrical properties, Superconductivity.
+
+Book T1, T2
+T2 T1, T2
+
+Page 1 of 2
+
+15-18 19-23 24-28 29-32
+33-35
+36-38 39-42
+
+Liquefaction cycles
+Cryo-refrigerators and its types Critical components in liquefaction systems Cryogenic gas separation and rectification column analysis
+Storage and transfer Systems
+Cryogens design, instrumentation and safety On-going research in cryogenics
+
+Principles of refrigeration and liquefaction, Joule-Thomson expansion, Isentropic expansion, Cascade processes, Types of cryo-refrigerators, Thermodynamic analyses of systems. Heat exchangers, Compressors, Expanders, Performance parameters of critical components, system optimization. Ideal separation of gases, characteristics of Mixtures, principles of gas separation, types of separation and purification systems Storage systems for cryo-liquids, transfer systems, insulation concepts, Industrial storage and transfer, cooling of storage and transfer Properties, characterization, basic instrumentation concepts, safety in handling cryogenic fluids and systems Recent trends in cryogenics, materials and applications.
+
+T2 T1 T1 T2
+T2
+T1, T2 T2
+
+5. Evaluation Scheme Evaluation Component Test-I Test-II Project
+Seminar Comprehensive Exam
+
+Duration Weighting (%)
+
+60 min 60 min
+
+15 15
+
+--- 30
+
+--3 hours
+
+10 30
+
+Date & Time
+9/9, 8.30-9.30 AM 24/10, 8.30-9.30 AM To be announced in the
+Class To be announced in the
+Class 03/12 FN
+
+Nature of Component
+CB CB
+OB
+OB CB
+
+6. Chamber Consultancy Hour: To be announced in the class room.
+
+7. Notices: All notices concerning this course shall be displayed only on the Mechanical Engineering Notice Board. Besides this, students are advised to visit regularly CMS (the Institute's web based
+course management system) for latest updates.
+
+8. Make-up Policy: Make-up shall be given only to the genuine cases with prior confirmation. Request for the make-up tests, duly signed by the students, should reach the under signed well before the scheduled test.
+
+Instructor-in-Charge ME G537
+
+Page 2 of 2
+
+

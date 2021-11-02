@@ -1,0 +1,164 @@
+Birla Institute of Technology and Science, Pilani
+Instruction Division
+First Semester 2016-2017
+Course Handout Part II                                                                 
+        
+01-08-2016
+In addition to Part I (General Handout for all courses appended to the Time Table), this portion gives further specific details regarding the course.
+
+Course No.		:  BITS F311 
+Course Title		:  Digital Image Processing
+Instructor-in-Charge: Dr. Anand Narasimhamurthy
+
+Course Description: This is a first course on digital image processing, no prior knowledge of image processing is assumed. It begins with an introduction to the fundamentals of digital images and discusses the various discrete transforms, which are extensively used in image processing. It then goes on to discuss the different image processing techniques such as image enhancement, image restoration and image compression. Automatic image classification and recognition will be briefly touched upon.
+Pre requisites : Although it will be covered during the course, some familiarity with Fourier transform would be useful. 
+
+Scope and Objective: The course introduces the students to the fundamentals of digital images and various image processing techniques. At the end of the course the student is expected to be comfortable with processing 2D images and applying basic image processing techniques including edge detection, histogram equalization etc. The student is also expected to have a working knowledge of spatial and frequency domain techniques and a good basic level understanding of image compression techniques.
+
+Text Book: 
+T1 Gonzalez, R. C. and R. E. Woods, Digital Image Processing, LPE, Pearson Prentice Hall, 3rd edition., First reprint, 2009.
+
+T2 Anil K Jain, Fundamentals of Digital Image Processing, Publisher Prentice Hall
+
+Reference Books: Foundations of Coding, Jiri Adamek, Wiley, 1991
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Course Plan:
+
+
+Lecture No.
+Learning Objectives
+Topics to be covered
+Reference
+ 1-2
+To introduce fundamental concepts and terms associated with digital images.
+A simple image formation model; image sampling, quantization and interpolation
+T1 (Sec. 2.3.4  2.4.4)
+T2 Chapter 1
+3-6
+Image enhancement 
+A few basic gray level transformations
+T1 Sec. 3.2.1  3.2.4
+T2 Chapter 1
+7--8
+Image pre processing techniques
+Histogram equalization, contrast enhancement
+T1 Chapter 3
+9-11
+Spatial domain filtering
+Spatial filtering: 
+smoothing and sharpening, edge detection, median filtering
+T1 Chapter 3,
+Additional reading
+
+12-14
+Morphological Operations
+Erosion, dilation, Opening closing, Hit-or-miss transformation
+T1 Chapter 9,
+Additional reading
+Fourier transform and frequency domain filtering
+15-17
+Fourier Transform and the frequency domain, 
+Digital Fourier transforms
+Fourier Transform, 
+Tentative : sampling theorem, reconstruction
+
+DFT, Functions of two variables
+T1 Chapter 4 
+18-19
+Properties of 2D DFT
+Convolution, Correlation
+T1, Chapter 4, Sec  4.6
+20-24
+Filtering in the 
+frequency domain 
+Filtering in the frequency domain,smoothing,sharpening and selective filtering
+T1 Chapter 4
+25-26
+Fast Fourier Transform 
+Fast Fourier Transform
+T1, Chapter 4, Sec. 4.11
+  27-30
+Image degradation 
+Image degradation model,
+Estimation of degradation
+
+Tentative (time permitting): Inverse filtering
+T1, Chapter 5
+
+
+
+
+Image compression
+ 31  32
+To introduce the fundamentals of image compression
+Fundamentals of image compression
+T1, Chapter 8 
+ 33  37
+Basic Compression methods
+Huffman, Golomb, arithmetic and LZW coding.
+
+Tentative (time permitting)
+Run-Length, symbol based, Bit plane and predictive coding
+T1, Chapter 8
+Optional additional topics (tentative, time permitting)
+ 38  42
+
+Image segmentation, 
+Image de noising
+Additional readings
+
+
+
+Evaluation Scheme:
+
+Evaluation Component
+Duration
+Weightage
+Date, Time & Venue
+Nature of Component
+  Test I
+1 hour
+   20%
+13/9, 2.30--3.30PM
+Closed Book
+  Test II
+1 hour
+   20%
+21/10, 2.30--3.30PM
+Closed/Open Book
+Assignments & Projects & Presentations
+
+   20%
+
+
+Comprehensive Examination
+3 Hours
+   40%
+13/12 AN
+Closed Book + Open Book
+
+Chamber Consultation hours: To be announced in the class.
+
+Make-up Policy:
+Prior Permission of the Instructor-in-Charge is required to take a make-up for a test.
+A make-up test shall be granted only in genuine cases on justifiable grounds.
+
+Notices: Notice regarding the course will be displayed on the CMS and CS & IS group notice board. 
+
+
+Instructor-in-charge
+         BITS F311

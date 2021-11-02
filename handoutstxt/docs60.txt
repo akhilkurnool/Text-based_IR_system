@@ -1,0 +1,179 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI, HYDERABAD CAMPUS
+INSTRUCTION DIVISION, FIRST SEMESTER 2016-17 COURSE HANDOUT (PART-II)
+
+Date: 21-07-2016
+
+In addition to Part I (General Handout for all the courses appended to the time table), this portion gives further specific details regarding the course.
+
+Course No. Course Title Instructor-in-charge Team of Instructors Lecture Tutorial
+Practical
+Course Description
+Scope and Objective
+
+CS / EEE / ECE / INSTR F215 Digital Design SOUVIK KUNDU
+Souvik Kundu, BVVSN Prabhakar Rao, Syed Ershad Ahmed Souvik Kundu, Syed Ershad Ahmed, Surya Shankar Dan, BVVSN Prabhakar Rao, Chetan Kumar V. Souvik Kundu, Surya Shankar Dan, Chetan Kumar V, Soumya J, Sai Phaneedra, Gautam Makkena, and Avinash This course covers the topics on logic circuits and minimization, Combinational and sequential logic circuits, Programmable Logic devices, State table and state diagrams, Digital ICs, Arithmetic operations and algorithms, Introduction to Computer organization, Algorithmic State Machines The objective of the course is to impart knowledge of the basic tools for the design of digital circuits and to provide methods and procedures suitable for a variety of digital design applications. The course also introduces fundamental concepts of computer organization. The course also provides laboratory practice using MSI devices.
+
+Text Books:
+T1: M.Moris Mano and Michael D. Ciletti " Digital Design", PHI, 4th Edition, 2009 T2: G Raghurama, TSB Sudharshan "Introduction to Computer Organization". EDD notes
+2007 T3: Laboratory Manual for Digital Electronics and Computer Organization.
+
+Reference Books:
+R1: Donald D. Givonne, "Digital Principles and Design" TMH, 2003. R2: Samir Palnitkar, "Verilog HDL", Prentice Hall; 2 edition, 2003
+
+1
+
+Course Plan
+
+Lect. No. 1
+2-3
+4-5 6 7
+8-10 11-12
+13
+14-15 16-18
+19-20 21
+22-23 24-27 28-30 31-33 34-36 37-39 40-42
+
+Learning Objectives
+Introduction to Digital Systems and
+Characteristics of Digital ICs.
+Boolean algebra and logic gates, Codes number systems
+Simplification of Boolean functions
+Simulation and synthesis basics
+Simplification of Boolean functions
+Combinational Logic, Arithmetic circuits MSI Components
+Simulation of Combinational Logic
+Functions. Sequential Logic
+Clocked Sequential Circuits
+Registers & Counters
+Simulation of Sequential Logic Functions.
+Analysis of arithmetic units
+Modular approach for CPU Design
+Design of Digital Systems Design of Asynchronous
+Circuits. Memory and PLDs Memory Organization
+Digital Integrated Circuits
+
+Topics to be covered Digital Systems, Digital ICs
+
+Reference to Text Book
+1.1, 1.9, 2.3, 10.1 & 10.2
+
+Boolean functions, Canonical forms, number systems and
+codes K-Maps (4,5 variables)
+Hardware Description Language
+QM Method
+Adders, Subtractors, Multipliers
+Comparators, Decoders, Encoders, MUXs, DEMUXs HDL for Combinational Logic
+
+1.2 - 1.7, 2.4-2.9
+3.1- 3.8 3.11 3.10
+4.1 - 4.7 4.8 - 4.11
+4.12
+
+Flip-Flops & Characteristic tables, Latches
+Analysis of clocked sequential circuits, state diagram and reduction
+Shift registers, Synchronous & Asynchronous counters
+HDL for Sequential Logic
+
+5.1 - 5.4 5.5, 5.7 & 5.8
+6.1 - 6.5 5.6
+
+Multiplication & Division algorithms
+RTL, HDL description
+
+T2: Appendix A & Class Notes
+8.1 & 8.2, 8.4 - 8.8
+
+Algorithmic State Machines Asynchronous Sequential Logic
+
+R1. Chapter 8 9.1 - 9.4
+
+RAM, ROM, PLA, PAL Memory Hierarchy & different
+types of memories TTL, MOS Logic families and
+their characteristics
+
+7.2, 7.5 - 7.7 T2: Ch 6 & Class
+Notes 10.3, 10.5, 10.7 - 10.10
+
+2
+
+Lab Experiments
+
+S.No 1 2
+3
+4 5
+6 7
+8 9 10
+11
+12
+
+Experiment Familiarization of Bench Equipment
+Implementation of Boolean Functions using Logic Gates Write Verilog code at gate level and verify (i) 3-input majority function using AND - OR logic gates (ii) even - odd parity generation (iii) Binary - Gray code conversion Adders and Subtractors
+Write Verilog code at gate level and verify (i) 1-bit full adder and (ii) 4-bit full adder using (a) instantiation and (b) Test bench BCD Adder
+Write Verilog code for (i) 1-bit full adder and (ii) 4-bit full adder using data-flow modeling Decoders, Multiplexers and Demultiplexers
+Comparators & Arithmetic Logic Unit
+(i) Latches & Flip- Flops (ii) Write Verilog code for implementing various flip-flops (i) Counters (ii) Write Verilog code for implementing counters Shift Registers
+
+Reference
+A complete Lab Manual is available on CMS and also one hard-copy in the Digital Design Lab
+
+General Instructions for Lab
+
+1. There will be an observation book of 100 pages (white) 2. After every lab, observation book must be signed by Faculty/Research Scholar 3. Lab carries 20% weightage.
+(i) 10% day to day evaluation (including attendance) and (ii) 10% Final Lab Examination 4. Only one makeup will be allowed
+
+Evaluation Scheme:
+
+Component Test-I Test-II
+
+Duration
+
+Weightage (%) and Marks
+
+1 Hour
+
+25% (75)
+
+1 Hour
+
+25% (75)
+
+Date & Time
+As per ID
+As per ID
+
+Nature of Component Closed Book
+Open Book
+
+3
+
+LAB component
+
+Day to Day Evaluation
+
+13.33% (40)
+
+Regular
+
+Comprehensive Exam TOTAL
+
+LAB Exam
+3 Hours
+
+6.67% (20)
+30% (90) 100% (300)
+
+Will be announced As per ID
+
+Demo/Practicals/ (Open Book)
+Closed Book Closed Book
+
+Make-up Policy: There will no make-ups unless for genuine reasons. Prior Permission of the Instructor-in-Charge is required to take a make-up for any component.
+Chamber Consultation Hour: To be announced in class.
+Notices: All notices shall be displayed only on the EEE/ECE Notice Board / CMS.
+
+Dr. Souvik Kundu Instructor-in-charge
+(CS/EEE/ECE/INSTR F215)
+
+4
+
+

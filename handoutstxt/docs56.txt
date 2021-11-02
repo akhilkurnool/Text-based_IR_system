@@ -1,0 +1,127 @@
+		Date: 2nd Aug 2016
+FIRST SEMESTER 2016-2017
+    	LAB and Open Book Evaluation Plan	
+
+In addition to Part I (General Handout for all courses appended to the timetable) and course hand out part II, this portion gives specific details about lab work and take home evaluative components for the course for students in Hyderabad Campus.
+
+Course No.: 		CS G525 
+Course Title:		Advanced Computer Networks
+Instructor(s):		Abhishek Thakur (Hyderabad Campus)  
+Email(s):		abhishek[AT]hyderabad.bits-pilani.ac.in
+Course web page: 	For Labs and Open Book Evaluation - http://cms.bits-hyderabad.ac.in
+
+Objective: engage ourselves in industry relevant networking research and contribute to Open Source.
+
+
+Module No.
+Topics
+Study / Lab Focus
+M1
+Internet Design & Architecture: 
+		Simulations to understand the current design choices.  [NS3]
+		Linux commands and tools that help in Networking. [Wireshark, IP Tables, tunnels and bridges]
+		Akamais SOTI report and Ciscos Reports
+M2
+Network Traffic Control & Management: 
+		Wireless sniffing, WiFi AP.
+		Erricson or similar wireless communications report
+		Simulations in Wireless Communication
+		Multi-node routing + VLAN 
+M3
+Software Defined Networks (SDNs): 
+		Gartner or IDC data center reports.
+		Simulate / Implement / Program SDNs
+M4
+Delay Tolerant Networks(DTNs): 
+		5G Adoption reports, Device 2 Device based communication. 
+		Simulate DTN. 
+M5
+Overlay Networks & Applications: 
+		Deploy P2P apps
+		Explore BlockChains
+		NetFPGA  
+
+
+
+Lab Weekly Plan:
+Week. No.
+Read / Discuss / Demo
+Hands On
+1
+Akamais SOTI 
+Wireshark, Tunnels, IPTables, VM  QEMU/ KVM,  nmap, traceroute etc.
+2
+TCP/IP RED
+NS3  install build and run topologies with multimode and TCP/IP
+3
+Industry perspective on 802.11 - WiFi
+NS3 simulations in Wireless; 
+4
+Prepare for Assignment 1
+Prepare for Project proposal
+5
+Present Assignment 1
+Discuss project proposals + Advanced discussions on simulations.
+6
+IDC / Gartner Data Center related reports 
+Identify tools and environment for project
+7
+Present Assignment 2
+Discuss project goals and plan
+8
+Test series
+Implement project
+9
+Present Assignment 3
+Explore SDN options
+10
+Analyse SDN alternatives
+Deploy SDN simulators or SDN product
+11
+Present Assignment 4
+Project Demo Initial
+12
+NetFPGA  explore and run existing projects
+13/14
+
+Final project Demo and Report
+
+Evaluation Scheme: 
+
+EC No.
+Evaluation Component
+Duration      (hrs)
+Weightage(%)
+Date & Time 
+Nature of Component
+1.
+Mid Semester Test
+1.5
+20
+
+Close Book
+2.
+Term Project/Assignment(s)*
+NA
+35
+
+Open Book
+3.
+Comprehensive Examination
+3
+35
+
+Close Book
+4.
+Classroom Discussions/Quizzes/Discussion Forum on NALANDA
+NA
+10
+
+Open Book
+
+15% weightage to Assignment  Best 3 out of 4
+20% weightage to Project  Proposal  2%, Plan  5%, Basic demo  6%, Final Demo + Report  7%.
+
+Quiz will have 5% weightage. 
+Discussions in Nalanda and Lab Records will have weightage of 2%.
+Questions during assignment and project presentations will have 3% weightage.

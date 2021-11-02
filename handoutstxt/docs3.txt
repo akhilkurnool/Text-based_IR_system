@@ -1,0 +1,170 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI
+HYDERABAD CAMPUSPRIVATE 
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+01.08.2016
+Course Handout (PartII)
+In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.		: BIO F212
+Course Title		: Microbiology   
+Instructor In-charge	: VIDYA RAJESH
+Team of Instructors	: Daipayan Ghosh
+
+ 1. Description of course
+This course will help in understanding the basic principles of Microbiology, the classification and description of microorganisms, study of the role of microbes in human disease and in human health, and the overall benefits and uses of microorganisms.
+
+2. Scope & Objective of the Course
+The primary objective of this course is to provide a quality educational experience in a field of laboratory science. This course will provide students with a basic knowledge of the principles of bacteriology, virology, and immunology, and introduce them to recombinant DNA technology. During the course students will be encouraged to develop good laboratory techniques that will be useful in subsequent courses as well as in their careers. A clear understanding of the principles of microbiology is fundamental to the comprehension and appreciation of subsequent courses. This course encourages students to think critically and to engage in a deeper understanding of their microbial environment.
+
+3. Text Book (TB): 
+1. Tortora, Gerard J & Others Microbiology: An Introduction Pearson Edu., 11th ed., 2016
+2. John, Saby & S. Ramachandran Laboratory Manual for Microbiology Notes EDD , 2006
+
+4. Reference Book (RB):
+Willey, J.M., Sherwood, L.M. and Woolverton, C.J. 2008. Prescott, Harley and Kleins Microbiology, 7th Edition, McGraw Hill, India. 
+
+5. Lab Manual:
+Laboratory Manual for Microbiology (BIO C241 & PHA C241), 2006, Educational Development Division, BITS, Pilani.
+
+6. Course Plan: 
+Lec. No.
+Learning Objectives
+Topic to be covered
+Ref. to Chapters
+1-2
+Introduction to microbiology
+The microbial world
+TB-2, RB-1 
+3-4
+Methods in Microbiology
+Microscopy and Specimen preparation 
+TB-3, RB-2
+5-7
+Methods in Microbiology
+Requirement for growth, obtaining pure cultures and maintenance
+TB-6, RB-5
+8-10
+Study of Microbial Structures
+The morphology & fine structure of bacteria
+TB-4, RB-3
+11-13
+Microbial Growth
+Growth of Microbes and its measurement
+TB-6, RB-6
+14-17
+Microbial Physiology
+Microbial metabolism 	
+TB-5, 
+RB-8,9,10
+18-20
+Microbial Genetics
+The genetics of microorganisms
+TB-8, 
+RB-11,12,13 
+21-22
+The Microorganisms
+The characterization, classification and identification of microorganism  
+TB-10, 11 RB-19
+23-27
+Study of Microbial Structures
+Eukaryotic microorganisms
+TB-12, RB-4
+28-30
+Virology
+Virus, Viroids, Prions
+TB-13, 
+RB-16,17,18
+31-33
+Control of Microorganism
+Physical and chemical methods of microbial control, Antimicrobial drugs
+TB-7, 20
+RB-7
+34-38
+Clinical Microbiology
+Principles of diseases and epidemiology, Microbial Mechanisms of Pathogenicity
+TB-14, 15
+
+39-40
+Environmental Microbiology
+Microbiology of soil, domestic and waste water
+TB-27
+RB-27,29,41
+41-42
+Applied Microbiology
+Microbiology of food and Industrial microbiology
+TB-28
+RB-40,41
+7. Portions for self-study:
+To be announced in class from time to time. 
+8. Lab Components: 
+Exp 1	: Introduction to Laboratory 
+Exp 2	: Preparation and Sterilization of culture media 
+Exp 3	: Isolation of pure cultures (Bacteria and Fungi) and quantitation of viable cells 
+Exp 4	: Staining and motility of bacteria- Simple staining, Hanging drop technique
+Exp 5	: Staining of bacteria- negative staining, Grams staining,  
+Exp 6	: Staining and visualization of Fungi
+Exp 7	: Effect of environmental factors upon growth of microorganisms
+Exp 8	: IMViC Test
+Exp 9	: Starch hydrolysis in bacteria
+Exp 10 	: Assay of antibiotics 
+Exp 11	: Phage titration
+Exp 12	: Bacterial conjugation
+Exp 13	: Phenol coefficient for antimicrobial agent. 
+Exp 14	: Milk Microbiology
+Note: Out of the above mentioned list, a maximum of 12 experiments will be conducted in the Semester as per the availability of the consumables.
+
+9. Evaluation Scheme:
+
+EC No.
+Evaluation Component
+Duration
+Weightage (%)
+Date, Time & Venue
+Remarks
+1.
+Test I
+60 min
+15 % (45)
+8/9, 11.30-12.30 PM
+Closed Book
+2.
+Test II
+60 min
+15 % (45)
+25/10, 11.30-12.30 PM
+Open Book
+4.
+Laboratory evaluation
+
+30% (45 + 45)
+
+Partly Open Book
+5.
+Comprehensive
+3 hours
+40 (120)
+07/12 AN
+Closed Book
+    
+10. Chamber consultation hour: To be announced in the class.
+11. Notices: All notices will be displayed on the notice board of Department of Biological Sciences.
+12. Make-up policy: Make-up decisions will be made on a case-by-case basis and only genuine cases as determined by the team and validated by Medical Officer will be considered. No make-ups for Lab component and Quizzes. 
+
+Instructor-in-charge
+ BIO F212                                                   
+
+
+
+
+
+
+ 
+
+ 
+
+ PAGE   \* MERGEFORMAT 1
+
+
+
+

@@ -1,0 +1,284 @@
+BIRLA INSTITUTRE OF TECHNOLOGY AND SCIENCE, PILANI- HYDERABAD CAMPUS
+FIRST SEMESTER 2016-2017 COURSE HANDOUT
+
+
+
+Date: 01.08.2016
+Course No.
+:
+PHY F215
+Course Title
+:
+INTRO TO ASTRO & ASTROPH
+Instructor
+:
+Rahul Nigam  [Office A-204]
+E-mail	:	rahul.nigam@hyderabad.bits-pilani.ac.in
+
+Objectives & Scope of the Course:
+The course aims to give Physics/non-Physics major students an elementary introduction and overview of Astrophysics and Cosmology. This is for students who were always curious about the sky out there but never had a chance to know it deeper. And of course, for students who want to pursue their career in Astro. The course covers broad spectra of topics, from the era of Kepler to Einstein, using basic principles of physics, keeping rigorous mathematics to minimum. Students can have hands-on experience working on a relevant topic of their choice also. We plan to have some sky-watching sessions also.
+
+Text Book:	Fundamental Astronomy: Karttunen, H., Krger, P., Oja, H., Poutanen, M., Donner, K.J
+Reference Book:	An Introduction to Modern Cosmology by Andrew Liddle
+G Ryan and Andrew J Norton Stellar Evolution and Nucleosynthesis
+Detailed Course Plan:
+
+Lect
+Chapters
+Topics to be Covered
+Book
+ure
+
+
+Chapters
+Num
+
+
+
+ber
+
+
+
+1
+Introduction
+Brief historical timeline of astronomy
+Class
+
+
+
+notes
+2 to
+Basic Concept of
+Celestial coordinates, Photometric concepts (Intensity, radiation,
+TB 2-5
+4
+Astronomy
+Luminosity), Magnitude scale, H-R diagram, Constellations.
+
+
+
+Astronomical nomenclature, Telescope, Radiation mechanism,
+
+
+
+Emission & Absorption Coefficients and Optical Thickness.
+
+5 to
+Celestial
+Recapitulation of Vector calculus, Newtonian Mechanics and
+TB 6,
+8
+Mechanics
+Gravity, Kepler's planetary motion, 2 body problem, Kepler's
+class
+
+
+Equation & its solution, Escape velocity, Virial theorem.
+notes
+9 to
+Solar System
+An overview of solar system, planets, minor bodies of solar
+TB 7,
+15
+
+system, solar atmosphere, stellar rotation and magnetic field,
+12,
+
+
+solar interior-helioseismology and solar neutrino problem,
+class
+
+
+energy sources of the sun.
+notes
+
+TEST1
+
+
+16-
+Binary stars,
+Visual Binaries, Astrometric Binary Stars, Spectroscopic
+TB 9,
+17
+Variable Stars
+Binaries, Photometric Binary Stars
+13
+18-
+Stellar Evolution
+Main Sequence, Stellar evolution, Red giant, Final stages of
+TB 11,
+20
+
+evolution, Supernova, Origin of elements, Star formation-Jeans
+class
+
+
+Criterion for gravitational collapse.
+notes
+21 to
+Compact Stars
+Degenerate Fermi Gas, Equation of state, TOV equation.
+TB 14,
+27
+
+Newtonian Stars: Hydrostatic equilibrium, equation of state.
+class
+
+
+
+
+White dwarf: Electron degeneracy pressure, Chandrasekhar
+notes
+
+
+mass limit
+
+
+
+
+Neutron star: composition, radius, maximum mass
+
+
+
+Pulsars: Discovery, rotation period, energy loss from a pulsar,
+
+
+
+magnetic field strength, ages of pulsars.
+
+
+
+
+Black holes: Creation of black holes, black hole binaries,
+
+
+
+observational evidence.
+
+
+28
+Interstellar
+Large Scale Distribution of Interstellar Matter, Interstellar Lines,
+TB 15
+
+medium
+Interstellar Clouds, dust, gas, molecules.
+
+29 to
+Galaxies
+Our Galaxy ( Milky Way), Classification of Galaxies Distribution
+TB 17,
+32
+
+of Galaxies: Luminosity and Mass,spectra of Galaxies, Local
+18,
+
+
+Group of Galaxies, Cluster of Galaxies,
+Radio Galaxies, AGN,	l
+ecture
+
+
+Quasars.
+
+notes
+
+TEST 2
+
+
+33 to
+Cosmology
+Introduction, Observational Overview of
+the Universe:
+RB
+42
+
+Homogeneity and isotropy, The expansion of the Universe,
+
+
+
+Particles in the Universe.
+
+
+
+
+Newtonian Gravity :The Friedmann equation
+
+
+
+The Geometry of the Universe: Flat, spherical, hyperbolic.
+
+
+
+Simple Cosmological Models : Hubble's law, Expansion and
+
+
+
+redshift, Solving the equation: Matter, Radiation, mixture.
+
+
+
+Cosmological Constant.
+
+
+
+
+Dark matter, The Cosmic Microwave Background,
+
+
+
+The early Universe: Big Bang, Baryogenesis, inflation,
+
+
+
+nucleosynthesis, recombination, last scattering surface.
+
+
+5. Evaluation Scheme:
+
+Evaluation
+Duration
+Weight age
+Date, Time
+Nature of
+
+
+
+(%)
+
+Component
+1.
+Test I
+60 mins.
+20.00%
+9/9, 4.00--5.00 PM
+Close Book
+2.
+Test II
+60 mins.
+20.00%
+24/10, 4.00--5.00 PM
+Open Book
+3.
+Seminar
+10 mins. each
+20.00%
+
+Open
+4.
+Comprehensive
+180 mins.
+40.00%
+10/12 AN
+Closed Book
+
+Examination
+
+
+
+
+
+		Chamber Consultation Hour: By prior appointment
+		Notices: Notices for the course will be displayed on the Physics Group notice board and CMS.
+		Make-up Policy: Make-up will be given only against the application forwarded by chief warden. No make-up requests after completion of examination will be entertained.
+Instructor PHY F215

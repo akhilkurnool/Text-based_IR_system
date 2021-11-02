@@ -1,0 +1,134 @@
+FIRST SEMESTER 2015-2016 INSTRUCTION DIVISION
+COURSE HANDOUT (Part-II)
+
+Course No. Course Title
+
+: IS C341 : Software Engineering
+
+INSTRUCTOR-IN-CHARGE:
+
+RAKHEE
+
+INSTRUCTOR: Rakhee, KCS Murti
+
+30/07/2015
+rakhee@hyderabad.bitspilani.ac.in
+
+Course Description Software Engineering Concepts and Methodologies; Formal Requirements Specification; Estimation; Software Project Planning; Detailed Design; Techniques of Design; Productivity; Documentation; Programming Language Styles; Code Review; Tools; Integration & Validation; Software Quality Assurance; Software Maintenance; Automated Tools in Software Engineering.
+Objectives  Teach fundamental principles and techniques used in the development of large software
+systems.  Provide ability to work on real life IT projects.
+At the end of the course, the students will be able to take up software development projects following standard processes.
+Text Book
+T1 Pressman, R.S., Software Engineering: A Practitioner's Approach, MGHISE, 7th Ed. 2010 and MGHISE,6th Ed.2005
+T2 Larman, C., Applying UML and Patterns: An Introduction to Object-Oriented Analysis & Design and the Unified Process, Pearson Education, 2nd Ed., 2002.
+Reference Books R0 Pankaj Jalote, An integrated Approach to Software Engineering, Narosa R1. Summerville I, Software Engineering, Pearson Education, 7th Edition, 2005 R2. Grady Booch et.al, Unified Modeling Language User Guide, Pearson Education, 1999 R3. Meilir Page-Jones, Fundamentals of Object-Oriented Design in UML, Pearson Education. R4. Martin Fowler et.al., UML Distilled, Pearson Education, 2000. R5. Terry Quatrani, Visual Modeling with Rational Rose 2000and UML, Addison Wesley, 2000. R6. James W Cooper: Java Design Patterns; A Tutorial, Pearson Education, 2000 R7. Erich Gamma et. al., Design Patterns : Elements of Reusable Object-Oriented Software,
+Pearson Education, 2000
+Note that a significant amount of UML related material is available on the OMG website: www.omg.org
+
+Page 1 of 2
+
+Lecture Plan:
+
+Lecturer
+
+Topics
+
+No.
+
+L1 Introduction to Software Engineering (SE)
+
+L2-4
+
+SE - Process Models, Unified Process
+
+L5-6
+
+Agile View of Process
+
+L7-10
+
+Requirements Engineering
+
+L11-13
+
+System Models
+
+L14-17
+
+Software Design Notations (functional and object oriented)
+
+L18-21
+
+UML design techniques
+
+L21 Design engineering
+
+L22-25
+
+Software Architecture, design patterns
+
+L26-31
+
+Software Testing - Strategies & Tactics
+
+L32 - L37
+
+Software project management - Estimation , Project Schedule &
+
+Risk Management
+
+L38-40
+
+Software Metrics
+
+L41-42
+
+Quality Assurance and Reliability
+
+L43-L44
+
+Advanced Topics in SE
+
+Reference Text Book Ch. 1 Ch 2-3 Ch 4 Ch6,7 Ch8 Ch8, 9,T2, R2 T2, R2 Ch8, 9,T2, R2 Ch 11,12 R1 Ch 13,14 Ch 23-27
+Ch 15 Ch26 -
+
+EVALUATION SCHEME:
+
+S No.
+
+Component
+
+1 Test-1
+
+2 Test-2
+
+3. Labs/assignments
+
+4. Comprehensive
+
+Examination
+
+Duration 1hour 1hour
+3 hours
+
+Weightage 15% 15% 40% 30%(10% closed+20 %open)
+
+Date, Day & Hour
+
+Remarks Close Book Close Book Open Book Close /Open Book
+
+Labs/Assignments will include the following components involving complete SDLC:  Requirements  Design and documentation using UML  Project management  Quality
+
+Chamber Consultation Hours: To be announced later.
+
+Make-up Policy: No makeup will be given for Team project and assignments. However for Tests makeup may be granted on only genuine grounds if permission is sought from the Instructor-in-charge prior to the test.
+
+Notices: Notices regarding the course will be posted on CMS.
+
+Instructor-in-charge
+
+IS C341
+
+Page 2 of 2
+
+

@@ -1,0 +1,114 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI, HYDERABAD CAMPUS
+FIRST SEMESTER 2016-2017
+Course Handout (Part  II)
+                                           Date: 01/08/2016
+In addition to partI (General Handout for all courses appended to the timetable) this portion gives further specific details regarding the course.
+Course No.		:  CHEM F211
+Course Title		:  PHYSICAL CHEMISTRY I
+Instructor-in-charge	:  AMIT NAG   
+
+Scope and Objective of the Course: The course is concerned with the basic understanding of physical chemistry for the students at undergraduate level. It includes the kinetic theory of gases, chemical thermodynamics and its applications to solutions, equilibrium and electrochemical systems. The course looks at the concept of energy and energy changes occurring in physical, chemical and biological systems. It thus belongs to all branches of science and its knowledge equips the scientists to predict the existence of a state or the probability or feasibility of a process to occur at a given temperature and pressure. The course will include a brief introduction to principle and the methods of thermodynamics, and its applications in various disciplines.  
+
+2.  Text Book: Physical Chemistry, Ira N. Levine, Fifth Edition, Special Indian Edition  (Tata McGraw-Hill, 2002).
+
+3.  Reference Books:
+(1) Physical Chemistry, G.M. Barrow, Fifth Edition, Special Indian Edition (Tata McGraw-Hill, 2007).
+(2) The  Elements  of  Physical  Chemistry, P.W. Atkins & Julio de Paula, Fifth edition (Oxford University Press, 2009).
+
+4. Course Plan:
+Lecture 
+Nos.
+Topic
+Learning Objectives
+Chapter in the Text Book
+1-4
+Kinetic theory of Gases
+Molecular theory, perfect gas, Maxwell and Boltzmann distribution, collisions, heat capacities
+15.1-15.6, 15.9-15.10
+5-7
+First Law of Thermodynamics
+First Law, p-V work, internal energy, enthalpy, heat capacities, Joule and Joule-Thompson experiments, estimation of Ist Law quantities 
+2.2-2.9
+8-10
+Second Law of Thermodynamics
+Second Law, Heat Engines, Entropy, Thermodynamic Temperature Scale, 
+3.1- 3.6
+11-13
+Material Equilibrium 
+Concepts of Gibbs energy, chemical potential, Phase and Reaction  equilibrium, 
+4.1, 4.4 - 4.5, 4.7- 4.10
+13-15
+Standard States
+Standard states and enthalpies, Temp dependence of reaction heats
+
+5.1-5.5
+16-17
+Third Law of Thermodynamics
+Entropy and third law, estimation of thermodynamic properties
+5.7-5.8, 5.10
+18-20
+Thermodynamics of Ideal Gases and Phase Equilibrium 
+Ideal-gas reaction equilibrium, temperature dependence, One component phase equilibrium, Clapeyron equation 
+6.1-6.4, 7.2-7.3
+21-22
+Thermodynamics of Real Gases
+Real gases,  critical states, law of corresponding states
+8.1-8.4, 8.6,
+8.7
+23-25
+Solutions
+Partial molar quantities, ideal solution 
+9.19.3, 9.5-9.7
+26-27
+Non-ideal Solutions
+Activity and activity coefficients, Debye Huckel Theory, Standard State Properties 
+10.1, 10.8-10.11
+28-30
+Reaction Equilibrium in non ideal systems
+The equilibrium constant, Weak acids-buffers, Temp and pressure dependence of K
+ 11.1, 11.3, 11.7
+31-35
+Multi Component Phase Equilibrium 
+Colligative properties, two component systems, solubility
+12.1-12.10
+36-42
+Electrochemical Systems
+Electrochemical systems and their thermodynamics, Galvanic cells, standard electrode potentials, concentration cells, liquid junction, ion-selective electrodes, membrane equilibrium, double layer
+14.1-14.9, 14.11-14.14
+
+        5.  Evaluation Scheme:
+Evaluation component
+Duration
+Weightage (%)
+Date & Time
+Remarks
+Test I
+1 hour
+20
+13/9, 4.00--5.00 PM
+Closed Book
+Test II
+1 hour
+20
+21/10, 4.00--5.00 PM
+Closed Book
+       Quiz*
+-
+20
+Continuous
+  Closed Book
+Comprehensive Examination
+3 hrs.
+40
+13/12 FN
+  Open Book
+Tutorials: The tutorial hour will be used for a quick review of the highlights of the materials covered in the lectures, clarification of doubts and problem solving. 
+* There will be a total of 4 surprise quizzes.
+ The Comprehensive Examination will have a closed book MCQ type portion with 10% weightage, and an open book descriptive section with 30% weightage.
+
+
+6. Chamber Consultation Hours: To be announced in the class.
+7. Notices:  Notices, if any, concerning the course will be displayed on CMS.
+8. Make-up-policy: Make up would be considered only for genuine reasons.
+													Instructor-in-charge
+ CHEM F211

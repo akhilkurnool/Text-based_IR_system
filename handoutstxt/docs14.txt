@@ -1,0 +1,178 @@
+INSTRUCTION DIVISION, FIRST SEMESTER 2016 - 2017 COURSE HANDOUT (PART II)
+
+Date: 01.08.2016
+
+In addition to Part - I (General Handout for all courses) printed on Page 1 of the timetable book; this portion gives further specific details regarding the course.
+
+Course Number
+
+: BIO G525
+
+Course Title
+
+: ENVIRONMENTAL BIOTECHNOLOGY AND WASTE MANAGEMENT
+
+Instructor In-charge : P. SANKAR GANESH
+
+Instructor
+
+: P. Sankar Ganesh & B. Siva Prasad
+
+Course Description : This course gives overall information on the application of biotechnology to the management of environmental problems and for enhanced plant & animal production through biological insecticides, herbicides resistance, mineral cycling, conservation of genetic resources and biological nitrogen fixation. The waste management portion focuses on the use of biotechnological processes for pollution control, bioremediation of toxicants and treatment of domestic and industrial wastes. Ethical issues related to the release of genetically modified organism and the intellectual property rights are also discussed.
+
+Scope and Objectives : The major objective of this course is to impart knowledge on application of biotechnological processes for the betterment of environment as a whole. This course is designed to make the student understand various biological phenomena, which can be exploited to save environment from eventual deterioration, mainly in terms of waste management.
+
+Text Book
+
+:
+
+T: Alan Scragg, Environmental Biotechnology, Oxford University Press, 2009 reprint.
+
+Reference Books
+
+:
+
+R1: Rehm H J and Reed G, Biotechnology, a comprehensive treatise, VCH Verleg, Germany, 1999.
+
+R2: A K Chaterjee, Introduction to Environmental Biotechnology, PHI, India, 2000.
+
+R3: Andrew D Eaton, Lenore S Clesceri, Eugene W Rice and Arnold E Greenberg, Standard Methods - For the Examination of Water and Wastewater, American Public Health Association, 2005.
+
+R4: Raina M Maier, Ian L Pepper and Charles P Gerba, Environmental Microbiology, 2nd Ed., Academic Press, 2009.
+
+R5: Bimal C. Bhattacharyya and Rintu Banerjee, Environmental Biotechnology, Oxford Higher Education, 2007.
+
+R6: Godfrey Boyle, Renewable Energy - Power for a sustainable future, 2nd Ed, Oxford, Indian Edition, 2011 reprint.
+
+R7: Anjaneyulu Y, Introduction to Environmental Science, BS Publications, 2004.
+
+R8: Laxmi Lal and DK Gupta, Composting Technology, Agrotech Publishing Academy, 2008.
+
+R9: Howard S Peavy, Donald R Rowe, George Tchobanoglous, Environmental Engineering, Mc Graw-Hill International Editions, Civil Engineering Series, 1985.
+
+R10: LL Somani, Vermicomposting and Vermiwash, Agrotech Publishing Academy, 2008.
+
+Course Plan
+
+:
+
+Lecture Number
+1
+2-3
+4-5
+
+Learning Objectives Introduction to environmental biotechnology Environmental pollution
+Environmental monitoring
+
+Topics to be covered
+Basic concept of environment and its components. Biotechnology for environment; definitions and facts. Sources of various pollutions and their environmental impact. Methods for the measurement of pollution. Physical, chemical and biological methods. Nucleic acid based techniques for analyses of diversity, Concept of biomarkers.
+
+Reference Chap (Book)
+1(T); 1(R2); 1(R7); 1(R5)
+1(T); 12, 13, 14, 15, 16, 17(R7) 3(T); 5(R2); 4(R5); 8,9,10,11,12, 13(R4)
+
+6-7 Biosensor technology
+
+Principle, types and applications.
+
+3(T); R1
+
+8-9 10-12 13-14
+15-16 17-18
+19-22
+23-25 26-28 29-30
+31-34 35-37 38-40 41-42
+
+Basics of microbiology in relation to environment Biotechnology of sewage treatment Bioremediation of inorganic pollutants (nitrate and phosphate) Bioremediation of inorganic pollutants (heavy metals and radionuclides) Biomining of metals and radionuclides
+Bioremediation of organic pollutants
+Phytoremediation
+Bioreactors
+Development of clean technology (minimization of waste generation)
+Bioresource technology development
+Bioprocessing of solid waste
+Agriculture biotechnology for safe environment Ethical issues in environmental biotechnology
+
+Microbial groups, characteristics; Microbial metabolism in relation to waste treatment. Basics of sewage treatment processes. Function of various treatment systems. Microbiology of sewage treatment.
+Biological removal of nitrogen and phosphate.
+Microbial interactions. Metal Toxicity. Molecular mechanism of metal resistance. Biosorption and biotransformation of metals and radionuclides. Recent developments in metal bioremediation. Concepts of bioleaching, microbial aspects, regulatory factors and process application. Aerobic and anaerobic degradation of organic pollutants. Principles, biochemical pathways and genetic regulation. Degradation of aliphatic, aromatic, polyaromatic and chlorinated compounds. Use of plants for removal of organic & metallic pollutants.
+Reactor configuration. Processing and operation. Comparison of different bioreactors. Fundamentals of clean technology. Integrated pest management and bio-control of plant diseases. Microbial polymer production and bioplastic technology. Biotechnology for energy production - basic concept. Biological energy sources and bio-fuels. Biotechnology for enhanced oil recovery. Composting, vermicomposting and role of termites in waste processing, Recent developments in waste treatment. Methods and application for plant and animal improvement. Biotechnology of nitrogen fixation.
+Release of genetically modified organisms
+
+2 (T); 3(R2); 2(R4); 3(R5) 4(T); 4(R2); 24(R4); 5(R9)
+5(T)
+5(T); 6(R2); 21(R4); R1
+8(T); 8(R2)
+5(T); 7(R2); 20(R4); R1
+5(T); R1 R1; 6(R5); Class Notes
+4(T); Class Notes
+7(T); 10(R2); 4(R6); 3(R5) 4(T); 10(R2); R8; R10 9(T)
+9(T)
+
+Evaluation Scheme :
+
+Evaluation component
+Test 1
+Test 2
+Research oriented activities/ Class work#
+Comprehensive Examination
+
+Duration 1 Hr. 1 Hr.
+Diverse 3 Hrs.
+
+Theory Portion
+
+Weightage, %
+
+Date and Time
+
+10% (30) 15% (45)
+
+13.09.2016 1:00 to 2:00 PM
+21.10.2016 1:00 to 2:00 PM
+
+25% (75) Continuous Evaluation
+
+30% (90)
+
+08.120.2016 9:00 AM to 12:00 PM
+
+Practical Portion
+
+Nature of the Component*
+CB
+OB
+OB
+CB
+
+Practical/ Record
+
+-
+
+15% (45) Continuous Evaluation
+
+OB
+
+Comprehensive Examination
+
+1 Hr.
+
+5% (15)
+
+To be announced
+
+OB
+
+* OB: Open book (60%), CB: Closed book (40%) # This component includes one or more of the following: Literature Survey, Seminars/Presentations, Research Summaries, Design/Development of processes/products/artifacts, Experimental or Quantitative Analysis of processes/products/phenomena, Design of Experiments etc.
+
+Chamber consultation hour: To be announced in the class.
+
+Grading policy: Award of grades will be guided in general by the histogram of marks. Decision on border line cases will be taken based on individual's sincerity, student's regularity in attending classes, and the instructor's
+assessment of the student.
+
+Make-up policy: Make-up for Test 1 or 2 will be given only in genuine (medical emergency) cases of absence. If the absence is anticipated, before the examination, prior permission of the Instructor-in-charge is necessary. The request for make-up should reach the Instructor-in-charge at the earliest. Make-ups for class tests/ quizzes and assignments are not given. Also refer to Clause 4.07 of BITS Academic Regulations for more details.
+
+Notices: All notices/ announcements regarding this course shall be displayed only in the Course Management System (CMS).
+
+Prof. P. Sankar Ganesh Instructor In-charge BIO G525
+
+

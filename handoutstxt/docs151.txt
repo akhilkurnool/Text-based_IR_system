@@ -1,0 +1,74 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI INSTRUCTION DIVISION
+SECOND SEMESTER 2016-2017 COURSE HANDOUT (PART-II)
+Date: 02/08/2016
+
+In addition to Part-I (General Handout for all courses appended to the timetable), this portion gives further specific details regarding the course.
+
+Course Code Name of the Course Instructor-In-Charge
+
+: ME F443 : Quality Control Assurance and Reliability : C Phaneendra Kiran
+
+I. Course Description: Basic concepts of probability and probability distributions, standard probability distribution, sampling and sampling distributions, confidence intervals, testing significance, statistical tolerance, various types of control charts, statistical process control techniques, value analysis, defect diagnosis and prevention, basic concepts of reliability, reliability design evaluation and control, methods of applying total quality management, production process.
+II. Scope and Objective of the Course: The subject aims to introduce students to the ideas of quality management and the use of statistical methods in this field. At the end of this subject, students be able to learn about understand the role of quality control and quality improvement in organizations, apply the ideas of TQM to organizations and identify appropriate strategies for dealing with issues of quality, identify which type of control chart is appropriate for particular data, apply that control chart and draw conclusions, design simple factorial experiments, analyze data from factorial experiments and draw conclusions. Concepts of reliability and methods to improve product and system reliability are dealt with. The course is tailored to enable practicing engineers to become successful managers in a sustained manner to provide business houses the leading edge.
+
+III. Textbook 1. Mitra. A, "Fundamental of Quality Control and Improvement", Prentice Hall of India
+Ltd., 2nd Edition, 3rd Indian Reprint, 2004.
+Reference Books 1. Gryna F.M., Chua, R. C. H. and Defeo, J. A., "Juran's Quality Planning and Analysis
+for Enterprise Quality", Tata McGraw Hill, 5th Edition 2007. 2. Douglas C. Montgomery, "Introduction to Statistical Quality Control", John Wiley &
+Sons, 4th Edition, 2003.
+
+IV. Course Contents
+
+Topic& Learning Objectives Introduction to Total quality control and the
+total quality system Some philosophies and their impact on
+
+No of Lectures 2 2
+
+Source T1& class notes T1& class notes
+
+quality Quality management: Practices, tools and
+standards Fundamentals statistical concepts and
+techniques in quality control and improvement
+Data analysis and sampling Statistical Process Control using control
+charts Control chart or variables
+Control charts for attributes Process capability analysis
+Acceptance sampling plans
+Reliability
+Experimental Design and the Taguchi method
+
+3
+4
+2 4 5 5 6 4 5
+2
+
+T1& class notes
+T1& class notes
+T1& class notes T1& class notes
+T1& class notes T1& class notes T1& class notes T1& class notes T1& class notes T1& class notes
+
+V. Evaluation Scheme and Schedule:
+
+EC No. 1 2 3 4
+5
+
+Component
+Test I Test II Class test Assignments/ Course Project Comprehensive exam
+
+Duration 60 min 60 min -
+3 hours
+
+Weightage (%) 20 20 5
+15
+40
+
+Date, time
+10/9, 1.00--2.00 PM 22/10, 1.00--2.00 PM
+01/12 FN
+
+Nature CB OB --OB
+CB
+
+Course Project: One course project will be required on one of the following general topic areas: Developing a MATLAB code for one of the topics discussed in the course. For example, Control chart for attribute, Control chart for variables, Box plot, Hypothesis testing, Design of experiments etc. Plan of work (August 20th), midsem (September 20th) presentation and endsem presentation (November 20th) are the evaluation components for the project. VI. Chamber Consultation Hour: To be announced in the class. VII. Notices concerning the course: All notices concerning the course will be displayed on the CMS notice board. VIII. Make-up Policy: Make-up will be permitted only in genuine medical cases with prior permission. NOTE: The border cases in final grading will be decided based on mainly class room attendance and attentiveness in the classroom.
+Instructor-In-Charge ME C443
+
+

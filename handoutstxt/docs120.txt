@@ -1,0 +1,178 @@
+
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+Course Handout Part II
+										    Date: 01-08-2016 
+
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.			:  CHE G529
+Course Title			:  Paper and Pulp Technology
+Instructor-in-Charge		:  Dr. Ramesh Adusumalli
+Instrcutor:                                   Mrs. P. Lakshmi Sirisha 
+
+Scope and Objective of the Course: 
+This course is aimed to give an overview of pulping processes. Conversion of wood to loose fibers is known as Pulping or Cooking. Broad overview of the chemical pulping and mechanical pulping used to make variety of paper grades will be given.  In addition to pulping, processes such as bleaching, refining used to make flexible white pulp fibres will be part of the course plan.  Formation of paper sheet and properties of pulp and paper will conclude the paper making process. Topics such as recycled paper and water pollution in paper industry are also included. Manufacturing of viscose rayon and lyocell fibres from high grade pulp will be covered under the topic of cellulose derivatives. After the course, students can start working as a trainee or employee in paper mills such as Century Rayon, Ballarpur Paper mills, ITC Bhadrachalam, Grasim industries, etc. 
+
+Textbooks:
+G.A. Smook, Handbook for Pulp & Paper Technologists, Second edition. Angus wide publications, Vancouver, 2001
+
+Reference books
+Handbook of pulp and paper technology ed. Kenneth W. Britt, 2004.
+Wood  -Chemistry, Ultrastructure, Reactions  Walter De Gruyter,  Berlin,1989 
+Hand book of pulp and paper, paper board and paper-based technology, Engineers India Research Institute
+
+Course Plan:
+
+Lect. No.
+Learning objectives
+Topics to be covered
+Chap. in the Text Book
+1-2
+Introduction
+Definition &types of pulp, Sources of paper making fibres,  Fibre chemistry, Types of Paper , Types of cellulose fibres
+1.1.-1.2, 1.5-1.7
+3-5
+Characteristics of Wood and Wood pulp fibres
+Tree structure, Characteristics of Wood, Effect of fibre structure on paper properties, Wood species Identification
+2.1-2.4, RF-2
+6 
+Wood and Chip Handling 
+Pulp wood measurement, chipping, Chip handling & Storage, Chip quality control
+3.3-3.6
+7-8
+Mechanical Pulping
+Stone groundwood, Refiner mechanical pulping, Thermomechanical, Chemo (thermo) mechanical pulping  CTMP, Heat recovery
+5.2-5.6
+9-12
+Kraft Pulping
+Kraft pulping, Chemistry of kraft pulping, operation and control, process modifications, Continious digesters, Cooking of saw dust, bagasse and rice husk
+7.3-7.6 & RF-1, Notes
+13-14
+Processing of pulp
+Deknotting, Brown stock washing, Screening, , Centrifugal Cleaning, Thickening, Pulp storage & blending,  
+9.2-9.7
+15-17
+Chemical Recovery in Kraft Process
+Black liquor oxidation, Evaporation, recovery boiler, recausticizing, calcining, 
+10.1-10.6, RF-2
+18-19
+Bleaching
+Bleach chemicals, Chlorination & Extraction, Oxygen bleaching, Hypochlorite bleaching, ClO2 bleaching, H2O2 bleaching, O3 bleaching, Bleaching equipment
+11.2-11.9, RF-3 
+20-21
+Stock preparation
+Beating and Refining, Consistency control, Sizing of paper, dying of paper, Non fibrous materials in Paper  making
+RF1: 5.1-5.5 & 8.2-8.5
+22-23
+Paper manufacture: Wet end operations
+Flowspreader and headbox, Sheet forming process, Wire part, Twin wire forming, Pressing, Vacuum system
+16.2-16.10
+24-26
+Paper manufacture: Dry end operations
+Paper drying, Calendering, Profile control, Reeling, winding and Roll finishing, Supercalendering
+5.1-5.3
+27-28
+Manufacturing specific paper grades
+Newsprint, Publication grades, Sack grades, Linerboard, Corrugated medium, Tissue paper grades
+20.1-20.7
+29-32
+Properties and testing of pulp and paper
+Testing procedures, Pulp testing, Black liquor testing, Paper testing (Zero-span tensile strength, Burst strength, brightness and opacity )
+22.2-22.4, RF1:9.1-9.2
+33-36
+Cellulose derivatives
+Manufacturing and Characterization of Viscose rayon and Tencel (lyocell) fibres; Carboxymethyl cellulose; Nanocellulose fibrils
+RF-2 (17.3.4 & 17.4.4), Notes
+37-38
+Water Pollution Abatement
+Sources of pollutants, Environmental monitoring, Primary treatment, Secondary treatment, Color removal, Solids handling
+26.2-26.8
+39-40
+Plant economics 
+Note book from wood chips, Hardboard from Rice husk and Paper waste recycling plant
+RF3: 500-503, 510-513
+41
+Case study
+Tissue Paper production and usage in India
+Notes
+
+
+
+
+Lab:
+Analysis of raw materials (Eucalyptus & Bagasse)  Chipping, removal of moisture (Natural tray draft dryer), Steaming 
+  SCEO lab -2 hrs
+Wood/Bagasse: Density, microscopic analysis, Water retention value (WRV)
+Process control lab- 2hrs
+Biopulping using fungi followed by pulp analysis using Klason lignin and liquor analysis using HPLC 
+
+DEMO lab- EE lab
+Chemical pulping of eucalyptus (165OC, 2Hrs) and Klasons test for  eucalyptus wood samples and Baggase 
+SCEO lab -2 hrs
+Kraft cooking of Bagasse (cooking and filtration) and klasons test for pulp obtained from eucalypts and bagasse  
+
+SCEO lab-  2 hrs
+Calorific Value of final Black Liquor , UV analysis of black liquor collected after 1hr, 2hr, 3hr of cooking, Fractional Distillation of final black liquor (distillate and Retentate analysis) 
+Petroleum lab & EE lab - 2hrs
+Pulp Analysis(WRV, Microscopy, Cellulose study, Moisture content) 
+Process control lab- 2hrs
+Making Handsheet (Beating, Sheet forming ) 
+(SCEO lab 2 hrs)
+Testing of handsheets (Microscopy, Tensile test, Impregnation of ink) 
+(Mechanical Dept. lab 2hrs)
+Making coconut shell powder followed by drying and analysis using supermass colloider 
+(SCEO lab 2 hrs)
+
+Evaluation Scheme:
+Component
+Duration
+Weightage (%)
+Date & Time
+Nature of Component
+Test-1
+60 mints
+15%
+10/09: 2:30  3:30 PM
+Closed book
+Test-2
+60 mints
+15 %
+22/10; 2:30  3:30 PM
+Closed book
+                 Lab / Seminars
+
+30 %
+
+Open book 
+Surprise tests
+10 mints
+10%
+
+Closed book
+COMPRE
+  3 hrs 
+30 % (10%+20 %)
+03/12; 9-12 noon
+Open book + Closed book
+
+Chamber Consultation Hour: Friday 2-4 PM. Chamber: D201 (opposite to CAD lab)
+Notices: All notices related to the course will be uploaded in CMS.
+Make-up Policy: For genuine cases make-up will be granted with prior approval. Minimum attendance of 60 % is required for any make-up request. Certificate from authenticated doctor from the Medical Center must accompany make-up application (only prescription or vouchers for medicines will not be sufficient)
+
+Dr. Ramesh Adusumalli    
+ INSTRUCTOR-IN-CHARGE
+
+
+
+
+
+
+
+
+
+
+
+
+
+

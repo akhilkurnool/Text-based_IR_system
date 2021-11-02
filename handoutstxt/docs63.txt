@@ -1,0 +1,160 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI INSTRUCTION DIVISION
+FIRST SEMESTER 2016 - 2017 COURSE HANDOUT (PART II)
+Date: 01 / 08 / 2016
+
+In addition to Part I (General Handout for all courses appended to the timetable) this portion gives further specific details regarding the course.
+
+Course No Course Title Instructor-in-charge Instructors
+
+: ECE F434 : Digital Signal Processing : S. K. Sahoo : Ramakant Yadav, BVVSN Prabhakar Rao, R Venkateswaran, S K Chatterjee, Ganesh Kumar, P Spandana,
+
+1. Course Description:
+
+This course deals with the design of analog filters like Butterworth, Chebyshev, Elliptic., digital filter design for both IIR & FIR filters. Different filter structures for the realization of digital filters will be discussed. Finite word length effects and Multirate DSP will be introduced. DSP Processor architecture and implementation of DSP algorithms will be part of the course, which will be emphasized upon.
+2. Scope and Objective:
+The course aims at enumerating the theoretical and practical aspects of modern signal processing in a digital environment. It also aims at discussing application areas with particular stress on speech and image data.
+
+3. Text Book: "Digital Signal Processing", Sanjit K Mitra, TMH, Third Ed., 2006.
+
+4. Reference Books:
+1. "Digital Signal Processing : Principles, Algorithms and Application", John G Proakis & D G Manolakis, PHI, 1998.
+2. "Digital Signal Processing: A Practical Approach, Second Edition", Emmanuel C. Ifeachor and Barrie W. Jervis, Pearson education.
+3. "Digital Signal Processing: Fundamentals and Applications", Li Tan, Elsevier. 4. "Digital Signal Processing", Oppenhiem & Schafer, Pearson Education Asia, 2002. 5. TI DSP Processor User Manuals 6. MATLAB Help 7. IEEE transactions on Computer aided design, circuits and systems, signal processing
+
+5. Course Plan:
+
+Lecture No. 1
+2
+
+Learning Objectives Overview of the course
+DSP Architectures
+
+Topics to be covered Introduction
+General DSP architectural aspects
+
+Reference -------
+Class notes
+
+3
+4,5
+6-9
+10,11
+12
+13-16 17 18
+19-21 22, 23
+24 25-28 29, 30 31, 32 33, 34 35, 36
+37 38
+39
+40 41
+42
+
+DSP Architectures
+DSP Architectures Z- Transform and its
+application Discrete time Fourier
+transform Finite length discrete
+transform Analog filter design
+Analog filter design Sampling
+Simple digital filters Digital Filter design
+Digital Filters Digital Filter design Digital filter structures Digital filter structures Finite Word-Length Effects
+Multi rate DSP Multi rate DSP Multi rate DSP
+Adaptive Digital Filters
+Adaptive algorithms
+
+Numeric representation used in DSP
+Architectural details of a typical DSP processor
+Basics of Z- transform and its use for analysis of LTI systems CTFT, DTFT, Phase and group
+delay
+DFT, FFT
+Butterworth,Chebyshev, Elliptic & Bessel Filters Design of HP, BP and BS filters Sampling lowpass & bandpass
+signals Different LTI systems as frequency selective device. IIR filter design: IIT, BLT Linear phase FIR filters
+FIR Filter Design Realization of IIR filters Realization of FIR filters
+IIR & FIR Filters Decimators & Interpolators Poly phase decomposition Arbitrary rate sampling rate
+conversion Introduction and Concepts of
+Adaptive filtering, Wiener Filters
+Basic LMS algorithm
+
+Applications of DSP
+
+Various applications
+
+Applications of DSP
+
+Various applications
+
+Class notes
+R5
+Chapter 6
+Chapter 3
+Chapter 5
+Chapter 4 4.5
+4.2, 4.3
+7.1-7.4 9 7.3 10
+8.4-8.8 8.3, 8.9
+12 13.1, 13.2
+13.3 13.5
+RB2 10.1 - 10.3 RB210.4 Class note/ Chapter 14 Class note/ Chapter 14
+
+6. Take Home assignments will be announced in the class. 7. Evaluation Scheme:
+
+S. Evaluation
+
+Duration weightage Date. time, Type
+
+No. Component
+
+Min.
+
+venue
+
+1 Test 1
+
+60
+
+20%
+
+8/9, 8.30-9.30 AM Closed book
+
+2 Test 2
+
+60
+
+20%
+
+25/10, 8.30-9.30 Closed book
+
+AM
+
+3 Lab
+
+Regular 10%
+
+Open book
+
+4 Lab test
+
+5%
+
+Closed book
+
+4 Assignment
+
+5%
+
+Open book
+
+5 comprehensive 180
+
+40%
+
+12/12 AN
+
+Closed book -
+
+25% Open book -
+
+15%
+
+8. Chamber Consultation Hours: To be announced in the class. 9. Make-up Policy: Make Up for any component will be given only in genuine cases. In all cases prior intimation must be given to IC. 10. Notices: Notices regarding the course will be displayed on CMS.
+Instructor - in - charge ECE F434
+
+

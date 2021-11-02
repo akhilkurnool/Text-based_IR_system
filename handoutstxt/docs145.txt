@@ -1,0 +1,178 @@
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+Course Handout (Part-II)
+    							                            Date: 01-08-2016
+In addition to Part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+Course No.		: MATH F441
+Course Title		: Discrete Mathematical Structures
+Instructor-in-charge	: A. Michael Alphonse
+
+1.Scope and Objective of the course:
+The objective is to present and discuss some of the methods of discrete mathematics and some discrete mathematical structures at graduate level. The first part deals with some functions and techniques of discrete nature used in design and analysis of algorithms and the second part deals with Combinatorial Structures and algorithm. (Since there is a separate course offered on Graph theory, graphical structures are not discussed in detail in this course)
+
+2. Text Books:
+
+1)  Lindsay Childs, A Concrete Introduction to Higher Algebra-2e, Springer-Verlag, 1979. 
+										
+2)  V. Krishnamurthy, Combinatorics, Theory and Applications, East-West Press, 1985.
+ 										
+Reference Books:
+
+	(1) Graham, Ronald and others, Concrete Mathematics, Addison-Wesley, 1990.
+
+	(2) R. Lide and H. Niederreiter, Introduction to finite fields & their applications, Cambridge University Press, 1986.
+
+3. Course Plan:  (Sections/Articles refer to TextBook)
+
+Lect No.
+Learning Objectives
+Topic
+Chapters
+Book
+
+
+1-4
+
+Introduction to Groups
+
+Definition and examples of groups.
+Zn and 
+Permutation group Sn,
+9-E, 11-A,B
+
+8-A,B
+2 (Part-IV)
+T-1
+
+T-1
+T-2
+
+5-8
+
+Introduction to the  number theory
+Euler's  function, Euler's theorem and Mobius function ,
+The Legendre symbol 
+9-C
+
+30-E 
+27-B 
+T-1
+
+T-1
+T-1
+9-12
+The Chinese remainder theorem (CRT)
+
+CRT for integers
+CRT for polynomials
+Application of CRT to fast polynomial multiplication
+12-A,C
+20
+21-B
+T-1
+13-16
+Introduction to the theory of finite fields.
+Construction of finite fields and simple field extension
+28-A,B 
+30-C
+T-1
+17-24
+
+
+Introduction to the coding theory
+Secret Codes, Error correcting codes and Reed-Solomon codes
+7-F, 10-B, 
+13-E, 13-F, 
+29-B,C 
+T-1
+25-27
+Factoring in Q[x]
+
+Eisenstein's criteria for Irreducibility 
+18
+T-1
+
+29-30
+Factoring in Zp[x]
+Berelekamp's algorithm
+22-A, 30-B
+T-1
+31-34
+
+
+Introduction to advanced method of computing
+Generating functions and Recurrence relations
+2 (Part-I)
+T-2
+35-37
+Polya's theory of enumeration 
+3 (Part-II)
+T-2
+38-42
+Introduction to Design
+Block design
+Latin square and 
+Hadamard matrix
+Part-VIII
+29-A
+Part-VIII
+T-2
+T-1
+T-2
+4.   Evaluation Scheme:
+
+EC
+No.
+Evaluation Component
+Weightage 
+(in %)
+Date    &   Time
+Nature of Component
+1.
+Test 1 
+20
+10/9, 10.00--11 AM
+Closed Book
+2.
+Test 2
+20
+22/10, 10.00--11 AM
+Open Book
+3.
+Take Home Assignment
+20
+Details will be announced in the class
+Open Bok
+4
+Comprehensive Examination 
+40
+09/12 AN
+Closed Book
+
+5. Make-up: Make-up will be given only in genuine cases. 
+
+6. Chamber consultation hour:  To be announced in the class.  
+
+7. Notices: All notices regarding MATH F441 will be put up on CMS website only.
+InstructorInCharge
+       		MATH F441          
+
+
+
+
+
+
+ 
+
+ 
+
+	
+	BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+	Hyderabad Campus
+
+
+
+		
+
+
+

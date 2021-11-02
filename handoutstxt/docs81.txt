@@ -1,0 +1,252 @@
+
+INSTRUCTION DIVISION
+First Semester 2016-17
+Course Handout Part II
+                                                     Date: 01-08-2016
+In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.              	: ECON F315/FIN F315
+Course Title            	: Financial Management       
+Instructorincharge  : Prof. Niranjan Swain 
+                                   (niranjanswain@hyderabad.bits-pilani.c.in)
+
+1.	Brief Course Description:
+This course helps students to understand and apply concepts of financial management, time value of money, risk and rates of return, cost of capital, financial planning, capital investment decisions, capital management, capital structure and rewarding policy (shareholders) and corporate taxation.
+2.	Scope and Objectives of the Course:
+This course aims at applying and examining fundamentals of financial concepts and theories in the process of financial decision making in six national and international organizations. The structure of the course will enable students to appreciate the integration between financial markets, business environment and the role of finance manager in maximizing firm's and shareholders' value.
+3.	Teaching Methodology:
+The course is designed to an Active-Based Learning. That is, the student has to depend on him/herself in learning more about Financial Management. The lecturers role is like a coach or trainer who guides the students to the best and relevant ways to learn more about Concepts and Recent Developments in the area of corporate finance/financial management from practitioners and researchers point of view. All additional course materials will be mailed to the students. The course will utilize the active learning methods such as engaged learning, cooperative / project-based learning, case and problem-based learning in addition to the effective utilization of the electronic resources. The application of various concepts will be drawn from the best source(s) i.e. refereed journals, case study, opinion based papers, etc.
+In order to make this course as applied financial management, methodology has been designed so as to establish three financial management decisions viz. investment, financing and dividend to achieve single objective i.e. business value maximization in six companies. 
+
+		The first company is large multinational company in entertainment sector from developed economy. The second one is a large multinational company in mining / metal sector from developing economy. These two companies will allow us to look at what do they share common and what they might do different. 
+		The third company is a part of family group of companies  a public limited manufacturing company in a developing economy. The objective is to examine the special features that a manufacturing company faces and what it means for an individual investor to be a part of much larger family group whose interest might be different from interest of the selected company.
+		Fourth company is from most influential economy and is a dominant search engine in an emerging economy. We will analyse what it shares with the rest of the world and how corporate governance can be an issue. 
+		The fifth one is a regulated financial services company in a developed economy and will analyze how constraints put on company can influence corporate finance decision. 
+		The sixth one is a small private business in India to illustrate how the owner of the small private business faces exactly the same decisions that large public traded business faces. These six categories of business (small to large, private to public traded, emerging to developed) will be my students lab experiment that will run through 40 sessions.
+4.	Text Book: 
+Richard A Brealey, Stewart C Myers, Franklin Allen and Pitabas Mohanty, Principles of Corporate Finance, 2012, Tata McGraw-Hill Publishing Company Ltd.
+
+5. Reference Books:
+
+		Prasana Chandra, Financial Management: Theory and Practice, 6/e, 2005, Tata McGraw Hill,  
+		Eugene F. Brigham and Louis C. Gapenski, Financial Management: Theory and Practice, 6/e,1991, The Dryden Press.
+		Lawrence J. Gitman, Principles of Managerial Finance, 6/e, 1991, Harper Collins Publishers. 
+		J.F. Weston and T.E. Copeland, Managerial Finance, 2/e,1990, Cassell Publisher.
+		Anthony G. Puxty and J. Colin Dodds, Edited by Richard M.S. Wilson, Financial Management: Method and Meaning, 2/e, 1991, Chapman & Hall.
+		I.M. Pandey, Financial Management, 9/e, 2005, Vikas Publishing House, Pvt. Ltd.
+		Elton Gruber, John Wiley & Sons, Modern Portfolio: Theory and Investment Analysis, Inc.4/e, 1991,Wiley. 
+		Arthur J. Keown, John D. Martin,  J. William Petty, David F. Scott, Jr.. Financial Management, 9/e. (2002) Prentice Hall. 
+		Rao Ramesh K.S., University of Texas at Austin, Financial Management  Concepts and Applications, 2/e, Macmillan Publishing Company, New York, Maxwell Macmillan Canada, Inc., Toronto and Maxwell Macmillan International, 1992. 
+		Damodaran Aswath, Corporate Finance: Theory and Practice, 2/e, John Wiley & Sons, Inc.2001.
+6. Course Content:
+
+The following four broad topics will be discussed and examined in six organizations mentioned in methodology.
+		Corporate Governance: Conflicts of interest and organizational objectives.
+
+		Investment Decision: (a) Hurdle Rate [ Define & Measure Risk,  The Risk Free Rate, Equity Risk Premiums, Country Risk Premiums, Regression Betas, Beta Fundamentals, Bottom up Betas, The RightBeta, Debt: Measure & Cost and Financing Weights] and (b) Investment Return [Earnings & Cash Flows, Time Weighting Cash flows and Loose Ends]
+
+		Financing Decision: (a) Financing Mix [ The Trade off, Cost of Capital Approach, Cost of Capital- Follow up,  Cost of Capital - Wrap up, Alternative Approaches and Moving to the optimal] and  (b) Financing Type [ The Right Financing ] 
+
+		Dividend Decision: (a) Dividend Policy [Trends and Measures, The Trade off  Assessment, Action & Follow up and The End Game]
+
+Lecture No.
+Learning Objectives
+Topics to be Covered
+Reference to
+Text Book (TB)
+1-5
+Understanding how goal of an organization is aligned with its financial performance and external environment.
+
+		Relationship between financial accounting and financial management.
+		Describe what the subject of financial management is about.
+		Interface between Finance and Other Functions.
+		Financial statement analysis and interpretation.
+		Interface between goal of the firm, responsibility of finance manager and financial system. [Profit Maximization versus Shareholder Wealth Maximization].
+		Understanding 10 principles that form the basics of financial management.
+Reference Reading:
+		Arthur J. Keown, John D. Martin,  J. William Petty, David F. Scott, Jr.. Financial Management, 9/e. (2002) Prentice Hall. [Chpt.1, An Introduction to Financial Management] 
+		Arvind Mahajan and Scott Lummer, Shareholder Wealth Effect of Management Changes.
+		Donald R. Chambers and Nelson J. Lacey, Corporate Ethics and Shareholder Wealth Maximization. 
+		Aswath Damodaran, The Objective in Corporate Finance.
+		Thomas E. Copeland, Why Value Value? McKinsey Quarterly.
+Ch.1 & 4
+
+
+Assignment  
+1: Financial Statement Analysis and Interpretation.
+2: MVA = f (EVA and other Financial Performance Indices)
+Objective: To analyse and interpret financial performance of company from  stakeholders perspective using various financial and non-financial ratios through time series, comparative and industry analysis.
+Objective: Measuring to what extent company is taking care of its shareholders wealth maximization (MVA) and how shareholders wealth is impacted by other financial variables.
+
+6-8
+Understanding impact of inflation on business decisions- Time Value of Money
+		Explain the mechanics of compounding: how money grows over time when it is invested.
+		Determine the future or present value of a sum when there are non-annual compounding periods.
+		Discuss the relationship between compounding (future value) and bringing money back to the present (present value).
+		Define an ordinary annuity and calculate its compound or future value.
+		Differentiate between an ordinary annuity and an annuity due, and determine the future and present value of an annuity due.
+		Calculate the annual percentage yield or effective annual rate of interest and then explain how it differs from the nominal or stated interest rate.
+Ch.6
+
+9-12
+Understand rationale behind expected return based on risk - Risks and Rates of Return
+		Describe the relationship between the average returns that investors have earned and riskiness of these returns.
+		Explain the effects of inflation on rates of return.
+		Describe term structure of interest rates.
+		Define and measure the expected rate of return of an individual investment.
+		Define and measure the riskiness of an individual investment.
+		Explain how diversifying investments affects the riskiness and expected rate of return of a portfolio or combination of assets.
+		Measure the market risk of an individual asset.
+		Calculate the market risk of a portfolio of investments.
+Reference Reading:
+		Elton Gruber, John Wiley & Sons, Modern Portfolio: Theory and Investment Analysis, Inc.4/e, 1991,Wiley. Chpt.2 & 3 [Risks and Rates of Return]
+		David Tarantino, Measuring Return on Your Most Valuable Asset.
+		Aswath Damodaran, Estimating Equity Risk Premiums. 
+		Robert F. Peterkort and James F. Nielsen, Is The Book-To-Market Ratio A Measure of Risk? 
+		Taek Ho Kwon, Sung C. Bae and Jay M. Chung, Do Foreign Investors Price Foreign Exchange Risk Differently? 
+		Aswath Damodaran, Measuring Company Exposure to Country Risk: Theory and Practice.
+		Steven T Goldberg, 7 Sure Ways to Bigger Return.
+Ch.7&8
+
+
+Assignment-3:
+Estimation of Systematic Risk (Beta Calculation and Analysis)
+Objective: Estimate and analyse amount of systematic risk that organization is exposed to which will have impact on return to shareholders and financing mix of an organization.
+
+13-16
+Assessing impact of cost structure on business risk - Analysis and Impact of Leverage
+		Understand the difference between business risk and financial risk.
+		Use the technique of break-even analysis in a variety of analytical settings.
+		Distinguish among the financial concepts of operating leverage, financial leverage, and combined leverage.
+		Calculate the firm's degree of operating leverage, financial leverage, and combined leverage.
+		Explain why a firm with a high business risk exposure might logically choose to employ a low degree of financial leverage in its financial structure.
+Reference Reading:
+		Prasana Chandra, Financial Management: Theory and Practice, 6/e, 2005, Tata McGraw Hill,  [Chpt.5, Analysis and Impact of Leverage]
+		Richard A Lord, Impact of Operating and Financial Leverage on Equity Risk.
+		Brent A Gloy and Timothy G. Baker , The Impact of Financial Leverage and Risk Aversion  in Risk Management Strategy Selection.
+		Hossein Asgharian,  Are highly leveraged firms more sensitive to an economic downturn? 
+		Richard A Lord, Interpreting and Measuring Operating Leverage.
+		Robert J Long , A Different Perspective on Operating Leverage: Comments .
+		John J. Dran, Jr, A Different Perspective on Operating Leverage: Comments  
+Ch.7&8
+
+
+Assignment-4:
+Measuring and analysing business risk
+Objective: To understand and analyse how cost structures, both operating and financial, of an organization can impact business risk and need for cost management.
+
+17-19
+Understanding expectation of provider of capital and its impact on business- Cost of Capital
+		Describe the concepts underlying the firm's cost of capital (technically, its weighted average cost of capital) and the purpose for its calculation.
+		Calculate the after-tax cost of debt, preferred stock, and common equity. Calculate a firm's weighted average cost of capital. 
+		Understanding the application of cost of capital in business decisions.
+Ch.9
+
+
+Assignment-5:
+Estimation of Cost of Capital  Analysing risk & return from capital providers perspective.
+Objective: To estimate and analyse overall cost of capital (WACC) of an organization and its impact on business decisions and value.
+
+20-24
+Assessing economic viability and riskiness of capital expenditure, and its impact on future growth - Budgeting Decision Criteria
+		Discuss different types and importance of capital expenditure decisions on business sustainability. 
+		Understanding various non-discounted and discounted cash flow methods and their application in capital expenditure decisions.
+		Understanding limitations of discounted and non-discounted cash flow evaluation methods and exploring best possible option.
+		Analysing and measuring various risk involved in capital expenditure  Scenarios Analysis, Sensitivity Analysis and Decision Trees Analysis.
+
+Reference Reading:
+		Eugene F. Brigham and Louis C. Gapenski, Financial Management: Theory and Practice, 6/e,1991, The Dryden Press.[ Chpt.9,10 &11Capital - Budgeting Decision Criteria] 
+		Thomas E. Copeland and Philip T. Keenan, How much is the Flexibility Worth.
+		Jeremy Carter  Menno van Dijk  Ken Gibson, Capital Investment: How not to build the Titanic.
+		Harol H. Koyama and Robert Van Tassel, How to Trim Capital Spending by 25 percent.
+		John OLeary, Learn to Speak the Language of ROI. 
+		Aswath Damodaran, Picking the Right Projects: Investment Analysis. 
+Ch.10 & 11
+
+25-30
+Understanding significance of capital blocked in business value chain - Working Capital Management (WCM)
+		Objective of Working Capital Management, Static and Dynamic view of Working Capital
+		Factors Affecting Composition of Working Capital
+		Working Capital Determination  Operating Cycle and Simulation Approach..
+		Criteria for Evaluation of Working Capital Management.
+		Financing Current Assets:
+		Behaviour of Current Assets and Pattern of Financing
+		Spontaneous Sources of Finance
+		Trade Credit, Short-term bank finance, PDs, CPs and Factoring.
+		Management of Current Assets 
+		Inventories - Role of Inventories in Working Capital, Cost of carrying inventories, Inventories planning and management techniques.
+		Receivables  Purpose and cost of Maintaining Receivables, Impact of Credit Policy and Process of Credit Evaluation, Decision Tree Approach and Monitoring Receivables.
+		Management of Cash:
+		Difference between profits and cash, Factors affecting cash management and Internal Treasury Controls.
+Reference Reading:
+		Prasana Chandra, Financial Management: Theory and Practice, 6/e, 2005, Tata McGraw Hill.
+Ch.15 & Ch. 28, 29 & 30
+
+
+Assignment-6:
+Impact of Operating Cycle on working capital management 
+Objective: To understand importance of Operating Cycle and operating efficiency  Appreciating concept of Cash is King
+
+31-34
+Understanding financing mix and its impact on business value - Capital Structure
+
+		Understanding Theories of Capital Structure
+		Appreciating Asymmetric Information Theory  Pecking Order Theory
+		Understanding financial distress and agency cost
+		Understanding the factors affecting capital structure.
+		An approach to setting the target capital structure.
+
+Reference Reading:
+		Rao Ramesh K.S., University of Texas at Austin, Financial Management  Concepts and Applications, 2/e, Macmillan Publishing Company, New York, Maxwell Macmillan Canada, Inc., Toronto and Maxwell Macmillan International, 1992. [Chpt.2, Agency Consideration in Financial Management] 
+		Richard A. Brealey and Stewart C. Myers, Principles of Corporate Finance, 6/e, 2003, Tata McGraw-Hill Publishing Company Ltd. [Chpt.14, 15 & 17, Capital Structure]
+		Saumitra N. Bhaduri, Determinants of Corporate Borrowing: Some Evidence from the Indian Corporate Structure, Journal of Economics And Finance  Volume 26  Number 2  Summer 2002.
+		Thomas W. Killian, Designing an Optimal Capital Structure.
+		Erik Lie , Do Firms Undertake Self-Tender Offers to Optimize Capital Structure? 
+		Linda, by Thomas and Stephen, Debt vs. Equity and Asymmetric Information.
+		Chin-Bun Tse, Top Gearing.
+Ch.17& 18 
+
+
+Assignment-7: Analysis and interpretation of determinants of capital structure 
+
+Objective: Identify and critically analysing major determinants of capital structure and its impact on business risk and value.
+
+35-40
+Understanding how does company reward its shareholders and its impact on future growth - Dividend Policy
+
+		Understanding dividend versus capital gains: What do investors prefer?
+		Appreciating rationale behind stable dividend policy.
+		Understanding other means of rewarding to the shareholders  Bonus Share, Stock Options, Stock Split, Share Buyback, etc.
+Reference Reading:
+		Eugene F. Brigham and Louis C. Gapenski, Financial Management: Theory and Practice, 6/e,1991, The Dryden Press.[ Chpt.14, Dividend Policy]
+		Aswath Damodaran, Beyond Cash Dividends: Buybacks, Spin Offs and Divestitures.
+		Aswath Damodaran, Returning Cash to the Owners.
+		Suzanne and Greg IP, Buybacks Aren't Always A Good Sign for Investors.
+ Ch.16
+
+
+Assignment-8: Analysis and interpretation of determinants of dividend policy
+Objective: Estimate major determinants of dividend policy and its impact on various business decisions  strategic and tactical.
+
+
+7. Evaluation Scheme:
+     Component        						Duration    Weightage     Date & Time        	Remarks  
+
+TestI      							60 min.     	15     	       8/9, 4.00--5.00 PM		CB
+Test  II									15	      25/10 4.00--5.00 PM		CB/OB
+Quiz* 				 						15					CB  
+Assignments 									10					Take away
+Class Participation								10					
+Comp. Exp.   	 						3.00 hrs.     	35		06/12 FN  	       	CB/OB
+* Quiz (Surprise):  Questions may also be based on the conceptual / empirical research papers, article published in various magazines, daily financial newspaper and case study at the end of each chapter in text book.
+
+8. Chamber consultation hour:  With prior intimation through SMS between 6 to 7 pm on Monday and Friday.
+
+9.   Group Assignments: 
+Objective of assignment is to apply concepts / theories in real business case and have an overall understanding of how an organization can be viewed by both internal and external stakeholders.  A group of five students will select three organizations from one industry category and submit  (not through email) students and organizations details (Students Name, ID No, Contact Number, Parents Name and Contact Number, Name of the organizations)  to IC on August 10, 2016 at 6pm.  Selected organizations must be listed on stock exchange and widely traded and annual reports are available for at least 5 years ending March 31, 2016. Each group student will do all assignments on selected organizations - apply concepts discussed in class. At the end of assignments, each student needs to consolidate findings of all assignments and write a business case. This will enable student to have an integrated understanding of financial management in real business case.  All assignment must be submitted in hardcopy and softcopy shall not be evaluated. 
+10.   Notices: 
+All notice concerning this course will be displayed only on the Economics & Finance Notice board.                   	           		
+		Make-Up Policy: Make up may be given only on genuine grounds. Prior written permission is mandatory.
+Instructor In-Charge
+ECON F315/FIN F315
+

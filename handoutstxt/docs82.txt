@@ -1,0 +1,195 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI- HYDERABAD CAMPUS
+INSTRUCTION DIVISION
+FIRST SEMESTER 20162017
+Course Handout 
+                                                    Date: 01.08.2016
+
+In addition to general handout for all courses appended to the time table, this portion gives further specific details regarding the course.
+
+Course No. 		: EEE F111
+Course Title		: ELECTRICAL SCIENCES
+Instructor-in-charge     	: Alivelu M Parimi
+Instructors		: Alivelu M Parimi, Ayyagari Ravi Teja, Sandeep Kumar,  Balasubramaniyan
+
+		Course Description:
+
+Course covers basic passive and active circuit elements; network theorems and analysis; introduction to single and three phase systems; magnetic circuits; transformers; electrical machines; semi-conductor diodes and applications; transistors and applications; Digital electronics and commonly used measuring instruments.
+
+		Scope and objective of the Course: 
+
+A basic understanding of the working of electrical and electronic circuits and instruments is essential for all engineers and scientists. This course is designed to give the students of all branches a preliminary exposure to this field. The need for basic understanding in this field will come for non-electrical or electronic students at a later stage in their career growth. For EEE and ECE students this course acts as a good starting point for their CDCs. 
+To obtain basic knowledge on:
+		a. Electrical and Magnetic Circuits.
+		b. Electrical machines.
+	c. Semiconductor Diodes and BJTs ; Digital electronics.
+
+3.	Text Books: Leonard S. Bobrow: Fundamentals of Electrical Engineering, Oxford University Press, Second Edition, 2005.
+    Hughes: Electrical and Electronic Technology, Pearson Education, Ninth Edition, 2008.
+
+4.	Course Plan:
+
+Lect. No. 
+Learning Objectives 
+Topics to be covered 
+Bobrow Chapters
+Hughes Chapters
+1
+Introduction
+
+
+
+2
+To study basic circuit elements and the laws; 
+Voltage and current sources, resistors and ohms law, KCL, KVL; Instantaneous power
+1.1 to 1.5  
+2.1 to 2.12
+3.1 to 3.8
+3
+To study circuit analysis techniques and theorems.
+Nodal and Mesh Analysis
+2.1, 2.3 
+4.1 to 4.4
+4-5
+To study circuit analysis techniques and theorems.
+Thevenins and Nortons Theorems; Maximum Power Transfer Theorem,
+2.5
+4.6 to 4.8
+6-7
+To study circuit analysis techniques and theorems.
+Linearity and Superposition application in circuit analysis, Source transformation,
+Independent and Dependent sources
+2.6
+4.5
+8
+Inductors and Capacitors
+Inductors and capacitors and their integral relationships;
+3.1 to 3.2
+5.4 to5.7
+9-11
+To study response of circuits having energy storing elements
+First order circuits and natural response; First order circuits and complete response
+Second Order Circuits
+3.3 to 3.6
+5.14 to 5.19; 8.1 to 8.3 and  8.6 to 8.10
+12
+Alternating current circuits
+A.C. Voltage & Current
+4.1 
+9.3 to 9.6
+13
+Alternating current circuits
+Complex numbers
+4.2
+9.8 to 9.9
+14-16
+Alternating current circuits
+Frequency and Domain analysis
+4.3
+10.2 to 10.4; 10.6 to 10.10; 11.1 to 11.5; 13.1 to 13.8 
+17-18
+Alternating current circuits
+Power and Power-factor, OpAmps
+4.4 to 4.5
+12.2 to 12.8
+19
+Alternating current circuits
+Poly-Phase circuits
+4.6 to 4.7
+33.1 to 33.9
+20-22
+Magnetic Circuits
+Fundamentals of Electromagnetics, Magnetic fields and their effects, Magnetic Circuits and Materials
+14.1-14.2
+6.1 to 6.5,7.1to 7.6
+23
+Transformers
+Introduction 
+14.3 
+34.1 to 34.4
+24-25
+Transformers
+Ideal transformer; Equivalent circuit; Non-ideal transformer;  ; Regulation and efficiency
+14.4-14.5
+34.5 to 34.11
+26
+DC Machines 
+DC and AC machine Basics
+15.4 
+35.1-35.4, 41.1 to 41.6
+27-30
+Principles and Applications of Semiconductor Diodes, Diode Circuits
+Semiconductors, doping, Diodes, Zener diodes, effects of capacitance, Half-wave and full wave rectifiers
+6.1-6.7
+20.1to 20.7
+21.1 to 21.3
+31-36
+Bipolar Junction Transistors
+pnp and npn transistors, Characteristics and Applications of BJTs, Application to digital logic circuits
+7.1-7.4
+22.1 to 22.6
+37-38
+Field Effect Transistors
+JFET, MOSFET
+8.1-8.2
+23.1 to 23.4
+39-40
+Transistor Amplifiers
+H parameters
+9.1
+22.9 to 22.15
+41-42
+Digital Systems
+Binary numbers, Binary Arithmetic, Digital logic circuits, Boolean Algebra
+11.1-11.6, 12.1
+27.1 to 27.14
+
+5. Evaluation Scheme:
+
+
+Component
+Duration
+Maximum Marks
+Date & Time
+Remarks
+% weightage
+Test   1
+1 hour
+75M
+9/9&  2.30- 3.30PM
+CB
+25%
+Test   2
+1 hour
+75M 
+24/10 & 2.30- 3.30PM
+CB
+25%
+Surprise Quiz 
+In class
+30M
+Tutorials
+CB
+10%,
+Comprehensive Examination
+  1.5 hours
+     60M
+05/12 FN
+CB
+20%,
+
+  1.5 hours
+     60M
+05/12 FN
+OB
+20%,
+
+6.  Make-up policy: Make-up will be given only under exceptional circumstances and with prior permission.
+7. Chamber consultation hour: To be announced
+8. Notices: Notices concerning the course will be displayed on the EEE notice boards and in CMS.
+
+
+
+                                                                                                     Instructorincharge		
+ EEE F111
+
+

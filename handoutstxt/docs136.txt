@@ -1,0 +1,147 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI- HYDERABAD CAMPUS
+INSTRUCTION DIVISION, FIRST SEMESTER 2016-2017
+COURSE HANDOUT (PART-II)
+Date: 01.08.2016
+    							
+In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+Course No.           		:  	MATH F211
+Course Title         		:	MATHEMATICS - III
+Instructorincharge		: 	T S L Radhika
+Instructors 	:	A Ramu, Anil N,  Jagan Mohan J,   K Venkat Ratnam, Kishore Kumar, P K Sahoo, P T V Praveen Kumar
+                                                       
+1. Scopes and Objective of the Course:
+This Course reviews and continues the study of differential equations with the objective of introducing   classical methods for solving boundary value problems.  This course serves   as a basis of the applications for differential equations, Fourier series and Laplace transform in various branches   of engineering and sciences. This course emphasizes the role of orthogonal polynomials in dealing with Sturm-Liouville problems. 
+
+		Text Book: Simmons G.F., Differential Equations with Applications and Historical Notes, TMH Edition 2003, Twelfth reprint 2008
+Reference Book:  1. Kreider D.L. and Others: An Introduction to Linear Analysis, A.W.,     
+                              1966.
+		Shepley L. Ross: Differential Equations, John Willy & Sons, 1984.
+		Course Plan:  (Sections/Articles refer to Text Book)
+
+Lect No.
+Learning Objectives
+Topics to be covered
+Sections
+1
+
+
+To introduce the classical methods to solve 1st order equations
+First order eqns
+(Self -study)
+1-7
+2-4
+
+First order equations
+8-10
+5
+
+Reduction of order
+11
+
+6-7
+
+To introduce the classical methods to solve 2nd order equations
+
+Second order equations
+14,15
+8
+
+Use of a known solution
+16
+9-12
+
+Various methods to solve diff. Eqns
+17-19,22,23
+13-14
+To introduce systems of equations
+Systems of Equations
+54-56
+15-16
+Properties of  solutions
+Sturm Separation Theorem and Sturm Comparison Theorem
+24, 25
+17-19
+To introduce Series Solutions method to 2nd order diff. Equation with variable coefficients
+Series Solutions
+26-30
+20-21
+
+Hypergeometric equation
+31
+22-24
+
+Legendre Polynomials
+44,45
+
+
+
+
+25
+
+Chebyshev Polynomials
+Appendix D
+
+
+Hermite Polynomials          (Self-study)
+Appendix B
+26-28
+
+Bessel functions
+46,47
+29-32
+Use LT to solve DE and Integral Equations
+Laplace Transforms
+48-53
+33-35
+To introduce trigonometric series expansion of a function
+Fourier Series
+33-36
+37-39
+To introduce classical methods to solve PDE
+
+Eigen values and Eigen functions Sturm Liouville Problems
+         40, 43
+40
+
+One dim. Wave eqn
+         40
+41
+
+One dim. Heat eqn
+         41
+42
+
+Laplaces eqn (Self Study)
+         42
+
+
+		Evaluation Scheme :
+Evaluation Component
+Duration
+Weightage
+Date    &   Time
+Nature of Component
+Test I
+60 min.
+ 30%
+9/9, 8.30-9.30 AM
+Closed Book
+Test II
+60 min.
+      30%
+24/10, 8.30-9.30 AM
+Open Book
+Compre. Exam.
+3 hrs.
+40%
+03/12 FN
+Closed Book
+
+5. Make-up:
+(i) Make up will be granted only in genuine cases.  Permission must be taken in advance except in extreme cases. 
+(ii) No MAKE-MAKE-UP will be entertained.
+6. Chamber consultation hour:  To be announced in their class by the respective instructors.  
+7. Notices: All notices regarding MATH F211 will be put on CMS.		
+	
+Instructorincharge
+                    							                  MATH F211                  

@@ -1,0 +1,140 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE-PILANI, HYDERABAD CAMPUSPRIVATE 
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+16-05-2016
+                       Course Handout (Part II)
+                                                   
+In addition to partI (General Handout for all courses appended to the timetable) this portion gives further specific details regarding the course.
+
+Course No.   			:  Phy F211
+Course Title  			:  Classical Mechanics
+Instructor-in-Charge 		:  SASHIDEEP GUTTI
+
+Course Description : The course begins with Lagrangian dynamics which is subsequently applied to two-body central force motion, rigid-body motion and oscillations. It also covers Hamiltons equations of motion.
+
+Scope & Objectives : This is an advanced course on classical mechanics which deals with some advanced techniques for solving problems of mechanics. It also deals with formulations of classical mechanics that find their use in quantum mechanics as well as classical statistical mechanics.
+
+Text Book: H. Goldstein, C. Poole & J. Safko, Classical Mechanics, Third Edition, Pearson  Education, Inc., 2002
+
+Reference Books:   1) N. C. Rana and P S Joag, Classical Mechanics, Mc Graw Hill, 2006 
+Course Plan:
+
+Lecture
+No.
+
+Learning Objectives 
+Topics to be covered
+Reference to 
+Text book
+
+1-2
+Calculus Of Variation
+Introduction to Variational Calculus
+Differential Equations by G. F Simmons
+3-5
+Failure of Newtonian Mechanics 
+de Alemberts principle
+1.3
+6-9
+Generalized Coordinates
+Lagranges equation
+1.4
+10-11
+Illustration of the applications of Lagranges equations.
+Simple applications of Lagrangian formulation.
+1.5  1.6
+
+12
+ Conservation theorems.
+Cyclic coordinates and conservation theorems.
+Class Notes or 8.2
+13-18
+ two-body central force problem.
+Two-body central-force motion and equivalent one-body problem.
+ 3.1-3.7
+19-20
+Hamiltonian
+The Hamiltons equations of motion.
+8.1,2.1
+21-23
+Canonical Transformations
+Canonical Transformations and Generating functions
+ 9.1,9.2,9.3,9.4
+24-27
+The Poisson Brackets
+Symplectic Approach
+9.5
+28  29
+To study rotation of coordinate systems and orthogonal transformations in order to understand kinematics of rigid bodies.
+Orthogonal transformations and their properties
+ 4.1  4.3
+30-35
+Hamilton Jacobi Equations, Canonical Transoformations
+Computation of Hamilton Principle function, Interpretation and Connection with Quantum Mechanics.
+ 10
+38-42
+Theory of small oscillations.
+Oscillation, eigenvalue equation.
+6.1  6.2
+
+Evaluation Scheme:
+
+EC No.
+Evaluation 
+Component. 
+Duration.
+Weightage
+
+Date, Time & Venue.
+Nature of Component.
+  1
+Test I
+50 min.
+20%
+
+Close book
+  2
+Test II
+50 min.
+20%
+
+Open book
+3
+Seminar
+
+20%
+--------------
+
+--------
+  4
+Comprehensive Examination
+3 Hours.
+40%
+
+Close book
+
+Chamber Consultation Hour: To be announced in the class.
+
+Notices: Notices concerning the course will be put up on the PHYSICS notice board.
+
+Make-up Policy: Make-up for the tests will be granted only for genuine cases of health problems or urgency for going out of town. 
+
+        
+                                                                                                           Instructor-in-charge     
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+PAGE  2
+
+
+
+

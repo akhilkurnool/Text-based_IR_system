@@ -1,0 +1,136 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI- HYDERABAD CAMPUS INSTRUCTION DIVISION, FIRST SEMESTER 2016-2017 Course Handout (Part II)
+Date: 01/08/2016
+
+In addition to Part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.
+
+:
+
+Course Name
+
+:
+
+Instructor-in-charge :
+
+CE F211 Mechanics of Solids Dr. Mohan S C
+
+1. Course Description:
+
+Introduction to mechanics of rigid bodies and deformable bodies; Thermal stresses; Equilibrium of forces; Bending moment and shear force diagrams for determinate beams and frames; Analysis of statically determinate trusses; Flexural and shear Stresses in beams; Stresses and strains on inclined planes; Torsion in shafts; Combined bending and torsion stresses in shafts; Slope and deflection in beams due to bending using double Integration, moment area method and conjugate beam method; Energy principles and their application in structural analysis; Hoop stresses in thin cylindrical shells; Suspension cables; Failure theories.
+
+2. Scope and Objective:
+
+The subject of mechanics of solids deals with determination of strength, deformation and stability of structural and machine elements. The methods are based on Laws of Newtonian mechanics, applied to bodies in static equilibrium, geometry and experimentation. These laws are applied to simple situations with engineering judgment to arrive at results of significance to the designer. At the end of the course the student will be in a position to analyze simple structural elements, which involve calculation of stress, strain and deformation. This is an essential feature in any design process.
+
+3. Text Books:
+
+1. Mechanics of Materials; F. P. Beer, E. R. Johnston and J. T. DeWolf, Fifth Edition, 2009, McGraw-Hill International Edition.
+
+4. Reference Books:
+
+1. Mechanics of Materials; F. P. Beer, E. R. Johnston and J. T. DeWolf, Third Edition, 2002, McGraw-Hill International Edition.
+2. Mechanics of Solids, AN INTRODUCTION, T. J. Lardner, R R Archer, International Edition, 1994, McGraw-Hill
+3. Introduction to Solid Mechanics by I. H. Shames, 2nd Edition, 1980, Prentice Hall of India Private Ltd. New Delhi.
+4. Hibbler, R. C., Structural Analysis, Sixth Edition, Pearson Education, New Delhi, 2008. 5. Mechanics of Materials: James M. Gere, Barry J. Goodno SI Edition, 8th Edition, CL
+Engineering, 2013.
+
+5. Course Plan:
+
+Lecture No.
+1-3 4-5 6-8
+9-12 13-15
+16-19 20-23
+
+Learning Objectives
+Introduction to mechanics of rigid bodies and deformable bodies Equilibrium of Forces and internal forces (Axial, Shear and Bending); Bending moment and shear force diagrams for determinate beams and frames; Analysis of statically determinate trusses; Axial Stress and strain, Constitutive Relationship (Hooke's Law, Poisson's Ratio etc.), Thermal Stresses Stresses in Beams : Flexural and shear Stresses in beams; Torsion in shafts; Hoop stresses in thin cylindrical shells;
+
+Topics to be covered
+Introduction, principles of mechanics, concept of force & moment, equilibrium conditions, concept of two & three force members, free body diagram, friction Introduction forces & moments acting on a section of a member, distributed loads & resultant of distributed loads Bending Moment and Shear Force Diagrams, statically determinate & indeterminate situations, Singularity function (Macaulay functions)
+Definition of trusses, Method of Joints, Method of Sections.
+Analysis of deformable bodies, uniaxial loading & deformation, tensile test, idealization of stress strain curve, elastic stress strain relation. Introduction Thermal Strain and Stress. Flexural and shear Stresses in beams;
+Stresses & deformations in twisted elastic circular shaft, torsion of elastic hollow circular shaft, combined stresses,
+
+Reference Chap./Sec. # (Book)
+1 TB
+1 TB
+5 TB
+R4
+2 TB
+4 TB
+3 TB
+
+23-24
+
+Combined Stresses
+
+TB
+
+25-29 30-33
+
+Stresses and strains on inclined planes; Principle planes
+Slope and deflection in beams due to bending using double Integration,
+
+Introduction, stress, plane stress, equilibrium of a element in plane stress, Mohr circle representation of a plane stress, general state of stress. Analysis of deformations, strain components, relation between strain & displacement, strain component associated with arbitrary set of axis, Mohr circle representation of plane strain, general state of strain
+Introduction, moment-curvature-relations, integration of moment-curvature relations, superposition, Loaddeflection differential equation
+
+7 TB 9 TB / R4
+
+34-36
+
+Slope and deflection in beams due to bending using moment area method
+
+Moment Area Theorems and Applications
+
+9 TB / R4
+
+37-38
+39-41 42-42
+
+Slope and deflection in beams due to bending using conjugate beam method;
+Energy principles and their application in structural analysis;
+Suspension cables;
+
+Conjugate Beam Method
+
+R4
+
+Strain Energy, Castigliano's theorem, Unit Load Method, etc
+Introduction and analysis of suspension cables
+
+11 TB / R4
+R4
+
+6. Evaluation Scheme:
+
+EC Evaluation No. Component
+1. Assignments
+2. Class Room Interaction
+3. Test I 4. Test II 5. Compre. Exam.
+
+Duration
+---
+1 hr 1 hr 3 hrs
+
+Weightage
+20% 10%
+20% 20% 30%
+
+Date & Time
+-----
+10/9, 4.00--5.00 PM 22/10, 4.00--5.00 PM
+01/12 AN
+
+7. Chamber Consultation Hour: To be announced in the class
+
+Nature of Component
+OB OB
+CB CB CB
+
+8. Notices: Notice, if any, concerning the course will be displayed on the Notice Board of Civil Engineering Department
+
+9. Make up Policy: Make-up will be granted only to genuine cases with prior permission from the IC. Make ups will not be given to students who contact the IC after the evaluation component.
+
+Instructor-in-charge CE F211
+
+

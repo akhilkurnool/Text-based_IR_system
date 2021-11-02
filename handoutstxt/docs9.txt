@@ -1,0 +1,186 @@
+
+INSTRUCTION DIVISION, 
+FIRST SEMESTER 20162017
+COURSE HANDOUT (PARTII)
+Dated: 01/08/2016
+In addition to part I (general handout for all courses appended to the timetable) this portion gives further specific details regarding the course.
+
+Course No			: BIO F352 
+Course Title			: Cell and Tissue Culture Technology
+Instructor-In charge		: Kumar Pranav Narayan 
+
+
+1. Course Description: Plant and animal cell cultures from various organism; development and maintenance of cell lines.
+
+2. Scope and objective of the course: This course will provide an introduction to theory and application of tissue culture technologies. The details of animal and plant tissue culture will be covered including design of media and large scale production of the animal and plant cells. The course also covers the various techniques of preserving the animal cell lines.
+
+3. Text Books: 
+Narayanaswamy, S. Plant Cell and Tissue Culture, Tata McGraw Hill Publishing Company Limited, 1994 (Ninth Reprint 2008).
+2.  Freshney, R.I. Culture of Animal Cells: A Manual of Basic Technique, Willey-Liss Press (5th Ed), 2005.
+
+4. Reference books: 
+Bhojwani, S.S. and Razdan, M.K. Plant Tissue Culture: Theory and Practices, a Revised Edition, Elsevier, Reprint 2004. 
+2.   Freshney, R.I. Animal cell culture: A practical approach, Oxford University Press, 
+      2nd Ed. 1992. 
+
+5. Course plan: 
+Lect. No.
+Learning objective 
+Topic 
+Ref. to Chapter
+Part A
+Animal Cell and Tissue Culture
+1-2
+Introduction
+Types of culture, advantages and limitations of tissue culture.  
+Ch.1 (TB-2)
+3-5
+Laboratory design and equipments
+Designing of animal tissue culture laboratory, common and specialized equipments, consumable items.
+Ch. 4,5 (TB-2)
+Ch. 3,4 (RB-2) 
+6
+Aseptic environment 
+Aseptic techniques, sterilization.
+Ch. 6 & 11 (TB-2)
+7-8
+Culture media
+Defined media and supplements, serum-free medium. 
+Ch. 9 & 10 (TB-2)
+9-10
+Primary culture
+Types of primary cell cultures, isolation of tissue, primary culture.
+Ch. 12 (TB-2)
+11-12
+Subculture and cloning 
+Subculture, cloning, isolation of clones.
+Ch. 13, 14 (TB-2)
+13-14
+Cell separation
+Various methods of cell separation.
+Ch. 15 (TB-2)
+15
+Transformation 
+Transformation, immortalization.
+Ch. 18 (TB-2)
+16-17
+Contamination
+Source of contamination, monitoring and eradication of contamination.
+Ch. 19 (TB-2)
+17-18
+Cryopreservation
+Rationale, principles and acquisition of cell lines for cryopreservation. 
+Ch. 20 (TB-2)
+19-20
+Cytotoxicity
+Viability and Cytotoxicity assays.
+Ch. 22 (TB-2)
+Part B
+Plant Cell and Tissue Culture
+21-22
+Introduction, objective and scope of tissue culture
+Historical introduction to plant tissue culture
+Chap 1, TB 1
+Chap 1, RB 1
+23-24
+Plant tissue culture laboratory
+Lab organization (Lay out, requirements and general techniques)
+Chap 2, TB 1
+Chap 2, RB 1
+25-26
+How to grow plants in vitro
+Culture media constituents, media selection and preparation 
+Chap 3, TB 1
+Chap 3, RB 1
+27-28
+In vitro techniques of clonal propagation
+Micro propagation stages, factors affecting micropropagation, applications and limitations
+Chap 7, TB 1
+Chap 16, RB 1
+29-31
+Production of haploids
+Haploid production through anther culture and microspore culture, applications and limitations
+Chap 10, TB 1
+Chap 7, RB 1
+32-33
+Producing disease free plants
+Meristem culture and virus free plants
+Chap 6, TB 1
+Chap 15,RB 1
+34-36
+Creating variations in vitro
+Somaclonal variations
+Chap 9, RB 1
+37-38
+Somatic hybridization
+Protoplast isolation and culture, somatic hybrids production
+Chap 11,TB 1
+Chap 12 & 13 RB 1
+39-40
+Storing plant genetic resources
+Cryopreservation 
+Chap15, TB 1
+Chap18, RB 1
+
+6. Evaluation scheme:
+Component
+Duration
+Weightage %
+Date and time
+Venue
+Remarks
+Test 1
+60 mins
+15 (45)
+9/9, 4.00--5.00 PM
+
+CB
+Test 2
+60 mins
+15 (45)
+24/10, 4.00--5.00 PM
+
+CB
+Surprise Quiz
+Class
+10 (30)
+Multiple
+Lab
+CB
+Oral presentation/ assignment
+Class
+20 (60)
+
+
+OB
+Comprehensive
+3 hrs
+40 (120)
+10/12 AN
+
+CB
+
+7. Chamber consultation hour: To be announced in the class.
+8. Notices: All notices will be displayed on the CMS and Biological Sciences notice board.
+
+9. Make-up Policy: Make-up decisions will be made on a case-by-case basis and only genuine cases as determined by the team and validated by Wardens and/or medical office will be considered. No make-up for surprise Quizzes.
+
+
+Instructor  in-charge
+BIO F352
+
+
+
+
+
+
+
+
+PAGE  
+
+
+PAGE  1
+
+
+
+

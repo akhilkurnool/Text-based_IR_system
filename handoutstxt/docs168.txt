@@ -1,0 +1,119 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE PILANI, HYDERABAD CAMPUS INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017 Course Handout Part II Date: 01/08/2016
+
+In addition to part -I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.
+
+: MF F312
+
+Course Title
+
+: Tool and Fixture Design
+
+Instructor-in-charge : SRINIVASA PRAKASH REGALLA
+
+1. Course Description: Tool-design methods, tool making practices, tooling materials and heat treatment, design of cutting tools, gages and gage design, locating and clamping methods, design of drill jigs, design of fixtures, design of sheet metal blanking and piercing dies, design of sheet metal bending, forming and drawing dies, using plastics as tooling materials, tool design for numerically controlled machine tools and automatic screw machines.
+2. Scope and Objective of the Course: Lecture class and other interaction modes will enable discussion and practice of design of various cutting and forming tools and fixtures for machining, forming, casting and other processes.
+
+3. Text book:
+TB: Donaldson C., LeCain G. H., Goold V. C. and Ghose J., "Tool Design", 4th Edition (SIE), Tata McGraw Hill Education Private Ltd., New Delhi, 2012.
+
+Reference Book:
+
+RB: Venkataraman, K., "Design of Jigs, Fixtures and Press Tools", 2nd Edition, 2016, Wiley/Ane Books, New Delhi.
+
+Course Plan: Module
+M1: Gages and Gage Design
+M2: Locating and clamping methods
+M3: Design of drill jigs M4: Design of fixtures 4. M5: Design of sheet metal
+
+Number of
+lectures
+4 6 5 5 6
+
+Learning Objectives
+RL1.1: Fixed gages, their tolerances and materials RL2.1: Indicating gages and automatic gages Locating and clamping methods
+Design of drill jigs
+Design of fixtures
+Design of sheet metal blanking and piercing dies
+
+Chap/Sec.
+TB: CH5
+TB: CH6 & RB-Part I: CH2&3
+TB: CH7 & RB-Part I: CH4
+TB: CH8 & RB-Part I: CH5&6
+TB: CH9 & RB-Part II: CH1 to
+
+Module blanking and piercing dies
+
+Number of
+lectures
+
+Learning Objectives
+
+Chap/Sec. CH4
+
+M6: Design of sheet metal bending, forming and drawing
+dies M7: Using plastics as tooling
+materials M8: Tool design for numerically
+controlled machine tools M9: Automatic screw machines M10: Design of single point and
+multi-point cutting tools for machining processes Total
+
+Design of sheet metal bending,
+
+TB: CH10 &
+
+forming and drawing dies
+
+RB-Part II: CH5
+
+5
+
+Using plastics as tooling materials
+
+TB: CH11
+
+2
+
+Tool design for numerically controlled
+
+TB: CH12
+
+3 machine tools
+
+2 Automatic screw machines
+
+TB: CH13
+
+Design of single point and multi-point
+
+cutting tools for machining processes
+
+4
+
+42
+
+Evaluation Scheme: EC Evaluation Component No
+1 Test - 1 2 Test - 2 3 Tutorial Assignment 4 Design Assignment 5 Comprehensive Exam
+
+Duration
+1 hour 1 hour 3 hours
+
+% weightage Date & Time
+
+20% 20% 10% 10% 40%
+
+8/9, 8.30-9.30 AM 25/10, 8.30-9.30 AM Every Th-1 G104 12/12 AN
+
+Nature component Closed Book Closed Book Open book Open book CB+OB
+
+of
+
+Chamber Consultation Hour: To be announced. Notices: If any, will be displayed in Mechanical Engineering notice board and/or CMS only. Make-up policy: Makeup for tests needs prior permission and strictly meant only for serious hospitalization cases. No makeup is allowed for Tutorials and assignments.
+
+NOTE: The border cases in final grading will be decided based on mainly class room attendance and classroom participation.
+
+Instructor-in-charge MF F312
+
+

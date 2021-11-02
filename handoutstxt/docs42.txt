@@ -1,0 +1,102 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI HYDERABAD CAMPUS INSTRUCTION DIVISION
+FIRST SEMESTER 2014-2015 Course Handout (Part -II)
+
+Date: 01/08/2014
+In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+Course No. : CE G617 Course Title: Advanced Structural Analysis Instructor-in-charge: Sri Kalyana Rama J Scope & Objective of the Course Advanced structural analysis techniques and methods provide efficient means and tools for analysis and design of framed structures using matrix approach. Hence learning advance structural analysis will be very useful for structural analyst and designers. The basic objective of this course is to acquire the fundamental concepts of matrix methods of structural analysis and their implementation in development of computer programs for computer aided structural analysis of structures. By the end of the course, the students will be familiar with matrix methods of structural analysis using self-developed computer programs.
+Text Book 1. Willilam, W. & Gere J.M. "Matrix Analysis of Framed Structures", CBS Publishers & Distributers, 1986.
+Reference Books 1 Ghali A. and Neville A.M. Structural Analysis, A unified classical and Matrix approach. Chapman and hall, London third Edition. 1989 2 Harold C. Martin, Introduction to Matrix Methods of Structural Analysis. McGraw Hill. Inc. 1966. .
+Course Plan
+
+Lect. Learning No. objective
+Basics of 1-5 Structural
+Analysis
+6-12
+Fundamentals of the Flexibility Method
+
+Topics to be covered
+Introduction, Static and Kinematic Indeterminacy, General Methods of Analysis of Indeterminate Structures, Selection of Method, Equivalent joint loads
+Introduction, flexibility method, temperature changes, pre-strains, support displacements, joint displacements, member end actions, support reactions, flexibilities of prismatic members, formalization of the flexibility method, example problems
+
+Reference* Chap./Sec. TB: Ch. 1
+TB: Ch. 2
+
+Fundamentals
+
+13-20
+
+of the Stiffness
+
+Method
+
+Introduction, Stiffness method, Temperature changes, Pre-strains, and support displacements, stiffness of prismatic members,
+formalization of the stiffness method, example problems
+
+TB Ch. 3
+
+Computer Oriented 21-30 Direct Stiffness Method
+
+Additional
+
+30-35
+
+topics for stiffness
+
+method
+
+Introduction, direct stiffness method, complete member stiffness matrices, formation of joint stiffness matrix, formation of load vector, analysis of plane truss, analysis of plane frame, grid member stiffnesses, analysis of grids, space truss member stiffnesses, space frame member stiffnesses, computer programming
+Introduction, rectangular framing, symmetric structures, loads between joints, automatic dead load analysis, temperature changes and pre-strains, support displacement, oblique supports, elastic supports, translation of axes, Curved members
+
+Shear
+
+35-42
+
+Deformation and Shear
+
+Wall Analysis
+
+Introduction to Shear Walls, Analysis of Shear Walls. Shear deformation theory
+
+TB: Ch. 4 & 5 TB: Ch.6
+RB-1: Ch.14
+
+Evaluation Scheme Ec. Evaluation No. component
+1. Test I
+2. Test II 3. Project/Seminars
+
+Duration Weightage Date, time
+
+16/9/2014, 9.30 -- 10.30
+
+AM
+1hr 15%
+
+31/10/2014, 9.30 -- 10.30
+
+AM
+1hr 15%
+
+40%
+
+Continuous
+
+Nature of component
+CB
+OB OB
+
+4. Compre. Exam
+
+3 hrs
+
+30%
+
+04/12/2014 AN
+
+CB-20%/OB-10%
+
+Chamber Consultation Hour: To be announced in the class. Notices: All Notice concerning to the course will be displayed on Notice Board of Civil Engg. Department. Make up policy: Makeup will be given only to the genuine cases with prior permission.
+
+Instructor-incharge CE G617
+2
+
+

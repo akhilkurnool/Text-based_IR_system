@@ -1,0 +1,192 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI HYDERABAD CAMPUS INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017 Course Handout (Part -II)
+Date: 05/05/2016
+In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+Course No. : CE F311 Course Title: Design of Concrete Structures Instructor-in-charge: Dr. Arkamitra Kar Instructors : TBA
+Scope & Objective of the Course
+The course intends to impart adequate analysis and design skills pertinent to Civil Engineering Reinforced Concrete (RC) Structures as commonly found in practice, using the Limit State design method; however, an introduction will be given to working stress design method also. In addition to analysis and design of beams, slabs, columns this course will include the design of various staircase and foundations. Before going into the details of the design procedures, the course will provide the students with an introduction to concrete materials including cement, aggregates, and reinforcing steels. At the end of this course the students will be able to design the simple common reinforced concrete structures.
+Text Book (TB)
+J. N. Bandhopadhyay, "Design of Concrete Structures", 2008, Prentice-Hall of India, New Delhi
+Reference Books (RB)
+1. IS 456:2000 "Code of practice for Plain and Reinforced concrete", Bureau of Indian Standards, New Delhi.
+2. Special Publication (SP)-16, Design aids for reinforced concrete to IS 456:1978, Bureau of Indian Standards, New Delhi.
+3. P. C. Verghese, "Limit State Design of Concrete", 2nd edition, PHI Pvt. Ltd., New Delhi, 2011.
+4. S.U.Pillai and Devdas Menon, "Reinforced Concrete Design", 3rd Edition, TMH, New Delhi, 2009.
+5. Jain, A.K., Reinforced Concrete: Limit State Design", 6th Edition, Nemchand & Bros, Roorkee, 2002.
+1
+
+Course Plan
+
+Serial No. 1. 2. 3. 4.
+5. 6.
+7.
+
+Learning Objective
+
+Topics Covered
+
+Objectives & Methods
+of Analysis & Design
+
+Introduction,
+
+objectives,
+
+Methods of Design, Loads &
+
+Forces acting on structures
+
+Properties of Concrete
+Philosophies of Limit State Method
+Limit State of Collapse-Flexure
+and Singly reinforced Rectangular beam
+Analysis & Design of Doubly Reinforced
+rectangular section Beams
+Analysis & Design of Simply
+supported Flanged Sections
+Design for Bond, anchorage and development length
+
+Stress-strain curve for concrete, Size effect, behavior of concrete in tension, Durability of concrete, properties of Steel, Stressstrain curve for steel A review on various design Philosophies, Types of Limit States, partial safety factors for materials and loads Assumptions in Limit State Design, Analysis of singly reinforced rectangular, Design of Singly Reinforced Concrete Beam, Analysis of singly reinforced rectangular beams using SP-16 tables and Charts.
+Assumptions and basic principles, analysis and design of doubly reinforced concrete beams with Rectangular section
+Effective Width, Analysis of Flanged sections for various cases, Design of simply supported Flanged beam Sections, Design of continuous beam Flanged sections Design bond strength, development length, check for development length in tension, Anchoring of reinforcing bars, bearing stress at bonds, reinforcement splicing, Design for bond, Development length, Curtailment of reinforcement, Lap splice
+
+Lecture No. 1-2 3-4 5-6 7-11
+12 - 14 15 - 18
+19 -22
+
+Reference to TB
+Ch 1 Ch 2
+Ch 3 Ch 4
+Ch 5 Ch 6
+Ch 8
+
+2
+
+Modes of failure due to shear,
+
+shear strength of concrete,
+
+critical section for shear,
+
+8.
+
+Design of Beams for Shear
+
+enhanced shear strength near support, minimum shear reinforcement, Design of shear
+
+23 - 26
+
+strength, check for shear at
+
+point of tension reinforcement
+
+curtailment
+
+9.
+
+Limit state of serviceability
+
+short term deflection calculation for beams, deflection due to shrinkage and creep
+
+27 - 28
+
+10.
+
+Design of beams for Torsion
+
+Design of beams for combined bending, shear and torsion as per IS 456
+
+29 - 30
+
+Design shear strength of
+
+concrete in slabs, design
+
+consideration for slabs, design
+
+11.
+
+Design of one way and reinforcement detailing of and two way Slabs one way simply supported and
+
+31 - 36
+
+continuous slabs, design and
+
+reinforcement detailing of two
+
+way slabs
+
+Types of stair cases,
+
+components of staircase,
+
+12.
+
+Design of Stair Cases
+
+structural system of stair cases, effective span, Design of stair
+
+37 - 40
+
+cases spanning transversely and
+
+longitudinally
+
+Classification of columns based
+
+on slenderness ratio,
+
+13.
+
+Design of Compression
+Members
+
+reinforcement & loading, Design of rectangular and circular columns subjected to Axial load, (Axial load + uni-
+
+41 - 43
+
+axial bending) and (Axial load
+
++ Bi-axial bending)
+
+Ch 7 Ch 9 Ch 8 Ch 10
+Ch 11
+Ch 12
+
+3
+
+Evaluation Scheme
+
+Ec. No.
+1.
+2. 3. 4. 5. 6.
+
+Evaluation component Duration Weightage
+
+Test I
+Test II
+Project/Assignments Lab record and lab quiz Pop quizzes/surprise
+tests Compre. Exam
+
+1 hr.
+1 hr. -
+15 mins 3 hrs.
+
+10%
+10% 25% 15% 10% 30%
+
+Date, time
+
+Nature of component
+CB
+CB OB
+CB, open
+notes CB
+
+Chamber Consultation Hour: To be announced in the class. Notices: All Notice concerning to the course will be displayed on Notice Board of Civil Engg. Department. Make up policy: Makeup will be given only to the genuine cases with prior permission.
+
+Instructor-in-charge CE F311
+
+4
+
+

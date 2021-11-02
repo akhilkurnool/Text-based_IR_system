@@ -1,0 +1,104 @@
+INSTRUCTION DIVISION FIRST/ SECOND SEMESTER 2015-2016
+Course Handout Part II Date: 03-08-2016
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No. Course Title Instructor-in-Charge
+
+: MF F311 : MECHATRONICS AND AUTOMATION : Dr. ARSHAD JAVED
+
+Scope and Objective of the Course: This course is intended to a comprehensive knowledge of the technology related to Mechatronics and Automation. The necessity of integrating and embedding electronics and microprocessor into mechanical systems have been long felt, due to rapid progress in microprocessor computer based technology, in domestic products to manufacturing systems. Mechatronics is a recently defined engineering field that builds on the traditional mechanical engineering studies, combines it with technologies from the electrical, electronics, computer and control fields, using techniques such as simultaneous engineering to provide solutions in manufacturing applications. Also, mechatronics has been applied to manufacturing and other industrial automation: robotic automation found in car automated production lines, such as welding, and assembly line in computer integrated manufacture etc. This course will develop overall background of the student in interdisciplinary mechatronic technology and a broad introduction to the issues encountered and techniques required in developing mechatronic products and automation systems.
+
+Textbooks: 1. W. Bolton, Mechatronics, 3rd Ed., Pearson, 2004. [1]
+2. A. Smaili and F. Mrad, Applied Mechatronics, Oxford University Press, 2008. [2]
+
+Reference books 1. M.P. Groover, "Automation, Production systems, and Computer-Integrated Manufacturing", PHI, 2008. [3]
+
+2. W. Stadler, Analytical Robotics and Mechatronics, McGraw Hill, 1995. [4]
+
+3. Tai-Ran Hsu, MEMS and Microsystems: Design and Manufacture, John Wiley & Sons. 2008. [5]
+
+Course Plan:
+
+Lecture No. 1
+2
+
+Learning objectives
+Understand mechatronics and the development of automation system through mechatronics
+
+Topics to be covered
+Introduction, Mechatronic systems - Examples Introduction to automation, Key issues, Approach to Mechatronics and automation
+
+Chapter in the Text Book
+[1]-1
+class notes, [1]-4, [2]-14
+
+3-5
+
+Understanding working principles and applications of sensors
+
+Sensors and Instrumentation: Sensor functions, Characteristics,
+
+[1]-2, 3 [2]-11
+
+Applications, Specifications & Selection
+
+6-8 9 10-12 13-14 15-17
+18-19 20-21
+22-24
+25-26
+27-28
+
+Understanding the working principles and applications of different actuation and transmission systems used for automation
+Understanding basic control concepts
+Understanding the application and implementation of automatic control for small and large automation systems Understanding the application of Industrial manipulator Understanding the challenges in real time Mechatronics and Automation system Understanding the basics of MEMS
+
+Actuation Systems: Pneumatic and hydraulic actuation systems
+Mechanical actuation and systems
+Electrical Actuators
+Torque estimation, Performance & Selection of actuation system Open-loop, close-loop, proportional derivative, integral, multivariable, digital, adaptive control systems Digital electronics, Digital logic, Microprocessors
+Programmable and selection of PLC's (Programmable Logic Controller)
+Introduction, specification, selection and programming of industrial manipulator (robot).
+Case-Studies
+Introduction to MEMS, Modeling and simulation of MEMS
+
+[1]-5 [1]-6, class
+notes [1]-7, [2]-12, class notes [2]-12, class
+notes [1]-13, class
+notes
+[1]-14, 15
+[1]-19, 21 class notes
+class notes
+[2]-14, [4], class notes
+[5]-1,2
+
+Evaluation Scheme:
+Component
+Test I Test II
+
+Duration
+60 min 60 min
+
+Weightage (%) 20 20
+
+Tutorial
+
+-- 10
+
+Laboratory Comprehensive- Examination
+
+-3 Hrs
+
+10 40
+
+Date & Time
+
+Nature of Component Close Book Open Book Open book and open discussion
+based assignments
+--
+Partially Close & Open Book
+
+Chamber Consultation Hour: To be decided based on Timetable. Notices: All notices will be put up on CMS only. Make-up Policy: Make-up will be given with prior concern and genuine reasons only.
+
+INSTRUCTOR-IN-CHARGE
+
+

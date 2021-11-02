@@ -1,0 +1,101 @@
+Birla Institute of Technology & Science, Hyderabad Campus Instruction Division
+First Semester, 2016-2017 Course Handout (Part II) Date:
+In addition to Part I (General Handout for all courses appended to the Time Table), this portion gives further specific details regarding the course.
+Course No. : EEE F435 / ECE F435
+Course Title: Digital Image Processing
+Instructor - in - Charge: Sumit K Chatterjee Instructors: Sumit K Chatterjee and R. Venkateswaran
+Course Description: This is a first course on digital image processing. It begins with an introduction to the fundamentals of digital images and discusses the various discrete transforms, which are extensively used in image processing. It then goes on to discuss the different image processing techniques such as image enhancement, automatic image classification and recognition.
+
+Scope & Objective: The course introduces the students to the fundamentals of digital images and various processing techniques that are applied to them so as to improve their quality. These techniques are image enhancement, automatic image classification and recognition.
+
+Text Book: Gonzalez, R. C. & R. E. Woods, Digital Image Processing, Pearson Education, 3rd ed., 2009 Reference Books:
+1. Digital Image Processing using MATLAB, Gonzalez, Woods & Eddins, Pearson, 2007
+
+Course Plan: Lecture Learning Objectives No. 1 To introduce fundamental
+concepts and terms associated with digital images. 2-3 To study image enhancement by gray level transformations
+
+4-6 7-9
+10-11
+
+To study Histogram processing of an image To learn image enhancement by filtering in the spatial domain Review of Fourier domain techniques
+
+Topics to be covered Introduction and digital image fundamentals.
+Some basic gray level transformations
+Histogram processing Spatial filtering
+Fourier Transforms, DFT, Convolution
+
+Reference to Text Book Chap 2
+Sec. 3.1, 3.2
+Sec 3.3 Sec. 3.4-3.7
+4.1-4.6
+
+12-13 14-16
+
+Filtering in the Fourier domain
+Image Restoration and Reconstruction
+
+Image smoothing and sharpening using Frequency domain filters Noise Models, Inverse filtering
+
+4.7-4.10 5.1-5.7
+
+17-19
+
+Image Compression
+
+Basic Compression Methods 8.1-8.2 (DCT)
+
+20-23
+
+Morphological Image Processing
+
+24-28
+
+Image Segmentation
+
+Erosion, dilation, Opening closing, Hit-or-miss transformation, some basic morphological algorithms Point, line and edge detection, thresholding
+
+9.1-9.4, 9.5.1-9.5.7 10.1-10.3
+
+29-32
+
+Representation and description
+
+33-36 37 - 42
+
+Introduction to Medical Imaging and Advances in Medical Image Processing
+Object Recognition
+
+Evaluation Scheme:
+
+Boundary following, chain codes, signatures, boundary descriptors, regional descriptors, principal components analysis (PCA) Image Registration
+Patterns and pattern classes, decision-theoretic methods
+
+11.1.1-11.1.2, 11.1.5, 11.2, 11.3.3,11.3.4, 11.4
+Class Notes
+12.1-12.2
+
+Evaluation Component
+Test I Test II Comprehensive Examination
+
+Duration
+60 Minutes 60 Minutes 3 Hours
+
+Weightage Date & Time
+
+Nature of Component
+
+30% 13/09 & 2:30-3:30 PM Open Book
+
+30% 21/10 & 2:30-3:30 PM Closed Book
+
+40% 13/12 AN
+
+Closed Book
+
+Chamber Consultation Hour: To be announced in the class.
+Notices: Notices concerning the course will be put up on the CMS website.
+Make-up Policy: Make-up for the tests will be granted only on genuine grounds of sickness (to be supported by medical certificate and not prescription) or urgency for going out of town.
+
+Instructor-in-Charge EEE F435 / ECE F435
+
+

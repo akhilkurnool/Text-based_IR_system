@@ -1,0 +1,234 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI HYDERABAD CAMPUS
+
+INSTRUCTION DIVISION, FIRST SEMESTER 2016-2017
+
+COURSE HANDOUT (PART II)
+
+Date: 01.08.2016
+
+In addition to Part I (General Handout for all courses appended to the Time Table), this portion gives further specific details regarding the course.
+
+Course No.
+
+:
+
+Course Title
+
+:
+
+Instructor-in-charge :
+
+Instructors
+
+:
+
+CE F312 Hydraulic Engineering JAGADEESH ANMALA Jagadeesh Anmala, Swathi, Madhuri
+
+Course Description:
+Boundary layer theory; lift and drag; Turbulent flow through conduits; Analysis of closedconduit hydraulic systems including pipes, valves, fittings, and pumps, pipe networks analysis: Hardy cross method and linear graph method; analysis and design of open channel hydraulic systems; uniform and varied flow; hydraulic jump; Analysis of Impact of jets; fluid machinery; Elements of sediment transport; Interpretation of hydraulic design requirements along with hydrological variables; Overview of computational hydraulics.
+
+Scope and Objective of the Course:
+The problems encountered by man in the field of water supply, irrigation, navigation and water- power, resulted in the development of the fluid mechanics. Fluid mechanics is that branch of science, which deals with the behavior of the fluids at rest as well as in the motion. This course will stress the governing principles of Hydraulic Engineering; the assumptions made in their development and their limits of applicability, and will show how the principles can be applied to the solution of practical engineering problems such as water supply systems, waste water treatment facilities, dam spillways, flow-meters, hydraulic shock absorbers etc. Different kinds of flow of fluid under different conditions have also been included so that the students learn to apply in practical life.
+
+Text Books:
+T1. Modi, P.N. and Seth, S.M., Hydraulics and Fluid Mechanics, Standard Book House, 15th ed., 2009.
+
+Reference Books:
+R1. Douglas J. F., Gasiorek J. M., Swaffield J. A., and Jack L.B., Fluid Mechanics, Pearson Education, Second Impression, 2009.
+R2. Fox, R.W. and McDonald, A.T., Introduction to Fluid Mechanics, John Wiley and Sons Inc., Singapore, Fifth Edition, 2001
+R3. Arora, K.R., Fluid Mechanics, Hydraulics and Hydraulic Machines, Standard Publishers, Delhi, 1985.
+R4. Simon, A.L., Hydraulics, Willey, John., & Sons, New York, 1986.
+R5. Shames, I.H., Mechanics of Fluids, McGraw-Hill Company, Second Edition, 1982
+
+Course Plan :
+
+S. Learning Objective No.
+
+Topics to be covered
+
+Reference to Text No. of
+
+Book
+
+Lectures
+
+(Chapter/section)
+
+1. Introduction to the Hydraulics and fluid Introduction,
+
+T1 Chapter 1
+
+mechanics. To establish a base and a Fundamental definitions T2 Chapter 1
+
+perspective for the study of subject
+
+and concepts
+
+2
+
+2. To study the behavior of real fluid flow in Boundary layer theory T1 Chapter 12
+
+pipes and channels
+
+R1 Chapter 11
+
+5
+
+3. To study about the type of fluid flow in Turbulent flow in pipes T1 Chapter 14
+
+general and analysis of turbulent flow specifically
+
+R1 Chapter 10
+
+5
+
+4. Analysis of pipe networks using Hardy Flow through pipes Cross Method and Linear Graph Method
+
+T1 Chapter 11
+
+2
+
+5. Analysis of uniform fluid flow in open Flow in open channels T1 Chapter 15 channel
+
+4
+
+6. Analysis of Non uniform fluid flow in Non-uniform flow in T1 Chapter 16
+
+open channel
+
+channels
+
+3
+
+7. Design of Hydraulic Structures such as Hydraulic Structures Parshall Flume, Gates, Culverts etc.
+
+R5 Chapter 15
+
+3
+
+8. Analysis of Fluid flow around submerged Lift & Drag objects
+
+T1 Chapter 18 R1 Chapter 12
+
+4
+
+9. Analysis of Impact of jets including jet Study of Impact of Jets T1 Chapter 20 impingement in moving Vanes and series of vanes
+
+3
+
+10. Turbo-machinery analysis, performance Study of characteristics, applications to fluid machineries systems
+
+fluid T1 Chapter 21,22 R2 Chapter 10
+
+4
+
+11. Principles of reciprocating pumps and Study of Pumps centrifugal pumps
+
+T1 Chapter 23, 24
+
+4
+
+12. Threshold of movement, mechanics of Study of elements of T1 Chapter 28,
+
+sediment transport and its equations, sediment transport, Supplementary
+
+analysis, Differential equations, finite- Overview
+
+of notes by IC
+
+difference method and grid generation, computational hydraulics
+
+boundary conditions and initial conditions,
+
+applications of computational hydralics
+
+3
+
+Practical :
+
+S. No.
+
+Name of Experiment
+
+No. of Turns
+
+1. Darcy's Friction factor f' of pipes of different diameter pipes (Darcy)
+2. Discharge through an orifice and a mouthpiece (OP/MP)
+3. Determination of Minor losses (Minor)/Bernoulli's Theorem
+4. The coefficient of discharge Cd ' of the V notch and rectangular notch and to plot the calibration curve(Notches)
+5. Study of formation of hydraulic jump and study of multi-purpose plume (HJ)
+6. Study of Impact of Jet (IJ) 7. Study of Metacentric Height Apparatus (MH) 8. Flow measurement using
+Venturimeter/Orificemeter(VM/OM) 9. Study of Reynolds Apparatus (Reynold) 10. Boundary layer development on a flat plate (BLF) 11. Drag and Lift of Aerofoil (Aerofoil) 12. Study of Hele-Shaw Apparatus (Hele-Shaw)
+Reading Assignment: First 8 Chapters of textbook.
+
+01
+01
+01
+01
+01
+01 01 01
+01 01 01 01
+
+Reference to Lab Manual
+(T3) 3.5
+3.6
+Suppl. Notes
+3.8
+3.10
+Suppl. Notes Suppl. Notes Suppl. Notes
+Suppl. Notes Suppl. Notes Suppl. Notes Suppl. Notes
+
+Evaluation Scheme:
+
+Evaluation Component
+
+Duration
+
+Test I
+
+60 min
+
+Test II
+
+60 min
+
+Weightage (%) 15 15
+
+Date, Time & Venue
+8/9, 8.30-9.30 AM 25/10, 8.30-9.30 AM
+
+Remarks
+Closed book Open book
+
+Comprehensive 3 hours
+
+40
+
+12/12 AN
+
+Closed book
+
+Practical
+
+15
+
+As per the timetable
+
+Take home Assignments
+
+5
+
+To be announced in the class from time to time (Open book)
+
+Quiz
+
+10
+
+To be announced in the class from time to time (Closed book)
+
+Chamber Consultation Hour: It will be announced in the class. Make-up Policy:
+1. Make-ups are not entertained. 2. Make-up will be granted only on genuine reasons. However, prior permission is must. 3. For medical cases, a certificate from the concerned physician of the Medical Centre
+must be produced. Notices: All notices concerning the course will be displayed on the Notice Board of Civil Engineering group or Notice Board of LTC.
+Instructor-in-charge CE F312
+
+

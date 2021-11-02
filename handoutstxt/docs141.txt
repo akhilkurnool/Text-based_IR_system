@@ -1,0 +1,144 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI HYDERABAD CAMPUS
+INSTRUCTION DIVISION FIRST SEMESTER 2016 - 2017
+Course Handout Part II Date: 01.08.2016
+In addition to Part-I (General Handout for all courses appended to the timetable) this portion gives further specific details regarding the course.
+
+Course No. Course Title Instructor-in-charge
+
+: MATH F231 : Number Theory : Dr JAGANMOHAN JONNALAGADDA
+
+1. Course Description: This course will cover basic properties of the integers, greatest common divisors, primes, congruences, Chinese remainder theorem, Fermat's Little theorem and similar results, integer
+functions, primitive roots, quadratic residues.
+
+2. Scope and Objective of the Course: This course will introduce basic mathematical notations and methods, covering properties of divisors, prime numbers, integer functions, equations in integers and as well as some applications. The main objective of this course is to understand the divisibility properties of integers and other related topics as a basis for studying more advanced topics in Number Theory, Modern Algebra, or the number theoretic RSA cryptography algorithms.
+
+3. Text Book:
+Thomas Koshy: Elementary Number Theory with Applications, Second Edition, Academic Press,
+2007.
+4. Reference Books:
+(i) Tom M. Apostol: Introduction to Analytic Number theory, Springer, 1976. (ii) Kenneth H. Rosen: Elementary Number Theory and its Applications, Addison - Wesley
+publishing Company, 1986. (iii) Neal Koblitz: A Course in Number Theory and Cryptography, 2nd Edition, Springer, 1994.
+
+5. Course Plan:
+
+Lecture No.
+
+Learning Objectives
+
+1
+
+To study the fundamental properties of integers
+
+2-3
+
+To check the correctness of a division problem
+
+4-6
+
+To explore various important classes of positive integers
+
+Topics to be Covered
+Fundamental properties, the summation and product notations, mathematical induction, recursion, the binomial theorem
+The division algorithm
+Prime numbers, composite numbers, Fibonacci numbers, Lucas numbers, Fermat numbers
+
+Text Book Chapter/Section
+1.1 - 1.5
+2.1 2.5 - 2.7
+
+7
+
+To learn the fundamental operations on integers
+
+Greatest common divisor
+
+3.1
+
+To know how to find the greatest 8 - 9 common divisor of two numbers having The Euclidean algorithm
+prime factorizations.
+
+3.2
+
+10 11 - 13
+
+To know how to factorize any positive integer
+To learn linear Diophantine equations
+
+14 - 16
+
+To introduce congruences and develop their fundamental properties
+
+17 - 18
+
+To know the applications of congruences
+
+19 - 24
+
+To learn the four classical mile stone theorems in number theory
+
+25 - 28 29 - 31 32 - 35
+
+To know about multiplicative functions and their properties To learn about perfect numbers and Mersenne primes
+To discuss the order of an integer and primitive roots
+
+36 - 40
+
+To learn quadratic residues and the famous law of quadratic reciprocity
+
+41 - 42 To know about continued fractions
+
+The fundamental theorem of arithmetic 3.3
+
+Least common multiple, linear Diophantine equations
+Introduction to congruences, linear congruences, the Pollard rho factoring method
+Divisibility tests, check digits, round - robin tournaments, the perpetual calendar Chinese remainder theorem Wilson's theorem Fermat's little theorem Euler's theorem Euler's phi function, the tau and sigma functions, the Mobius function
+Perfect numbers, Mersenne primes
+
+3.4 - 3.5
+4.1 - 4.3
+5.1, 5.3, 5.5 - 5.6 6.1 - 6.3 7.1 7.2 7.4 8.1 - 8.2, 8.5
+8.3 - 8.4
+
+The order of a positive integer, primality tests, primitive roots for primes Quadratic residues, the Legendre symbol, quadratic reciprocity, the Jacobi symbol, Finite continued fractions, infinite continued fractions
+
+10.1 - 10.3 11.1 - 11.4 12.1 - 12.2
+
+6. Evaluation Scheme:
+
+S. Evaluation No. Component
+
+Duration
+
+1. Test I
+
+1Hour
+
+2. Test II
+
+1Hour
+
+4.
+
+Comprehensive Exam.
+
+3Hours
+
+Weightage (%)
+30 30
+40
+
+Date & Time
+8/9, 2.30--3.30PM 25/10, 2.30--3.30PM
+06/12 AN
+
+Nature of Component
+Closed Book Open Book
+Closed Book
+
+7. Make-up Policy: Make-up for tests will be given only for very genuine cases and prior permission has to be obtained from Instructor In-charge.
+8. Chamber consultation hour: To be announced by the respective Instructor.
+9. Notices: The notices concerning this course will be displayed in CMS only.
+
+Instructor-in-charge MATH F231
+
+

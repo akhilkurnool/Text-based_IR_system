@@ -1,0 +1,123 @@
+
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+Course Handout Part-II
+
+01-08-2016 
+In addition to partI (General Handout for all courses appended to the timetable) this portion gives   further specific details regarding the course.
+
+Course No. :   		MATH F111
+Course Title:   		MATHEMATICS I
+Instructorincharge:	A. Michael Alphonse 
+Name of Instructors: 	Anil Nemili, B. Mishra, D. K. Satpathi, K.  Venkata Ratnam, Kishore Kumar, Manish Kumar, Sharan Gopal, Sumit Kumar V.  
+ 
+Scope and Objective of the Course: 
+
+Calculus is needed in every branch of science and engineering, as all dynamics is modeled through differential and integral equations. Functions of several variables appear more frequently in Science than functions of a single variable. Their derivatives are more interesting because of the different ways in which the variables can interact. Their integrals occur in several areas such as probability, fluid dynamics, electricity, just to name a few. All these lead in a natural way to functions of several variables. Mathematics of these functions is one of the finest achievements of modern Mathematics.   
+
+Text Book:
+
+		George B. Thomas, Maurice D. Weir and Joel Hass, Thomas Calculus, Pearson, 11th Edition,  2007. 
+
+Reference Books:
+
+		Erwin Kreyszig, Advanced Engineering Mathematics, 8th  Edition, Wiley-India, 2007.
+		James  Stewart, Calculus, 5th Edition, Cengage Learning, 2003. 
+		Monty J. Strauss, Gerald L. Bradley and Karl J. Smith, Calculus, 3rd Edition, Pearson, 2007. 
+
+Course Plan:
+Lect. No.
+Learning Objectives
+Topics to be Covered
+Reference to Textbook: Chap / Sec
+1-3
+How calculus of one variable real-valued functions are related with those definitions of vector valued functions? 
+Limit, continuity and differentiability of vector functions, arc length, velocity and unit tangent vector 
+13.1, 13.3
+4-7
+Appreciate the concepts of curvature and torsion.
+Curvature, normal vector, torsion and binormal vector, tangential and normal components of velocity and acceleration
+13.4, 13.5
+8-9
+How to prove continuity, discontinuity and existence of limits for the functions of several variables?
+Functions of  several  variables, level curves, limits, continuity 
+14.1, 14.2
+10-12
+Difference between derivatives partial derivatives
+Partial derivatives, chain rule 
+14.3, 14.4
+
+13-14
+Distinguish between all types of derivatives
+Directional derivative, gradient vectors, tangent planes and normal line
+14.5, 14.6
+15-16
+Mathematical definition of a local Maximum and Minimum.
+Maximum, minimum and saddle  points of functions of two or  three variables, constrained maxima and minima  method of Lagrange  multipliers.
+14.7, 14.8
+17-19
+How to obtain length of a polar curve and area of a surface of revolution of a polar curve? 
+Length of a polar curve, area of a surface of revolution. 
+10.5 &10.6 
+(self-study), 
+10.7
+20-21
+How formula for area in polar coordinates can be found through polar double integral? 
+Double integrals, area, change of integrals to polar coordinates.
+15.1, 15.3
+
+22-26
+Try to identify which type of Integral evaluates volume of a solid in simplest way
+Triple integral, integral in Cylindrical and Spherical coordinates
+15.4, 15.6, 15.7
+27-30
+Learn equivalent definitions of conservative field. How Greens theorem can simplify evaluation of line integrals?   
+Line integral, work, circulation, flux, path independence, potential function, conservative fields, Greens theorem in the  plane 
+16.1, 16.2, 16.3, 16.4
+31-34
+Is Stokes theorem analogue of Greens theorem in plane?
+Surface area and surface integral, Gauss divergence theorem, Stokes theorem.  
+16.5,16.7,16.8
+35-38
+Study  of convergence of infinite series with examples & counter examples 
+Sequence of real numbers, frequently occurring limits, infinite series different tests of convergence, series of nonnegative terms, absolute and conditional  convergence, alternating series
+11.2-11.6
+39-41
+Approximating complicated functions by polynomials
+Power series, Taylor and Maclaurin series	
+11.7, 11.8
+
+Evaluation Scheme:
+EC No.
+Evaluation Component
+Duration
+Weightage
+Date,      Time        
+Nature of Component
+1.
+Test I
+1 Hr
+30%
+8/9, 10.00--11 AM
+Closed Book
+2.
+Test II
+1 Hr
+30%
+25/10, 10.00--11 AM
+Open Book
+3.
+Comprehensive Examination
+3 hrs
+40%
+ 02/12 FN
+Closed Book
+
+Chamber consultation hour:  To be announced in the class. 
+
+Make-up Policy: 
+Make-up will be given only for very genuine cases and prior permission has to be obtained from I/C.
+
+Notices: The notices concerning this course will be displayed on the CMS Notice Board only.  
+
+INSTRUCTOR IN CHARGE                                        				   		                

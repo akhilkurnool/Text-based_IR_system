@@ -1,0 +1,118 @@
+INSTRUCTION DIVISION FIRST SEMESTER 2016-2017
+Course Handout Part II Date: 01-08-2016
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No. Course Title Instructor-in-Charge
+
+: CS G527 : Cloud Computing : Dr. Digambar Powar
+
+Scope and Objective of the Course: The primary objective of the course is to introduce the student to cloud computing from architectural and design perspectives. As such the emphasis of the course would be on the underlying infrastructure and architecture of clouds, techniques for enabling services and the quality of such services, as well as issues in designing clouds. Specific research issues in performance, security, and management would also be addressed. Programming on the cloud would be encouraged but not taught in class. Students are expected to learn and understand tools and techniques for using, designing, and implementing clouds and services via assignments and a term projects.
+
+Textbooks: 1. Dinkar Sitaram and Geetha Manjunath. Moving to the Cloud. Syngress (Elsevier) Pub, 2011
+2. Rajkumar Buyya, James Broburg & anderzej M.G, Cloud Computing - Principles and Paradigms. John
+Wiley Pub, 2011
+
+Reference books 1. Rajkumar Buyya, Christian Vecchiola and S.Thamarai Selvi, "Mastering Cloud Computing", Mc Graw Hill Education, First edition, 2013. 2. Arshdeep Bahga and Vijay Madisetti, "Cloud Computing: A Hands-on Approach", Universities press (India), 2014. 3. Cloud security, a comprehensive guide to secure cloud computing, by Ronald L.Krutz et al, Wiley Publishers, 2010
+
+Course Plan:
+Lecture No.
+
+Learning objectives
+
+01,02
+
+To understand the motivation for Cloud Computing
+
+Topics to be covered
+Introduction to the course. Cloud and related technology. Networked and Distributed Computing - Models
+
+Chapter in the Text Book
+T1 Ch 1. R1 Ch 1. Lecture slides
+
+03-05 06
+07,08
+09,10 11-14 15,16 17-19 20,21
+
+To understand the underlying (distributed) computing model
+To understand cloud delivery model and deployment models. To understand how to architect a cloud to suit different requirements To understand virtualization techniques at different levels of abstraction. To understand how to leverage and provision computing resources at different levels of abstraction To understand the execution of applications on the cloud. To understand how to develop & deploy applications for the cloud and the relevant tools & technologies To understand how to deliver computing Infrastructure (e.g. processors, storage, network) as a Services To understand cloud storage services
+To understand virtual machine provisioning and migrations techniques
+To understand how to architect a cloud to suit different requirements
+
+Computing Paradigms: Parallel computing, Supercomputing, etc., Distributed computing: Clusters, Grids. Introduction to Cloud Computing - Origins and Motivation. 3-4-5 rule of cloud computing Types of Clouds and Services Cloud Infrastructure and Deployment
+Introduction to Virtualization, types of Virtualization, practical aspects of Virtualization. Uses & Demerits of Virtualization. x86 Hardware Virtualization Who manages the resources for the SaaS, PaaS and IaaS models
+Introduction to SaaS Pros and Cons of SaaS model Applications of SaaS, Traditional packaged Software Vs SaaS Examples of SaaS Case study
+Introduction to IaaS IaaS examples Introduction to Amazon cloud services, Reference Model of AWS, AWS demo.
+AWS Storage Services, AWS Database Services, AWS S3 demo. Virtual Machine Provisioning and Manageability VM Provisioning Process VIRTUAL MACHINE MIGRATION SERVICES, Migrations Techniques VM Provisioning and Migration in action VM Life Cycle and VM Monitoring Private Cloud Computing deployment (Eucalyptus) Eucalyptus architecture, Eucalyptus components
+
+T1 Ch 1. T1 Ch 2. R1 Ch 2. Lecture slides
+T1 Ch 1. T2. Ch 1. T2. Ch 6. Lecture slides
+T1 Ch 9. R1 Ch 3. Lecture slides
+T1 Ch 4. T2 Ch 9. R1 Ch 10. Lecture slides
+T1 Ch 2. Lecture slides
+T1 Ch 2. Lecture slides T2 Ch 5
+T2 Ch 5 www.eucalypt us.com
+
+22,23 24,25 26,27 28,29 30,31 32,33 34,35
+36,37
+38-40 41,42
+
+To understand platform as a service solutions in cloud
+-do-
+-do-
+To understand cloud file system To understand storage as a service using RAID levels. To understand multitenancy in cloud
+To understand cloud security issues and threat models
+To understand Service License Agreements (SLAs) in the cloud
+To understand cloud databases
+To deploy a private using OpenStack or Eucalyptus
+
+Introduction to PaaS PaaS examples Introduction Windows Azure, Drupal, Wolf Frameworks and Force.com PaaS
+5 Principles of UI Design - AWS PaaS Introduction google app engine Google app engine demo
+Hadoop components and importance of MapReduce Understanding MapReduce various logical steps. Exploring the word count java program in detail Summary of MapReduce facts
+Introduction to file system Distributed File System (DFS) Case study: GFS, HDFS MapReduce using HDFS
+Storage as Service (RAID) RAID 0, RAID 1, RAID 0/1, RAID 1/0, RAID 3, RAID 5, and RAID 6
+Multi-Tenancy, 4 levels of multi tenancy Resource sharing, Data customization Multi-tenant models for cloud services
+Introduction network security Introduction to cloud security Cloud security Issues, Cloud security threat Model, Top 5 cloud security threats
+Service License Agreements: Lifecycle and Management TRADITIONAL APPROACHES TO SLO MANAGEMENT -TYPES OF SLA's -LIFE CYCLE OF SLA, SLA MANAGEMENT IN CLOUD, AUTOMATED POLICY-BASED MANAGEMENT, Managing Clo
+Cloud databases, NoSQL, Key/value stores (Azure tables) Column family stores Document stores (MongoDB) Graph databases Private cloud deployment - OpenStack or Eucalyptus
+
+T1 Ch 3. Lecture slides
+T1 Ch 3. Lecture slides T1 Ch 3. T1 Ch 5. T2 Ch 14. Lecture slides
+T1 Ch 3. T1 Ch 6. Lecture slides Lecture slides
+T1 Ch 6. Lecture slides
+T1 Ch 7. T2 Ch 23. Lecture slides
+T1 Ch 8 T2 Ch 16 Lecture slides
+Lecture slides
+https://www.o penstack.org/ www.eucalypt us.com
+
+Evaluation Scheme: Component
+Test I
+
+Duration 60min
+
+Weightage (%)
+15
+
+Test II
+Assignments (Practical projects)
+Research-oriented activities (Seminars/ Presentations/ Research
+Summaries)
+Comprehensive
+
+60min ---
+180min
+
+15 25 15 30
+
+Date & Time
+9/9, 10.00--11 AM 24/10, 10.00--11 AM
+03/12 FN
+
+Chamber Consultation Hour: To be announced in the class Notices: Notices regarding the course will be put up on the CSIS notice board and CMS Make-up Policy: No makeup exam allowed without prior permission.
+
+Nature of Component Closed Book Closed Book Open Book
+Open Book
+Closed Book
+
+INSTRUCTOR-IN-CHARGE
+
+

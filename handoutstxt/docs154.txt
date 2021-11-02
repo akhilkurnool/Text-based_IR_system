@@ -1,0 +1,205 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE PILANI, HYDERABAD CAMPUS INSTRUCTION DIVISION
+FIRST SEMESTER, 2016-2017 COURSE HANDOUT PART-II (ON-CAMPUS)
+Date: 01/08/2016 In addition to Part-I (General handout for all courses appended to the Time Table), this portion gives further specific details regarding the course.
+
+Course No Course Title Instructor-In-Charge
+
+: ME G512 : FINITE ELEMENT METHODS : SRINIVASA PRAKASH REGALLA
+
+Course Description: Fundamental concepts, matrix algebra and Gauss elimination, one-dimensional problems, trusses, twodimensional problems using constant strain triangles, axisymmetric solids subjected to axisymmetric loading, twodimensional isoparametric elements and numerical integration, beams and frames, three-dimensional problems in stress analysis, scalar field problems, dynamic considerations, pre-processing and post processing.
+Scope and Objective: The course covers intermediate to advanced topics of finite element methods including scalar field problems,
+
+Text Book: T1. T. R. Chandrupatla, A. D. Belegundu, Introduction to Finite Elements in Engineering, 3rd Edition, Prentice Hall of India, New Delhi.
+
+Reference Books: R1. Reddy J. N., An Introduction to Finite Element Method, 3rd Edition, Tata-McGraw Hill Edition, 2006, New Delhi. R2. Rao S. S., The finite element method in engineering, fourth edition, Elsevier, 2005, MA, USA.
+Course Plan:
+
+Module
+M1: Fundamental Concepts
+M2: Matrix algebra in FEM
+M3: Finite element modeling of onedimensional vector-field problems
+M4: Finite element modeling of twodimensional vector-field problems
+
+Modularized Learning Items
+
+Reference: No. of
+
+Lectures
+
+RL1.1: Historical background, stresses and equilibrium, boundary
+
+T1: Chapter 1 2
+
+conditions, strain-displacement relations, stress-strain relations
+
+RL1.2: Temperature effects, potential energy and equilibrium, Rayleigh-
+
+Ritz method, Galerkin method, von-Mises stress
+
+RL2.1: Important concepts of matrix implementation of FEM
+
+T1: Chapter 2 1
+
+calculations, eigenvalues and eigenvectors, positive definite matrix,
+
+cholesky decomposition, Gaussian elimination, conjugate gradient
+
+method
+
+RL3.1: Finite element modeling, linear and quadratic shape functions T1: Chapter 3 & 3
+
+RL3.2: Rayleigh-Ritz & Galerkin approaches, assembly of equations
+
+4
+
+and application of essential and natural boundary conditions by different
+
+methods, temperature effects
+
+RL3.3: Finite element modeling of planar trusses, allusion to three-
+
+dimensional trusses, assembly of global stiffness matrix
+
+RL4.1: Finite element modeling using CST element, isoparametric
+
+T1: Chapter 5, 6 5
+
+representation
+
+and 7
+
+RL4.2: Modeling of orthotropic material system
+
+RL4.3: Finite element modeling of axisymmetric solids subjected to
+
+axisymmetric loading
+
+RL4.4: Application of boundary conditions in axisymmetric problems
+
+Module
+M5: Modeling of fourth order problems
+M6. Modeling of 3dimensional problems M7: Modeling of eigenvalue and dynamic problems
+M8: Finite element modeling of single variable scalar field problems M9: Finite element analysis fluid flow as vector field problems M10: Introduction to Advanced Topics
+
+Modularized Learning Items
+
+Reference: No. of Lectures
+
+with different examples
+
+RL4.4: Two dimensional isoparametric modeling with four node quadrilateral element RL4.4: Numerical integration RL4.5: Higher order elements and modeling of axisymmetric problems, conjugate gradient implementation of the quadrilateral elements
+
+SM5.1: Beams and Frames RL5.1.1: Modeling using Euler-Bernoulli Beam elements using Rayleigh-Ritz and Galerkin approaches, Load vector and boundary
+
+T1: Chapter 5 R1: Chapter 7 R2: Chapter 10
+
+5
+
+conditions, shear force and bending moment, beams on elastic supports
+
+RL5.1.2: Plane frames, three-dimensional frames
+
+RL5.1.3: Modeling using Timoshenko beam elements
+
+SM5.2: Plate bending
+
+RL5.2.1: Analysis of plates using membrane elements with in-plane loads RL5.2.2: Modeling of bending of plates under transverse loads
+
+M6.1: Formulation of 3D problems, stress calculations, hexahedral elements, solution procedures
+
+T1: Chapter 9 1
+
+RL7.1.1: Formulation of Eigen value problems, mass matrices and stiffness matrices
+
+T1: Chapter 11 R1: Chapter 6
+
+3
+
+RL7.1.2: Formulation of time dependent problems, parabolic equations R2: Chapter 12
+
+RL7.1.3: Formulation of time dependent problems, hyperbolic equations
+
+RL6.1: Boundary value problems
+
+T1: Chapter 10 8
+
+RL6.2: mesh generation and boundary conditions RL6.3: applications to heat transfer RL6.4: applications to potential flow, seepage fluid mechanics RL6.5: application to solid mechanics RL6.6: application to torsion
+
+R1: Chapter 8 R2: Chapters 13
+to 16
+
+RL9.1: Equations of fluid mechanics, modeling procedure RL9.2: analysis of inviscid and incompressible fluid flows
+
+R2: Chapter 1719 8
+
+RL9.3: analysis of viscous and non-Newtonian flows
+
+T1: Chapter 10
+
+RL10.1: Solution of quasi-harmonic equations
+
+R2: Chapter 20 to 6
+
+RL10.2: Solution of Helmholtz equation RL10.3: Solution of Reynolds equation
+
+22
+
+Total Lecture Classes: 42
+
+Evaluation Scheme:
+
+EC Evaluation
+
+Duration %Wgt Date & Time
+
+No. Component
+
+1 Test-I
+
+1 hr 15% 13/9, 4.00--5.00 PM
+
+2 Test-II
+
+1 hr 15% 21/10, 4.00--5.00 PM
+
+3
+
+Weekly
+
+2 hours each 20%
+
+Central CAD Lab (D208)
+
+Practicals
+
+week
+
+3 PM to 5 PM every Friday
+
+4 Project
+
+- 20%
+
+5 Comprehensive
+
+3 hrs
+
+30%
+
+06/12 FN
+
+Examination
+
+Chamber Consultation Hour: will be announced in the class.
+
+Make up policy: Only genuine cases will be granted make up.
+
+Notices: All in The CMS and if very important also on the Department Notice Board.
+
+Nature of Component
+Closed Book Closed Book Open Book: Comprehensive Practicals Examination at the end of the Semester Open Book Closed Book Quiz (15%) + Open Book (15%)
+
+NOTE: The border cases in final grading will be decided based on mainly class room attendance and attentiveness in the classroom.
+Instructor-In-charge ME G512
+
+

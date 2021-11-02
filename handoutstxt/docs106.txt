@@ -1,0 +1,146 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI-HYDERABAD CAMPUS
+INSTRUCTION DIVISION, FIRST SEMESTER 2015-2016
+Course Handout (Part II)
+										Date:  09/05/2016
+
+In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No :	CHE F211
+Course Title:	Chemical Process Calculations
+Instructor-in-charge: Asma Ahmed
+ 
+		Objective and Learning Outcomes:
+Chemical Process Calculations is one of the most fundamental courses of Chemical Engineering and serves as an introduction to the field. The course aims at inculcating systematic problem solving skills in students. 
+
+At the end of the course, the student should be able to:
+		Draw a process flow diagram based on a given problem, identify unknowns and carry out a degrees of freedom analysis
+		Solve material balance problems with and without chemical reactions in single and multiple subsystems
+		Solve problems involving recycle and bypass
+		Apply the laws of thermodynamics to solve basic energy balance problems
+		Use tables, charts and equations to calculate values of enthalpy, humidity, etc.
+		Analyze and solve problems involving both material and energy balances simultaneously
+
+
+		Text Book:
+Himmelblau, D. M. Basic principles & calculations in chemical Engg, PHI, 7th ed., 1997.
+
+		Reference Book:
+Felder, R. M. & R. W. Rousseau, Elementary Principles of Chemical Processes, John Wiley & Sons, Inc., 3rd ed., 2000.
+
+		Course Plan:
+
+Lecture No.
+Learning Objectives
+Topics to be covered
+Ref. (Text Book)
+1
+Introduction to Chemical Engineering 
+-
+-
+2
+Units, Dimensions and their conversion, Dimensional consistency in equations
+Units and Dimensions
+1.1-1.4
+3-4
+Mole, density and concentration 
+Density, specific gravity, mole fraction and mass fraction, concentration
+Ch 2
+5
+Choosing a basis
+How to choose a basis
+Ch 3
+6
+Different units of temperature, pressure
+Temperature and Pressure
+Ch 4, 5
+7-10
+Introduction to material balances
+Concept of material balance, open and closed systems, steady state/unsteady state
+Ch 6, 7
+11-12
+Solving material balance problems without chemical reactions
+Material balances without chemical reactions
+Ch 8
+13-14
+Stoichiometry
+Chemical reaction equations and stoichiometry
+Ch 9
+15-17
+Solving material balances with chemical reactions
+Material balances with chemical reactions
+Ch 10
+18-19
+Material balances involving multiple subsystems
+Solving material balance problems involving multiple subsystems
+Ch 11
+20-23
+Material balances with recycle and bypass
+Recycle bypass and purge calculations 
+Ch 12
+24-25
+Calculation procedures for ideal gas systems
+Ideal gas law calculations, ideal gas mixtures and partial pressure
+Ch 13
+26-27
+Two phase systems
+Vapor pressure, saturation, phase diagrams
+16.1, 17.1, 17.3, 19.1
+28-30
+General energy balances for open and closed systems without chemical reactions
+The General energy balance
+Ch 21, 22
+31-32
+Calculation of enthalpy changes using heat capacity equations and enthalpy tables
+Calculation of enthalpy changes
+23.1-23.3, Ch 24
+33-35
+Enthalpy balances with chemical reaction
+Energy balances that account for chemical reactions
+Ch 25
+36-37
+Calculation of heat of mixing and heat of solution
+Heats of solution and mixing
+Ch 28
+38-39
+Humidity chart and its use in determining the properties of moist air
+Humidity charts and their use
+Ch 29
+40-42
+Solving simultaneous material and energy balances
+Miscellaneous Examples
+-
+
+		Evaluation Scheme:
+Component
+Duration
+Weightage (%)
+Date & Time
+Remarks
+Test I
+1 hr
+20
+
+CB
+Test II
+1 hr
+20
+
+OB
+Surprise Tests
+Variable
+20
+
+CB
+Comprehensive Exam.
+3 hrs
+40
+
+CB + OB
+
+		Chamber Consultation Hour: Will be announced in the class (Chamber: D-222)
+		Notices:  Notices concerning the course will be displayed on the CMS website
+		Make-up Policy: Make-up will be granted only for genuine cases with valid justification and only with prior permission of Instructor-in-charge.
+
+
+Instructor-in-charge
+                                                                                                                                      CHE F211

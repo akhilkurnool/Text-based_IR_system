@@ -1,0 +1,142 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI HYDERABAD CAMPUS INSTRUCTION DIVISION First Semester 2016-2017 Course Handout (Part-II) Date: 01/08/2016
+
+In addition to Part I (General Handout for all courses appended to the Time Table), this portion gives further specific details regarding the course.
+
+Course No.: Course Title: Instructor-in-Charge:
+
+CHE G 523 Mathematical Methods in Chemical Engineering Dr. Vikranth Kumar Surasani
+
+1. Scope & Objective: The two main tasks facing engineers and scientists in chemical industry are (1) the operation
+and optimization of existing processes and (2) the design of new or improved ones. In the first task, information about the particular process under consideration and its qualitative aspects and criteria must be quantified. The basic variables and parameters of the relationships which describe the individual parts of the process must be worked out and the individual parts of the process must be combined. The Mathematical models play very important role in this respect. For the second task mathematical models help in applying existing processes to new or modified plants and in the definition of safer, more economically viable operating conditions. Data for the construction of new plants cannot be obtained from an operating process by running it to its technical limits; this entails a high degree of risk. In contrast, a mathematical model of a process is easy to manipulate. Unusual operating conditions can easily be simulated. The process or plant can even be modeled under hazardous conditions to define the limits of operating parameters or risk areas. Therefore, Mathematical Modeling and Simulation in Chemical Engineering processes has attracted the attention many scientists and engineers for many decades.
+The prime objective of this course is to provide a more comprehensive treatment of process modeling, analysis and simulation of the dynamic chemical systems. First we would be focusing on modeling and simulation on the various chemical engineering processes based on first principles. Second, Mathematical Methods to model and simulate the various processes using Numerical Techniques. The course will introduce to various Matlab, and ANSYS for simulating the chemical engineering processes. Subsequently, it follows the modeling of the special cases from the simple to complex chemical/biochemical process engineering systems. Students will be given a mini-projects to apply mathematical concepts and to simulate the chemical processes.
+2. Text and Journals Books:
+T1. Steven C. Chapra and Raymond P. Canale, "Numerical Methods for Engineers" Sixth Edition, McGraw Hill Education (India) Private Limited, New Delhi.
+T2. S. Pushpavanam, "Mathematical Methods in Chemical Engineering," Prentice-Hall-India, 1998.
+
+3. Reference Books: R1 B. Wayne Bequette, "Process Dynamics Modeling, Analysis, and Simulation," Prentice-HallInternational, Inc., 1998. R1. Stefan J. Capmann, "Matlab Programming for Engineers", 4th Ed. Cengage Learning. (Available from Books 24x7)
+R4 Fogler, H. S. (1992). Elements of chemical reaction engineering, Prentice-Hall.
+R5. Fromment G.F. and Bischoff K.B., Chemical Reactor Analysis and Design, John Wiley 1994.
+R6. Bruce A. Finlayson, Introduction to Chemical Engineering Computing, 2nd Edition, Wiley
+
+4. Journals
+1. Lichtner, P. C. (1996). Continuum formulation of multicomponent-multiphase reactive transport. Reactive transport in porous media. P. C. Lichtner, C. I. Steefel and E. H. Oelkers. Washington, D. C., Mineralogical society of America. 34: 1-81.
+2. Surasani, V. K. (2008). A Non-isothermal Pore Network Drying Model, Docupoint-Verlag. 3. Surasani, V. K., F. Kretschmer, et al.(2011) "Biomass Combustion in a Fluidized-Bed System:
+An Integrated Model for Dynamic Plant Simulations." Industrial & Engineering Chemistry Research 50(17): 9936-9943. 4. Surasani, V. K., L. Li, et al. (2014) "Bioclogging and Permeability Alteration by L. mesenteroides in a Sandstone Reservoir: A Reactive Transport Modeling Study." Energy & Fuels 27(11): 6538-6551. 5. Surasani, V. K., T. Metzger, et al. (2008). "Consideration of heat transfer in pore network modelling of convective drying." International Journal of Heat and Mass Transfer 51(9-10): 2506-2518. 6. Surasani V. K. (2005), "Isothermal and Non-isothermal Analysis of Diffusion Process in Inorganic Ceramic Membranes", Master Thesis Dissertation, Otto-von-Guericke University Magdeburg, Germany.
+
+5. Course Plan:
+
+Lecture No. L. 1 L. 2-3 P. 1
+L. 4-6
+P. 2 L. 7-9 P. 3
+L. 10-12 P. 4 L. 13-15
+P. 5
+
+Learning Objectives Introduction to Modeling & Simulation Matlab Programming
+Process Modeling
+Matlab Programming
+System of Linear Algebraic Equations
+
+Topics to be covered
+Introduction to the course; Concept of simple mathematical model and conservation laws; Role of programming and software. Variable Types; Built in functions; Plot tools; Writing functions; Control structures; Managing variables; Matrix operations; Introduction; Systems: Balance Equations
+Material Balances and Constitutive Relations Material and Energy Balances Distributed Parameter Systems General form of Dynamic Models
+Matlab Programming
+Direct Methods: Gauss Elimination Methods, LU Decomposition
+Iterative Methods: Gauss-Seidel Method
+P2. Solution to Linear Algebraic Equations using Matlab
+
+Reference Chap T1: Ch. 1 & 2 T1: Ch. 1, 2, 3 and 4 T2: Ch 1 / R1: Ch 1
+T2: Ch 4 / R1: Ch 2
+T1: Ch.9 T1: Ch.10/ R1 Ch. 3
+
+System of Ordinary difference Equations
+System of Partial Differential Equation
+
+ODE, Explicit Methods; R-K methods
+Implicit method
+Boundary Value problems
+P4. Solution to Sys. of ODEs using Matlab Classification of PDE, boundary conditions, Developing PDE in Chemical Engg. Systems. Numerical Differentiation:
+Control Volume Method. Initial & Boundary conditions P.5. Solution to Sys. of PDEs using Matlab PDE Tool box
+
+T1. Ch. 25 & 26 /R1 Ch. 4 T1. Ch 27/ R1. Ch. 4
+T1. PT. 8 & Ch. 29
+T1. Ch. 23
+
+L. 16-20
+P. 6 & 7 L. 21-30 P. 8-10 L. 31-40
+P. 8-14
+
+State Space Models
+
+Linearization of Non-linear Models
+
+Linear System Analysis
+
+Solution of general state-space form, Eigen value & Eigen Vector
+Solving linear nth order ODEs
+Introduction to Laplace transforms
+Analysis of First & Higher order Systems
+P. 6. Matlab Step function & Initial function.
+
+Nonlinear System Analysis
+
+Phase-Plane Analysis. Introduction to Nonlinear dynamics Bifurcation behavior for single
+
+Matlab Simulink
+
+Modeling and Simulation of Chemical Processes
+
+Fluidized bed combustion modeling Reactive Transport in Porous Media Introduction to Population Balance modeling Granulation of API
+Emulsification
+
+Introduction to Work-Bench
+
+CFD using
+
+Geometry & Meshing techniques
+
+ANSYS
+
+Introduction to Fluent
+
+Introduction to CFX
+
+L- Lecuture (1hr)
+
+P- Practical (3hr)
+
+T2. Ch. 9 R1. Sec. III
+T1. Chap 10-12 R1. Sec. IV
+Lichtner et al Surasani et al
+R6. Ch, 9, 10 & 11 & ANSYS Manuals
+
+6. Evaluation Scheme:
+
+EC Evaluation No. Component 1. Test-I
+2. Test-II
+4. Comprehensive 5. Practical Tests (P) 6. Project/Seminar/Viva
+
+Duration Weightage (%)
+1hr 15
+
+1hr 15
+
+3hrs.
+
+30 20 20
+
+Date& Time
+8/9, 10.00--11 AM 25/10, 10.00--11 AM 08/12 FN TBA TBA
+
+Nature of Component 100 % Closed
+100 % Open
+Open + closed 100% Open 100% Open
+
+7. Chamber Consultation Hour: To be announced in the class. Chamber: D204
+
+8. Notices: All notices concerning this course will be displayed on the Chemical Engineering Notice Boards and CMS portal.
+9. Make-up Policy: Make-up is granted only for genuine cases with valid justification and prior permission of Instructor-in-charge.
+
+Instructor-in-Charge Dr. Vikranth Kumar Surasani
+CHE G 523
+
+

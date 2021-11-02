@@ -1,0 +1,177 @@
+Birla Institute of Technology & Science, Pilani
+Hyderabad Campus
+Computer Science and Information Systems Department
+First Semester 2016-2017 Course Handout (Part II)
+Date: 01/08/ 2016
+In addition to part-I (General handout for all courses appended to the timetable) this portion gives further specific details regarding the course:
+
+COURSE NO. : CS F372 OPERATING SYSTEMS
+
+Room: F106 (MWF: 5th hour)
+
+Instructors: Chittaranjan Hota, I/C (hota@hyderabad.bits-pilani.ac.in) Barsha Mitra (barsha.mitra@hyderabad.bits-pilani.ac.in) Surender Singh Samant (surender.samant@hyderabad.bits-pilani.ac.in)
+Scope and Objectives An operating system (OS) is a collection of software that manages computer hardware resources and provides common services for all computer programs that are executed on the computer. The OS provides an established, convenient, and efficient interface between user programs and the bare hardware of the computer on which it runs. It provides relatively uniform interfaces to access the extremely wide variety of devices that a computer interacts with, from input/output devices such as printers and digital cameras, to multiple processors that are available on a single board. The OS is responsible for sharing resources (e.g., disks, and processors), providing common services needed by many different programs (e.g., access to the printer), and protecting individual programs from interfering with one another. There is a tremendous range and variety of computer systems for which operating systems are being designed: from embedded devices e.g., the on-board computers for the space shuttle or a luxury sedan and cellphones to PCs, workstations, and mainframes, to supercomputers. The intent of this course is to provide a thorough discussion of the fundamentals of operating system design, and to relate these to contemporary design issues and current directions in the development of operating systems. Particular emphasis will be given to three major OS subsystems: process management (processes, threads, CPU scheduling, synchronization, and deadlock), memory management (segmentation, paging, swapping), and file systems. We will also study existing operating systems such as Linux/Windows and learn the way the studied concepts in the course are implemented in these OSs.
+
+TEXT BOOK T1 Silberschatz, Galvin, and Gagne, "Operating System concepts", 8e, John Wiley & Sons, 2009.
+
+REFERENCE BOOKS R1 W. Stallings, "Operating Systems: Internals and Design Principles", 6e, Pearson, 2009. R2 Tanenbaum,Woodhull,"Operating Systems Design & Implementation",3e, Pears, 2006.
+R3 Dhamdhere, "Operating Systems: A Concept based Approach", 2e, McGrHi, 2009.
+R4 Robert Love, "Linux Kernel Development", 3e, Pearson, 2010.
+
+PLAN OF STUDY: S. Learning Objectives No. 1. Various components of a computer and the role an OS play to control those. 2. How a system boots and what functions and services an OS provides. 3. At runtime how does a process work and how they communicate with each other. 4. Light weight processes and their impact on managing system resources.
+
+TOPIC
+Introduction: What OS's do? System Organization & Architecture, OS Operations, Open source OSs. OS Structures: OS Services, System calls, OS Structures, Virtual machine, System boot.
+Processes: Process Concepts, Scheduling, Operations, Inter Process Communication.
+Threads: Libraries, Multithreading model, Threading issues.
+
+CHAPTER REF (Text) Chapter 1
+Chapter 2
+Chapter 3
+Chapter 4
+
+#Lect.s 2 2 3 2
+
+1/2
+
+5.
+
+Single and multiple CPU CPU Scheduling: Criteria, Algorithms, Multiple Chapter 5
+
+4
+
+process scheduling.
+
+processor scheduling.
+
+6.
+
+How a concurrent access Synchronization: Critical section problem, Chapter 6
+
+3
+
+requests are to serialized?
+
+Peterson's solution, Semaphores, Classical
+
+problems, Monitors.
+
+7.
+
+Recent research on CPU Scheduling
+
+IEEE/ACM 2
+
+8.
+
+How multiple processes could Deadlocks: System model, Prevention, Chapter 7
+
+3
+
+end up in waiting indefinitely Avoidance, Detection, and Recovery from
+
+and how to solve this?
+
+deadlocks.
+
+9.
+
+How main memory is divided Memory Management: Swapping, Contiguous Chapter 8
+
+3
+
+into different parts and memory allocation, Paging, Segmentation.
+
+arranged so that degree of
+
+multiprogramming can be
+
+increased.
+
+10. How to combine the size of Virtual Memory: Demand paging, page Chapter 9 3
+
+RAM and Hard disk to get a replacement, Thrashing, Memory mapped files,
+
+Virtual memory so that larger Allocating Kernel memory.
+
+programs can be run.
+
+11.
+
+Recent research on Memory Management
+
+IEEE/ACM 1
+
+12. What abstraction OS provides File System Interface: File system, Access Chapter 10 2
+
+to access contents from a hard methods, Mounting, sharing, and disk structures.
+
+disk?
+
+13. How is the FS implementation File System Implementation: Structure and Chapter 11 2
+
+help improve the efficiency of Implementation, Allocation methods and Free
+
+storage space?
+
+space management.
+
+14. Secondary storage structures Mass Storage: Disk structure, disk scheduling, Chapter 12 2
+
+with IO scheduling and disk management, and RAID.
+
+redundancy?
+
+15. How OS manages various I/O I/O Systems: I/O hardware, I/O Interface, Kernel Chapter 13 2
+
+devices?
+
+I/O subsystem.
+
+16.
+
+Recent research on File Systems
+
+IEEE/ACM 1
+
+17. Security features like Access Protection: Access Matrix Model, Chapter 14 2
+
+privileges etc. are provided by Implementation of AMM: Capabilities, and
+
+OS in different ways and Access Control List.
+
+students will learn these here.
+
+18. Various other types of Special Purpose Operating Systems: Overview Chapters 15, 2
+
+Operating systems: Overview. of Real-time Operating Systems, Multi-media 16
+
+OS, and Distributed Operating Systems.
+
+EVALUATION SCHEME: Sl No. Component & Nature 1. Evaluative Labs/Tutorials
+
+Duration 1 hour
+
+2. Test I (Closed Book)
+
+1 hour
+
+3. Test II (Closed Book)
+
+1 hour
+
+4. Comprehensive Exam (Open-20%+ Close-20%) 3 hours
+
+Weightage 20%
+20% 20% 40%
+
+Date and Time (best 2 out of three evaluations) 08.09.2016
+25.10.2016
+12/12/2016 ( AN)
+
+Tutorial classes will be of problem solving nature and coding/implementation aspects on the theory covered in the classes. Any outside help concerning the use of the computer facilities is acceptable. You may discuss the meaning or intent of a problem given in the lab/tut with instructors before attending the lab/tut. Tut or Lab record is to be maintained by everyone and is required at the end to be submitted to I/C. Note: All notices related to the course will be displayed on the CSIS Notice Board/CMS. Make ups shall be granted to genuine cases with a request for makeup reaching the I/C before the test.
+Chamber Consultation Hour: Would be announced in the class. (Tuesday: 4-5pm, B224)
+Instructor-in-charge, CS C372
+2/2
+
+

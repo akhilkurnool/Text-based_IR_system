@@ -1,0 +1,189 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI HYDERABAD CAMPUS
+INSTRUCTION DIVISION FIRST SEMESTER 2016-2017
+Course Handout Part II Date: 01-08-2016
+In addition to Part-I (General Handout for all courses appended to the timetable) this portion gives further specific details regarding the course.
+
+Course No.
+
+: EA C482/BITS F343
+
+Course Title
+
+: FUZZY LOGIC & APPLICATIONS
+
+Instructor-in-charge : K.SRINIVASA RAJU
+
+1. Scope and objective of the course:
+
+The aim of this course is two fold: 1. to provide a thorough understanding of the basics of this topic which has important applications in almost all fields of study; 2. to bring the students faceto-face with an application in some important area. To this end, every student is required to work on a project, as part of the course, involving an application of Fuzzy Logic. Further, the project work provides an opportunity to the students to study research papers appearing in various journals and learn about the latest developments in the field.
+
+2. Text Book [TB]: M. Ganesh : Introduction to Fuzzy sets and Fuzzy Logic, Prentice Hall of India private limited, 2006.
+Reference Books :
+
+[RB1]: Timothy J. Ross:- Fuzzy Logic with Engineering Applications, John Wiley and Sons, 2010 [RB2]: Kwang H.Lee, First course on Fuzzy Theory and Applications, Advances in Soft computing, Springer, 2005 [RB3]: K.Srinivasa Raju, D.Nagesh Kumar, Multicriterion Analysis in Engineering and Management, PHI Learning Private Limited, 2010.
+
+3. Course Plan:
+
+Lecture No 1 2 to 4 5 to 8 9 to 13
+
+Learning Objectives
+
+Brief information about crisp set theory Basics of fuzzy sets
+
+Basics of fuzzy
+
+relations
+
+Various shapes of
+
+membership functions,
+
+fuzzification
+
+and
+
+defuzzification
+
+aspects,
+
+Neural
+
+networks, MATLAB
+
+perspective
+
+Topics to be covered
+
+Crisp Set Theory
+
+Fuzzy Set Theory
+
+Fuzzy Relations
+
+Properties
+
+of
+
+memberships
+
+functions, development,
+
+defuzzification
+
+Chapter in the text book/reference book Chap-1 (TB), Chap-1(RB1)
+Chap-6 (TB), Chap-1,2 (RB1) Chap-7 (TB), Chap-3 (RB1) Chap-4,6 (RB1)
+
+14 to 19 Basics of various types Fuzzy logic and reasoning Chap-8 (TB), Chap-5
+
+of reasoning, Fuzzy
+
+(RB1)
+
+inference systems,
+
+MATLAB perspective
+
+20 to 26 Decision making in Applications in decision Chap-10 (TB), Chap-9
+
+fuzzy environment making
+
+(RB1) and supporting
+
+along with various
+
+material
+
+algorithms, Bayesian
+
+Decision Making,
+
+MATLAB perspective
+
+27 to 30 Brief description of Fuzzy Classification
+
+Chap-10 (RB-1)
+
+data mining, Fuzzy
+
+classification,
+
+MATLAB perspective
+
+31 to 36 Fuzzy Optimization, Advances in fuzzy logic Chap-14(RB1)
+
+Fuzzy Regression,
+
+Control
+
+Theory,
+
+Expert
+
+Systems,
+
+Artificial Intelligence,
+
+MATLAB perspective
+
+37 to 42 Various case studies in Case studies
+
+Supplementary material,
+
+different disciplines
+
+research papers
+
+ Supplementary notes will also be provided wherever necessary
+
+4. Home & Reading Assignments:
+
+Problems assigned in the class must be worked out. Students are expected to read relevant portions from the reference books and other books available in the library. Further, they must read all relevant articles and papers appeared / appearing in various Journals.
+
+5. Evaluation scheme: EC No. Evaluation Component
+
+Duration Weightage Date, Time & Nature of
+
+(%)
+
+Venue
+
+Component
+
+1 Test I
+
+60 mts
+
+20
+
+2
+
+Test II
+
+60 mts
+
+15
+
+3 Project
+
+25
+
+4
+
+Comprehensive 3 hrs
+
+40
+
+Exam
+
+9/9, 1.00--2.00 PM 24/10, 1.00--2.00 PM
+05/12 AN
+
+CB
+CB
+OB CB
+
+6. Chamber Consultation Hour: To be announced in the class.
+7. Notices: Notices concerning the course will be displayed only on the Civil Engineering notice board.
+Instructor-In-Charge EA C482/ BITS F343
+
+

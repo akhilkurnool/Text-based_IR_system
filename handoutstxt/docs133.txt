@@ -1,0 +1,120 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI HYDERABAD CAMPUS
+FIRST SEMESTER 2016-2017
+
+Course Handout (Part - II)
+
+Date: 01/08/2016
+
+In addition to part-I (General Handout for all courses appended to the time table) this
+
+portion gives further specific details regarding the course.
+
+Course No.
+
+: CHEM F336
+
+Course Title
+
+: Nanochemistry
+
+Instructor-in-charge : Dr. Balaji Gopalan
+
+Course Description: Introduction, importance of nanoscience, chemistry behind nano; Instruments to be used for characterizing nanomaterials; Diversity in nanosystems: chemical aspects of metallic, semiconducting nanomaterials, nanocomposites, carbon nanotubes and fullerines, self-assembled monolayers, monolayer protected metal nanomaterials, core-shell nanomaterials; Applications of nano materials in nanobiology, nanosensors and nanomedicines, hands on experience in laboratory.
+Scope & Objectives: This is an elective course for chemistr y discipline. Nanomaterials are ubiquitous in nature. Understanding the properties and its dependence on shape, size, and functional groups enables us to employ these nanomaterials for device applications. We will introduce the various nanosystems, study their properties and applications. A pplications are limited in the fields of biology, sensors, medicine, and machines. The course also provides an opportunity to learn the synthetic techniques of nanomaterials, characterizations, familiar with various equipments etc.
+Text Book : T. Pradeep, Nano: The Essentials, Understanding nanoscience and Nanotechnology, Tata McGraw-Hill Publishing Company Limited, New Delhi, 2007.
+Reference Book : 1) C. P. Poole Jr. and F. J. Owens, Introduction to Nanotechnology, Wiley Intescience 2003.
+2) S. M. Lindsay, Introduction to Nanoscience, Oxford, 2010 3) G. Cao, Nanostructures and Nanomaterials, Imperial College press, 2004 4) Nanomaterials, B. Viswanathan Narosa Publishing House, New Delhi
+
+Lect. No. 1 2-5 6-11
+12-17
+
+Learning Objectives
+
+Topics to be covered
+
+Reference to Text book
+
+Introduction Instruments for the characterization of nanomaterials
+Metal nanoparticles: syntheses, characterization, properties, applications
+Semiconducting nanoparticles: Syntheses, properties,
+
+Nano the beginning, concept, importance
+
+Class note
+
+Electron microscopes, Scanning probe microscope, X-ray diffractometer, Dynamic light scattering
+
+T1 2.1 - 2.6 Class notes
+
+Syntheses, properties of monolayer and polymer capped metal nanoparticles, Mie theory, controlling the size and composition of the metallic cores of nanoparticles, Sensoric and photoelectrochemical applications, catalysis, Anisotropic metal nanoparticle, Nanostructure: 2D array, 3D Superlattice
+
+T1 8.1 - 8.6 T1 9.1 - 9.5
+
+Quantum dots, Electronic structure, Semiconductor nanoparticle polymer
+
+T1 7.1 - 7.6
+
+18-21 22-26 27-29 30-32 33-36 37-42
+
+characterization and applications Nanocomposite materials
+Sell-assembled monolayers Carbon nanotubes Fullerenes
+Nanoparticles in catalysis
+Nanoparticles in Biological and biomimetic applications
+
+composite, Optical properties
+What are composite materials; Classification of nanocomposites: Nonpolymer based nanocomposites; Polymer based composites; Biocomposites
+Monolayers on gold, patterning monolayers, Langmuir Blodgett films, Applications of films in LED, Non-linear optical properties
+Syntheses, Structures, physical properties, Electronic properties, Mechanical Properties and applications
+Syntheses and purification, Properties, Nanostructured fullerene films, Applications in electrocatalytic aspects and photoelectrical conversion of light energy
+Introduction of nanoparticles in catalysis, Methods of preparation of supported metal nanoparticles, Applications of nanomaterials in various fields of catalysis
+Colloidal gold bioconjugates, Metal cluster conjugates, DNA and nanoparticles, DNA recognition, Biomimetic applications: Carbohydrate-protein and carbohydratecarbohydrate interactions, Nanomaterials as delivery systems
+
+Class notes
+T1 5.1 - 5.7
+T1 4.1 - 4.9
+T1 3.1 3.12
+Class notes
+T1 11.1 - 11.7 T1 13.1 - 13.7
+
+Evaluation Scheme : EC Evaluation No. Component. 1 Test -1
+2 Test-2
+
+Duration Weightage Date, Time
+
+Nature of Component.
+
+& Venue.
+
+60 min
+
+15% 13/9, 2.30--3.30PM Closed Book
+
+60 min
+
+15% 21/10, 2.30--3.30PM Closed Book
+
+3 Lab component 4 Quiz
+
+-----------------
+
+20% 10%
+
+------------------------------
+
+Open component Closed Book
+
+5 Comprehensive Examination
+
+3h
+
+40% 13/12 AN
+
+Closed Book
+
+Chamber Consultation Hour: To be announced in the class
+
+Notices: Notices concerning the course will be put up on the chemistry notice board. Make-up Policy: Make-up for the tests will be granted only on genuine grounds of sickness leading to hospitalization (should be supported by medical documents) etc.
+
+Balaji Gopalan Instructor-in-charge
+
+

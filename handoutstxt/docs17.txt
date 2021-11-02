@@ -1,0 +1,214 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE-PILANI- HYDERABAD CAMPUS
+
+INSTRUCTION DIVISION, FIRST SEMESTER 2016-2017 (COURSE HANDOUT PART II)
+
+Date: 02/08/2016
+
+In addition to part-I (general handout for all courses in the time-table), this handout provides the specific details regarding the course.
+
+Course No.:
+
+BITS F111
+
+Course Title:
+
+THERMODYNAMICS
+
+Instructor-in-charge: SATISH K DUBEY
+
+Instructors: Kharthik Chetan, KRC Murthy, Ramsankar V, Supradeepan K, S Aparna
+
+1. Course Description: Concepts and laws of thermodynamics, macroscopic thermodynamic properties, application to closed and open systems, microscopic approach to entropy, equations of state, thermodynamics of non reacting mixtures.
+
+2. Scope and Objective: Thermodynamics deals with energy, matter, and the laws governing their interactions. It is essential to learn its usefulness in the design of processes, devices, and systems involving effective utilization of energy and matter. The course emphasizes on the fundamentals and concepts of the laws of thermodynamics as applied to control mass and control volume systems. Irreversibility and availability are powerful tools in the design of thermodynamic systems.
+
+3. Text Book:  Claus Borgnakke,&Richard E. Sonntag, "Fundamentals of Thermodynamics", John Wiley& Sons, 2009, 7thEdition.  Mathur T.N.S., "Entropy & 2nd Law of Thermodynamics", Notes-EDD, 2006.
+ Adopted from book by Van Wylen& others "Thermodynamics Tables, Figures and Charts", Notes-EDD, 2007.
+
+4. Course Plan:
+
+Lecture Nos. 1-3 4-5 6-7 8-10 11-13
+14-16
+17-18
+19-21
+22 23-26
+
+Learning Objectives
+To familiarize some concepts & definitions
+To understand the properties of pure substances To understand the use of Thermodynamic Tables to get the properties of pure substances To understand the concepts behind thermodynamic work To understand the difference between the thermodynamic work and heat To understand the concepts behind the First law applied to control mass and formulation of equation of first law for control mass
+To understand the process of application of first law equation to engineering problems To understand the concepts behind the first law applied to control volume and formulation of equation of first law for control volume To understand the process of application of first law equation for control volume to engineering problems To understand the need for Second Law of
+
+Topics to be covered
+
+Chapter/ Section
+
+Introduction, thermodynamic systems, properties
+
+& state, process & cycle, force, energy, pressure, 1,2
+
+specific volume, zeroth law.
+
+Phase equilibrium, independent properties, 3.1 - 3.3,
+
+equations of state, compressibility factor.
+
+3.6, 3.7
+
+Tables of thermodynamic properties & their use.
+
+3.4
+
+Definition of work and its identification, done at the moving boundary.
+
+work
+
+4.1 - 4.5
+
+Concept of heat, comparison of heat and work. 4.6 - 4.8
+
+First law for a cycle as well as for a change of
+
+state; internal energy & enthalpy; specific heats, 5.1 - 5.3,
+
+internal energy, enthalpy & specific heat of ideal 5.5 - 5.7
+
+gases.
+
+First law as a rate equation; problem analysis & solution technique, examples.
+
+5.4 & 5.8
+
+Conservation of mass in control volume; first law
+
+for control volume; S.S. process; examples of S.S. processes, transient processes.
+
+6.1 - 6.5
+
+Problem analysis & solution technique; examples. 6.1 - 6.5
+
+Limitations of first law & need for the second law; 7.1 - 7.5,
+
+Page | 1/2
+
+Lecture Nos.
+27-30
+31-34 35-36 37-49 40 41-42
+
+Learning Objectives Thermodynamics and its basic concepts
+To understand the physical principles behind entropy and formulation of second law for control mass
+To understand the formulation of second law for control volume
+To understand the process of application of second law for control volume to engineering problems To understand the physical principles behind Irreversibility and availability
+To understand the thermodynamic considerations of non-reacting mixtures Thermodynamic relations
+
+Topics to be covered
+
+Chapter/ Section
+
+reversible process; heat engine, heat pump, 7.7 - 7.9
+
+refrigerator; Carnot cycle; energy-conversion
+
+efficiency and COP, Kelvin-Planck &Clausius
+
+statements, The ideal gas Carnot cycle, the
+
+thermodynamic temperature scale.
+
+Concept of entropy; the need and definition of
+
+entropy; entropy of a pure substance; entropy
+
+change of a reversible & irreversible processes; principle of increase of entropy, thermodynamic
+
+8.1 - 8.12
+
+property relation; problem analysis & solution
+
+technique.
+
+Second law for control volume; S.S. &transient
+
+processes; reversible S.S.S.F. process; principle of 9.1 - 9.4
+
+increase of entropy
+
+Understanding efficiency and related problems;
+
+problem analysis & solution technique.
+
+9.5
+
+Available energy, reversible work & irreversibility
+
+for control mass and control volume processes; 10.1 - 10.4
+
+second law efficiency.
+
+General considerations and mixtures of ideal gases
+
+13.1
+
+Clapeyron equation, Maxwell relations, 14.1 - 14.5,
+
+Thermodynamic relation for enthalpy, internal energy, and entropy, expansively and compressibility factor, equation of state, generalized chart for enthalpy and entropy
+
+14.7 14.9
+
+change, developing tables of property from
+
+experimental data
+
+5. Evaluation Scheme:
+Evaluation Component Test-1
+
+Duration 60 min
+
+Weightage (%) 20%
+
+Date &Time
+9/9: 2.30-3.30 Pm
+
+Nature of Component
+CB
+
+Test-2
+
+60 min
+
+20%
+
+24/10: 2.30-3.30 Pm
+
+OB
+
+Tutorial Test
+
+Distributed and Surprise
+
+20
+
+20%
+
+During Tutorial Hours
+
+CB
+
+Comprehensive Exam
+
+3 hours
+
+40%
+
+5/12 FN
+
+CB
+
+NOTE: EDD Notes on "Thermodynamics Tables, Figures and Charts" will be allowed in the closed book tests also. However, it should not be defaced by writing formula, equations, etc.
+6. Chamber Consultation Hour: To be announced by the respective instructors.
+7. Notices: All notices concerning this course will be displayed only on the LTC notice board.
+Besides this, students are advised to visit regularlyCMS (institute's web based course management system) for latest updates and notices
+8. Make-up Policy:Make-up for the tests shall be granted only for genuine cases. Requests for the make-up tests, duly forwarded by the respective tutorial section instructors, should reach the IC well before the tests. For cases related to illness, proper documentary evidence is essential. No make-up will be given to Assignments. Instructors BITS F111
+
+Page | 2/2
+
+

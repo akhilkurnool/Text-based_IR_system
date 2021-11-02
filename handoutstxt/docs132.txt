@@ -1,0 +1,138 @@
+
+INSTRUCTION DIVISION
+FIRST SEMESTER 2015-2016
+Course Handout Part II
+										    Date: 19-07-2015 
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.			:  CHEM F327
+Course Title			: Electrochemistry: Fundamentals and Applications
+Instructor-in-Charge		: Subhas Ghosal
+
+Scope and Objective of the Course: 
+The course aims at covering topics in electrochemistry, with the broad classification of the entire subject into the domains viz., electrode processes, electron-transfer kinetics, mass transfer, and ECL. Starting with the fundamental principles and their applications, the ultimate purpose of this course is to provide a comprehensive survey involved in the different areas of electrochemistry before starting formal research in any of the electrochemical areas. Different electrochemical instruments will be covered to provide structural information about the electrode and surface microscopic methods. Finally, an out-line of photoelectrochemistry, electrochemiluminescence (ECL) and nanoplasmonics will be covered.
+
+
+Textbooks:
+A. J. Bard and L. R. Faulkner Electrochemical Methods: Fundamentals and Applications, 2nd Edition, (John Wiley & Sons, Inc., Copyright 2001).
+
+Reference books
+Bard, A. J., Ed., (from Vol. 19 with I. Rubinstein), "Electroanalytical Chemistry," Marcel Dekker, New York, 1966-1998.
+Bockris, J. O'M., and . . Conway, et al., Eds., "Modern Aspects of Electrochemistry," Plenum, New York, 1954-1997.
+
+Course Plan:
+Lecture No.
+Learning objectives
+Topics to be covered
+Chapter in the Text Book
+1-4
+Introduction and Overview of Electrode Processes
+Electrochemical cells and reactions, working, reference, and counter electrode, electrolyte, overpotential, Faradaic and nonfaradaic Processes, capacitance, electrical double layer, and double-layer capacitance
+Ch: 1, p.2-17
+5-8
+Electrochemical Cells
+Primary and secondary cells, various electrochemical experiment, factors affecting electrode reaction, cell resistance, mass transfer, coupled reversible and irreversible reactions
+Ch: 1, p.18-30, p.36-38
+9-11
+Potentials and Thermodynamics of Cells
+
+Electrochemical thermodynamics, cell emf, formal potentials, electrochemical potential, liquid junction potentials, conductance, mobility, junction of two immiscible liquids, and selective electrodes
+Ch: 2, p.44-53, p.60-68, p.73-79 
+12-15
+Kinetics of Electrode Reactions
+
+The Arrhenius equation and potential energy surfaces, transition state theory, electrode reactions, kinetics, Butler-Volmer model, implications of the Butler-Volmer model, and Tafel plots
+Ch: 3, p.88-100, p.103
+16-18
+Multistep Mechanism
+Electron transfer in rate-determining step, quasireversible and irreversible multistep process, charge transfer, and Marcus theory 
+Ch: 3, p.107-124
+19-21
+Mass Transfer by Migration & Diffusion
+General mass transfer equation, migration, diffusion, and Fick's laws of diffusion
+Ch: 4, p.137-139, p.146-150
+22-25
+Basic Potential Step Methods
+Overview, detection, potential step under diffusion control, idea of ultramicroelectrodes (UME), chronoamperometric techniques, chronocoulometry, and applications of UME 
+Ch: 5, p.156-161, p.168-170, p.207- 217
+26-28
+
+
+
+Potential Sweep Methods
+Introduction, reversible system, peak current and potential, irreversible system, quasireversible system, cyclic voltammetry (CV), and multicomponent system 
+Ch: 6, p.226-231, p.234-240, p.243 (partly self-study)
+29-30
+Concepts of Impedance
+Various types, Faradaic impedance, kinetic parameters, electrochemical impedance, cyclic ac voltammetry, instrument for impedance
+Ch: 10, p.368-370, 377, 398, 406
+31-34
+Instrumentation: 
+Potentiostats, Scanning tunneling microscopy (STM), scanning electrochemical microscopy (SECM), its applications
+Ch: 15 & 16, p.640 (partly ss)  p.659-676
+35-39
+Applications: Photoelectrochemistry and ECL 
+Electrogenerated chemiluminescence (ECL), kinds of experiments, analytical applications of ECL, photoelectrochemistry at semiconductors, semiconductor electrodes, photoeffects, electrochemical detection of photolytic and radiolytic products, AAO templates
+Ch: 18, p.736-743, p.745-760,
+Class notes, self-study
+40-42
+Applications:
+Medicine
+Applications of electrochemistry in medical technology and diagnostic  devices, nanoplasmonic biosensors 
+Class notes, self-study
+
+
+
+Evaluation Scheme:
+Component
+Duration
+Weightage (%)
+Date & Time
+Nature of Component
+Test1
+1hr
+20
+
+Close Book
+Test2
+1hr
+20
+
+Close Book
+Comprehensive Exam
+3hr
+40
+
+20% Close Book
+20% Open Book
+Assignments and Tutorials
+continuous
+20
+
+Open/close Book
+
+Chamber Consultation Hour: 
+
+Notices: CMS, Chemistry Department notice board
+
+Make-up Policy: Make up would be considered only for regular students having genuine reasons.
+
+
+
+Subhas Ghosal    
+
+ INSTRUCTOR-IN-CHARGE
+
+
+
+
+
+
+
+
+
+
+
+
+
+

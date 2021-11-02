@@ -1,0 +1,142 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI, HYDERABAD CAMPUS
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-17
+Course Handout (Part  II)
+									              Date: 01/08/2016
+In addition to Part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding this course.
+Course No. 			: CHEM F312
+Course Title			: Physical Chemistry IV
+Instructor-in-charge		: Dr. AMIT NAG
+Instructors: Dr. G Ramakrishnan & Dr. Amit Nag
+
+1. Scope and Objective of the course:
+The first part of the course provides a comprehensive survey of the concepts, involved to study different kind of forces originated due to the interaction between molecules and its effect on the physical properties of matter like dipole moment, diffusion, viscosity etc. Introduction of surface chemistry e.g. formation of colloids, micelles etc. will also be discussed. The second part of the course includes investigations of rates of chemical reactions in different conditions, theories of reaction rates and interpretation from statistical thermodynamics.
+         
+         2. Text Book:  
+         T1. I. N. Levine, Physical Chemistry, 5th Edition, Tata McGraw-Hill, 2011. 
+         3. Reference Book: 
+         R1: P.W. Atkins & Julio de Paula, Atkins Physical Chemistry, Ninth edition (Oxford University Press, Oxford, 2010).          
+       4. Course Plan:
+LN
+Topics 
+Learning  Objectives
+Chapter 
+1-3
+Weak forces
+Electric dipole moment, Polarization, Interaction between dipoles, Interaction between induced dipoles, Hydrogen bonding, Total attractive and repulsive interactions
+T1: 14.15, 22.10
+R1:17.1 - 17.6,
+Lecture Notes
+4-5
+Surface Chemistry
+Molecular interactions in gases, Liquid-vapour interface, Surface films, Thermodynamics of surface layers
+T1: 13.1-13.4
+R1: 17.7  17.10,
+Lecture Notes
+6-7
+Colloids, micelles, and reverse micellar structures
+Classification, Preparation, Structure & stability of colloids, Micelle formation, Reverse micellar structures, Bilayers, Determination of size & shape
+T1: 13.6
+R1: 18.6  18.9(b), Lecture Notes
+8-10
+Transport processes
+Kinetics, Viscosity, Diffusion, Sedimentation, electrical conductivity of solids and electrolyte solutions
+T1: 16.1  16.7,
+Lecture Notes
+11-13
+Rates of chemical reactions and analysis of kinetic data of simple reactions
+Definition of rate, derivation of concentration time relationship for simple reactions, Determination of rate law, Half-life of reactions, reactions approaching equilibrium
+T1: 17.1  17.4
+14
+Chain reactions
+Polymerization kinetics, chain polymerization reactions
+T1: 17.13
+15-16
+Homogeneous catalysis
+Details of enzyme catalysis, Michaelis-Menten equation
+T1: 17.16  17.17
+17-18
+Adsorption of gases on solids
+Extent of adsorption, Physisorption and chemisorptions, Adsorption isotherms
+T1: 13.5
+19-20
+Heterogeneous catalysis
+Extent of adsorption, rates of surface processes
+T1: 17.18
+21-23
+Elementary reactions, Complex reactions
+Elementary reactions, consecutive reactions, steady-state approximation, rate determining step, rate constants and equilibrium constants
+T1: 17.5  17.6,
+17.9
+24
+Effect of temperatures on reaction rates, rate law in non-ideal systems
+To get an insight about the activation energy
+T1: 17.8, 17.10
+25-27
+Theories of reaction rates
+Theoretical description of reaction rates: CT and TST
+T1: 23.1-23.2,
+23.4-23.6
+28-30
+Rate laws and reaction mechanisms
+Unimolecular reactions, bimolecular reactions, Lindemann-Hinshelwood mechanism
+T1: 17.11  17.12
+31-32
+Fast reaction kinetics, reactions in solutions, diffusion controlled reactions
+Techniques to study the reaction at extreme rate, reaction rates in solution and diffusion controlled reactions
+T1: 17.14  17.15,
+Lecture Notes
+33-39
+Statistical Thermodynamics
+Partition function, thermodynamic information from canonical partition function, molecular partition function, equilibrium constants
+T1: 22.2  22.4,
+22.6  22.8, Lecture Notes
+40
+Reactions in solution
+Extending the gas phase theories to the solution phase
+T1: 23.8 
+41-42
+Molecular reaction Dynamics
+Reaction trajectory
+T1: 23.3, Lecture Notes
+
+5.  Evaluation Scheme:
+Evaluation component
+Duration
+Weightage (%)
+Date and Time
+Remarks
+Test I 
+1 hour
+15
+10/9, 10.00--11 AM
+Closed Book
+Test II 
+1 hour
+15
+22/10, 10.00--11 AM
+Closed Book
+Quiz*
+-
+10
+Continuous
+Closed Book
+Lab components**
+
+20
+Will be announced by I/C
+Open Book
+Comprehensive Examination 
+3 hrs.
+40
+09/12 AN
+Closed Book
+Tutorials: The tutorial hour will be used for a quick review of the highlights of the materials covered in the lectures, clarification of doubts and problem solving. 
+* There will be a total of 4 surprise quizzes.
+** There will be few lab components which will be announced and scheduled by I/C during the course. There will be NO MAKEUP for the lab components.
+
+6.  Make-up Policy: Make up will be considered only for genuine reasons.
+7. Chamber consultation hour: To be announced in the class.
+8. Notices:  All notices concerning the course will be displayed only on the Chemistry Group notice board.
+  Instructor-in-charge 
+CHEM F312

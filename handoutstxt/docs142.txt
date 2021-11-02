@@ -1,0 +1,152 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE-PILANI, HYDERABAD CAMPUS
+INSTRUCTION DIVISION
+FIRST SEMESTER 20162017
+Course Handout (Part II)
+                                                   Date:01-08-2016  
+In addition to partI (General Handout for all courses appended to the timetable) this portion gives further specific details regarding the course.
+
+Course No.                   :  MATH F311                                                                                                                                Course Title                 :  INTRODUCTION TO TOPOLOGY
+Instructorincharge   :  SHARAN GOPAL
+
+1. Course Description: Metric Spaces; Topological Spaces  subspaces; Continuity and homeomorphism; Quotient spaces and Product spaces; separation axioms; Urysohns lemma and Tietze extension theorem; Connectedness; Compactness; Tychonoffs Theorem; Locally Compact Spaces; Homotopy and the fundamental group.
+
+2. Scope and Objective of the Course: To introduce the students to concepts of logical thinking in abstract terms using formal and axiomatic methods and to lay the foundations for further studies in abstract mathematics.
+
+3.   Text Book:  Munkres, J.R.: Topology, PHI (Second Edition), 2000
+
+4.  Reference Books:          
+             1.  John L. Kelley, General topology., van Nostrand. Reprinted (1976) by Springer Verlag
+             2.   L. A. Steen and J. A. Seebach, Counterexamples in topology, Springer, 1978.
+
+
+5. Course Plan:
+
+Lecture No.
+Learning Objectives
+Topics to be covered
+Sec. No. of Text Book
+1
+To give the overview of the course and give the broad perspective of the course
+Overview of the course
+-
+  2 - 3
+To make the students understand the definition of topological spaces and the how it generalizes the concept of metric spaces
+Topological Spaces; Examples
+12
+  4
+To study the concept of basis and understand how it generates a topology  
+Basis and subbasis
+13
+  5
+To study the topology which is defined using an order relation on a set
+The order Topology
+14
+  6
+To study the subspace topology
+Subspaces & Subspace Topology
+16
+  7
+To study the product topology for product of finitely many topological spaces
+Finite Products
+15
+  8  10 
+To study the topological properties of  subsets of a topological space
+Closed sets, closure and Interior of a set, limit points, Hausdorff spaces
+17
+11  13 
+To study the continuous functions and homeomorphisms  on a topological space
+Continuous functions; homeomorphisms
+18
+14  15 
+To study the two different concepts of product topology on arbitrary product of topological spaces and understand why do we prefer product topology to box topology
+Product Topology and Box Topology
+19
+16  19 
+To study the metrizable topological spaces  and their properties
+Metric topology
+     20-21
+20  22 
+To study the quotient topology and understand how this concept is connected with geometry
+Quotient topology
+ 22
+23  25 
+To study the concept of connectedness for a topological spaces and understand how a topological space can be broken into pieces that are connected
+Connected Spaces, Components and Local connectedness
+     23-25
+26  28
+To study the various notions of compactness in a topological spaces
+Compact Spaces
+     26-28
+29  30 
+To study the notion of local compactness
+Locally Compact spaces
+29
+31  33 
+To study the countability axioms and  understand how hw countability axioms are well behaved with respect to the operations of taking subspaces or countable products
+Countability axioms
+30
+34  36 
+To study the separations axioms and their properties
+Separation axioms
+31
+37  38 
+To study the normal topological spaces 
+Normal spaces; Urysohns lemma
+    32-33
+39  40 
+To study a theorem that gives us conditions under which a topological space is metrizable
+Urysohn Metrization Theorem
+34
+41  42 
+To study the arbitrary product of compact spaces
+Tychonoffs Theorem 
+37
+
+
+
+
+
+
+
+6.       Evaluation Scheme:
+EC No.
+Evaluation Component
+Duration
+Weightage
+Date,      Time
+Nature of Component
+1.
+Test I
+1 Hr
+20%
+10/9, 10.00--11 AM
+Closed Book
+2.
+Test II
+1 Hr
+20%
+22/10, 10.00--11 AM
+Closed Book
+3.
+Assignment
+
+20%
+
+Open Book
+4.
+Comprehensive Examination
+   3 hrs
+40%
+09/12 AN
+Closed Book
+
+7.   Make-up Policy: Make-up will be given only for very genuine cases and prior permission                has to be obtained from I/C.
+
+8.	Chamber consultation hours:  To be announced in the class. 
+
+9.  Notices: The notices concerning this course will be displayed on the CMS site only.
+
+                                             Instructorincharge
+                                           				   		               MATH F311
+
+

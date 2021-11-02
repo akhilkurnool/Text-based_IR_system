@@ -1,0 +1,138 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI 
+HYDERABAD CAMPUS
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+(COURSE HANDOUT: PART-II)
+
+Date: 01/08/2016
+In addition to part-I (general handout for all courses in the time table) this handout provides the specific details regarding the course.
+
+Course No.:			ME C461 & F461				
+Course Title:			Refrigeration and Air-conditioning
+Instructor-in-charge:		SANTANU PRASAD DATTA
+
+Scope and Objective: The course is designed to give an in-depth study of theory of refrigeration and air-conditioning and their applications. The techniques of analysis and design of refrigeration and air-conditioning systems will also be discussed.
+
+Text Book: Arora C.P. Refrigeration and Air-conditioning, 3rd Ed Tata McGraw Hill Co, 2000
+
+Reference Books:
+Roy J. Dossat, Principles of Refrigeration, 4th Ed, Pearson Education Asia, 2002
+W. F. Stocker and J. W. Jones, Refrigeration and Air Conditioning, 2nd Ed, McGraw Hill Education (India) Pvt. Ltd., 2014
+Edward G. Pita, Air Conditioning Principles and Systems, 4nd Ed, Pearson Education Asia, 2003
+ HYPERLINK "http://as.wiley.com/WileyCDA/Section/id-302477.html?query=John+W.+Mitchell" John W. Mitchell, HYPERLINK "http://as.wiley.com/WileyCDA/Section/id-302477.html?query=James+E.+Braun" James E. Braun, Principles of Heating, Ventilation, and Air Conditioning in Buildings, 1st Ed, Wiley, 2013.
+ HYPERLINK "http://www.amazon.com/Jan-F.-Kreider/e/B001H6U844/ref=dp_byline_cont_book_2" Jan F. Kreider, HYPERLINK "http://www.amazon.com/s/ref=dp_byline_sr_book_3?ie=UTF8&text=Peter+S.+Curtiss&search-alias=books&field-author=Peter+S.+Curtiss&sort=relevancerank" Peter S. Curtiss, HYPERLINK "http://www.amazon.com/s/ref=dp_byline_sr_book_4?ie=UTF8&text=Ari+Rabl&search-alias=books&field-author=Ari+Rabl&sort=relevancerank" Ari Rabl, Heating and Cooling of Buildings: Design for Efficiency, 2nd Ed., CRC Press, 2010.
+
+Course Plan:
+Lect No.
+Learning Objectives
+Topics to be covered
+Reference to Text
+1
+Introduction & Review 
+Introduction, the second law interpretation, the Carnot principle
+1,2
+2-5
+Gas cycle refrigeration
+Limitation of Carnot cycle, reversed Brayton cycle, Air craft refrigeration, Analysis of Gas cycle refrigeration
+11
+6-9
+Vapor compression system
+Modification in reversed Carnot cycle, Vapour compression cycle, Vapour compression system calculation, etc
+3
+10-12
+Multi-pressure systems
+Multi stage compression, Multi evaporative systems
+5
+13-15
+Compressors
+Principle & performance of reciprocating compressor, scroll compressor, screw compressor
+6
+16-17
+Condensers 
+Types, Heat transfer in condensers
+7
+18
+Evaporators 
+Types, Heat transfer in evaporators
+8
+19
+Expansion Valves
+Types of expansion devices
+9
+20
+Refrigerants
+Refrigerants nomenclature, selection of refrigerant, comparative study
+4
+21-24
+Vapor absorption system
+Vapor absorption system
+12
+25-28
+Psychrometry of air-conditioning processes
+Psychrometric properties, Basic processes in conditioning of air, Psychrometric processes in air-conditioning equipments, Summer & Winter air-conditioning
+14,15
+29-31
+Load Calculations  Cooling & Heating
+Design conditions, solar radiations, heat transfer through building structure
+17,18,19
+32-33
+Design of air-conditioning systems
+Heat and moisture transfer in air-conditioning equipments
+20
+34-35
+Transmission and distribution of air
+Friction loss, dynamic losses in ducts, Air flow through simple duct system, air duct design
+21, 22
+36-40
+RACE Lab Visits and Software Simulation
+Frequent visit to RACE Lab during the entire duration of the course
+Building simulation using REVIT, a Autodesk software
+
+
+Evaluation Scheme:
+Sr. No.
+Evaluation Component
+Duration
+Weightage (%)
+Date & Time 
+Nature of Component
+01
+Test I
+60 min.
+20
+8/9, 2.30--3.30PM
+Closed Book
+02
+Test II
+60 min.
+20
+25/10, 2.30--3.30PM
+Closed Book
+03
+Lab Work
+
+10
+To be announced
+
+04
+Group Assignment
+
+10
+To be announced
+
+05
+Compre.
+3 hrs
+40
+06/12 AN
+Closed Book
+
+Chamber Consultancy Hour: To be announced by the instructor in the class.
+
+Notices: All the notices concerning this course will be displayed on Mechanical Engineering Department notice board. 
+
+Make-up Policy: Make-up for the tests shall be granted only for the genuine cases with sufficient evidence. Request for the make-up tests, duly signed by the students, should reach the under signed well before the scheduled test. 
+
+Instructor-in-Charge
+										ME F461
+

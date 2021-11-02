@@ -1,0 +1,146 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE-PILANI, HYDERABAD CAMPUS INSTRUCTION DIVISION, FIRST SEMESTER 2016-2017 COURSE HANDOUT (PART-II) 01-08-2016
+
+In addition to Part I (General Handout for all courses appended to the Time Table), this portion gives further specific details regarding the course.
+
+Course No.
+
+:
+
+Course Title
+
+:
+
+Instructor-in-Charge :
+
+Instructor
+
+:
+
+CHE F213 Chemical Engineering Thermodynamics D.Purnima D.Purnima
+
+1. Course Description: Development and applications of the combined first and second laws; relations between state properties; chemical equilibria in reacting and nonreacting systems; statistical concepts, and brief exposure to irreversible thermodynamics; extensive problem assignments throughout.
+
+2. Scope & Objective: The purpose of this course is to provide a comprehensive treatment of thermodynamics (maintaining the standard of rigor demanded by sound thermodynamic analysis) from a chemical engineering viewpoint. The most important problems the chemical engineer must be able to cope with will be emphasized, viz. heat and work requirements for many physical and chemical process, determination of equilibrium constants for chemical reactions and for the transfer of chemical species between phases.
+
+3. Text Book: J.M.Smith, and H.C. Van Ness, "Intro to Chemical Engineering Thermodynamics", TMH, 7th ed.,2005.
+
+Reference Books: YVC Rao, "Chemical Engineering Thermodynamics", Universities Press, 1997. KV Narayanan, "A Textbook of Chemical Engineering Thermodynamics". Prentice Hall of India, 2001.
+
+4. Course Plan:
+
+Lecture Learning Objectives No.
+
+Topics to be covered
+
+Reference/Ch./ Sec.#(Book)
+
+1 2-4
+
+Introduction First Law of Thermodynamics: Basic Concepts
+
+Scope and Objectives of course, methodology
+First law, Closed System, State and State functions Equilibrium, Phase rule, Reversible Process, Const-V and Const-P Processes Enthalpy, heat capacity, First law for Open systems
+
+Chap. 1 2.1 to 2.12
+
+5-8 9 - 11 12 - 16
+
+Volumetric Properties of Pure Fluids
+Heat Effects: Heat of reaction
+Second Law: Entropy and Third Law
+
+PVT behaviour of pure substances, Virial Equations, Ideal gas, Applications of Virial Equations, Cubic Equations of State, Generalized correlations for gases and liquids
+Sensible heat effects, Latent heat Standard heats of reaction, formation, combustion Temperature dependence of H, heat effects of industrial reactions
+Statements of second law, Heat engines, Thermodynamic temperature Scale, Entropy, S for an ideal gas, Entropy balance for Open Systems, Ideal work, Lost work, Third law
+
+3.1 to 3.7 4.1 to 4.7 5.1 to 5.10
+
+Thermodynamic 17 - 21 Properties of Fluids
+
+Applications of 22 - 24 Thermodynamics to
+Flow Processes
+
+Introduction to 25 - 28 vapour/liquid
+Equilibrium
+
+29 - 33
+
+Basic concepts of Solution Thermodynamics: Theory
+
+Solution
+
+34 - 37
+
+Thermodynamics: Applications
+
+Property relations for homogeneous phases, Residual properties and their calculations by cubic equations Two-phase systems, thermodynamic diagrams and tables Generalized property correlations for gases
+Duct flow of compressible fluids, Expansion Processes, Compression Processes.
+Nature of Equilibrium, Phase rule, Duhem's theorem VLE; Qualitative behaviour, Simple models for VLE VLE by Modified Raoult's law, K-value correlations
+Fundamental Property Relation, Chemical potential and Phase equilibrium, Partial Properties, Ideal gas mixtures, Fugacities of pure species, Fugacities of Species in solution, Generalized Correlations, Ideal Solution, Excess Properties
+Liquid-phase properties from VLE data, Activity coefficients from VLE data, Models for Excess Gibbs energy, Property changes of Mixing, Heat effects of Mixing processes
+
+6.1 to 6.7 7.1 to 7.3 10.1 to 10.6 11.1 to 11.9
+12.1 to 12.4
+
+38 - 42
+
+Chemical Reaction Equilibria
+
+Reaction coordinate, Equilibrium criteria for chemical reactions, Equilibrium constants and their variation with temperature, Evaluation of Equilibrium constants, Relation of Equilibrium Constants with Compositions, Equilibrium conversions for Single Reactions, Phase Rule and Duhem's theorem for Reacting Systems and Multireaction Equilibria
+
+13.1 to 13.9
+
+5. Evaluation Scheme: EC Evaluation No. Component 1. Test I
+
+Duration Weightage
+
+%
+
+60 min
+
+20
+
+Date, Time
+10/9, 4.00--5.00 PM
+
+Remarks CB
+
+2. Test II
+
+60 min
+
+20
+
+22/10, 4.00--5.00 PM
+
+CB
+
+3. Surprise tests*
+
+20
+
+CB
+
+4. Comprehensive exam
+
+3hrs
+
+40
+
+01/12 AN
+
+CB(20%) + OB(20%)
+
+*No of surprise test will be announced in class Closed Book Test: No reference material of any kind will be permitted inside the exam hall.
+
+Open Book Exam: Use of any printed material will be permitted inside the exam hall. Loose sheets will not be permitted. Computers/mobile of any kind will not be allowed inside the exam hall. No exchange of any material will be allowed.
+
+Chamber Consultation Hour: To be announced in the class.
+
+Notices: All notices concerning this course will be displayed in Chem. Engg. Notice Board or CMS
+
+Make-up Policy: Make-up for the test may be granted with prior permission from Instructor-in-charge.
+
+D.Purnima Instructor-in-charge of CHE F213
+
+

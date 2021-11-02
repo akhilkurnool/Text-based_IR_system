@@ -1,0 +1,199 @@
+INSTRUCTION DIVISION First Semester: 2016-17
+Course Handout Part II
+
+Dated: 29/06/16
+
+In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.
+
+: ECON F241
+
+Course Title
+
+: Econometric Methods
+
+Instructor-in-charge : Dr. C. Hussain Yaganti
+
+1. Course Description:
+Specification of models, estimation of single equation economic models and related problems; autocorrelation; heteroscedasticity; multicollinearity; interpretation; forecasting and verification; estimation methods and problems in simultaneous equation systems.
+
+2. Scope and Objective of the Course: The purpose of this course is to introduce students to the theory and application of econometric methods. It covers the basic tools of estimation and inference in the context of the singleequation regression models, and deals primarily with least squares methods of estimation. The course emphasizes the intuitive understanding and practical application of these basic tools of regression analysis, as distinct from their formal theoretical development. Course material is presented predominantly in scalar terms; the use of matrix algebra is confined to summarizing major results and to interpreting output listings of computer software programs. The course also emphasizes to enable the students to understand the econometric problems involved in estimating single equation systems and to appreciate the problems of estimating simultaneous equation systems.
+3. Text Book: T1) Damodar. N. Gujarati and Sangeetha, Basic Econometrics, Tata McGraw-Hill Publishing Company Limited, Fifth Edition, 2012.
+
+4. Reference Books:
+R1) John Campbell, Andrew Lo, Archie, MacKinlay (1997). The Econometrics of Financial
+Markets, Princeton University Press R2) Ruey S. Tsay (2015) Analysis of Financial Time Series' 3rd Edition, Wiley Publisher
+R3)Johnston J and John Dinardo, Econometric Methods, McGraw-Hill International, MGHISE, 4th Edition, 1997
+R2) William H. Greene., Econometric Analysis, Pearson Education, Fifth Edition, 2007
+R3) Jeffrey M. Wooldridge, Introductory Econometrics: A Modern Approach, 4th Edition,
+Thomson, South-Western, 2009
+R4) R. S. Pindyck and D.L. Rubinfeld, Econometric Models and Economic Forecasts, Third
+Edition, McGraw-Hill: New York, 1991 R9) "Econometric Applications in India", Edited by K L Krishna, Oxford, New Delhi, 1997.
+
+a. Course Plan:
+
+Reference
+
+Lectur e No.
+
+Learning Objectives
+
+Topics to be Covered
+
+to Text
+
+Book
+
+1 The Nature and Scope of Introduction
+
+Class
+
+Econometrics
+
+Notes
+
+2 Review of Statistics
+
+Random variables, Sampling, and
+
+Review
+
+Estimation
+
+3-6 The Simple Linear Regression
+
+Two-Variable Model: Assumptions ; Least Ch 1,2 -
+
+Model,
+
+Square Estimators; Two decomposition of TB1
+
+The Ordinary Least Squares
+
+Dependent Variables ; Interpretation of
+
+Method
+
+Regression Equation; Prediction.
+
+7-10
+11-12 14-15
+16-18
+19-22 23-28 29-31
+31-33 34-35 36-37
+
+Properties of Regression Coefficients Hypothesis Testing Multiple Regression Analysis Multicollinearity
+Transformation of Variables
+Dummy variables Heteroscedasticity Autocorrelation
+Model specification and Measurement Errors Models Using Time Series Data Introduction to Non-stationary Times Series
+
+Types of Data and Regression Model; Assumptions and Properties of Regression Coefficients; Gauss-Markov Theorem Hypothesis Testing Multiple Regression Estimation & Inference Multicollinearity; Consequences of Multicollinearity; Tests for Detecting the Multicollinearity and Solutions; Prediction
+
+Basic
+
+Procedure;
+
+Logarithmic
+
+Transformation; Nonlinear Regression;
+
+Comparison Linear and Logarithmic
+
+Specification
+
+Use of Dummy Variable, Slope Dummy
+
+Variable; The Chow Test
+
+Heteroscedasticity and its Implications;
+
+Tests for Detection; Solutions; Prediction
+
+Sources of Autocorrelation, The First-
+
+order Autoregressive Scheme; Tests;
+
+Solutions for the Case of Autocorrelation;
+
+Prediction
+
+Model selection criteria, Consequences of
+
+Measurement Errors
+
+Static and Dynamic Models, Prediction;
+
+Stability Tests
+
+Introduction, Consequences and Detection
+
+of Non-Stationary Series; Co integration.
+
+Cae study
+
+Ch. 3-TB1
+Ch.8-TB1
+Ch.10TB1 and Class Notes Ch.4 -TB1 and Class Notes
+Ch.9-TB1
+Ch11-TB1
+Ch 12TB1
+Ch.8-TB1
+Ch21-TB1
+Ch 21TB1.Class Notes
+
+38-40 41-42
+
+Time series Econometrics: Forecasting:
+Simultaneous Equation Estimation
+
+Approaches to Economic Forecasting, ARIMA,VAR, The ARCH& GARCH.Case study Models Simultaneous Equation Models Simultaneous Dependence of variables and Consequences; Simultaneous Bias; The Problem of Identification; Indirect least
+
+Ch.22 TB1.Class Notes Class Notes.
+
+squares &Two Stage Least Squares; Three Stage Least Squares
+
+6. Evaluation Schedule:
+
+S. Evaluation Component No.
+1 Test-I
+
+Durati on 1 hour
+
+Weighta Date & Time -- Nature
+
+ge Venue
+
+Evaluation
+
+20 9/9, 1.00--2.00 PM Closed Book
+
+of
+
+2 Test-II
+
+1 hour
+
+20 24/10, 1.00--2.00 PM Closed Book
+
+3 Assignments/projects/Surp
+
+20
+
+rise quizzes
+
+6 Comprehensive
+
+3 hours 40 05/12 AN
+
+Examination
+
+Partially OB(OB50%,CB-50%)
+
+7. Chamber consultation hour: To be announced in class.
+8. Notices: All notices regarding the course will be displayed on the CMS or ECOFIN Dept. Notice Board.
+9. Make-up Policy: Make-up will be given only on Doctor's/Warden's recommendation and with prior permission of the Instructor-in-Charge/Instructor. Make-up application via sms/messages is not acceptable.
+
+Instructor-in-charge ECON F241
+
+

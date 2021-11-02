@@ -1,0 +1,141 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI-HYDERABAD CAMPUS
+INSTRUCTION DIVISION, FIRST SEMESTER 2016-2017 COURSE HANDOUT (Part II)
+
+01-08-2016
+
+In addition to Part I and Part II (General Handout for all courses appended to the time table) this
+
+portion gives further specific details regarding the course.
+
+Course Number :
+
+BITS F218
+
+Course Title
+
+: General Mathematics III
+
+Instructor-In charge :
+
+RAJITHA K
+
+Scope and Objective of the Course: The course is made for Pharmacy students keeping in mind the importance of Linear Algebra and Linear programming problems and their possible applications in various fields of science and engineering. Linear algebra begins with vectors and matrices - two of the most important practical concepts in mathematics. Whereas Linear programming is a method to achieve the best outcome in a mathematical model whose requirements are represented by linear relationships. Linear programming can be applied to various fields of study. It is used in business and economics, but can also be utilized for some engineering problems. Industries that use linear programming models include transportation, energy, telecommunications, and manufacturing.
+
+1. Text Books: T1: E. Kreyszic, Advanced Engineering Mathematics, 8th Edition, Wiley, 2010
+T2: HA Taha, Operation Research: An Introduction, Pearson Education, 9/E, 2011.
+
+2. Reference Books: R1: S. Andrilli and D.Hecker, Elementary Linear Algebra by, 3rdedition, 2006, Elsevier.
+R2: SS Rao, Engineering Optimization: Theory and Practice, New Ge International (P) Limited, Third Edition, 1996 R3: BS, Grewal, Higher Engineering Mathematics, 40th Edition, Khanna Publication, 2009.
+
+3. Course Plan for General Mathematics II:
+
+Lect. No.
+1-3
+
+I
+
+Broad Topic
+
+4-5 Linear Equations and Matrices
+
+6-8
+
+9-11
+
+12-14 15-16
+
+II
+
+Sub-topics to be covered
+
+Article
+
+Matrix addition, multiplication and transpose
+
+T1 (7.1-7.2)
+
+Solving systems and Row equivalent forms - Matrices, Augmented matrices, Row reduced equivalent forms
+
+T1 (7.3)
+
+Homogenous systems, Solving of nonhomogenous systems
+Inverse matrix, Determinant, Adjoint matrix, Cramer's rule
+Linear dependence, Basis and Dimensions
+Linear transformation
+
+R2 ( 3.3-3.6) T1 7.6 - 7.8)
+T1 (7.4-7.5) T1 (7.9)
+
+17-21
+
+Introduction to LP - Formulation to LPP, T2 (2.1, 2.2, 2.4) Graphical solutions
+
+22-26 27-30 31 32-36
+37-42
+
+Linear Programming
+III Non-linear programming
+
+Algebraic solutions - Simplex method, Artificial T2 (3.3 - 3.5) variable method, Special cases
+
+Duality and Dual Simplex Method
+
+T2(4.1,7.4,4.4.1)
+
+Introduction to post optimal analysis
+
+T2 (4.5)
+
+Transportation and Assignment problem, Finding
+BFS, Using North-West Corner Rule, LCM & VAM, Modi's method , Hungarian Method for
+solving assignment problem
+
+T2 (5.1, 5.3, 5.4)
+
+Single variable, Unconditional optimization, R2 ( 5.7) Fibonacci search method, Golden Section Search R1 (21.1.2) Method, Gradient based method
+
+4. Evaluation Scheme:
+
+Sl. Evaluation No. Component
+1 Test 1
+2 Test II 3 *Tutorial test
+
+Duration
+60 min 60 min
+---
+
+Weightage (%) 20
+15 10
+
+Date and Time
+9/9, 8.30-9.30 AM 24/10, 8.30-9.30 AM
+
+Nature of Component
+Closed
+Open closed
+
+3 Assignment
+
+---
+
+15
+
+Open
+
+4 Compre Exam
+
+3 hours
+
+40 03/12 FN
+
+Closed
+
+ Test of 15 minutes duration will be conducted on all tutorial hours
+5. Announcements: All announcements in relation to the above course will be put up on the Civil Dept. Notice board.
+6. Make up policy: Make up for the mid-semester/comprehensive examination will be given to genuine cases.
+7. Chamber consultation hours: To be announced in the class.
+
+Instructor In-Charge
+BITS F218
+
+

@@ -1,0 +1,162 @@
+BITS-PILANI, Hyderabad Campus 
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-17
+
+                  Course Handout (Part II)                                     Date: 01/08/2016
+In addition to Part-I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.		: ECON F314
+Course Title		: INDUSTRIAL ECONOMICS
+Instructor-in-charge	: Durgesh Chandra Pathak
+
+		Course Descriptions and Objectives: 
+Industrial Economics is a rigorous and comprehensive course in the application of economic theory to the management of the modern business. It entails a wide-ranging economic analysis of the firm, its international structure, markets and competitors as well as external economic environment. The economic approach to business is complemented with a choice of management studies modules covering the latest thinking in a range of subjects such as strategy and marketing.
+
+Industrial Economics is a one-semester course which applies microeconomic and econometric techniques to the study of firms as organizations, market structures, strategic interaction, market efficiency and industrial policy. The course consists of three major parts. The first part constitutes a methodological and theoretical introduction into the tools, methods and approaches used all over the course. It provides a quick review of game theoretic concepts, followed by the discussion of the nature of markets, the firm and the agency relations within business organizations. The second part constitutes the core of the course, and covers imperfect competition in static and dynamic settings, theoretical and empirical studies of collusion, entry and accommodation, product differentiation, monopolistic behaviour, vertical integration and determinants of market structure. The third part is devoted to industrial policy and efficiency analysis, including government regulation and natural monopolies reforms with examples and applications.
+
+		Prerequisites:
+Students should have grounding in microeconomics and mathematics, including calculus. A large part of the course will consist of analyses of formal economic models.
+
+
+		Text Book:  
+T1.  J. Church and R. Ware, Industrial Organization: A Strategic Approach", First edition, McGraw-Hill, 2000.
+A pdf file version of this book is available free of charge on the Internet at the following address
+http://works.bepress.com/cgi/viewcontent.cgi?article=1022&context=jeffrey_church. You must respect the Terms and Conditions of Use" that can be found on the first page of the downloadable document. Among other things, these say that [The pdf file version of the book] is available for personal and non- commercial use. You are permitted by these Terms and Conditions of Use to make one stored electronic copy and one paper copy for your personal, non-commercial use."
+T2. Stephen Martin,Industrial Organization in Context, Oxford University Press, 2010.
+
+Reference Books:       
+R1. Waldman, Don E. and Elizabeth J. Jensen (2005): Industrial Organization: Theory and Practice, Second Edition, Pearson Education.
+R2. Belleflamme, Paul and Martin Peitz (2010): Industrial Organization: Markets and Strategies, Cambridge University Press.
+R3. Tirole, Jean (1988): The Theory of Industrial Organization, MIT.
+R4. Carlton, Dennis W and Jefferey M Perloff (2015):  Modern Industrial Organization, Fourth Edition, Pearson.
+R5. Pepall, Richards and Norman (2008): Industrial Organization: Contemporary Theory and Empirical Applications, Fourth edition, Blackwell Publishing.
+R6. Roger Clarke: Industrial Economics, First Published in 1985 (and transferred to digital print 2003) by Blackwell Oxford, UK and Cambridge, USA.
+
+		Course Plan: 
+
+Lecture
+No.
+Learning Objectives
+Topics to be Covered
+References 
+
+1
+The Basics Of Industrial Organization
+Introduction and theoretical framework of industrial analysis 
+T1. Chapter 1 
+R1. Chapter 1  
+2-4
+
+Perfect competition, monopolistic competition and monopoly
+The firm and its costs 
+T1. Chapter 2
+R1. Chapter 2
+5-6
+
+Alternative theories of firm
+T1. Chapter 3
+R1. Chapter 3
+7-9
+Monopoly Power in Theory and Practice
+Market power and dominant firms
+T1. Chapter 4
+R1. Chapter 4
+10-13
+
+Price discrimination  
+T1. Chapter 5
+R1. Chapter 14
+14-17
+
+Identifying and Measuring Market Power
+T1. Chapter 12
+R1. Chapter 16
+18-25
+Game theory and strategic behavior
+
+Game Theory I and Classic Models of Oligopoly
+T1. Chapter 7
+T1. Chapter 8
+R1. Chapter 6
+R1. Chapter 7
+26-30
+
+Game Theory II and Dynamic Models of Oligopoly
+T1. Chapter 9
+T1. Chapter 10
+R1. Chapter 8
+31-35
+
+Entry deterrence
+T1. Chapter 13 &  Chapter 14
+R1. Chapter 10 &  Chapter 11
+35-38
+Non-Price Business Practices
+Advertising and Oligopoly
+T1. Chapter 17
+R1. Chapter 12
+39-41
+
+Research and Development
+T1. Chapter 18
+R1. Chapter 13
+42-43
+Issues in Regulatory Economics
+Rationale for Regulation
+T1. Chapter 24
+R1. Chapter 19
+44-45
+
+Issues in Regulation
+T1. Chapter 26
+R1. Chapter 20
+45
+A final word
+Concluding remarks
+Class Notes
+
+
+
+		Evaluation Schedule:
+
+Sl.
+No.
+Evaluation
+Component
+Duration
+
+Weightage
+(%)
+Date, Time & Venue
+Remarks
+1
+Test I
+60 Min.
+20
+9/9, 4.00--5.00 PM
+Closed Book
+2
+Test II
+60 Min.
+20
+24/10, 4.00--5.00 PM
+Open Book
+3
+Project/Presentation
+
+20
+To be announced later
+4
+Comp. Exam
+3 Hours
+40
+10/12 AN
+Closed Book
+
+6. Chamber Consultation Hours: To be announced in Class.
+7. Notices: All notices regarding the course would be put on the CMS/Economics and Finance Notice Board/LTC Notice Board.
+8. Make-up Policy: Makeup will be given only on Doctors/Wardens recommendation and with prior (at least 01 day before the test/exam) permission of the Instructor-in-Charge/Instructor. Request for make-up made by phone/sms or during/after the test/exam would NOT be entertained at all.
+
+
+ Instructor-in-charge
+                                               						            ECON F314                                

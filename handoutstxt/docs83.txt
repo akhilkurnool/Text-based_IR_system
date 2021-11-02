@@ -1,0 +1,169 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI HYDERABAD CAMPUS INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+
+Course Handout Part II
+
+Date : In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.
+
+: EEE F313/ INSTR F313
+
+Course Title
+
+: ANALOG AND DIGITAL VLSI DESIGN
+
+Instructor-in-charge
+
+: Chetan Kumar V
+
+Instructors
+
+: Sumit Kumar Chatterjee, Chetan Kumar V
+
+1. Scope and Objective of the Course:
+The objective of this course is to provide to the student an introduction to the fundamentals and practical considerations pertaining to the design of integrated circuits. The scope encompasses both analog and digital integrated circuits. The importance of CAD tools in IC system design process is also acknowledged and stressed upon.
+
+2. Course Description: Moore's Law, Y chart, MOS device models including Deep Sub-Micron effects; an overview of fabrication of CMOS circuits, parasitic capacitances, MOS scaling techniques, latch up, matching issues, common centroid geometries in layout. Digital circuit design styles for logic, arithmetic and sequential blocks design; device sizing using logical effort; timing issues (clock skew and jitter) and clock distribution techniques; estimation and minimization of energy consumption; Power delay trade-off, interconnect modelling; memory architectures, memory circuits design, sense amplifiers; an overview of testing of integrated circuits. Basic and cascaded NMOS/PMOS/CMOS gain stages, Differential amplifier and advanced OPAMP design , matching of devices, mismatch analysis, CMRR, PSRR and slew rate issues, offset voltage , advanced current mirrors; current and voltage references design, common mode feedback circuits, Frequency response, stability and noise issues in amplifiers; frequency compensation techniques.
+
+3. Text Book :
+T1: Jan M. Rabaey; Anantha Chandrakasan; Borivoje Nikolic, "Digital Integrated Circuits - A Design Perspective", (Second Edition) Prentice-Hall Electronics and VLSI Series. (2003).
+
+T2: Behzad Razavi,"Design of Analog CMOS integrated circuits", McGraw Hill International Edition. 2001.
+
+4. Prime Reference Books R1: Neil H.E. Weste, David Harris, Ayan Banerjee, "CMOS VLSI Design", 3rd Edition Pearson Education.
+
+Other Reference Books: Ra) Kang. S.M and Leblebici Y., "CMOS Digital Integrated Circuits: Analysis and Design, McGraw Hill International Editions 3rd Edition 2003. Rb) Pucknell D.A., Eshraghian K.,"Basic VLSI design, systems and circuits", Third edition, Prentice Hall of India Pvt. Ltd. Rc) Fabricius E.D., "Introduction to VLSI design", McGraw Hill international editions. Rd) Gregorian R., Temes G.C.,"Analog Mos integrated circuits for signal processing", Wiley interscience publication. Re) Sze S.M.,"VLSI Technology", Second edition, McGraw Hill International Edition. Rf) IEEE Journals of solid state circuits, VLSI system. Rg) Martin. Ken, "Digital Integrated Circuit Design", Oxford University Press, Inc. Rh) Johns. David A. and Martin K, "Analog Integrated Circuit Design," John Wily & Sons. Inc. 2002. Ri) Michael. L. Bushnell and Vishwani. D. Agrawal, "Essentials Of Electronic Testing For Digital, Memory And Mixed Signal VLSI Circuits. Kluwer Academic Publishers, Third Edition, 2004
+
+5. Notices: All assignments and notices will be announced in class, put up on the CMS
+
+6. Course Plan :
+
+No of Topic To be Covered
+
+Learning Objectives
+
+Lec.
+
+Common Topics
+
+2 1. Introduction to VLSI Moore's Law, Y chart, Quality Metrics of Digital
+
+Design Methodologies Design. Design flow
+
+5 2. CMOS Technology, MOS device models including Deep Sub-Micron
+
+Design Rules, MOS effects; parasitic capacitances, MOS scaling
+
+Capacitances, Scaling techniques, latch up, matching issues, Introduction to
+
+layouts and Industry design flow for analog and
+
+digital integrated circuits, An overview of fabrication
+
+of CMOS circuits. interconnect modelling;
+
+Digital Design I:
+
+6 3. MOS inverter- Static and Digital circuit design styles for logic, Combinational switching characteristics, blocks design. Device sizing using logical effort; Combinational MOS logic circuits -Static logic
+
+Ref. to Text Book
+Chapter-1 (T1) /Chapter-1 (R1) Chapter-2,3,4 (T1) /Chapter-2,3,(4.5) (R1) + Class Notes
+Chapter-5,6 (T1)
+/Chapter-4,6 (R1) + Class Notes
+
+5 4. Synchronous system and Synchronous design, timing metrics, Design of flip- Chapter-7,10
+
+Sequential circuits design flops, Timing issues (clock skew and jitter) and clock (T1)
+
+distribution techniques;
+
+/Chapter-7 (R1)
+
++ Class Notes
+
+Analog Design
+
+6 5. Advanced
+
+Current Basic and cascaded NMOS /PMOS /CMOS gain Chapter-3,4.5
+
+Sources & sinks; Current stages. Advanced current mirrors; current and voltage (T2)
+
+Reference circuit,
+
+references design.
+
++ Class Notes
+
+6
+
+6. Operational amplifier
+
+Differential amplifier and advanced OPAMP design, Chapter-8,9 (T2)
+
+architectures and
+
+matching of devices, mismatch analysis, common + Class Notes
+
+Feedback circuits.
+
+mode feedback circuits
+
+5 7. Frequency Compensation Frequency Response stability and noise issues in Chapter-7,
+
+and Noise
+
+amplifiers; frequency compensation techniques.
+
+10(T2) + Class
+
+Notes
+
+Digital Design II:
+
+4 8. Memory Circuits Design Design of SRAM, DRAM, decoders, sense Chapter-12 (T1)
+
+amplifiers
+
+/Chapter - 9 (R1)
+
++ Class Notes
+
+2 9. Power and energy
+
+Estimation and minimization of energy consumption; Chapter- 4 (T1)
+
+Power delay trade-off.
+
+/Chapter-4 (R1) +
+
+Class Notes
+
+3 10. Design verification & test Verification of functionality, manufacturing defects. Chapter-12 (R1)
+
++ Class Notes
+
+7. Evaluation Scheme : Component
+Test I Test II Comp. Exam Assignments
+
+Duration
+60 Mts. 60 Mts. 3 Hours Continuous
+
+Weightage
+25% 25% 40% 10%
+
+Date & Time
+9/9 & 10:00-11:00AM 24/10 & 10:00-11:00AM
+03/12 AN
+
+Remarks
+CB OB CB OB
+
+8. Make up Policy: Make up will be given only on genuine reasons. Applications for makeup should be given in advance and prior permission should be obtained for Scheduled tests.
+
+9. Chamber Consultation Hours : To be announced in class
+
+Instructor-In-Charge EEE F313/ INSTR F313
+
+

@@ -1,0 +1,126 @@
+BIRLA INSTITUTE OF TECHNOLOGYA AND SCIENCE, PILANI HYDERABAD CAMPUS INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017 Course Handout Part II Date: 01-08-2016
+In addition to part -I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.
+
+: FIN F314
+
+Course Title
+
+: Investment Banking and Financial Services
+
+Instructor-in-charge : Dr C Hussain Yaganti/ Dr Thota Nagaraju
+
+1. Scope and Objective:
+
+The objective of the course is to develop an understanding of the scope and content of the rapidly expanding function of investment in the Indian capital markets/worldwide markets and the procedures with respect to investment banking activities. This course aims at providing a comprehensive background to the world of modern Investment Banking Business. The course analyses the rules, procedures and regulations relating to the types of issues and their management including post and preissue management. It also gives an insight into raising funds in the international equity markets. It would also deal with the changing rules and regulations of SEBI and RBI pertaining to the financial services and changing scenario and requirements of the Indian financial system. It deals with capital restructuring, Mergers & Acquisitions.
+
+2. Text Book: Pratap Giri S. "Investment Banking- Concepts, Analysis and Cases. Mc Graw Hill, 2nd Edition 2016.
+3. Reference Books/ Materials:
+R1. Joshua Rosenbaum & Joshua Pearl "Investment Banking: Valuation, Leveraged Buyouts, and Mergers and Acquisitions" Wiley University Edition, 2nd Edition, 2016.
+R2. Fredric S. Mishkin and Stanley G. Eakins, "Financial Markets and Institutions" Pearson Ed.6th edition 2013
+R3. Bhole and Mahakud "Financial Institutions and Markets", Tata McGraw Hill, 5th Edition
+R4. SEBI and RBI Guidelines issued from time to time relating to Merchant Banking and their operations
+R5. Business dailies and magazines
+
+1
+
+4. Course Plan
+
+Lecture No.
+
+Learning Objectives
+
+Understanding 1) The world of Global and Indian Investment Banking industry; 2) Various Investment Banking Business Verticals; The importance of the Glass- Steagall Act (Separation of Commercial Banking and Investment 1-3 Banking); 3) Growth of Universal and Financial Conglomerates across the world; 4) Implications of global regulatory changes post 2008 on Investment Banking; 5) Regulatory environment in India and the conglomerate structure of Indian Investment Banking.
+
+Topics to be Covered
+Concepts and Definitions. Merchant Banking; Investment Banking evolution in India, USA and Europe. The US Investment Bank crises in 2008. Some cases.
+
+Reference to Text Book
+Ch. 2 TB1
+
+Understanding 1) Capital Markets Review of Financial Markets:
+
+and Money Markets; 2) Various 4-6 Derivative Products ; 3) Foreign
+Exchange Instruments and 4)
+
+Securities Markets; Derivatives Markets (Forwards, Futures, Swaps, Options); Foreign Exchange Markets;
+
+Ch. 1 TB1& Material
+
+Government Securities Markets
+
+Capital Markets Segments.
+
+7-9 10-14 15-16 17-18
+
+Understanding 1) the Primary Equity and Debt Market; 2) Primary Market Issuers and investors; 3) Fundamental concepts of Equity and Debt Markets; and 4) Types of Equity and Debt instruments Understanding 1) Need of various assumptions of these security valuation methods, data, methodology; and 2) to interpret the results;
+Understanding 1) Need for IPOs, Types of IPOs; 2) Regulatory framework for IPOs; Stock Exchange listing guidelines; 3) Various strategies of IPOs and Pricing Methods. Understanding 1) Various concepts of underwritings; 2) Regulatory framework for underwritings; 3) Different types of underwritings; 4) Comparison between India and USA.
+
+Introduction to Primary Market, Equity Capital Markets and Debt Capital Markets, Equity Capital Markets and Debt Capital MarketsProfile of role players, investment routes ; Financial concepts and Instruments, discussion on equity and debt instruments.
+Review of Financial Markets/Assets valuation Methods: DCF, CAPM, APT and WACC, EBITDA, PB and Earnings Multiple valuation methods. IPO - Listing Decision, FPO / Offer for Sale; Important provisions of SEBI Regulations and other statutory requirements for IPO / FPO; Issue Management and Process Overview; Rights Offers; Public Issue of Debt Securities. Underwriting - methodologies; Underwriting Business Model; Underwriting requirements in public offers; US model - Indian model comparison
+
+Ch. 3 TB1 Ch. 4 TB1 Ch. 5 TB1 Ch. 6 TB1
+
+2
+
+19-20 21-24
+25-29 30-34 35-38 39-42
+
+Understanding 1) Need of buybacks; 2) Regulatory framework for equity re-purchase and investment banking perspective of buy back; 3) Tax aspects of Share buy backs; Requirement and regulatory procedures of de-listing of a company Understanding 1) Need for Private equity and Placements; 2) Process of private equity placement; 3) venture capital ; 4) Regulatory framework for private equity placement; 5) valuing the private equity transactions; and 6) Exit mechanisms of private equity investors.
+understanding 1) The need for Corporate Restructuring; the Process of Corporate Restructuring; 3) various methods of assets transfers during Corporate Restructuring; 4)Regulatory framework of Corporate Restructuring Understanding 1) The need for LBOs; 2) The participants of LBOs; 3) Different types of LBOs; 4) Nature of the regulatory framework of LBOs Understanding 1) Why there are Mergers and amalgamations; 3) Acquisitions and Takeovers Methodologies, transactions, investment banking perspectives, regulations; 4) Valuation and transaction processes
+
+Equity Repurchase - theory, mechanisms, regulation, role of investment banks; De-listings - theory, methodology, regulations, role of investment banks
+Venture Capital and Private Equity, Private Placements, PIPEs and QIPs; Valuation in Private Equity transactions; Transaction processes in private equity in unlisted companies, PIPEs and QIPs; Exit mechanisms- Investment banking perspectives, role of Investment Banker.
+Overview and theory of Corporate Restructuring; Corporate reorganizations through transfer of assets - demerger, hive-off, slump sale through BTA; Corporate reorganizations through dilution, transfer of control - equity carve out, spin-off; Regulatory framework; Investment banking perspectives. Leveraged buyouts (LBOs): Key participants; characteristics of a strong LBOs; Economics of LBOs; LBOs financing structure
+Mergers and Acquisitions: Sell side and buy side.
+
+To Understand and apply Value at Risk (VaR), CAPM Model, Credit Risk and Market Risk Analytics
+
+Some Empirical Valuation Methods and Applications - VaR, CAPM. Market Risk Analytics.
+
+Ch. 8 TB1 Ch. 9 TB1
+Ch. 10 TB1 Ch. 4 R 1 Ch. 6 and 7 of R1 Class Notes
+
+3
+
+5. Evaluation Components:
+
+Components
+
+Duration
+
+Test -1
+Assignments/Quiz zes/Presentations
+Test-2
+
+60 min. 60 min
+
+Comprehensive 180 min.
+
+Weightage (%) 20
+20
+20
+40
+
+Date & Time
+
+Nature of Component
+
+10/9, 1.00 - 2.00 PM 22/10, 1.00 - 2.00 PM
+
+CB
+Will be announced later on CMS OB
+
+01/12 FN
+
+CB
+
+6. Chamber Consultation hour: Tuesday & Thursday 4-5 PM.
+7. Notices: All notices regarding the course would be put on the CMS/Economics & Finance / LTC Notice Board. 8. Make-Up Policy: Make-up will be given only on Doctor's/Warden's recommendation and with prior (at least 01 day before the test/exam) permission of the Instructor-in-Charge/Instructor. Make-up application via sms/messages is not acceptable.
+Instructor In-Charge FIN C314
+
+4
+
+

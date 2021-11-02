@@ -1,0 +1,205 @@
+
+INSTRUCTION DIVISION
+FIRST SEMESTER 2016-2017
+Course Handout 
+										    Date: 01-08-2016 
+
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No.			: CE F425
+Course Title			: Airport, Railways and Waterways 
+Instructor-in-Charge		: SRIDHAR RAJU
+Instructor			: V VINAYAKA RAM
+
+Scope and Objective of the Course:
+This course introduces Airport, Railways, Tunneling and Water Transportation engineering in a broader sense. The course contents are briefly described below for ready reference
+Airports: Characteristics of aircrafts related to airport design; runway design, runway orientation, length, capacity, configuration and number, taxiway layout, high-speed exit taxiway, terminal building functional areas, visual aids; grading and drainage.
+Railways: component of railway tracks, train resistance and tractive power, curves and super elevation, switches and crossing, signaling and interlocking, high speed tracks, track stresses. 
+Tunneling: necessity of tunnels, ventilation, lighting and drainage; 
+Water transportation: Nature of water transportation, classes of harbors, desirable features of harbor site, planning and design of port facilities 
+
+Text Books:
+T1. 		Subhash C. Saxena (2008) Airport Engineering, Planning and Design, CBS Publishers and Distributors, New Delhi. (Reprint 2015)
+T2.     	R. Srinivasan (2013), Harbour, Dock and Tunnel Engineering
+T3.	Saxena SC and Arora S C (2010) A Text Book of Railway EngineeringPaperback 2010, Dhanpat Rai Publications (Reprint 2015)
+
+
+Reference Books:
+R1. 	Robert Horonjeff, Francis X. McKelvey, Willian J Sproule, Seth B. Young (2010), Planning & Design of Airports, McGraw-Hill Professional.  
+R2.     S C Saxena (2015), Tunnel Engineering, New Delhi
+R3.    John o. Bickel, Thomas R.Kuesel, Elwyn H.King (2nd Edition), Tunnel Engineering Handbook
+
+Course Plan:
+Lecture No.
+Learning objectives
+Topics to be covered
+Chapter in the Text Book
+Airport Engineering
+1
+Introduction
+History of aviation, development of aircrafts and their operating characteristics
+T1- chapter1
+2-4
+Airport Design, runway orientation
+Orientation of runways, Geometric Design of runways and Geometric design of taxiways 
+T1-chapters 7 & 8
+5-6
+Terminal building
+Airport Terminal Building, functions 
+T1-chapter16
+7-9
+Drainage
+Airport drainage, surface drainage, sub-surface drainage, environmental impacts
+T1-Chapter 18
+10-13
+Pavement design for  Runways
+Factors affecting runway designs, difference between highway and runway structural designs, FAA method of runway design 
+T1  Chapter 19
+Railway Engineering
+14
+Rail Transportation: Engineering, signaling and safety features
+Railway Transportation and its Development, Railway Terminology 
+T3  Chapter1 to Chapter 3
+15
+
+Stresses in Railway Track Traction and Tractive Resistances Rails 
+T3  Chapter4 
+16
+
+Rail Joints and Welding of Rails Creep of Rails Sleepers 
+T3  Chapter7 to Chapter 9
+17
+
+Track Fittings and Fastenings 
+T3  Chapter10
+18
+
+Ballast 
+T3  Chapter11
+19
+
+Subgrade and Embankments 
+T3  Chapter12
+20-21
+
+Points and Crossings 
+T3  Chapter16
+22
+
+Track Junctions 
+T3  Chapter17
+23
+
+Stations and Yards, Equipment in Station Yards 
+T3  Chapter18 to Chapter 19
+24-25
+
+Signaling and Control System 
+T3  Chapter20
+26
+
+Interlocking of Signals and Points 
+T3  Chapter21
+27
+
+Maintenance of Track 
+T3  Chapter24
+28
+
+Safety in Railways
+T3  Chapter26
+29
+Modernization of Railway Track and Future Trends
+Modern Developments in Railways Development of High and Super High Speeds Modernization of Track for High Speeds Modern Methods of Track Maintenance
+T3  Chapter 28  Chapter 31
+Waterways  Docks and Harbour Engineering
+30
+Ports and Harbours
+Classification of Harbours and Ports, Requirements of a good port; facilities at a major port
+T2  Chapter 1
+31-32
+Protection Facilities
+Classification of break waters; brief description of each of the breakwaters including wall type and special breakwaters
+T2  Chapter 3, Chapter 4
+33
+Planning and layout of ports
+Facilities at a port, layout of a typical port
+T2  Chapter 5
+34-35
+Docking facilities
+Introduction to docking facilities with special reference to wet docks, Introduction to Graving dry docks
+T2  Chapter 6
+36-37
+Approach, Loading and Unloading facilities
+Introduction to entrance locks, quay walls, wharves, pier heads, dolphins, jetties, fenders, slip and moles
+T2  Chapter 8, Chapter 9
+38-39
+Guiding facilities
+Fixed and floating light stations, light signals, fog signals, audible signals, moorings
+T2  Chapter 12
+Tunnel Engineering
+40-41
+Introduction and Methods of Tunneling
+General aspects, advantages of tunneling, economics of tunneling, Tunnel approaches, alignment and grade, tunnel surveying, transferring center line, design shape and size; compressed air tunneling and tunneling in rocks
+T2- Section II
+Chapter 1 to 5
+42
+Tunnel lining
+Timber lining, concrete lining, stone masonry
+T2-Section II 
+Chapter 7
+43
+Drainage, ventilation and lighting
+Drainage of Tunnels, Tunnel ventilation and lighting
+T2-Section II 
+Ch-8 & 9
+
+           Evaluation Scheme:
+Component
+Duration
+Weightage (%)
+Date & Time
+Nature of Component
+Test-I
+60
+20
+13/9, 2.30--3.30PM
+CB
+Test-II
+60
+20
+21/10, 2.30--3.30PM
+CB
+Take Home Assignments
+-
+10
+
+OB
+Project
+-
+10
+
+OB
+Comprehensive Exam 
+180
+40
+13/12 AN
+CB
+
+
+
+Chamber Consultation Hour: 
+Will be announced in the class
+
+Notices: 
+Notices will be displayed on CMS and few important notices will also be displayed on the notice board of Civil Engineering Department
+
+Make-up Policy:
+		Make-ups will be granted only for genuine reasons like medical emergencies. However, prior permission is a must.
+		Applications received 24 hours after the test will not be entertained. Applications on informal forums like Face Book will be ignored
+		For medical cases, a certificate from the concerned physician of the Medical Centre must be produced in addition to the prescriptions and other investigation reports. Cross verification also will be done with Hostel Superintendent / Warden before proceeding further with the application.  
+
+
+
+INSTRUCTOR-IN-CHARGE
+CE F425
