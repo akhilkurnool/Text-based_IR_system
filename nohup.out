@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "webserver.py", line 6, in <module>
+    import mysql.connector
+ImportError: No module named mysql.connector
+127.0.0.1 - - [05/Nov/2021 02:48:34] "GET /index.html HTTP/1.0" 200 -
+127.0.0.1 - - [05/Nov/2021 02:48:34] "GET /infer_results_style.css HTTP/1.0" 200 -
+127.0.0.1 - - [05/Nov/2021 02:48:34] "GET /bits.png HTTP/1.0" 200 -
+127.0.0.1 - - [05/Nov/2021 02:48:34] "GET /g.css HTTP/1.0" 200 -
+127.0.0.1 - - [05/Nov/2021 02:48:37] "GET /index.html?q=bhanu HTTP/1.0" 200 -

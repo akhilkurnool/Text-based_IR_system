@@ -20,12 +20,12 @@ from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
 
 config = {
 	'user': 'root',
-	# 'password': '#Akhil123',
-	'host': '127.0.0.1',
+	'password': '#Akhil123',
+	'host': 'localhost',
 	'database': 'infer',
 	# 'raise_on_warnings': True,
 	'use_pure': False,
-	'auth_plugin': 'mysql_native_password'
+#	'auth_plugin': 'mysql_native_password'
 }
 
 dbConnector = mysql.connector.connect(**config)		
